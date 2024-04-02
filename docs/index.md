@@ -1,3 +1,9 @@
+## Sobre
+Somos o grupo 8 da disciplina de Interação Humano Computador, ministrada pelo professor André Barros.
+
+O objetivo desta documentação é apresentar todo o trabalho realizado durante o desenvolvimento do projeto da disciplina.
+
+
 ## Equipe do Projeto
 <center>
 
@@ -48,5 +54,6 @@
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 27/03/2024 | Criação da página e da tabela integrantes | [Gustavo Alves](https://github.com/gustaallves) | [Yasmim Rosa](https://github.com/Maliz30)      |
+| 1.0    | 27/03/2024 | Criação da página e da tabela integrantes | [Gustavo Alves](https://github.com/gustaallves) | [Yasmim Rosa](https://github.com/yaskisoba)    |
+| 1.1    | 02/04/2024 | Adicionando tópico "Sobre"                | [Yasmim Rosa](https://github.com/yaskisoba)     | | 
 
