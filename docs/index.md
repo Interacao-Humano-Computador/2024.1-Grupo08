@@ -1,53 +1,52 @@
 ## Equipe do Projeto
-<table>
-  <tr>
-        <td align="center">
-      <a href="https://github.com/alanagabriele/alanagabriele">
-        <img src="https://avatars.githubusercontent.com/u/85856457?v=4" width="100px;" alt="Foto de Alana no GitHub"/><br>
-        <sub>
-          <b>Alana</b>
-        </sub>
-      </a>
-      <td align="center">
-      <a href="https://github.com/gustaallves">
-        <img src="https://avatars.githubusercontent.com/u/108435814?v=4" width="100px;" alt="Foto de Gustavel Alves no GitHub"/><br>
-        <sub>
-          <b>Gustavo</b>
-        </sub>
-      </a>
-    </td>
-    </td>
-        <td align="center">
-      <a href="https://github.com/MarcoTulioSoares">
-        <img src="https://avatars.githubusercontent.com/u/110120983?v=4" width="100px;" alt="Foto de Marco no GitHub"/><br>
-        <sub>
-          <b>Marco</b>
-        </sub>
-      </a>
-    </td>
-        <td align="center">
-      <a href="https://github.com/PedroHenrique061">
-        <img src="https://avatars.githubusercontent.com/u/110419385?v=4" width="100px;" alt="Foto de Pedro no GitHub"/><br>
-        <sub>
-          <b>Pedro</b>
-        </sub>
-      </a>
-    </td>
-        <td align="center">
-      <a href="https://github.com/renantfm4">
-        <img src="https://avatars.githubusercontent.com/u/111506459?v=4" width="100px;" alt="Foto de Renan no GitHub"/><br>
-        <sub>
-          <b>Renan</b>
-        </sub>
-      </a>
-    </td>
-        <td align="center">
-      <a href="https://github.com/yaskisoba">
-        <img src="https://avatars.githubusercontent.com/u/87377900?v=4" width="100px;" alt="Foto de Yasmim no GitHub"/><br>
-        <sub>
-          <b>Yasmim</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
+<center>
+
+<div style="display: flex; flex-direction: row; gap: 15px; flex-wrap: wrap; justify-content: center;" >
+    <div>
+        <a href="https://github.com/alanagabriele/alanagabriele">
+                <img style="border-radius: 50%;"         src="https://github.com/alanagabriele.png" width="100px;"/>
+                <h5 class="text-center">Alana Gabriele</h5>
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/gustaallves">
+                <img style="border-radius: 50%;"         src="https://github.com/gustaallves.png" width="100px;"/>
+                <h5 class="text-center">Gustavo Alves</h5>
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/MarcoTulioSoares">
+                <img style="border-radius: 50%;"         src="https://github.com/MarcoTulioSoares.png" width="100px;"/>
+                <h5 class="text-center">Marco Tulio</h5>
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/PedroHenrique061">
+                <img style="border-radius: 50%;"         src="https://github.com/PedroHenrique061.png" width="100px;"/>
+                <h5 class="text-center">Pedro Henrique</h5>
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/renantfm4">
+                <img style="border-radius: 50%;" src="https://github.com/renantfm4.png" width="100px;"/>
+                <h5 class="text-center">Renan Araújo</h5>
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/yaskisoba">
+                <img style="border-radius: 50%;"         src="https://github.com/yaskisoba.png" width="100px;"/>
+                <h5 class="text-center">Yasmim Rosa</h5>
+        </a>
+    </div>
+</div>
+    
+</center>
+
+
+
+## Histórico de Versões
+
+| Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
+| ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
+| 1.0    | 27/03/2024 | Criação da página e da tabela integrantes | [Gustavo Alves](https://github.com/gustaallves) | [Yasmim Rosa](https://github.com/Maliz30)      |
+
