@@ -2,6 +2,17 @@ site_name: My Docs
 
 theme: 
     name: material
+    palette:
+        - scheme: default
+          primary: blue
+          toggle:
+            icon: material/weather-night
+            name: Modo noturno
+        - scheme: slate
+          primary: deep blue
+          toggle:
+            icon: material/weather-sunny
+            name: Modo claro
 
 nav:
     - home : index.md
