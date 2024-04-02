@@ -2,7 +2,7 @@
 Para otimização de tempo e melhor organização foi elaborado um cronograma para cada entrega que será apresentado tanto seu planejamento quanto sua execução.
 
 ## Cronograma de Entregas
-Todas as entregas e seus respectivos cronogramas estão orietados a data de entrega da sua etapa na qual pode ser conferida abaixo:
+Todas as entregas e seus respectivos cronogramas estão orietados a data de entrega da sua etapa que podem ser conferidas abaixo:
 
 | Etapa | Conteúdo                                                                                                 | Entrega | Apresentação |
 |-------|----------------------------------------------------------------------------------------------------------|---------|--------------|
@@ -16,9 +16,33 @@ Todas as entregas e seus respectivos cronogramas estão orietados a data de entr
 | 08    | <ul> <li>Relato dos resultados do Protótipo de alta fidelidade.</li> </ul>| 19/06/2024 | 20/06/2024 |
 
 
+## Etapa 1
+A seguir estão o cronograma planejado e o executado.
+### Cronograma Planejado
 
-## Cronograma
-### Entrega 1
+| Atividade                       | Período para o desenvolvimento da atividade | Responsáveis             | Período da revisão | Revisores |
+|---------------------------------|--------------------------------------------|--------------------------|--------------------|-----------|
+| Heatmap de disponibilidade      | 25/03 - 26/03                              | TODOS                    | 27/03              | TODOS     |
+| Lista de sites avaliados        | 25/03 - 26/03                              | TODOS                    | 27/03              | TODOS     |
+| Site selecionado para o projeto | 27/03                                      | TODOS                    |                    | TODOS     |
+| Criação do gitpages             | 26/03 - 02/03                              | Marco, Gustavo e Yasmim | 03/04              | Alana     |
+| Planejamento do Projeto         | 25/03 - 27/03                              | TODOS                    |                    | TODOS     |
+| Ferramentas do Projeto          | 26/03 - 28/03                              | Alana                    | 29/03              | Renan     |
+| Processo de Design              | 02/03 - 03/03                              | Yasmim e Renan           | 04/03              | Pedro     |
+| Gravar vídeo de apresentação    | 06/03                                      | TODOS                    | 07/03              | TODOS     |
+
+
+### Cronograma Executado
+| Atividade                       | Período para o desenvolvimento da atividade | Responsáveis             | Período da revisão | Revisores |
+|---------------------------------|--------------------------------------------|--------------------------|--------------------|-----------|
+| Heatmap de disponibilidade      | 25/03 - 26/03                              | TODOS                    | 27/03              | TODOS     |
+| Lista de sites avaliados        | 25/03 - 26/03                              | TODOS                    | 27/03              | TODOS     |
+| Site selecionado para o projeto | 27/03                                      | TODOS                    |                    | TODOS     |
+| Criação do gitpages             | 26/03 - 02/03                              | Marco, Gustavo e Yasmim | 03/04              | Alana     |
+| Planejamento do Projeto         | 25/03 - 27/03                              | TODOS                    |                    | TODOS     |
+| Ferramentas do Projeto          | 26/03 - 28/03                              | Alana                    | 29/03              | Renan     |
+| Processo de Design              | 02/03 - 03/03                              | Yasmim e Renan           | 04/03              | Pedro     |
+| Gravar vídeo de apresentação    | 06/03                                      | TODOS                    | 07/03              | TODOS     |
 
 
 ## Histórico de Versões
