@@ -16,8 +16,6 @@ theme:
 
 nav:
   - Início: index.md
-  - Atas:
-  - Apresentações:
   - Planejamento: 
     - Cronograma: planejamento/cronograma.md
     - Ferramentas: planejamento/ferramentas.md
