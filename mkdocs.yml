@@ -17,3 +17,12 @@ theme:
 nav:
     - home : index.md
     - Integrantes: "integrantes.md"
+    - Atas:
+    - Apresentações:
+    - Planejamento: 
+      - Cronograma: planejamento/cronograma.md
+      - Ferramentas: planejamento/ferramentas.md
+      # - Metodologia: planejamento/metodologia.md
+      - Processo de Design: planejamento/processo_design.md
+      - Sites Avaliados: planejamento/sites_avaliados.md
+      - Site Escolhido: planejamento/site_escolhido.md
