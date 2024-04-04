@@ -9,6 +9,9 @@ Sendo o design um processo envolto de 3 atividades básicas (Lawson, 2006; Lowgr
 Os processos de design então, derivados dessas atividades básicas, propõe maneiras de realizar essas atividades e definem artefatos produzidos (e consumidos) em cada etapa proposta.
 
 ### Processo de Design Simples
+
+O processo de design simples é uma abordagem para criar soluções de design de forma eficiente e direta, concentrando-se nos princípios fundamentais do design e na resolução de problemas de maneira clara e concisa.
+
 ![processo de design simples](image.png)
 ### Ciclo de Vida em Estrela
 
