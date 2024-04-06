@@ -14,7 +14,7 @@ O processo de design simples é uma abordagem para criar soluções de design de
 
 ![processo de design simples](image.png)
 
- ### Pontos positivos:
+### Pontos positivos:
 
 - Eficiência: Um processo simplificado pode reduzir o tempo necessário para completar um projeto, pois elimina etapas desnecessárias ou complicadas.
 
