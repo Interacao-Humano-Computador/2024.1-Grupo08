@@ -16,7 +16,7 @@ Segue abaixo uma tabela com as ferramentas utilizadas no projeto:
 
 <br>
 
-## 📜 Histórico de Versões
+## Histórico de Versões
 
 | Versão | Data       | Descrição                     | Autor                 | Revisor |
 | ------ | ---------- | ----------------------------- | --------------------- | ------- |
