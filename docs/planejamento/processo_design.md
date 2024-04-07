@@ -83,10 +83,11 @@ A Engenharia de Usabilidade de Mayhew traz uma abordagem que privilegia o papel 
 
 Foram discutido entre os membros e o processo de design definido pela equipe para ser usado no projeto foi o Ciclo de Vida de Mayehw, por ser um modelo mais completo e detalhado, o que reduz a subjetividade comum em modelos de processo de design mais simples e possibilitando designers menos experientes aplicá-los com êxito em projetos complexos.
 
+## Bibliografia
+[1] BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versões
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 27/03/2024 | Introdução e corpo de processos de design |  [Yasmim Rosa](https://github.com/yaskisoba)   | [Renan Araújo](https://github.com/renantfm4) |
-| 1.1    | 05/04/2024 | Introdução e corpo de processos de design |  [Renan Araújo](https://github.com/renantfm4)   | [Yasmim Rosa](https://github.com/yaskisoba) |
+| 1.0    | 03/04/2024 | Introdução e de processos de design |  [Renan Araújo](https://github.com/renantfm4)   | [Yasmim Rosa](https://github.com/yaskisoba) |
