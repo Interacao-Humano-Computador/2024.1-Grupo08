@@ -1,4 +1,4 @@
-## 🛠️ Ferramentas
+## Introdução
 
 A seleção das ferramentas pode influenciar consideravelmente o andamento e o resultado de um projeto. Escolher as ferramentas adequadas não apenas otimiza a eficiência da equipe, mas também pode determinar a facilidade de comunicação, a qualidade do trabalho e a capacidade de cumprir prazos. Uma escolha inadequada pode levar a obstáculos na colaboração, atrasos e até mesmo comprometer a entrega final.
 

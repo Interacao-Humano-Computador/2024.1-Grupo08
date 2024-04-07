@@ -1,5 +1,3 @@
-# Ata 3
-
 ## 📌 Informações Básicas
 
 - **Data:** 04 de Abril

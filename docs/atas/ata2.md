@@ -1,5 +1,3 @@
-# Ata 2
-
 ## 📌 Informações Básicas
 
 - **Data:** 27 de Março

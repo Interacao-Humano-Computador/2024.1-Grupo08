@@ -1,5 +1,3 @@
-# Ata 1
-
 ## 📌 Informações Básicas
 
 - **Data:** 25 de Março
