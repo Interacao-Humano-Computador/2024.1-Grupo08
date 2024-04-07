@@ -32,6 +32,6 @@
 
 ## 📜 Histórico de Versões
 
-| Versão | Data       | Descrição                     | Autor(es)             |
-| ------ | ---------- | ----------------------------- | --------------------- |
+| Versão | Data       | Descrição                     | Autor                 | Revisor |
+| ------ | ---------- | ----------------------------- | --------------------- | ------- |
 | 1.0    | 07/04/2024 | Criação inicial do documento. | Alana Gabriele Amorim |
