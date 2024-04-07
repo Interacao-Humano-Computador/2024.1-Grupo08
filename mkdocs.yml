@@ -1,10 +1,9 @@
-site_name: My Docs
-site_autor: Grupo 8
+site_name: Central Expresso
+site_author: Grupo 8
 site_description: >-
-  Documentação para o projeto realizado na disciplina de Interação Humano Computador da Universidade de Brasília. 
+  Documentação para o projeto realizado na disciplina de Interação Humano Computador da Universidade de Brasília.
 
-
-theme: 
+theme:
     name: material
     language: pt-BR
     features:
@@ -16,23 +15,24 @@ theme:
     - navigation.tabs.sticky
     palette:
         - scheme: default
-          primary: blue
+          primary: purple
           toggle:
             icon: material/weather-night
             name: Modo noturno
         - scheme: slate
-          primary: deep blue
+          primary: purple
           toggle:
             icon: material/weather-sunny
             name: Modo claro
-    
 
 nav:
   - Início: index.md
-
-  - Planejamento: 
+  - Planejamento:
     - Cronograma: planejamento/cronograma.md
     - Ferramentas: planejamento/ferramentas.md
     - Processo de Design: planejamento/processo_design.md
     - Sites Avaliados: planejamento/sites_avaliados.md
     - Site Escolhido: planejamento/site_escolhido.md
+
+extra_css:
+  - custom.css

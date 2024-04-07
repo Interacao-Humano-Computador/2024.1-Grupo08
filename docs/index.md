@@ -55,5 +55,5 @@ O objetivo desta documentação é apresentar todo o trabalho realizado durante 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | 1.0    | 27/03/2024 | Criação da página e da tabela integrantes | [Gustavo Alves](https://github.com/gustaallves) | [Yasmim Rosa](https://github.com/yaskisoba)    |
-| 1.1    | 02/04/2024 | Adicionando tópico "Sobre"                | [Yasmim Rosa](https://github.com/yaskisoba)     | | 
+| 1.1    | 02/04/2024 | Adicionando tópico "Sobre"                | [Yasmim Rosa](https://github.com/yaskisoba)     | [Gustavo Alves](https://github.com/gustaallves) | 
 
