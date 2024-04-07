@@ -191,4 +191,4 @@ Na **tabela 11** está o cronograma planejado.
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 27/03/2024 | Cronograma geral e cronograma entrega 1 | [Yasmim Rosa](https://github.com/yaskisoba) |     |
+| 1.0    | 27/03/2024 | Cronograma geral e cronograma entrega 1 | [Yasmim Rosa](https://github.com/yaskisoba) |  [Gustavo Alves](https://github.com/gustaallves)       |
