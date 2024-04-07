@@ -1,4 +1,4 @@
-## 📌 Informações Básicas
+## Informações Básicas
 
 - **Data:** 04 de Abril
 - **Hora:** 9h
@@ -14,23 +14,23 @@
 
   > A reunião ocorreu de forma presencial, portanto, não existe gravação disponível.
 
-## 💬 Discussões
+## Discussões
 
 - Avaliação do site escolhido pelo professor;
 
-## ✅ Decisões
+## Decisões
 
 - Mudança do site escolhido anteriormente para: [Central Expresso](https://www.centralexpresso.com/index.html);
 - Melhorar e adicionar funcionalidades no site escolhido;
 - Definição do processo de design que será utilizado.
 
-## 📅 Próxima Reunião
+## Próxima Reunião
 
 - **Data:** 07 de Abril
 - **Objetivos:** Divisão e gravação do vídeo de apresentação
 
-## 📜 Histórico de Versões
+## Histórico de Versões
 
-| Versão | Data       | Descrição                     | Autor                 | Revisor |
-| ------ | ---------- | ----------------------------- | --------------------- | ------- |
-| 1.0    | 07/04/2024 | Criação inicial do documento. | Alana Gabriele Amorim |
+| Versão |    Data    | Descrição                     | Autor(es)                                          | Revisor(es) |
+| ------ | :--------: | ----------------------------- | -------------------------------------------------- | ----------- |
+| 1.0    | 07/04/2024 | Criação inicial do documento. | [Alana Gabriele](https://github.com/alanagabriele) |             |

@@ -1,4 +1,4 @@
-## 📌 Informações Básicas
+## Informações Básicas
 
 - **Data:** 27 de Março
 - **Hora:** 20h
@@ -13,24 +13,24 @@
   - [✓] [Renan Araújo](https://github.com/renantfm4)<br>
   - [✓] [Yasmim Rosa](https://github.com/yaskisoba)<br>
 
-## 💬 Discussões
+## Discussões
 
 - Revisão dos sites propostos por cada menbro;
 - Avaliação dos problemas que necessitam de melhorias no site
 - Estrutura da gravação da apresentação do projeto.
 
-## ✅ Decisões
+## Decisões
 
 - Site escolhido: [Embaixada e Consulados dos EUA no Brasil](https://br.usembassy.gov/pt/visas-pt/);
 - Problemas a serem melhorados: usabilidade, tradução e acessibilidade;
 - Cada membro deve realizar a avaliação do site que propôs.
 
-## 📅 Próxima Reunião
+## Próxima Reunião
 
 - **Data:** 04 de Março
 
-## 📜 Histórico de Versões
+## Histórico de Versões
 
-| Versão | Data       | Descrição                     | Autor                 | Revisor |
-| ------ | ---------- | ----------------------------- | --------------------- | ------- |
-| 1.0    | 07/04/2024 | Criação inicial do documento. | Alana Gabriele Amorim |
+| Versão |    Data    | Descrição                     | Autor(es)                                          | Revisor(es) |
+| ------ | :--------: | ----------------------------- | -------------------------------------------------- | ----------- |
+| 1.0    | 07/04/2024 | Criação inicial do documento. | [Alana Gabriele](https://github.com/alanagabriele) |             |
