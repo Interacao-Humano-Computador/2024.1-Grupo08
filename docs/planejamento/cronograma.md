@@ -15,38 +15,177 @@ Todas as entregas e seus respectivos cronogramas estão orietados a data de entr
 | 07    | <ul><li>Relato dos resultados do Protótipo de Papel</li> <li>Planejamento da Avaliação do protótipo de alta fidelidade</li> <li>Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade</li></ul> | 05/06/2024 | 06/06/2024 |
 | 08    | <ul> <li>Relato dos resultados do Protótipo de alta fidelidade.</li> </ul>| 19/06/2024 | 20/06/2024 |
 
+<font size="2"><p style="text-align: center">Tabela 1 - Cronograma de Entregas <br> Fonte: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2843624/mod_resource/content/48/Plano_de_Ensino%20FIHC%20012024%20Turma%201.pdf)</p></font>
 
 ## Etapa 1
-A seguir estão o cronograma planejado e o executado.
+A seguir estão o cronograma planejado na **tabela 2** e o cronograma executado na **tabela 3**.
 ### Cronograma Planejado
 
 | Atividade                       | Período para o desenvolvimento da atividade | Responsáveis             | Período da revisão | Revisores |
 |---------------------------------|--------------------------------------------|--------------------------|--------------------|-----------|
-| Heatmap de disponibilidade      | 25/03 - 26/03                              | TODOS                    | 27/03              | TODOS     |
-| Lista de sites avaliados        | 25/03 - 26/03                              | TODOS                    | 27/03              | TODOS     |
-| Site selecionado para o projeto | 27/03                                      | TODOS                    |                    | TODOS     |
-| Criação do gitpages             | 26/03 - 02/03                              | Marco, Gustavo e Yasmim | 03/04              | Alana     |
-| Planejamento do Projeto         | 25/03 - 27/03                              | TODOS                    |                    | TODOS     |
-| Ferramentas do Projeto          | 26/03 - 28/03                              | Alana                    | 29/03              | Renan     |
-| Processo de Design              | 02/03 - 03/03                              | Yasmim e Renan           | 04/03              | Pedro     |
-| Gravar vídeo de apresentação    | 06/03                                      | TODOS                    | 07/03              | TODOS     |
+| Elaborar cronograma             | **Início**: 25/03 <br> **Fim**: 01/04      | Yasmim Oliveira          | **Início**: 02/04 <br> **Fim**: 03/04 | Gustavo Alves  |
+| Heatmap de disponibilidade      | **Início**: 25/03 <br> **Fim**: 26/03      | Gustavo Alves            | **Início**: 27/03 <br> **Fim**: 27/03 | Alana Gabriele |
+| Definição das Ferramentas do Projeto | **Início**: 26/03 <br> **Fim**: 28/03 | Alana Gabriele           | **Início**: 29/03 <br> **Fim**: 29/03      | Renan Araújo   |
+| Criação do gitpages             | **Início**: 26/03 <br> **Fim**: 02/04      | Marco Tulio e Gustavo Alves | **Início**: 03/04 <br> **Fim**: 04/04   | Yasmim Oliveira|
+| Lista de sites avaliados        | **Início**: 01/04 <br> **Fim**: 03/04      | Pedro Henrique           | **Início**: 04/04 <br> **Fim**: 04/04 | Yasmim Oliveira|
+| Escolha do site para o projeto  | **Início**: 01/04 <br> **Fim**: 03/04      | Marco Tulio              | **Início**: 04/04 <br> **Fim**: 04/04 | Renan Araújo   |
+| Definição do Processo de Design | **Início**: 02/04 <br> **Fim**: 03/04      | Renan Araújo             | **Início**: 04/04 <br> **Fim**: 04/04      | Yasmim    |
+| Inserção das atividades no Gitpages | **Início**: 04/04 <br> **Fim**: 06/04  | TODOS                    | **Início**: 06/04 <br> **Fim**: 07/04      |      |
+| Gravar vídeo de apresentação    | **Início**: 06/04 <br> **Fim**: 07/04      | Gustavo Alves            |  **Início**: 08/04 <br> **Fim**: 08/04 | Alana Gabriele   |
+| Correções pós-apresentação      | **Início**: 08/04 <br> **Fim**: 10/04      | Pedro Henrique           |  **Início**: 11/04 <br> **Fim**: 12/04 | Marco Tulio         |
+
+<font size="2"><p style="text-align: center">Tabela 2 - Cronograma planejado de atividades da etapa 1  <br> Fonte: [Yasmim Oliveira](https://github.com/yaskisoba)</p></font>
 
 
 ### Cronograma Executado
 | Atividade                       | Período para o desenvolvimento da atividade | Responsáveis             | Período da revisão | Revisores |
 |---------------------------------|--------------------------------------------|--------------------------|--------------------|-----------|
-| Heatmap de disponibilidade      | 25/03 - 26/03                              | TODOS                    | 27/03              | TODOS     |
-| Lista de sites avaliados        | 25/03 - 26/03                              | TODOS                    | 27/03              | TODOS     |
-| Site selecionado para o projeto | 27/03                                      | TODOS                    |                    | TODOS     |
-| Criação do gitpages             | 26/03 - 02/03                              | Marco, Gustavo e Yasmim | 03/04              | Alana     |
-| Planejamento do Projeto         | 25/03 - 27/03                              | TODOS                    |                    | TODOS     |
-| Ferramentas do Projeto          | 26/03 - 28/03                              | Alana                    | 29/03              | Renan     |
-| Processo de Design              | 02/03 - 03/03                              | Yasmim e Renan           | 04/03              | Pedro     |
-| Gravar vídeo de apresentação    | 06/03                                      | TODOS                    | 07/03              | TODOS     |
+| Elaborar cronograma             | **Início**: 25/03 <br> **Fim**: 04/04      | Yasmim Oliveira          | **Início**: 05/04 <br> **Fim**: 06/04 | Gustavo Alves  |
+| Heatmap de disponibilidade      | **Início**: 25/03 <br> **Fim**: 26/03      | Gustavo Alves            | **Início**: 27/03 <br> **Fim**: 27/03 | Alana Gabriele |
+| Definição das Ferramentas do Projeto | **Início**: 26/03 <br> **Fim**: 28/03 | Alana Gabriele           | **Início**: 29/03 <br> **Fim**: 29/03      | Renan Araújo   |
+| Criação do gitpages             | **Início**: 26/03 <br> **Fim**: 02/04      | Marco Tulio e Gustavo Alves | **Início**: 03/04 <br> **Fim**: 04/04   | Yasmim Oliveira|
+| Lista de sites avaliados        | **Início**: 01/04 <br> **Fim**: 05/04      | Pedro Henrique           | **Início**: 05/04 <br> **Fim**: 05/04 | Yasmim Oliveira|
+| Escolha do site para o projeto  | **Início**: 01/04 <br> **Fim**: 04/04      | Marco Tulio              | **Início**: 05/04 <br> **Fim**: 05/04 | Renan Araújo   |
+| Definição do Processo de Design | **Início**: 02/04 <br> **Fim**: 03/04      | Renan Araújo             | **Início**: 04/04 <br> **Fim**: 04/04      | Yasmim Oliveira   |
+| Inserção das atividades no Gitpages | **Início**: 04/04 <br> **Fim**: 06/04  | TODOS                    | **Início**: 06/04 <br> **Fim**: 07/04      |      |
+| Gravar vídeo de apresentação    | **Início**: 06/04 <br> **Fim**: 07/04      | Gustavo Alves            |  **Início**: 08/04 <br> **Fim**: 08/04 | Alana Gabriele   |
+| Correções pós-apresentação      | **Início**: 08/04 <br> **Fim**: 10/04      | Pedro Henrique           |  **Início**: 11/04 <br> **Fim**: 12/04 | Marco Tulio         |
+
+<font size="2"><p style="text-align: center">Tabela 3 - Cronograma executado de atividades da etapa 1  <br> Fonte: [Yasmim Oliveira](https://github.com/yaskisoba)</p></font>
+
+
+## Etapa 2
+Na **tabela 4** está o cronograma planejado.
+### Cronograma Planejado
+
+| Atividade                       | Período para o desenvolvimento da atividade | Responsáveis             | Período da revisão | Revisores |
+|---------------------------------|--------------------------------------------|-------------------------- |--------------------|-----------|
+| Definição do perfil do usuário  |  **Início**: 08/04 <br> **Fim**: 10/04     | Marco Tulio e Yasmim Oliveira | **Início**: 11/04 <br> **Fim**: 11/04 | Pedro Henrique   |
+| Criação de personas  | **Início**: 12/04 <br> **Fim**: 13/04  | Renan Araújo e Gustavo Alves  |  **Início**: 14/04 <br> **Fim**: 14/04   | Alana Gabriele     |
+| Pesquisa e definição dos aspectos éticos para pesquisas com pessoas | **Início**: 08/04 <br> **Fim**: 10/04  | Alana Gabriele e Pedro Henrique   |**Início**: 11/04 <br> **Fim**: 11/04 | Yasmim Oliveira |
+| Execução dos aspectos éticos para pesquisas com pessoas | **Início**: 12/04 <br> **Fim**: 13/04              | Gustavo Alves e Yasmim Oliveira   | **Início**: 14/04 <br> **Fim**: 14/04 | Marco Tulio    |
+| Análise de tarefas              | **Início**: 12/04 <br> **Fim**: 14/04                                      | Renan Araújo e Alana Gabriele   |  **Início**: 15/04 <br> **Fim**: 16/04  | Gustavo Alves  |
+| Inserção das atividades no Gitpages | **Início**: 16/04 <br> **Fim**: 18/04                                  | Pedro Henrique e Marco Tulio    | **Início**: 19/04 <br> **Fim**: 19/04   | Yasmim Oliveira |
+| Gravação do vídeo de apresentação  | **Início**: 20/04 <br> **Fim**: 21/04                                   | Gustavo Alves  e Alana Gabriele | **Início**: 22/04 <br> **Fim**: 22/04   | Renan Araújo |
+| Correções pós-apresentação      | **Início**: 22/04 <br> **Fim**: 23/04                                      | Renan Araújo e Marco Tulio      | **Início**: 23/04 <br> **Fim**: 23/04   | Alana Gabriele |
+
+<font size="2"><p style="text-align: center">Tabela 4 - Cronograma planejado de atividades da etapa 2  <br> Fonte: [Yasmim Oliveira](https://github.com/yaskisoba)</p></font>
+
+## Etapa 3
+Na **tabela 5** está o cronograma planejado.
+### Cronograma Planejado
+
+| Atividade                       | Período para o desenvolvimento da atividade | Responsáveis             | Período da revisão | Revisores |
+|---------------------------------|--------------------------------------------|--------------------------|--------------------|-----------|
+| Definição dos princípios gerais do projeto | **Início**: 22/04 <br> **Fim**: 23/04 | Gustavo Alves e Pedro Henrique          |  **Início**: 24/04 <br> **Fim**: 24/04 | Yasmim Oliveira     |
+| Definição das metas de usabilidade         | **Início**: 22/04 <br> **Fim**: 23/04 | Renan Araújo e Yasmim Oliveira        | **Início**: 24/04 <br> **Fim**: 24/04  | Alana Gabriele      |
+| Elaboração do Guia de Estilo    | **Início**: 24/04 <br> **Fim**: 25/04 | Alana Gabriele e Marco Tulio                       | **Início**: 26/04 <br> **Fim**: 26/04  | Renan Araújo   |
+| Inserção das atividades no Gitpages | **Início**: 22/04 <br> **Fim**: 26/04  | Renan Araújo e Pedro Henrique                 |**Início**: 27/04 <br> **Fim**: 27/04 | Marco Tulio     |
+| Gravar vídeo de apresentação    |  **Início**: 28/04 <br> **Fim**: 28/04     | Gustavo Alves e Marco Tulio | **Início**: 29/04 <br> **Fim**: 29/04 | Renan Araújo |
+| Correções pós-apresentação      | **Início**: 29/04 <br> **Fim**: 01/05      | Yasmim Oliveira e Alana Gabriele                    | **Início**: 02/05 <br> **Fim**: 02/05| Gustavo Alves         |
+
+<font size="2"><p style="text-align: center">Tabela 5 - Cronograma planejado de atividades da etapa 3  <br> Fonte: [Yasmim Oliveira](https://github.com/yaskisoba)</p></font>
+
+
+## Etapa 4
+Na **tabela 6** está o cronograma planejado.
+### Cronograma Planejado
+
+| Atividade                       | Período para o desenvolvimento da atividade | Responsáveis             | Período da revisão | Revisores |
+|---------------------------------|--------------------------------------------|--------------------------|--------------------|-----------|
+| Planejamento da avaliação do Storyboard   | **Início**: 01/05 <br> **Fim**: 03/05         | Renan Araújo e Yasmim Oliveira   | **Início**: 04/05 <br> **Fim**: 04/05     | Alana Gabriele     |
+| Planejamento do relato dos resultados da avaliação do Storyboard        | **Início**: 03/05 <br> **Fim**: 05/05  | Pedro Henrique e Marco Tulio | **Início**: 06/05 <br> **Fim**: 06/05 | Gustavo Alves |
+| Análise de tarefas                | **Início**: 04/05 <br> **Fim**: 06/05           | Gustavo Alves e Alana Gabriele  | **Início**: 06/05 <br> **Fim**: 06/05 | Yasmim Oliveira     |
+| Inserção das atividades no Gitpages |  **Início**: 03/05 <br> **Fim**: 06/05        | Yasmim Oliveira e Marco Tulio   |  **Início**: 06/05 <br> **Fim**: 06/05 | Renan Araújo     |
+| Gravar vídeo de apresentação    | **Início**: 07/05 <br> **Fim**: 07/05             | Pedro Henrique e Gustavo Alves  | **Início**: 08/05 <br> **Fim**: 08/05 | Marco Tulio     |
+| Correções pós-apresentação      | **Início**: 09/05 <br> **Fim**: 11/05             | Alana Gabriele e Renan Araújo   | **Início**: 12/05 <br> **Fim**: 12/05| Pedro Henrique   |
+
+<font size="2"><p style="text-align: center">Tabela 6 - Cronograma planejado de atividades da etapa 4  <br> Fonte: [Yasmim Oliveira](https://github.com/yaskisoba)</p></font>
+
+
+## Etapa 5
+Na **tabela 7** está o cronograma planejado.
+### Cronograma Planejado
+
+| Atividade                       | Período para o desenvolvimento da atividade | Responsáveis             | Período da revisão | Revisores |
+|---------------------------------|--------------------------------------------|--------------------------|--------------------|-----------|
+| Relato dos resultados da avaliação do Storyboard        | **Início**: 11/05 <br> **Fim**: 14/05    | Marco Tulio e Alana Gabriele | **Início**: 15/05 <br> **Fim**: 15/05 | Gustavo Alves     |
+| Planejamento da Avaliação do Protótipo de Papel         | **Início**: 11/05 <br> **Fim**: 14/05 | Yasmim Oliveira e Renan Araújo  | **Início**: 15/05 <br> **Fim**: 15/05 | Pedro Henrique    |
+| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | **Início**: 14/05 <br> **Fim**: 16/05                  | Gustavo Alves e Pedro Henrique        | **Início**: 17/05 <br> **Fim**: 17/05 | Alana Gabriele     |
+| Inserção das atividades no Gitpages | **Início**: 15/05 <br> **Fim**: 17/05 | Alana Gabriele e Renan Araújo    | **Início**: 18/05 <br> **Fim**: 18/05 |  Pedro Henrique     |
+| Gravar vídeo de apresentação    | **Início**: 19/05 <br> **Fim**: 19/05 | Gustavo Alves e Marco Tulio                    | **Início**: 19/05 <br> **Fim**: 19/05              | Yasmim Oliveira     |
+| Correções pós-apresentação      | **Início**: 21/05 <br> **Fim**: 23/05 | Yasmim Oliveira e Pedro Henrique               | **Início**: 24/05 <br> **Fim**: 24/05 | Renan Araújo |
+
+<font size="2"><p style="text-align: center">Tabela 7 - Cronograma planejado de atividades da etapa 5  <br> Fonte: [Yasmim Oliveira](https://github.com/yaskisoba)</p></font>
+
+
+## Etapa 6.1
+Na **tabela 8** está o cronograma planejado.
+### Cronograma Planejado
+
+| Atividade                       | Período para o desenvolvimento da atividade | Responsáveis             | Período da revisão | Revisores |
+|--------------------------------- |--------------------------------------------|--------------------------|--------------------|-----------|
+| Verificação do artefato  1       | **Início**: 22/05 <br> **Fim**: 24/05  | Renan Araújo e Yasmim Oliveira  | **Início**: 25/05 <br> **Fim**: 25/05 | Marco Tulio     |
+| Verificação dos artefatos  2 e 3 | **Início**: 22/05 <br> **Fim**: 24/05  | Gustavo Alves e Marco Tulio     | **Início**: 25/05 <br> **Fim**: 25/05 | Yasmim Oliveira     |
+| Verificação dos artefatos  4 e 5 | **Início**: 22/05 <br> **Fim**: 24/05 | Alana Gabriele e Pedro Henrique |**Início**: 25/05 <br> **Fim**: 25/05| Gustavo Alves     |
+| Inserção das atividades no Gitpages | **Início**: 24/05 <br> **Fim**: 24/05 | Renan Araújo e Marco Tulio |**Início**: 25/05 <br> **Fim**: 25/05| Alana Gabriele   |
+| Gravar vídeo de apresentação     | **Início**: 26/05 <br> **Fim**: 26/05 | Yasmim Oliveira e Gustavo Alves |**Início**: 27/05 <br> **Fim**: 27/05| Renan Araújo     |
+| Correções pós-apresentação       | **Início**: 28/05 <br> **Fim**: 30/05 | Pedro Henrique e Alana Gabriele  |**Início**: 31/05 <br> **Fim**: 31/05 |  Marco Tulio        |
+
+<font size="2"><p style="text-align: center">Tabela 8 - Cronograma planejado de atividades da etapa 6.1  <br> Fonte: [Yasmim Oliveira](https://github.com/yaskisoba)</p></font>
+
+
+
+## Etapa 6.2
+Na **tabela 9** está o cronograma planejado.
+### Cronograma Planejado
+
+| Atividade                       | Período para o desenvolvimento da atividade | Responsáveis             | Período da revisão | Revisores |
+|--------------------------------- |--------------------------------------------|--------------------------|--------------------|-----------|
+| Verificação do artefato  1 e 2   | **Início**: 27/05 <br> **Fim**: 30/05  | Alana Gabriele  e Yasmim Oliveira  | **Início**: 31/05 <br> **Fim**: 31/05 | Gustavo Alves  |
+| Verificação dos artefatos  3 e 4 | **Início**: 27/05 <br> **Fim**: 30/05  | Gustavo Alves e Renan Araújo      | **Início**: 31/05 <br> **Fim**: 31/05 | Alana Gabriele     |
+| Verificação dos artefatos  5 e 7 | **Início**: 05/06 <br> **Fim**: 08/06 | Marco Tulio e Pedro Henrique |**Início**: 09/06 <br> **Fim**: 09/06| Renan Araújo     |
+| Inserção das atividades no Gitpages | **Início**: 30/05 <br> **Fim**: 08/06 | Renan Araújo e Marco Tulio |**Início**: 09/06 <br> **Fim**: 09/06| Pedro Henrique   |
+| Gravar vídeo de apresentação     | **Início**: 10/06 <br> **Fim**: 10/06 | Yasmim Oliveira e Gustavo Alves |**Início**: 11/06 <br> **Fim**: 11/06| Marco Tulio     |
+| Correções pós-apresentação       | **Início**: 14/06 <br> **Fim**: 16/06 | Pedro Henrique e Alana Gabriele  |**Início**: 17/06 <br> **Fim**: 17/06 |  Gustavo Alves  |
+
+<font size="2"><p style="text-align: center">Tabela 9 - Cronograma planejado de atividades da etapa 6.2  <br> Fonte: [Yasmim Oliveira](https://github.com/yaskisoba)</p></font>
+
+
+## Etapa 7
+Na **tabela 10** está o cronograma planejado.
+### Cronograma Planejado
+
+| Atividade                       | Período para o desenvolvimento da atividade | Responsáveis             | Período da revisão | Revisores |
+|---------------------------------|--------------------------------------------|--------------------------|--------------------|-----------|
+| Relato dos resultados do Protótipo de Papel | **Início**: 21/05 <br> **Fim**: 24/05 |Alana Gabriele e Marco Tulio|**Início**: 25/05 <br> **Fim**: 25/05 | Yasmim Oliveira     |
+| Planejamento da Avaliação do protótipo de alta fidelidade   |**Início**: 21/05 <br> **Fim**: 24/05 | Gustavo Alves e Pedro Henrique |**Início**: 25/05 <br> **Fim**: 25/05 | Renan Araújo     |
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | **Início**: 26/05 <br> **Fim**: 30/05 | Renan Araújo e Yasmim Oliveira |**Início**: 31/05 <br> **Fim**: 01/06| Alana Gabriele |
+| Inserção das atividades no Gitpages |**Início**: 02/06 <br> **Fim**: 03/06 | Pedro Henrique e Gustavo Alves  |**Início**: 03/06 <br> **Fim**: 03/06 | Pedro Henrique     |
+| Gravar vídeo de apresentação    |**Início**: 04/06 <br> **Fim**: 04/06 | Alana Gabriele e Pedro Henrique   |**Início**: 05/06 <br> **Fim**: 05/06 | Marco Tulio     |
+| Correções pós-apresentação      |**Início**: 06/06 <br> **Fim**: 08/06  | Yasmim Oliveira e Marco Tulio                    |**Início**: 08/06 <br> **Fim**: 08/06 |    Pedro Henrique      |
+
+<font size="2"><p style="text-align: center">Tabela 10 - Cronograma planejado de atividades da etapa 7 <br> Fonte: [Yasmim Oliveira](https://github.com/yaskisoba)</p></font>
+
+
+## Etapa 8
+Na **tabela 11** está o cronograma planejado.
+### Cronograma Planejado
+
+| Atividade                       | Período para o desenvolvimento da atividade | Responsáveis             | Período da revisão | Revisores |
+|---------------------------------|--------------------------------------------|--------------------------|--------------------|-----------|
+| Relato dos resultados do Protótipo de alta fidelidade. |**Início**: 07/06 <br> **Fim**: 09/06 | Pedro Henrique e Renan Araújo |**Início**: 10/06 <br> **Fim**: 10/06 | Yasmim Oliveira     |
+| Planejamento de verificação dos artefatos da entrega 8 |**Início**: 11/06 <br> **Fim**: 13/06 | Alana Gabriele e Gustavo Alves|**Início**: 14/06 <br> **Fim**: 14/06 | Renan Araújo     |
+| Relato da verificação da Etapa 8 e ajustes nos artefatos |**Início**: 15/06 <br> **Fim**: 15/06 | Yasmim Oliveira e Marco Tulio                   |**Início**: 15/06 <br> **Fim**: 15/05 | Gustavo Alves     |
+| Inserção das atividades no Gitpages |**Início**: 16/05 <br> **Fim**: 16/05 | Renan Araújo e Gustavo Alves                    |**Início**: 17/06 <br> **Fim**: 17/06 | Marco Tulio     |
+| Gravar vídeo de apresentação    |**Início**: 18/06 <br> **Fim**: 18/06 | Pedro Henrique e Alana Gabriele  |**Início**: 19/06 <br> **Fim**: 19/06 | Yasmim Oliveira     |
+| Correções pós-apresentação      |**Início**: 20/06 <br> **Fim**: 22/06 | Yasmim Oliveira e Renan Araújo   |**Início**: 22/06 <br> **Fim**: 22/06 |Alana Gabriele|
+
+<font size="2"><p style="text-align: center">Tabela 11 - Cronograma planejado de atividades da etapa 8 <br> Fonte: [Yasmim Oliveira](https://github.com/yaskisoba)</p></font>
 
 
 ## Histórico de Versões
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 27/03/2024 | Cronograma geral e cronograma entrega 1 | [Yasmim Rosa](https://github.com/yaskisoba) |     |
+| 1.0    | 27/03/2024 | Cronograma geral e cronograma das etapas   | [Yasmim Rosa](https://github.com/yaskisoba)     | [Gustavo Alves](https://github.com/gustaallves)     | 
