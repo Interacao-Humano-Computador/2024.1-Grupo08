@@ -5,14 +5,12 @@
 - **Local:** Faculdade do Gama - FGA
 - **Participantes:**
 
-  - [Alana Gabriele](https://github.com/alanagabriele)
-  - [Gustavo Alves](https://github.com/gustaallves)
-  - [Marco Tulio](https://github.com/MarcoTulioSoares)
-  - [Pedro Henrique](https://github.com/PedroHenrique061)
-  - [Renan Araújo](https://github.com/renantfm4)
-  - [Yasmim Rosa](https://github.com/yaskisoba)
-
-    <br>
+- [Alana Gabriele](https://github.com/alanagabriele)
+- [Gustavo Alves](https://github.com/gustaallves)
+- [Marco Tulio](https://github.com/MarcoTulioSoares)
+- [Pedro Henrique](https://github.com/PedroHenrique061)
+- [Renan Araújo](https://github.com/renantfm4)
+- [Yasmim Rosa](https://github.com/yaskisoba)
 
   > A reunião ocorreu de forma presencial, portanto, não existe gravação disponível.
 

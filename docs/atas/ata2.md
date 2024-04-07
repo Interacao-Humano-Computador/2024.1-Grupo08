@@ -5,12 +5,13 @@
 - **Local:** Plataforma de Comunicação - Teams
 - **Gravação:** [Link do vídeo](https://unbbr.sharepoint.com/sites/IHC-Grupo888/Documentos%20Compartilhados/General/Recordings/Reuni%C3%A3o%20em%20_General_-20240327_200312-Grava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o.mp4?web=1&referrer=Teams.TEAMS-WEB&referrerScenario=MeetingChicletGetLink.view.view)
 - **Participantes:**
-  - [Alana Gabriele](https://github.com/alanagabriele)
-  - [Gustavo Alves](https://github.com/gustaallves)
-  - [Marco Tulio](https://github.com/MarcoTulioSoares)
-  - [Pedro Henrique](https://github.com/PedroHenrique061)
-  - [Renan Araújo](https://github.com/renantfm4)
-  - [Yasmim Rosa](https://github.com/yaskisoba)
+
+- [Alana Gabriele](https://github.com/alanagabriele)
+- [Gustavo Alves](https://github.com/gustaallves)
+- [Marco Tulio](https://github.com/MarcoTulioSoares)
+- [Pedro Henrique](https://github.com/PedroHenrique061)
+- [Renan Araújo](https://github.com/renantfm4)
+- [Yasmim Rosa](https://github.com/yaskisoba)
 
 ## 💬 Discussões
 
