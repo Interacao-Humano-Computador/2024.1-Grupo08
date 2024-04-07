@@ -4,10 +4,16 @@ Após a realização de avaliações de sites por cada membro da equipe, pôde s
 
 ## Critérios para escolha
 Ao decidir o site, foi considerado os seguintes aspectos:
-- Site que não tenha sido escolhido por outra equipe nesse semestre e nos anteriores;
-- Site de comunidade de software livre ou governamental;
-- Site com pouca usabilidade e/ou baixa acessibilidade;
-- Site com público de fácil acesso.
+<ul> 
+<li> Site que não tenha sido escolhido por outra equipe nesse semestre e nos anteriores; </li>
+<li> Site de comunidade de software livre ou governamental; </li>
+<li> Site com pouca usabilidade e/ou baixa acessibilidade; </li>
+<li> Site com público de fácil acesso. </li>
+
+
+
+</ul>
+
 
 ## Motivação de escolha entre os sites avaliados
 
