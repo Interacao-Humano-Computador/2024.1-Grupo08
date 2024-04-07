@@ -1,12 +1,12 @@
-site_name: My Docs
-site_autor: Grupo 8
+site_name: Central Expresso
+site_author: Grupo 8
 site_description: >-
   Documentação para o projeto realizado na disciplina de Interação Humano Computador da Universidade de Brasília.
 
 theme:
-  name: material
-  language: pt-BR
-  features:
+    name: material
+    language: pt-BR
+    features:
     - navigation.instant
     - navigation.section
     - navigation.path
@@ -39,3 +39,6 @@ nav:
       - Ata 1: atas/ata1.md
       - Ata 2: atas/ata2.md
       - Ata 3: atas/ata3.md
+      
+extra_css:
+  - custom.css
