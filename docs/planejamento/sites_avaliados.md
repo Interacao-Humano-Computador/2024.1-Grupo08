@@ -40,7 +40,7 @@ O CEBRASPE (Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promo�
 
 O DFnoPonto é um sistema de consulta de horários e linhas de transporte público no Distrito Federal. Com ele, você pode verificar itinerários, visualizar trajetos e obter informações sobre os pontos de parada. Além disso, o DFnoPonto também oferece a localização em tempo real dos ônibus via sinal de GPS.
 
-### Pontos Forte
+### Pontos Fortes
 - Uma abordagem boa para centralização de informações sobre linhas de ônibus;
 - É fácil para procurar por linhas de ônibus já conhecidas.
 
