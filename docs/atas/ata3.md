@@ -26,7 +26,7 @@
 
 ## Próxima Reunião
 
-- **Data:** 07 de Abril
+- **Data:** 08 de Abril
 - **Objetivos:** Divisão e gravação do vídeo de apresentação
 
 ## Histórico de Versões
