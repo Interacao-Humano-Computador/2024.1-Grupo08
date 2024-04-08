@@ -8,7 +8,7 @@ Essa atividade também proporcionou insumos para a escolha de um site para reali
 | Nome |    Site Avaliado    | 
 | ------ | :--------: | 
   [Alana Gabriele](https://github.com/alanagabriele/alanagabriele) | SIGAA |
-  [Gustavo Alves](https://github.com/gustaallves)  | Instituto QUADRIX | 
+  [Gustavo Alves](https://github.com/gustaallves)  | REAPER | 
   [Marco Tulio](https://github.com/MarcoTulioSoares) | Embaixada Americana |
   [Pedro Henrique](https://github.com/PedroHenrique061) | Central Expresso |
   [Renan Araújo](https://github.com/renantfm4)   | CEBRASPE |     
@@ -18,9 +18,27 @@ Essa atividade também proporcionou insumos para a escolha de um site para reali
 
 O SIGAA (Sistema Integrado de Gestão de Atividades Acadêmicas) é uma plataforma desenvolvida para gerenciar atividades acadêmicas e administrativas. Utilizado por diversas instituições de ensino superior, o SIGAA oferece funcionalidades como matrícula em disciplinas, emissão de histórico escolar e gerenciamento de eventos acadêmicos.
 
-## Instituto QUADRIX
+## REAPER
 
-O Instituto QUADRIX é uma organização especializada na realização de concursos públicos, processos seletivos, avaliações e certificações. Reconhecido pela sua expertise em aplicar avaliações de grande escala, o QUADRIX atua em parceria com diversas instituições públicas e privadas, contribuindo para a seleção de profissionais qualificados em diferentes áreas e setores.
+“REAPER é um aplicativo completo de produção de áudio digital para computadores, oferecendo
+um conjunto completo de ferramentas de gravação, edição, processamento, mixagem e
+masterização de áudio multipista e MIDI.” (Reaper, 2024)
+
+### Pontos Fortes
+- A proposta é interessante no quesito de centralizar diversas ferramentas.
+
+### Pontos Fracos
+- Paleta de cores não agradável e dificulta a leitura.
+- Informações não bem destacadas e distribuídas na página principal.
+- Letras pequenas na página principal dificultam a leitura.
+- Navegação não intuitiva e confusa.
+
+### Sugestões de Melhorias
+- Melhorar a paleta de cores para tornar o site mais agradável e facilitar a leitura.
+- Reorganizar e destacar as informações na página principal para melhorar a clareza e a
+organização.
+- Aumentar o tamanho das letras na página principal para melhorar a legibilidade.
+- Aprimorar a navegação do site para torná-la mais intuitiva e fácil de usar.
 
 ## Embaixada Americana
 
@@ -30,6 +48,15 @@ O site da Embaixada Americana oferece informações sobre os serviços consulare
 ## Central Expresso 
 
 O site Central Expresso é uma plataforma especializada na venda de passagens de ônibus, oferecendo aos usuários a facilidade de consultar horários, destinos e informações detalhadas sobre suas linhas.
+
+### Pontos Fortes
+- É um site bem "cru" então não tem muita complexidade.
+
+### Pontos Fracos
+- Não informa ao usuário o status do sistema.
+- A informações são organizadas de maneira confusa.
+- Falta a definição de um padrão.
+
 
 ## CEBRASPE
 

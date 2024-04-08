@@ -10,9 +10,10 @@ Os processos de design então, derivados dessas atividades básicas, propõe man
 
 ### Processo de Design Simples
 
-O processo de design simples é uma abordagem para criar soluções de design de forma eficiente e direta, concentrando-se nos princípios fundamentais do design e na resolução de problemas de maneira clara e concisa.
+O **processo de design simples** (figura 2) é uma abordagem para criar soluções de design de forma eficiente e direta, concentrando-se nos princípios fundamentais do design e na resolução de problemas de maneira clara e concisa.
 
 ![processo de design simples](image.png)
+<font size="2"><p style="text-align: center"> Figura 2 - Processo de Design Simples  <br> Fonte: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.</p></font>
 
 ### Pontos positivos:
 
@@ -27,9 +28,10 @@ O processo de design simples é uma abordagem para criar soluções de design de
 - Menor criatividade: A simplificação excessiva pode restringir a criatividade da equipe, limitando as oportunidades de inovação e melhoria.
 ### Ciclo de Vida em Estrela
 
-O modelo de Ciclo de Vida Estrela foi proposto em 1989 por Hartson e Hix, a partir de um trabalho empírico que estes autores desenvolveram através da observação de como  designers de interfaces trabalhava. O Modelo Estrela é composto por seis atividades, a saber: análise de tarefas, especificação de requisitos, projeto conceitual e formal, prototipação, implementação e avaliação
+O modelo de **Ciclo de Vida Estrela** (figura 3) foi proposto em 1989 por Hartson e Hix, a partir de um trabalho empírico que estes autores desenvolveram através da observação de como  designers de interfaces trabalhava. O Modelo Estrela é composto por seis atividades, a saber: análise de tarefas, especificação de requisitos, projeto conceitual e formal, prototipação, implementação e avaliação
 
 ![alt text](image-1.png)
+<font size="2"><p style="text-align: center"> Figura 3 - Ciclo de Vida em Estrela  <br>  Fonte: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.</p></font>
 
 ### Pontos positivos: 
 
@@ -62,9 +64,10 @@ Trata a usabilidade como um processo interativo que envolve o usuário em suas f
 ### Engenharia de Usabilidade de Mayhew
 
 
-A Engenharia de Usabilidade de Mayhew traz uma abordagem que privilegia o papel do usuário na execução de tarefas, no intuito de construir sistemas adaptados às suas necessidades e objetivos. 
+A **Engenharia de Usabilidade de Mayhew** (figura 4) traz uma abordagem que privilegia o papel do usuário na execução de tarefas, no intuito de construir sistemas adaptados às suas necessidades e objetivos. 
 
 ![alt text](image-2.png)
+<font size="2"><p style="text-align: center"> Figura 4 - Engenharia de Usabilidade de Mayhew  <br> Fonte: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.</p></font>
 
 ### Pontos positivos:
 

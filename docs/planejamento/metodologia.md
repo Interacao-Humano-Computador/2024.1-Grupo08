@@ -1,8 +1,8 @@
 ## Introdução
 Tendo em vista que a disciplina de Interação Humano Computador é voltada a projeto e com um time de 6 pessoas se faz necessário técnicas de organização e gerenciamento para o bom desenvolvimento do produto final foi então escolhida uma metodologia para o prosseguimento do projeto.
 
-## Heatmap
-Foi elaborado um heatmap, onde cada membro da equipe informou seus horários de disponibilidade ou falta dela assim foi possível obter um panorama sobre os melhores horários para reuniões e realização de atividades.
+## Heatmaps
+Foi elaborado um **heatmap de disponibilidade** (figura 1), onde cada membro da equipe informou seus horários de disponibilidade ou falta dela assim foi possível obter um panorama sobre os melhores horários para reuniões e realização de atividades.
 
 ### Horários para reuniões
 <ul> 
@@ -10,10 +10,10 @@ Foi elaborado um heatmap, onde cada membro da equipe informou seus horários de 
 </ul>
 
 ![alt text](image-3.png)
-<font size="2"><p style="text-align: center"> Heatmap de Disponibilidade  <br> Fonte: [Gustavo Alves](https://github.com/gustaallves)</p></font>
+<font size="2"><p style="text-align: center"> Figura 1 - Heatmap de Disponibilidade  <br> Fonte: [Gustavo Alves](https://github.com/gustaallves)</p></font>
 
 ## Metodologia: SCRUM Adapatado e Extreme programming
-Por maior familiaridade dos membros da equipe e devido a característica de inversão do triângulo de ferro encontrada em metodologias ágeis onde o tempo se encontra como uma restrição importante e que é coerente com o projeto a ser desenvolvido o SCUM então foi elegido como a metodologia a ser utilizada no projeto juntamente a algumas técnicas do XP (Extreme programming).
+Por maior familiaridade dos membros da equipe e devido a característica de inversão do triângulo de ferro encontrada em metodologias ágeis onde o tempo se encontra como uma restrição importante e que é coerente com o projeto a ser desenvolvido o SCRUM então foi elegido como a metodologia a ser utilizada no projeto juntamente a algumas técnicas do XP (Extreme programming).
 
 ### Práticas que serão utilizadas:
 <ul>
