@@ -20,4 +20,4 @@ Segue abaixo uma tabela com as ferramentas utilizadas no projeto:
 
 | Versão | Data       | Descrição                     | Autor                 | Revisor |
 | ------ | ---------- | ----------------------------- | --------------------- | ------- |
-| 1.0    | 07/04/2024 | Criação inicial do documento. | Alana Gabriele Amorim |
+| 1.0    | 04/04/2024 | Inserção de ferramentas       | [Alana Gabriele](https://github.com/alanagabriele) | [Renan Araújo](https://github.com/renantfm4)|

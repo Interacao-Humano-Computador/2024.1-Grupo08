@@ -3,7 +3,8 @@
 - **Data:** 27 de Março
 - **Hora:** 20h
 - **Local:** Plataforma de Comunicação - Teams
-- **Gravação:** [Link do vídeo](https://unbbr.sharepoint.com/sites/IHC-Grupo888/Documentos%20Compartilhados/General/Recordings/Reuni%C3%A3o%20em%20_General_-20240327_200312-Grava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o.mp4?web=1&referrer=Teams.TEAMS-WEB&referrerScenario=MeetingChicletGetLink.view.view)
+- **Gravação:** 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G7-xmPqITxY?si=WmemVt_osbT0xeRV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 - **Participantes:**
 
   - [✓] [Alana Gabriele](https://github.com/alanagabriele) <br>
@@ -33,4 +34,4 @@
 
 | Versão |    Data    | Descrição                     | Autor(es)                                          | Revisor(es) |
 | ------ | :--------: | ----------------------------- | -------------------------------------------------- | ----------- |
-| 1.0    | 07/04/2024 | Criação inicial do documento. | [Alana Gabriele](https://github.com/alanagabriele) |             |
+| 1.0    | 07/04/2024 | Ata 2 | [Alana Gabriele](https://github.com/alanagabriele) |  [Gustavo Alves](https://github.com/gustaallves) |

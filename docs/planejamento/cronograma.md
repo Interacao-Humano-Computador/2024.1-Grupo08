@@ -32,7 +32,7 @@ A seguir estão o cronograma planejado na **tabela 2** e o cronograma executado 
 | Definição do Processo de Design | **Início**: 02/04 <br> **Fim**: 03/04      | Renan Araújo             | **Início**: 04/04 <br> **Fim**: 04/04      | Yasmim    |
 | Inserção das atividades no Gitpages | **Início**: 04/04 <br> **Fim**: 06/04  | TODOS                    | **Início**: 06/04 <br> **Fim**: 07/04      |      |
 | Gravar vídeo de apresentação    | **Início**: 06/04 <br> **Fim**: 07/04      | Gustavo Alves            |  **Início**: 08/04 <br> **Fim**: 08/04 | Alana Gabriele   |
-| Correções pós-apresentação      | **Início**: 08/04 <br> **Fim**: 10/04      | Pedro Henrique           |  **Início**: 11/04 <br> **Fim**: 12/04 | Marco Tulio         |
+| Correções pós-apresentação      | **Início**: 09/04 <br> **Fim**: 10/04      | Pedro Henrique           |  **Início**: 11/04 <br> **Fim**: 12/04 | Marco Tulio         |
 
 <font size="2"><p style="text-align: center">Tabela 2 - Cronograma planejado de atividades da etapa 1  <br> Fonte: [Yasmim Rosa](https://github.com/yaskisoba)</p></font>
 
@@ -42,14 +42,14 @@ A seguir estão o cronograma planejado na **tabela 2** e o cronograma executado 
 |---------------------------------|--------------------------------------------|--------------------------|--------------------|-----------|
 | Elaborar cronograma             | **Início**: 25/03 <br> **Fim**: 04/04      | Yasmim Rosa          | **Início**: 05/04 <br> **Fim**: 06/04 | Gustavo Alves  |
 | Heatmap de disponibilidade      | **Início**: 25/03 <br> **Fim**: 26/03      | Gustavo Alves            | **Início**: 27/03 <br> **Fim**: 27/03 | Alana Gabriele |
-| Definição das Ferramentas do Projeto | **Início**: 26/03 <br> **Fim**: 28/03 | Alana Gabriele           | **Início**: 29/03 <br> **Fim**: 29/03      | Renan Araújo   |
+| Definição das Ferramentas do Projeto | **Início**: 26/03 <br> **Fim**: 04/04 | Alana Gabriele           | **Início**: 05/04 <br> **Fim**: 05/04      | Renan Araújo   |
 | Criação do gitpages             | **Início**: 26/03 <br> **Fim**: 02/04      | Marco Tulio e Gustavo Alves | **Início**: 03/04 <br> **Fim**: 04/04   | Yasmim Rosa|
 | Lista de sites avaliados        | **Início**: 01/04 <br> **Fim**: 05/04      | Pedro Henrique           | **Início**: 05/04 <br> **Fim**: 05/04 | Yasmim Rosa|
 | Escolha do site para o projeto  | **Início**: 01/04 <br> **Fim**: 04/04      | Marco Tulio              | **Início**: 05/04 <br> **Fim**: 05/04 | Renan Araújo   |
 | Definição do Processo de Design | **Início**: 02/04 <br> **Fim**: 03/04      | Renan Araújo             | **Início**: 04/04 <br> **Fim**: 04/04      | Yasmim Rosa   |
-| Inserção das atividades no Gitpages | **Início**: 04/04 <br> **Fim**: 06/04  | TODOS                    | **Início**: 06/04 <br> **Fim**: 07/04      |      |
-| Gravar vídeo de apresentação    | **Início**: 06/04 <br> **Fim**: 07/04      | Gustavo Alves            |  **Início**: 08/04 <br> **Fim**: 08/04 | Alana Gabriele   |
-| Correções pós-apresentação      | **Início**: 08/04 <br> **Fim**: 10/04      | Pedro Henrique           |  **Início**: 11/04 <br> **Fim**: 12/04 | Marco Tulio         |
+| Inserção das atividades no Gitpages | **Início**: 04/04 <br> **Fim**: 08/04  | TODOS                    | **Início**: 08/04 <br> **Fim**: 08/04      |      |
+| Gravar vídeo de apresentação    | **Início**: 06/04 <br> **Fim**: 08/04      | Gustavo Alves            |  **Início**: 08/04 <br> **Fim**: 08/04 | Alana Gabriele   |
+| Correções pós-apresentação      | **Início**: 09/04 <br> **Fim**: 10/04      | Pedro Henrique           |  **Início**: 11/04 <br> **Fim**: 12/04 | Marco Tulio         |
 
 <font size="2"><p style="text-align: center">Tabela 3 - Cronograma executado de atividades da etapa 1  <br> Fonte: [Yasmim Rosa](https://github.com/yaskisoba)</p></font>
 
@@ -191,4 +191,6 @@ Na **tabela 11** está o cronograma planejado.
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 27/03/2024 | Cronograma geral e cronograma entrega 1 | [Yasmim Rosa](https://github.com/yaskisoba) |  [Gustavo Alves](https://github.com/gustaallves)       |
+| 1.0    | 27/03/2024 | Cronograma geral e cronograma etapa 1 | [Yasmim Rosa](https://github.com/yaskisoba) |  [Gustavo Alves](https://github.com/gustaallves)       |
+| 1.1    | 04/04/2024 | Cronograma geral e cronograma etapas 2, 3, 4, 5, 6, 7 e 8 | [Yasmim Rosa](https://github.com/yaskisoba) |  [Gustavo Alves](https://github.com/gustaallves)       |
+| 1.1    | 08/04/2024 | Atualização das datas do cronograma executado etapa 1 | [Yasmim Rosa](https://github.com/yaskisoba) |  [Gustavo Alves](https://github.com/gustaallves)       |

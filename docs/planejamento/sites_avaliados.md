@@ -61,4 +61,4 @@ O DFnoPonto é um sistema de consulta de horários e linhas de transporte públi
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 07/04/2024 | Adição dos tópicos dos sites | [Gustavo Alves](https://github.com/gustaallves) |    |
+| 1.0    | 05/04/2024 | Sites avaliados | [Pedro Henrique](https://github.com/PedroHenrique061) |   [Yasmim Rosa](https://github.com/yaskisoba)  |

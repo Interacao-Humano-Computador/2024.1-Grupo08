@@ -33,4 +33,4 @@
 
 | Versão |    Data    | Descrição                     | Autor(es)                                          | Revisor(es) |
 | ------ | :--------: | ----------------------------- | -------------------------------------------------- | ----------- |
-| 1.0    | 07/04/2024 | Criação inicial do documento. | [Alana Gabriele](https://github.com/alanagabriele) |             |
+| 1.0    | 07/04/2024 | Ata 3 | [Alana Gabriele](https://github.com/alanagabriele) | [Pedro Henrique](https://github.com/PedroHenrique061)            |

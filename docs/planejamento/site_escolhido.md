@@ -29,4 +29,4 @@ Ao decidir o site, foi considerado os seguintes aspectos:
 
 | Versão |    Data    | Descrição                                         | Autor(es)                                       | Revisor(es)                                        |
 | ------ | :--------: | ------------------------------------------------- | ----------------------------------------------- | -------------------------------------------------- |
-| 1.0    | 07/04/2024 | Adição dos tópicos do site escolhido e introdução | [Yasmim Oliveira](https://github.com/yaskisoba) | [Alana Gabriele](https://github.com/alanagabriele) |
+| 1.0    | 04/04/2024 | Adição dos tópicos do site escolhido e introdução | [Marco Tulio](https://github.com/MarcoTulioSoares) | [Renan Araújo](https://github.com/renantfm4) |
