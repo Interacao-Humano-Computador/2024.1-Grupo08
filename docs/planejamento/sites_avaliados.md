@@ -82,9 +82,6 @@ O DFnoPonto é um sistema de consulta de horários e linhas de transporte públi
 - Inclusão de opções de acessibilidade;
 - Inserção de explicações ou exemplos nas funcionalidades já que abrange um público diverso.
 
-## Bibliografia
-
-
 
 ## Histórico de Versões
 

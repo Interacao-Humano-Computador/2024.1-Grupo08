@@ -23,7 +23,6 @@ Ao decidir o site, foi considerado os seguintes aspectos:
 <li> Processos de interação complexos e pouco claros para o usuário. </li>
 </ul>
 
-## Bibliografia
 
 ## Histórico de Versões
 
