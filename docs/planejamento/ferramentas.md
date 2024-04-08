@@ -2,7 +2,7 @@
 
 A seleção das ferramentas pode influenciar consideravelmente o andamento e o resultado de um projeto. Escolher as ferramentas adequadas não apenas otimiza a eficiência da equipe, mas também pode determinar a facilidade de comunicação, a qualidade do trabalho e a capacidade de cumprir prazos. Uma escolha inadequada pode levar a obstáculos na colaboração, atrasos e até mesmo comprometer a entrega final.
 
-Segue abaixo uma tabela com as ferramentas utilizadas no projeto:
+Segue abaixo na **tabela 12** as ferramentas utilizadas no projeto:
 
 | Foto                                                                                                                                                                     | Nome                                                                    | Finalidade                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- | ------------------------------------------ |
@@ -13,6 +13,8 @@ Segue abaixo uma tabela com as ferramentas utilizadas no projeto:
 | ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)                                                          | [YouTube](https://www.youtube.com/)                                     | Hospedagem dos vídeos das apresentações    |
 | <img src="https://www.fullstackpython.com/img/logos/mkdocs.jpg" width="120">                                                                                             | [MkDocs](https://www.fullstackpython.com/img/logos/mkdocs.jpg)          | Criação da documentação                    |
 | ![Google Planilhas](https://img.shields.io/badge/Google%20Sheets-34A853.svg?style=for-the-badge&logo=Google-Sheets&logoColor=white)                                      | [Google Planilhas](https://docs.google.com/document/u/0/)               | Criação e edição colaborativa do heatmap   |
+
+<font size="2"><p style="text-align: center">Tabela 12 - Ferramentas  <br> Fonte: [Alana Gabriele](https://github.com/alanagabriele)</p></font>
 
 <br>
 

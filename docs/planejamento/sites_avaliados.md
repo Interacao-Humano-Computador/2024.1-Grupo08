@@ -3,7 +3,7 @@
 ## Introdução
 
 Na disciplina, cada integrante do grupo ficou responsável por planejar, com o framework DECIDE, e avaliar um site escolhido individualmente. Assim foi possível que cada um obtivesse experiência com os conceitos abordado na disciplina possibilitando uma compreensão das características, funcionalidades e experiência do usuário de cada plataforma. Através dessas avaliações individuais, buscamos identificar pontos fortes, fracos e possíveis melhorias. 
-Essa atividade também proporcionou insumos para a escolha de um site para realização da avaliação de IHC em equipe.
+Essa atividade também proporcionou insumos para a escolha de um site para realização da avaliação de IHC em equipe. Na **tabela 13** estão cada site que cada membro avaliou.
 
 | Nome |    Site Avaliado    | 
 | ------ | :--------: | 
@@ -13,6 +13,8 @@ Essa atividade também proporcionou insumos para a escolha de um site para reali
   [Pedro Henrique](https://github.com/PedroHenrique061) | Central Expresso |
   [Renan Araújo](https://github.com/renantfm4)   | CEBRASPE |     
   [Yasmim Rosa](https://github.com/yaskisoba) | DF no Ponto |
+
+  <font size="2"><p style="text-align: left">Tabela 13 - Sites avaliados por membros da equipe  <br> Fonte: [Gustavo Alves](https://github.com/gustaallves)</p></font>
 
 ## SIGAA
 
