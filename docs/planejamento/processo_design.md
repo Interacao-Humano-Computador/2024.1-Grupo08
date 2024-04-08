@@ -93,4 +93,4 @@ Foram discutido entre os membros e o processo de design definido pela equipe par
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 03/04/2024 | Introdução e de processos de design |  [Renan Araújo](https://github.com/renantfm4)   | [Yasmim Rosa](https://github.com/yaskisoba) |
+| 1.0    | 04/04/2024 | Introdução e processos de design |  [Renan Araújo](https://github.com/renantfm4)   | [Yasmim Rosa](https://github.com/yaskisoba) |
