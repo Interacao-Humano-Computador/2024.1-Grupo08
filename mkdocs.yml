@@ -34,12 +34,14 @@ nav:
       - Processo de Design: planejamento/processo_design.md
       - Sites Avaliados: planejamento/sites_avaliados.md
       - Site Escolhido: planejamento/site_escolhido.md
-  - Apresentações: 
-      - Apresentação 1: apresentacoes/apresentacao_1.md 
   - Atas:
           - Ata 1: atas/ata1.md
           - Ata 2: atas/ata2.md
           - Ata 3: atas/ata3.md
+  - Apresentações: 
+      - Apresentação 1: apresentacoes/apresentacao_1.md 
+  - Análise de Requisitos:
+      - Perfil de Usuários: requisitos/perfil_usuarios.md 
 
 extra_css:
   - custom.css

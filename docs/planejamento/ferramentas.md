@@ -16,6 +16,7 @@ Segue abaixo na **tabela 13** as ferramentas utilizadas no projeto:
 | <img src="https://miro.medium.com/v2/resize:fit:600/0*WteDmuQAOY6llaAb.png" width="120">                                      | MkDocs                      | Criação da documentação.                    |
 | <img src="https://miro.medium.com/v2/resize:fit:717/1*pHglcoa-BSouiNT7R2p9yQ.png" width=120>                                  | Google Planilhas            | Criação e edição colaborativa de planilhas. |
 | <img src="https://img.odcdn.com.br/wp-content/uploads/2023/05/Google-Docs.png" width=120>                                     | Google Docs                 | Criação e edição colaborativa de documentos. |
+| <img src="https://s2-techtudo.glbimg.com/RdpcHGLGPUXAXx3Q4ASP_HgBLk8=/0x0:695x390/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2018/3/3/BbVQrrTAyGz3Ah97ASBQ/google-forms.jpg" width=120>                                     | Google Forms                 | Criação de formulários de pesquisa. |
 | <img src="https://varbai.com/wp-content/uploads/2019/02/thispersondoesnotexis.jpg" width=120>                                | This Person Does Not Exist  | Imagens de rostos gerados por IA.           |
 | <img src="https://i0.wp.com/brasap.com.br/wp-content/uploads/2020/04/VSCODE-Art1.jpeg?fit=400%2C200&ssl=1" width=120>      | Visual Studio Code          | Editor de código para criação e edição da documentação.  |
 

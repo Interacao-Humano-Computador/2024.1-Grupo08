@@ -87,6 +87,16 @@ O DFnoPonto é um sistema de consulta de horários e linhas de transporte públi
 - Inserção de explicações ou exemplos nas funcionalidades já que abrange um público diverso.
 
 
+## Bibliografia
+> SIGAA UnB. Disponível em: [Link para SIGAA UnB](https://autenticacao.unb.br/sso-server/login?service=https%3A%2F%2Fsig.unb.br%2Fsigaa%2Flogin%2Fcas). Acesso em 11 de abril de 2024. <br>
+> REAPER. Disponível em: [Link para REAPER](https://www.reaper.fm/). Acesso em 11 de abril de 2024. <br>
+> Embaixada Americana. Disponível em: [Link para Embaixada Americana](https://ceac.state.gov/genniv/). Acesso em 11 de abril de 2024. <br>
+> Central Expresso. Disponível em: [Link para Central Expresso](https://www.centralexpresso.com/). Acesso em 11 de abril de 2024. <br>
+> CEBRASPE. Disponível em: [Link para CEBRASPE](https://www.cebraspe.org.br/). Acesso em 11 de abril de 2024. <br:>
+> DF no Ponto. Disponível em: [Link para DF no Ponto](https://dfnoponto.semob.df.gov.br/). Acesso em 11 de abril de 2024.
+
+
+
 ## Histórico de Versões
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
