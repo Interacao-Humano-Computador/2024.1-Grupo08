@@ -245,5 +245,5 @@ Na **tabela 12** está o cronograma planejado.
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | 1.0    | 27/03/2024 | Cronograma geral e cronograma etapa 1 | [Yasmim Rosa](https://github.com/yaskisoba) |  [Gustavo Alves](https://github.com/gustaallves)       |
 | 1.1    | 04/04/2024 | Cronograma geral e cronograma etapas 2, 3, 4, 5, 6, 7 e 8 | [Yasmim Rosa](https://github.com/yaskisoba) |  [Gustavo Alves](https://github.com/gustaallves)       |
-| 1.1    | 08/04/2024 | Atualização das datas do cronograma executado etapa 1 | [Yasmim Rosa](https://github.com/yaskisoba) |  [Gustavo Alves](https://github.com/gustaallves)       |
-| 1.1    | 08/04/2024 | Correções pós apresentação 1 | [Yasmim Rosa](https://github.com/yaskisoba) |    |
+| 1.2    | 08/04/2024 | Atualização das datas do cronograma executado etapa 1 | [Yasmim Rosa](https://github.com/yaskisoba) |  [Gustavo Alves](https://github.com/gustaallves)       |
+| 1.3    | 08/04/2024 | Correções pós apresentação 1 | [Yasmim Rosa](https://github.com/yaskisoba) |    |

@@ -2,24 +2,43 @@
 
 A seleção das ferramentas pode influenciar consideravelmente o andamento e o resultado de um projeto. Escolher as ferramentas adequadas não apenas otimiza a eficiência da equipe, mas também pode determinar a facilidade de comunicação, a qualidade do trabalho e a capacidade de cumprir prazos. Uma escolha inadequada pode levar a obstáculos na colaboração, atrasos e até mesmo comprometer a entrega final.
 
-Segue abaixo na **tabela 12** as ferramentas utilizadas no projeto:
+Segue abaixo na **tabela 13** as ferramentas utilizadas no projeto:
 
-| Foto                                                                                                                                                                     | Nome                                                                    | Finalidade                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- | ------------------------------------------ |
-| ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)                                                              | [WhatsApp](https://www.whatsapp.com/)                                   | Comunicação em tempo real                  |
-| <img src="https://static.wixstatic.com/media/fffeb7_1fe7b9d7f11248f8a592fe28c9ea3710~mv2.png/v1/fill/w_956,h_250,al_c,lg_1,q_85,enc_auto/ms-teams-logo.png" width="120"> | [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/free) | Reuniões semanais                          |
-| ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)                                                                | [Figma](https://www.figma.com/ui-design-tool/)                          | Prototipação e design de interface         |
-| ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)                                                             | [GitHub](https://github.com/)                                           | Controle de versão e colaboração em código |
-| ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)                                                          | [YouTube](https://www.youtube.com/)                                     | Hospedagem dos vídeos das apresentações    |
-| <img src="https://www.fullstackpython.com/img/logos/mkdocs.jpg" width="120">                                                                                             | [MkDocs](https://www.fullstackpython.com/img/logos/mkdocs.jpg)          | Criação da documentação                    |
-| ![Google Planilhas](https://img.shields.io/badge/Google%20Sheets-34A853.svg?style=for-the-badge&logo=Google-Sheets&logoColor=white)                                      | [Google Planilhas](https://docs.google.com/document/u/0/)               | Criação e edição colaborativa do heatmap   |
+<font size="2"><p style="text-align: center">Tabela 13 - Ferramentas  </p></font>
 
-<font size="2"><p style="text-align: center">Tabela 12 - Ferramentas  <br> Fonte: [Alana Gabriele](https://github.com/alanagabriele)</p></font>
+| Foto                                                                                                                           | Nome                        | Finalidade                                 |
+| ---------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ------------------------------------------ |
+| <img src="https://static.whatsapp.net/rsrc.php/v3/yR/r/y8-PTBaP90a.png" width=120>                                           | WhatsApp                    | Comunicação em tempo real.                  |
+| <img src="https://img.odcdn.com.br/wp-content/uploads/2020/04/20200427075044.jpg" width="120">                               | Microsoft Teams             | Reuniões semanais e gravação.              |
+| <img src="https://wptavern.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-19-at-8.43.27-PM.png" width=120>              | Figma                       | Prototipação e design de interface.         |
+| <img src="https://www.webfx.com/wp-content/uploads/2022/08/github-logo.png" width=120>                                       | GitHub                      | Controle de versão e colaboração em código. |
+| <img src="https://s2.static.brasilescola.uol.com.br/be/2023/01/logo-do-youtube.jpg" width=120>                               | YouTube                     | Hospedagem dos vídeos das apresentações.    |
+| <img src="https://miro.medium.com/v2/resize:fit:600/0*WteDmuQAOY6llaAb.png" width="120">                                      | MkDocs                      | Criação da documentação.                    |
+| <img src="https://miro.medium.com/v2/resize:fit:717/1*pHglcoa-BSouiNT7R2p9yQ.png" width=120>                                  | Google Planilhas            | Criação e edição colaborativa de planilhas. |
+| <img src="https://img.odcdn.com.br/wp-content/uploads/2023/05/Google-Docs.png" width=120>                                     | Google Docs                 | Criação e edição colaborativa de documentos. |
+| <img src="https://varbai.com/wp-content/uploads/2019/02/thispersondoesnotexis.jpg" width=120>                                | This Person Does Not Exist  | Imagens de rostos gerados por IA.           |
+| <img src="https://i0.wp.com/brasap.com.br/wp-content/uploads/2020/04/VSCODE-Art1.jpeg?fit=400%2C200&ssl=1" width=120>      | Visual Studio Code          | Editor de código para criação e edição da documentação.  |
+
+
+<font size="2"><p style="text-align: center"> Fonte: [Alana Gabriele](https://github.com/alanagabriele)  </p></font>
 
 <br>
+
+## Bibliografia
+> Whatsapp. Disponível em: [Link para Whatsapp](https://web.whatsapp.com/). Acesso em 11 de abril de 2024. <br>
+> Microsoft Teams. Disponível em: [Link para Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/free). Acesso em 11 de abril de 2024. <br>
+> Figma. Disponível em: [Link para Figma](https://www.figma.com/ui-design-tool/). Acesso em 11 de abril de 2024. <br>
+> Github. Disponível em: [Link para Github](https://docs.github.com/pt). Acesso em 11 de abril de 2024. <br>
+> Youtube. Disponível em: [Link para Youtube](https://www.youtube.com/). Acesso em 11 de abril de 2024. <br>
+> Mkdocs. Disponível em: [Link para Mkdocs](https://www.mkdocs.org/). Acesso em 11 de abril de 2024. <br>
+> Google Planilhas. Disponível em: [Link para Google Planilhas](hhttps://www.google.com/sheets/about/). Acesso em 11 de abril de 2024. <br>
+> Google Docs. Disponível em: [Link para Google Docs](https://www.google.com/intl/pt-BR/docs/about/). Acesso em 11 de abril de 2024. <br>
+> This Person Does Not Exist. Disponível em: [Link para This Person Does Not Exist](https://thispersondoesnotexist.com/). Acesso em 11 de abril de 2024. <br>
+> Visual Studio Code. Disponível em: [Link para Visual Studio Code](https://code.visualstudio.com/). Acesso em 11 de abril de 2024. <br>
 
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                     | Autor                 | Revisor |
 | ------ | ---------- | ----------------------------- | --------------------- | ------- |
 | 1.0    | 04/04/2024 | Inserção de ferramentas       | [Alana Gabriele](https://github.com/alanagabriele) | [Renan Araújo](https://github.com/renantfm4)|
+| 1.1    | 04/04/2024 | Adicionando mais ferramentas       | [Yasmim Rosa](https://github.com/yaskisoba) | |
