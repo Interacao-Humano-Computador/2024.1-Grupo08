@@ -12,8 +12,9 @@ Os processos de design então, derivados dessas atividades básicas, propõe man
 
 O **processo de design simples** (figura 2) é uma abordagem para criar soluções de design de forma eficiente e direta, concentrando-se nos princípios fundamentais do design e na resolução de problemas de maneira clara e concisa.
 
+<font size="2"><p style="text-align: center"> Figura 2 - Processo de Design Simples </p></font>
 ![processo de design simples](image.png)
-<font size="2"><p style="text-align: center"> Figura 2 - Processo de Design Simples  <br> Fonte: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.</p></font>
+<font size="2"><p style="text-align: center"> Fonte: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.</p></font>
 
 ### Pontos positivos:
 
@@ -30,8 +31,10 @@ O **processo de design simples** (figura 2) é uma abordagem para criar soluçõ
 
 O modelo de **Ciclo de Vida Estrela** (figura 3) foi proposto em 1989 por Hartson e Hix, a partir de um trabalho empírico que estes autores desenvolveram através da observação de como  designers de interfaces trabalhava. O Modelo Estrela é composto por seis atividades, a saber: análise de tarefas, especificação de requisitos, projeto conceitual e formal, prototipação, implementação e avaliação
 
+<font size="2"><p style="text-align: center"> Figura 3 - Ciclo de Vida em Estrela </p></font>
+
 ![alt text](image-1.png)
-<font size="2"><p style="text-align: center"> Figura 3 - Ciclo de Vida em Estrela  <br>  Fonte: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.</p></font>
+<font size="2"><p style="text-align: center"> Fonte: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.</p></font>
 
 ### Pontos positivos: 
 
@@ -66,8 +69,12 @@ Trata a usabilidade como um processo interativo que envolve o usuário em suas f
 
 A **Engenharia de Usabilidade de Mayhew** (figura 4) traz uma abordagem que privilegia o papel do usuário na execução de tarefas, no intuito de construir sistemas adaptados às suas necessidades e objetivos. 
 
+<font size="2"><p style="text-align: center"> Figura 4 - Engenharia de Usabilidade de Mayhew  </p></font>
+
 ![alt text](image-2.png)
-<font size="2"><p style="text-align: center"> Figura 4 - Engenharia de Usabilidade de Mayhew  <br> Fonte: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.</p></font>
+
+<font size="2"><p style="text-align: center"> Fonte: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.</p></font>
+
 
 ### Pontos positivos:
 
@@ -87,10 +94,11 @@ A **Engenharia de Usabilidade de Mayhew** (figura 4) traz uma abordagem que priv
 Foram discutido entre os membros e o processo de design definido pela equipe para ser usado no projeto foi o Ciclo de Vida de Mayehw, por ser um modelo mais completo e detalhado, o que reduz a subjetividade comum em modelos de processo de design mais simples e possibilitando designers menos experientes aplicá-los com êxito em projetos complexos.
 
 ## Bibliografia
-[1] BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versões
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | 1.0    | 04/04/2024 | Introdução e processos de design |  [Renan Araújo](https://github.com/renantfm4)   | [Yasmim Rosa](https://github.com/yaskisoba) |
+| 1.2    | 04/04/2024 | Ajuste em fontes e legendas |  [Yasmim Rosa](https://github.com/yaskisoba)   |  |

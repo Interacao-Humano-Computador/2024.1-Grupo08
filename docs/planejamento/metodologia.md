@@ -9,8 +9,9 @@ Foi elaborado um **heatmap de disponibilidade** (figura 1), onde cada membro da 
 <li> Sempre durante a noite, em especial nas segundas e quartas.</li>
 </ul>
 
+<font size="2"><p style="text-align: center"> Figura 1 - Heatmap de Disponibilidade </p></font>
 ![alt text](image-3.png)
-<font size="2"><p style="text-align: center"> Figura 1 - Heatmap de Disponibilidade  <br> Fonte: [Gustavo Alves](https://github.com/gustaallves)</p></font>
+<font size="2"><p style="text-align: center"> Fonte: [Gustavo Alves](https://github.com/gustaallves)</p></font>
 
 ## Metodologia: SCRUM Adapatado e Extreme programming
 Por maior familiaridade dos membros da equipe e devido a característica de inversão do triângulo de ferro encontrada em metodologias ágeis onde o tempo se encontra como uma restrição importante e que é coerente com o projeto a ser desenvolvido o SCRUM então foi elegido como a metodologia a ser utilizada no projeto juntamente a algumas técnicas do XP (Extreme programming).
@@ -25,9 +26,9 @@ Por maior familiaridade dos membros da equipe e devido a característica de inve
 
 
 ## Bibliografia
-[1] GIFFONI, Nicolas. Quem é Jeff Sutherland? Conheça o “pai” do Scrum e sua trajetória. Disponível em: <https://www.ieepeducacao.com.br/jeff-sutherland/>. Acesso em: 6 de Abril de 2024. <br>
-[2] ENGELBRETH, Eneida Xavier. O Triângulo Ágil de Restrições. Disponível em: <https://fixeconsulting.com/2017/03/o-triangulo-agil-de-restricoes/>. Acesso em: 6 de Abril de 2024. <br>
-[3] SHARMA, Jatin. Pair Programming: Best Practices and Tools. Disponível em: <https://dev.to/documatic/pair-programming-best-practices-and-tools-154j>. Acesso em: 6 de Abril de 2024.
+> GIFFONI, Nicolas. Quem é Jeff Sutherland? Conheça o “pai” do Scrum e sua trajetória. Disponível em: <https://www.ieepeducacao.com.br/jeff-sutherland/>. Acesso em: 6 de Abril de 2024. <br>
+> ENGELBRETH, Eneida Xavier. O Triângulo Ágil de Restrições. Disponível em: <https://fixeconsulting.com/2017/03/o-triangulo-agil-de-restricoes/>. Acesso em: 6 de Abril de 2024. <br>
+> SHARMA, Jatin. Pair Programming: Best Practices and Tools. Disponível em: <https://dev.to/documatic/pair-programming-best-practices-and-tools-154j>. Acesso em: 6 de Abril de 2024.
 AWS. O que é Scrum. Disponível em: <https://aws.amazon.com/pt/what-is/scrum/>. Acesso em: 6 de Abril de 2024.
 
 ## Histórico de Versões

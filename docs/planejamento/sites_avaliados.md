@@ -21,6 +21,7 @@ Essa atividade também proporcionou insumos para a escolha de um site para reali
 O SIGAA (Sistema Integrado de Gestão de Atividades Acadêmicas) é uma plataforma desenvolvida para gerenciar atividades acadêmicas e administrativas. Utilizado por diversas instituições de ensino superior, o SIGAA oferece funcionalidades como matrícula em disciplinas, emissão de histórico escolar e gerenciamento de eventos acadêmicos.
 
 ## REAPER
+![REAPER](image-6.png)
 
 “REAPER é um aplicativo completo de produção de áudio digital para computadores, oferecendo
 um conjunto completo de ferramentas de gravação, edição, processamento, mixagem e
@@ -49,6 +50,8 @@ O site da Embaixada Americana oferece informações sobre os serviços consulare
 
 ## Central Expresso 
 
+![Central Expresso](image-5.png)
+
 O site Central Expresso é uma plataforma especializada na venda de passagens de ônibus, oferecendo aos usuários a facilidade de consultar horários, destinos e informações detalhadas sobre suas linhas.
 
 ### Pontos Fortes
@@ -62,10 +65,11 @@ O site Central Expresso é uma plataforma especializada na venda de passagens de
 
 ## CEBRASPE
 
-
 O CEBRASPE (Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos) é uma instituição líder na organização de concursos públicos e processos seletivos no Brasil. Seu site fornece informações sobre editais, resultados e serviços relacionados, facilitando a participação dos candidatos nos certames organizados pela instituição.
 
 ## DF no Ponto
+
+![DF no Ponto](image-4.png)
 
 O DFnoPonto é um sistema de consulta de horários e linhas de transporte público no Distrito Federal. Com ele, você pode verificar itinerários, visualizar trajetos e obter informações sobre os pontos de parada. Além disso, o DFnoPonto também oferece a localização em tempo real dos ônibus via sinal de GPS.
 
