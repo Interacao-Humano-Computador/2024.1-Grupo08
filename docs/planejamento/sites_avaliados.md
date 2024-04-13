@@ -67,6 +67,21 @@ O site Central Expresso é uma plataforma especializada na venda de passagens de
 
 O CEBRASPE (Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos) é uma instituição líder na organização de concursos públicos e processos seletivos no Brasil. Seu site fornece informações sobre editais, resultados e serviços relacionados, facilitando a participação dos candidatos nos certames organizados pela instituição.
 
+### Pontos Fortes
+
+- O site oferece uma ampla gama de informações sobre concursos e processos, incluindo editais, calendários, gabaritos e resultados.
+
+### Pontos Fracos
+
+- Dificuldade ao fazer autenticação na conta, muitas vezes quando vai logar o site cai e ou dá sessão expirada.
+- Ausência de acessibilidade.
+- O design do site pode parecer um pouco antiquado e pode não oferecer uma experiência visual atraente para os usuários.
+
+### Sugestões de melhorias 
+
+- Investir em uma atualização do design do site para torná-lo mais moderno e atrativo visualmente pode melhorar a experiência do usuário.
+- Incluir ferramentas de acessibilidade
+- Revisar sua infraestrutura de autenticação para identificar possíveis falhas ou gargalos, o que é notável sempre que alguém tenta logar com sua conta no site.
 ## DF no Ponto
 
 ![DF no Ponto](image-4.png)
