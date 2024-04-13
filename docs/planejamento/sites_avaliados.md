@@ -65,6 +65,8 @@ O site Central Expresso é uma plataforma especializada na venda de passagens de
 
 ## CEBRASPE
 
+![Cebraspe](image-7.png)
+
 O CEBRASPE (Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos) é uma instituição líder na organização de concursos públicos e processos seletivos no Brasil. Seu site fornece informações sobre editais, resultados e serviços relacionados, facilitando a participação dos candidatos nos certames organizados pela instituição.
 
 ### Pontos Fortes
