@@ -103,6 +103,22 @@ O DFnoPonto é um sistema de consulta de horários e linhas de transporte públi
 - Inclusão de opções de acessibilidade;
 - Inserção de explicações ou exemplos nas funcionalidades já que abrange um público diverso.
 
+## Embaixada e Consulados dos EUA no Brasil
+Site destinado a turistas brasileiros que desejam emitir seu visto para visitar os Estados Unidos
+![Embaixada e Consulados dos EUA no Brasil](image-8.png)
+### Pontos Fortes
+-Site com poucas etapas para o objetivo pretendido;
+-Algumas páginas são bastante intuitivas.
+### Pontos Fracos
+-Site em inglês sem a possibilidade de tradução;
+- A página ocupa só metade da tela;
+- Pouca usabilidade;
+- Botões se localizam em lugares pouco intuitivos.
+## Sugestões de Melhorias
+- Ajuste Autom´atico da Interface ao Tamanho da Tela;
+- Tradução Completa e Revisão Linguística;
+- Aumento da Fonte e Contraste Apropriado;
+- Localização Estratégica dos Botões.
 
 ## Bibliografia
 > SIGAA UnB. Disponível em: [Link para SIGAA UnB](https://autenticacao.unb.br/sso-server/login?service=https%3A%2F%2Fsig.unb.br%2Fsigaa%2Flogin%2Fcas). Acesso em 11 de abril de 2024. <br>
