@@ -107,10 +107,10 @@ O DFnoPonto é um sistema de consulta de horários e linhas de transporte públi
 Site destinado a turistas brasileiros que desejam emitir seu visto para visitar os Estados Unidos
 ![Embaixada e Consulados dos EUA no Brasil](image-8.png)
 ### Pontos Fortes
--Site com poucas etapas para o objetivo pretendido;
--Algumas páginas são bastante intuitivas.
+- Site com poucas etapas para o objetivo pretendido;
+- Algumas páginas são bastante intuitivas.
 ### Pontos Fracos
--Site em inglês sem a possibilidade de tradução;
+- Site em inglês sem a possibilidade de tradução;
 - A página ocupa só metade da tela;
 - Pouca usabilidade;
 - Botões se localizam em lugares pouco intuitivos.
