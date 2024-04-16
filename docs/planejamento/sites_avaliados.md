@@ -67,6 +67,7 @@ O site Central Expresso é uma plataforma especializada na venda de passagens de
 - Melhorar a acessibilidade com botões mais intuitivos;
 - Personalização de tema;
 - Recursos intuitivos para facilitar o uso do usuário;
+- Constrate de cores;
 
 ## CEBRASPE
 
