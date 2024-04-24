@@ -236,8 +236,8 @@ Na **tabela 12** está o cronograma planejado.
 
 
 ## Bibliografia
-[1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2843624/mod_resource/content/48/Plano_de_Ensino%20FIHC%20012024%20Turma%201.pdf> Acesso em 25 de março de 2024. <br>
-[2] SALES, André Barros. Template de cronograma. Disponível em: <https://aprender3.unb.br/pluginfile.php/2843633/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf> Acesso em 27 de abril de 2024.
+> SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2843624/mod_resource/content/48/Plano_de_Ensino%20FIHC%20012024%20Turma%201.pdf> Acesso em 25 de março de 2024. <br>
+> SALES, André Barros. Template de cronograma. Disponível em: <https://aprender3.unb.br/pluginfile.php/2843633/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf> Acesso em 27 de abril de 2024.
 
 ## Histórico de Versões
 
