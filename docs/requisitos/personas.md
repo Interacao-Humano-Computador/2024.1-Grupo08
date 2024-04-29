@@ -8,6 +8,22 @@ Pesquisa Quantitativa: Análises estatísticas ajudam a entender as característ
 Análise de Segmentação: Essencial para definir grupos específicos de usuários representados por cada persona.
 
 
+## Como usar Personas
+
+Desenvolvimento de Personas:
+O processo começa com a coleta intensiva de dados através de entrevistas, observações, e análise de dados existentes. Após a coleta, os dados são analisados para identificar padrões que fundamentam a criação das personas.
+Aplicação no Design e Desenvolvimento:
+Definição de Requisitos: As necessidades e desejos das personas orientam a definição de requisitos para o projeto.
+Design da Interface: Utiliza as características das personas para guiar o design, focando na usabilidade e acessibilidade.
+Avaliação de Usabilidade: Personas são usadas para formular cenários de teste que simulam o uso real do sistema.
+
+
+## Benefícios das Personas
+
+Os benefícios das personas são muitos, ela garante que a avaliação se concentre nas necessidades reais dos usuários, levando a tomar decisões certas em relação ao site, possibilitando a personalização. Facilita também a comunicação dos resultados da avaliação com stakeholders e membros da equipe, através de representações concretas dos usuários. Usando tomada de decisões baseada em dados é possível fornecer uma base sólida para decisões de design e desenvolvimento, baseadas nas necessidades e expectativas reais dos usuários. Os avaliadores eles se colocam no lugar do usuário e compreendem melhor suas frustrações, crucial para ter um site realmente útil e agradável. Ao focar em problemas reais identificados pelas personas, é possível reduzir retrabalhos e correções de funcionalidades que não atendem às necessidades dos usuários, economizando tempo e recursos.
+
+
+
 ## Histórico de Versões
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
