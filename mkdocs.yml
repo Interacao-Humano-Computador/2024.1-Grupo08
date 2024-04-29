@@ -42,6 +42,7 @@ nav:
       - Apresentação 1: apresentacoes/apresentacao_1.md 
   - Análise de Requisitos:
       - Perfil de Usuários: requisitos/perfil_usuarios.md 
+      - Personas: requisitos/personas.md
 
 extra_css:
   - custom.css
