@@ -1,23 +1,27 @@
 ## Introdução
 
+
 Personas são arquétipos criados para representar grupos de usuários típicos que ajudam os designers e desenvolvedores a visualizar o público-alvo de seus projetos de uma maneira mais tangível e humanizada. As personas são fundamentais no design de interação, como discutido por Simone Diniz Junqueiro Barbosa e Bruno Santana da Silva em sua obra "Interação Humano-Computador" (2010). Esses arquétipos são baseados em dados reais coletados por meio de pesquisas com usuários, e cada persona encapsula as características essenciais de um segmento significativo do público-alvo.
 
 ## Metodologia
 
 Conforme Barbosa e Silva (2010), a utilização de personas envolve métodos qualitativos e quantitativos:
-Pesquisa Qualitativa: Entrevistas detalhadas e grupos focais revelam motivações profundas e expectativas dos usuários.
-Pesquisa Quantitativa: Análises estatísticas ajudam a entender as características demográficas e comportamentais dos usuários.
-Análise de Segmentação: Essencial para definir grupos específicos de usuários representados por cada persona.
+
+- Pesquisa Qualitativa: Entrevistas detalhadas e grupos focais revelam motivações profundas e expectativas dos usuários.              
+- Pesquisa Quantitativa: Análises estatísticas ajudam a entender as características demográficas e comportamentais dos usuários.
+- Análise de Segmentação: Essencial para definir grupos específicos de usuários representados por cada persona.
 
 
 ## Como usar Personas
 
 Desenvolvimento de Personas:
 O processo começa com a coleta intensiva de dados através de entrevistas, observações, e análise de dados existentes. Após a coleta, os dados são analisados para identificar padrões que fundamentam a criação das personas.
+
 Aplicação no Design e Desenvolvimento:
-Definição de Requisitos: As necessidades e desejos das personas orientam a definição de requisitos para o projeto.
-Design da Interface: Utiliza as características das personas para guiar o design, focando na usabilidade e acessibilidade.
-Avaliação de Usabilidade: Personas são usadas para formular cenários de teste que simulam o uso real do sistema.
+
+1. Definição de Requisitos: As necessidades e desejos das personas orientam a definição de requisitos para o projeto.
+2. Design da Interface: Utiliza as características das personas para guiar o design, focando na usabilidade e acessibilidade.
+3. Avaliação de Usabilidade: Personas são usadas para formular cenários de teste que simulam o uso real do sistema.
 
 
 ## Benefícios das Personas
@@ -48,7 +52,7 @@ Para conseguir as imagens, foi utilizado o site [This person does not exist](htt
 |    |    |
 | :----: | :---------------------: |
 |  Nome  |   Lucas   |
-|  Foto  |   <img src="/Persona1.png" width = 100px><p>Imagem:  persona 1 |
+|  Foto  |   <img src="./Persona1.jpg" width = 100px><p> |
 | Descrição | Lucas, 23 anos, estudante de ensino superior, reside em Luziânia | 
 | Tipo | Persona primária |
 | Relacionamentos | Lucas tem um forte vínculo com sua família e amigos próximos. Além disso, ele estabeleceu uma relação significativa com Henrique, seu principal professor durante a graduação, que o influenciou positivamente em sua trajetória acadêmica e pessoal.   |
@@ -65,7 +69,7 @@ Para conseguir as imagens, foi utilizado o site [This person does not exist](htt
 |    |    |
 | :----: | :---------------------: |
 |  Nome  |   Pedro  |
-|  Foto  |   <img src="..//Persona2.png" width = 100px><p>Imagem:  persona 1 |
+|  Foto  |   <img src="./Persona2.jpg" width = 100px><p> |
 | Descrição | Pedro é um estudante universitário de 25 anos que vive em Luziânia. Ele é proativo, autodidata e valoriza a praticidade proporcionada pela tecnologia em sua rotina agitada. | 
 | Tipo | Persona primária |
 | Relacionamentos | Familiares, amigos e namorada |
@@ -99,7 +103,7 @@ Para conseguir as imagens, foi utilizado o site [This person does not exist](htt
 |    |    |
 | :----: | :---------------------: |
 |  Nome  |   Rafael   |
-|  Foto  |   <img src="../assets/Persona1.png" width = 100px><p>Imagem:  persona 1 |
+|  Foto  |   <img src="" width = 100px><p> |
 | Descrição | Rafael, 31 anos, é um empresário que possui uma pequena loja de eletrônicos em Luziânia. Ele é prático e busca sempre a eficiência em seus processos, tanto pessoais quanto profissionais. | 
 | Tipo | Persona secundária |
 | Relacionamentos | Rafael tem um círculo de amigos com quem compartilha interesses em tecnologia e inovações. Ele é casado e pai de dois filhos. |
@@ -112,7 +116,9 @@ Para conseguir as imagens, foi utilizado o site [This person does not exist](htt
 
 ## Bibliografia
 > Barbosa, S. D. J., & Silva, B. S. (2010). Interação Humano-Computador. Editora Campus.
+
 > The Power of User Personas in UX Design, disponível em: https://www.linkedin.com/pulse/power-user-personas-ux-design-jo-ionescu-ce3nf/, Acesso em: 20/04/2024
+
 > This Person Doest Not Exist, disponível em: https://this-person-does-not-exist.com/en. Acesso em: 20/04/2024.
 
 ## Histórico de Versões
@@ -120,4 +126,5 @@ Para conseguir as imagens, foi utilizado o site [This person does not exist](htt
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | 1.0    | 28/04/2024 | Personas |  [Renan Araújo](https://github.com/renantfm4) <br> [Gustavo Alves](https://github.com/gustaallves)  |  |
+| 1.1   | 01/05/2024 | Finalizando Personas |  [Renan Araújo](https://github.com/renantfm4) <br> [Gustavo Alves](https://github.com/gustaallves)  |  |
 
