@@ -1,3 +1,5 @@
+## Introdução
+
 De acordo com Barbosa e Silva (2010), o perfil de usuário é o primeiro passo para registrar o entendimento sobre os usuários ao traçar um perfil sobre eles e nos ajuda a entender o público alvo do produto em questão.
 
 ## Metodologia
