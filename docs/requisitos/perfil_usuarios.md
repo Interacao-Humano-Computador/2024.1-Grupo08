@@ -6,9 +6,7 @@ Foi realizada a coleta de dados por meio de um questionário, devido a sua capac
 ## Resultado do questionário
 Com as respostas do formulário foi possível concluir que a maioria dos usuários são estudantes com a faixa etária entre 18 e 24 anos, em grande parte homens com grau de escolaridade superior incompleto com uma boa experiência em tecnologia e 
 
-![age](image.png)
 
-![gender](image-1.png)
 
 
 
