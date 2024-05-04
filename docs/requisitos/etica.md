@@ -65,7 +65,7 @@ Com base nesses princípios e na Resolução 510/2016 que regulamenta a pesquisa
 ## Termo de Consentimento Livre e Esclarecido (TCLE)
 O termo de consentimento, como citado anteriormente, é de extrema importância para a realização de pesquisa com seres humanos para garantir seus direitos, concientizar a cerca deles e tranquilizar sobre a utilização os dados do participante. Foi então elaborado um termo que será utilizado com os participantes da pesquisa deste projeto.
 
-<font size="2"><p style="text-align: center"> Figura x - Termo de Consentimento Livre e Esclarecido </p></font>
+<font size="2"><p style="text-align: center"> Figura 11 - Termo de Consentimento Livre e Esclarecido </p></font>
 
 <center>![Termo de Consentimento](termo.png) </center>
 

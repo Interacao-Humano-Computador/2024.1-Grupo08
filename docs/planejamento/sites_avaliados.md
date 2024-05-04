@@ -21,11 +21,16 @@ Essa atividade também proporcionou insumos para a escolha de um site para reali
 O SIGAA (Sistema Integrado de Gestão de Atividades Acadêmicas) é uma plataforma desenvolvida para gerenciar atividades acadêmicas e administrativas. Utilizado por diversas instituições de ensino superior, o SIGAA oferece funcionalidades como matrícula em disciplinas, emissão de histórico escolar e gerenciamento de eventos acadêmicos.
 
 ## REAPER
-![REAPER](image-6.png)
-
 “REAPER é um aplicativo completo de produção de áudio digital para computadores, oferecendo
 um conjunto completo de ferramentas de gravação, edição, processamento, mixagem e
 masterização de áudio multipista e MIDI.” (Reaper, 2024)
+
+<font size="2"><p style="text-align: center"> Figura 5 - Site REAPER</p></font>
+
+![REAPER](image-6.png)
+
+<font size="2"><p style="text-align: center"> Fonte: REAPER. Disponível em: [https://www.reaper.fm/](https://www.reaper.fm/)</p></font>
+
 
 ### Pontos Fortes
 - A proposta é interessante no quesito de centralizar diversas ferramentas.
@@ -49,10 +54,13 @@ O site da Embaixada Americana oferece informações sobre os serviços consulare
 
 
 ## Central Expresso 
+O site Central Expresso é uma plataforma especializada na venda de passagens de ônibus, oferecendo aos usuários a facilidade de consultar horários, destinos e informações detalhadas sobre suas linhas.
+
+<font size="2"><p style="text-align: center"> Figura 6 - Site Central Expresso</p></font>
 
 ![Central Expresso](image-5.png)
 
-O site Central Expresso é uma plataforma especializada na venda de passagens de ônibus, oferecendo aos usuários a facilidade de consultar horários, destinos e informações detalhadas sobre suas linhas.
+<font size="2"><p style="text-align: center"> Fonte: Central Expresso. Disponível em: [https://www.centralexpresso.com/](https://www.centralexpresso.com/)</p></font>
 
 ### Pontos Fortes
 - É um site bem "cru" então não tem muita complexidade.
@@ -71,9 +79,14 @@ O site Central Expresso é uma plataforma especializada na venda de passagens de
 
 ## CEBRASPE
 
+O CEBRASPE (Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos) é uma instituição líder na organização de concursos públicos e processos seletivos no Brasil. Seu site fornece informações sobre editais, resultados e serviços relacionados, facilitando a participação dos candidatos nos certames organizados pela instituição.
+
+<font size="2"><p style="text-align: center"> Figura 7 - Site CEBRASPE </p></font>
+
 ![Cebraspe](image-7.png)
 
-O CEBRASPE (Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos) é uma instituição líder na organização de concursos públicos e processos seletivos no Brasil. Seu site fornece informações sobre editais, resultados e serviços relacionados, facilitando a participação dos candidatos nos certames organizados pela instituição.
+<font size="2"><p style="text-align: center"> Fonte: CEBRASPE. Disponível em: [https://www.cebraspe.org.br/](https://www.cebraspe.org.br/)</p></font>
+
 
 ### Pontos Fortes
 
@@ -91,10 +104,12 @@ O CEBRASPE (Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promo�
 - Incluir ferramentas de acessibilidade
 - Revisar sua infraestrutura de autenticação para identificar possíveis falhas ou gargalos, o que é notável sempre que alguém tenta logar com sua conta no site.
 ## DF no Ponto
+O DFnoPonto é um sistema de consulta de horários e linhas de transporte público no Distrito Federal. Com ele, você pode verificar itinerários, visualizar trajetos e obter informações sobre os pontos de parada. Além disso, o DFnoPonto também oferece a localização em tempo real dos ônibus via sinal de GPS.
+<font size="2"><p style="text-align: center"> Figura 8 - Site DF no Ponto </p></font>
 
 ![DF no Ponto](image-4.png)
 
-O DFnoPonto é um sistema de consulta de horários e linhas de transporte público no Distrito Federal. Com ele, você pode verificar itinerários, visualizar trajetos e obter informações sobre os pontos de parada. Além disso, o DFnoPonto também oferece a localização em tempo real dos ônibus via sinal de GPS.
+<font size="2"><p style="text-align: center"> Fonte: DF no Ponto. Disponível em: [https://dfnoponto.semob.df.gov.br/](https://dfnoponto.semob.df.gov.br/)</p></font>
 
 ### Pontos Fortes
 - Uma abordagem boa para centralização de informações sobre linhas de ônibus;
@@ -110,8 +125,13 @@ O DFnoPonto é um sistema de consulta de horários e linhas de transporte públi
 - Inserção de explicações ou exemplos nas funcionalidades já que abrange um público diverso.
 
 ## Embaixada e Consulados dos EUA no Brasil
-Site destinado a turistas brasileiros que desejam emitir seu visto para visitar os Estados Unidos
+Site destinado a turistas brasileiros que desejam emitir seu visto para visitar os Estados Unidos.
+
+<font size="2"><p style="text-align: center"> Figura 9 - Site Embaixada e Consulados dos EUA no Brasil </p></font>
+
 ![Embaixada e Consulados dos EUA no Brasil](image-8.png)
+
+<font size="2"><p style="text-align: center"> Fonte: Embaixada e Consulados dos EUA no Brasil. Disponível em: [https://br.usembassy.gov/pt/visas-pt/](https://br.usembassy.gov/pt/visas-pt/)</p></font>
 ### Pontos Fortes
 - Site com poucas etapas para o objetivo pretendido;
 - Algumas páginas são bastante intuitivas.

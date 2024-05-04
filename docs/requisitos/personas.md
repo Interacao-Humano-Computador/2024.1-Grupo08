@@ -26,6 +26,10 @@ Aplicação no Design e Desenvolvimento:
 Os benefícios das personas são muitos, ela garante que a avaliação se concentre nas necessidades reais dos usuários, levando a tomar decisões certas em relação ao site, possibilitando a personalização. Facilita também a comunicação dos resultados da avaliação com stakeholders e membros da equipe, através de representações concretas dos usuários. Usando tomada de decisões baseada em dados é possível fornecer uma base sólida para decisões de design e desenvolvimento, baseadas nas necessidades e expectativas reais dos usuários. Os avaliadores eles se colocam no lugar do usuário e compreendem melhor suas frustrações, crucial para ter um site realmente útil e agradável. Ao focar em problemas reais identificados pelas personas, é possível reduzir retrabalhos e correções de funcionalidades que não atendem às necessidades dos usuários, economizando tempo e recursos.
 
 ## **Perfis**
+**Na tabela 16** estão as características gerais usadas na criação das personas derivada do perfil do usuário.
+
+<font size="2"><p style="text-align: center"> Tabela 16 - Características das personas </p></font>
+
 
 | Características |  Descrição  |
 | :-----:  | :-----: |
@@ -39,11 +43,15 @@ Os benefícios das personas são muitos, ela garante que a avaliação se concen
 | Frequência de compras online | Frequentemente |
 | Conhecimento que podia realizar compras de passagens com antecedência | Não |
 
+<font size="2"><p style="text-align: center"> Fonte: [Renan Araújo](https://github.com/renantfm4) e [Gustavo Alves](https://github.com/gustaallves) </p></font>
+
 ## **Tabela de personas**
 
-Para conseguir as imagens, foi utilizado o site [This person does not exist](https://this-person-does-not-exist.com/en) baseado em inteligência artificial.
+Para conseguir as imagens, foi utilizado o site [This person does not exist](https://this-person-does-not-exist.com/en) baseado em inteligência artificial. Nas **Tabelas 17, 18, 19 e 20** estão a descrição das personas
 
 + **Lucas**
+
+<font size="2"><p style="text-align: center"> Tabela 17 - Persona Lucas </p></font>
 
 |    |    |
 | :----: | :---------------------: |
@@ -59,8 +67,11 @@ Para conseguir as imagens, foi utilizado o site [This person does not exist](htt
 | Expectativas | Espera conveniência e eficiência ao utilizar meios digitais. Pode esperar encontrar as informações ou realizar as tarefas de forma rápida e intuitiva. |
 | Requisitos | Interface simples e intuitiva, informações claras e precisas, opções de compra online acessíveis e seguras. |
 
+<font size="2"><p style="text-align: center"> Fonte: [Renan Araújo](https://github.com/renantfm4) e [Gustavo Alves](https://github.com/gustaallves) </p></font>
 
 + **Pedro**
+
+<font size="2"><p style="text-align: center"> Tabela 18 - Persona Pedro </p></font>
 
 |    |    |
 | :----: | :---------------------: |
@@ -76,8 +87,12 @@ Para conseguir as imagens, foi utilizado o site [This person does not exist](htt
 | Expectativas | Pedro busca uma experiência digital fluida e sem complicações, permitindo-lhe encontrar informações e realizar tarefas de maneira rápida, sem obstáculos ou dificuldades. |
 | Requisitos | Pedro busca interfaces intuitivas, informações claras e precisas, bem como opções de compra online seguras e acessíveis. Ele espera encontrar soluções tecnológicas que facilitem suas tarefas diárias e melhorem sua qualidade de vida. |
 
+<font size="2"><p style="text-align: center"> Fonte: [Renan Araújo](https://github.com/renantfm4) e [Gustavo Alves](https://github.com/gustaallves) </p></font>
 
 + **Mariana**
+
+<font size="2"><p style="text-align: center"> Tabela 19 - Persona Mariana </p></font>
+
 
 |    |    |
 | :----: | :---------------------: |
@@ -93,8 +108,12 @@ Para conseguir as imagens, foi utilizado o site [This person does not exist](htt
 | Expectativas | Espera que o site ofereça uma experiência fluída e intuitiva, com informações atualizadas e precisas sobre horários e rotas, e um sistema de compra de passagens simples e seguro. |
 | Requisitos | Interfaces de usuário claras e acessíveis, informações precisas sobre itinerários e disponibilidade de assentos, opções de pagamento seguras e confiáveis. |
 
+<font size="2"><p style="text-align: center"> Fonte: [Renan Araújo](https://github.com/renantfm4) e [Gustavo Alves](https://github.com/gustaallves) </p></font>
 
 + **Rafael**
+
+<font size="2"><p style="text-align: center"> Tabela 20 - Persona Rafael </p></font>
+
 
 |    |    |
 | :----: | :---------------------: |
@@ -109,6 +128,8 @@ Para conseguir as imagens, foi utilizado o site [This person does not exist](htt
 | Habilidades | Capaz de identificar e utilizar as melhores ferramentas tecnológicas para otimizar seus processos de trabalho e vida pessoal. |
 | Expectativas | Rafael espera que o site seja confiável, com um processo de compra clara e segura, e que ofereça suporte eficiente quando necessário. |
 | Requisitos | Sistema de reservas eficiente, informações detalhadas sobre serviços, suporte ao cliente acessível e eficaz. |
+
+<font size="2"><p style="text-align: center"> Fonte: [Renan Araújo](https://github.com/renantfm4) e [Gustavo Alves](https://github.com/gustaallves) </p></font>
 
 ## Bibliografia
 > Barbosa, S. D. J., & Silva, B. S. (2010). Interação Humano-Computador. Editora Campus.

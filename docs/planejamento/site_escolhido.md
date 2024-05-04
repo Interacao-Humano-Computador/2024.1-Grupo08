@@ -28,7 +28,7 @@ Alguns pontos em relação a acessibilidade e usablidade também foram considera
 
 O site escolhido se encontra disponível neste [link](https://www.centralexpresso.com/).
 
-<font size="2"><p style="text-align: center"> Figura x - Usabilidade do site Central Expresso </p></font>
+<font size="2"><p style="text-align: center"> Figura 10 - Usabilidade do site Central Expresso </p></font>
 
 <center>![Central Expresso](<central_expresso.gif>)</center>
 
