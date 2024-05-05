@@ -65,6 +65,17 @@ Nessa tarefa o usuário tem o objetivo de ver seu historico de passagens.
 
 ### Acúmulo de Pontos por Trajeto
 ### Acompanhar compra de passagem
+| **Objetivos / Operações** | **Problemas e Recomendações** |
+|---------------------------|-------------------------------|
+| **0. Acompanhar passagem** |  |
+| **1. Verificar informações das passagens** | **input**: Clique na seção 'Ingressos Comprados'. <br> **feedback**: A seção ingressos aparece com os ingressos já comprados <br> **plano**: Garantir que a seção carregue rapidamente e mostre todas as informações relevantes. <br>  |
+| **2. Verificar confirmação** | **input**: Seleção da passagem desejada.  <br> **plano**: Assegurar que os detalhes úteis da passagem sejam facilmente legíveis. <br>  |
+| **2.1 Verificar a confirmação do ingresso no site** |  **feedback**: Todas as informações necessárias que o ingresso está confirmado |
+| **2.1.1 Salvar confirmação do ingresso** | **input**: Selecionar o ingresso <br> **feedback**: Tela aparece com o status de ingresso confirmado para viagem  |
+| **2.2 Verificar a confirmação do ingresso no email** | <br> **feedback**: Todas as informações necessárias que o ingresso está confirmado <br> |
+| **2.2.1 Recebimento do e-ticket digital** | **input**: No e-mail de confirmação do ingresso, descer a seção e selecionar o e-ticket<br> **feedback**: Receber as informações da passagem  |
+| **2.2.1.1 Salvar o e-ticket no dispositivo** | **input**: Seção de "Salvar no disposito" <br> **feedback**: Usuário recebe o e-ticket armazenado no seu dispositvo pra visualizar as informações a qualquer momento <br> |
+
 ### Comprar passagem
 Nessa tarefa o usuário tem o objetivo de comprar sua passagem de ônibus.
 
