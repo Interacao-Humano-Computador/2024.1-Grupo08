@@ -41,11 +41,29 @@ Nessa tarefa o usuário tem o objetivo de rastrear um ônibus.
 
 <font size="2"><p style="text-align: center"> Fonte: [Alana Gabriele](https://github.com/alanagabriele)</p></font>
 
-### Compartilhamento de Trajetos. 
-### Histórico de passagens compradas. 
-### Acúmulo de Pontos por Trajeto. 
-### Acompanhar compra de passagem. 
-### Comprar passagem. 
+### Compartilhamento de Trajetos 
+### Histórico de passagens compradas
+### Acúmulo de Pontos por Trajeto
+### Acompanhar compra de passagem
+### Comprar passagem
+Nessa tarefa o usuário tem o objetivo de comprar sua passagem de ônibus.
+
+![alt text](image-16.png)
+
+| Objetivos / Operações       | Relações | Problemas e Recomendações                            |
+|-----------------------------|----------|------------------------------------------------------|
+| 0. Comprar passagem         | 1 > 2    | Input: Linha do ônibus. <br> Feedback: Apresentação das opções de passagens disponíveis e preços. |
+| 1. Selecionar linha         | 1 > 2    | Input: Linha desejada.|
+| 1.1 Informar a quantidade de passagens |          | Input: Quantidade de passagens de determinada linha.   |
+| 1.2 Adicionar ao carrinho    |          | Feedback: Ícone do carrinho com um novo número. |
+| 2. Informar dados pessoais   | 1 > 2    | Input: Dados pessoais. <br> Feedback: Validação e confirmação dos dados inseridos. |
+| 2.1 Informar nome, CPF, data de nascimento e endereço | | Input: Nome, CPF, data de nascimento e endereço. <br> Feedback: Verificação e correção de erros nos dados. |
+| 2.2 Escolher forma de pagamento | 1/2    | Input: Indicar forma de pagamento. <br> Feedback: Confirmação do pagamento. |
+| 2.2.1 Pagamento com cartão   |          | Input: Inserir dados do cartão. <br> Feedback: Passa para o processamento do pagamento. |
+| 2.2.1.1 Pagar                |          | Feedback: Comprovante de pagamento e detalhes da compra. |
+| 2.2.2 Pagamento com PIX      |          | Feedback: Código e QR CODE. |
+| 2.2.2.1 Pagar                |          |Feedback: Comprovante de pagamento e detalhes da compra. |
+
 
 ## Bibliografia
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. <br>

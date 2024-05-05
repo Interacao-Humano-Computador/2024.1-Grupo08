@@ -65,7 +65,31 @@ GOAL 6: Ativar o recebimento de notificações sobre o status do ônibus
 ### Acúmulo de Pontos por Trajeto. 
 ### Acompanhar compra de passagem. 
 ### Comprar passagem. 
+Nessa tarefa o usuário tem o objetivo de comprar uma passagem de ônibus.
 
+```
+GOAL 0: Pesquisar horários e disponibilidade de passagens
+    METHOD 0: Encontrar a seção de compra
+        OP 0.1: Abrir o navegador.
+        OP 0.2: Digitar a URL do site do Central Expresso.
+        OP 0.3: Navegar até a seção de compra.
+
+GOAL 1: Escolher linha
+    METHOD 0: Escolher local de destino
+        OP 0.1: Ir até a opção que tem o local de destino.
+        OP 0.2: Clicar no símbolo de + (MAIS) até representar a quantidade desejada.
+        OP 0.3: Clicar no ícone de carrinho.
+
+GOAL 2: Comprar passagem
+    METHOD 0: Ir ao carrinho de compras
+        OP 0.1: Mover o mouse até o ícone de carrinho.
+        OP 0.2: Clicar no ícone de carrinho.
+        OP 0.3: Ir até o final da página
+        OP 0.4: Clicar em avançar.
+        OP 0.5: Inserir nome, CPF, data de nascimento e endereço.
+        OP 0.6: Escolher forma de pagamento.
+        OP 0.7: Pagar.
+```
 
 ## Bibliografia
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. <br>
