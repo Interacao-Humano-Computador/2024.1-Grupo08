@@ -93,6 +93,38 @@ GOAL 4: Obter um comprovante ou realizar ações adicionais
 ```
 ### Acúmulo de Pontos por Trajeto. 
 ### Acompanhar compra de passagem. 
+```
+GOAL 0: Acessar informações da passagem de ônibus
+    METHOD 0:
+        OP 0.1: Abrir o aplicativo de e-mail no dispositivo.
+        OP 0.2: Localizar o e-mail de confirmação da Central Expresso na caixa de entrada.
+        OP 0.3: Clicar no e-mail para abrir e visualizar o conteúdo.
+        OP 0.4: Ler as informações do e-mail para confirmar a reserva da passagem.
+        
+GOAL 1: Visualizar detalhes da passagem no e-mail
+    METHOD 1:
+        OP 1.1: Clicar no e-mail da Central Expresso para abrir e visualizar o conteúdo.
+        
+GOAL 2: Acessar informações da passagem no site da Central Expresso
+    METHOD 2:
+        OP 2.1: Acessar o site da Central Expresso no navegador do dispositivo.
+        OP 2.2: Digitar o endereço do site da Central Expresso na barra de endereço do navegador.
+        OP 2.3: Navegar até a seção de "Ingressos Comprados" no site.
+        OP 2.4: Localizar e selecionar a reserva da passagem de ônibus para visualizar as informações.
+        
+GOAL 3: Verificar detalhes da passagem no e-ticket recebido por e-mail
+    METHOD 3:
+        OP 3.1: Abrir diretamente o e-ticket recebido por e-mail.
+        OP 3.2: Visualizar todas as informações relevantes sobre a passagem no e-ticket.
+        
+GOAL 4: Verificar confirmação da passagem no e-ticket
+    METHOD 4:
+        OP 4.1: Verificar se todas as informações estão corretas e atualizadas no e-ticket.
+        
+GOAL 5: Salvar ou imprimir o e-ticket, se necessário
+    METHOD 5:
+        OP 5.1: Salvar ou imprimir o e-ticket, se necessário.
+
 ### Comprar passagem. 
 Nessa tarefa o usuário tem o objetivo de comprar uma passagem de ônibus.
 
