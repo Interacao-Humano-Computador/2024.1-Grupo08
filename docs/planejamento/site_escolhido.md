@@ -35,9 +35,24 @@ O site escolhido se encontra disponível neste [link](https://www.centralexpress
 <font size="2"><p style="text-align: center"> Fonte: Central Expresso. Disponível em: [https://www.centralexpresso.com/](https://www.centralexpresso.com/).</p></font>
 
 
+### Funcionalidades
+Para cada membro da equipe foi escolhida uma funcionalidade do site, sendo um site com poucas funcionalidades algumas foram criadas para desenvolvimento do projeto.
+
+<ul>
+<li> Alana Gabriele: Rastreamento de Ônibus em Tempo Real.  </li>
+<li> Gustavo Alves: Compartilhamento de Trajetos. </li>
+<li> Marco Tulio: Histórico de passagens compradas. </li>
+<li> Pedro Henrique: Acúmulo de Pontos por Trajeto. </li>
+<li> Renan Araújo: Acompanhar compra de passagem. </li>
+<li> Yasmim Rosa: Comprar passagem. </li>
+</ul>
+
+
+
 ## Histórico de Versões
 
 | Versão |    Data    | Descrição                                         | Autor(es)                                       | Revisor(es)                                        |
 | ------ | :--------: | ------------------------------------------------- | ----------------------------------------------- | -------------------------------------------------- |
 | 1.0    | 04/04/2024 | Adição dos tópicos do site escolhido e introdução | [Marco Tulio](https://github.com/MarcoTulioSoares) | [Renan Araújo](https://github.com/renantfm4) |
 | 1.2    | 01/05/2024 | Ajustes de acordo com feedback | [Yasmim Rosa](https://github.com/yaskisoba) | [Pedro Henrique](https://github.com/PedroHenrique061) |
+| 1.3    | 01/05/2024 | Adicionando funcionalidades por membro da equipe | [Yasmim Rosa](https://github.com/yaskisoba) |  |
