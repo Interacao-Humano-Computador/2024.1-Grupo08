@@ -16,7 +16,31 @@ Quando um subjetivo se decompõe até seu nível mais básico, ele se converte e
 
 ## Análise de Tarefas com HTA
 
-### Rastreamento de Ônibus em Tempo Real. 
+### Rastreamento de Ônibus em Tempo Real
+Nessa tarefa o usuário tem o objetivo de rastrear um ônibus.
+
+<font size="2"><p style="text-align: center"> Figura 24 - HTA Rastreamento de ônibus em tempo real </p></font>
+
+<center> ![Rastreamento de Ônibus em Tempo Real - HTA](image-15.png) </center>
+
+<font size="2"><p style="text-align: center"> Fonte: [Alana Gabriele](https://github.com/alanagabriele)</p></font>
+
+<font size="2"><p style="text-align: center"> Tabela 22 - HTA Rastreamento de ônibus em tempo real </p></font>
+
+| **Objetivos / Operações** | **Problemas e Recomendações** |
+|---------------------------|-------------------------------|
+| **0. Rastrear Ônibus** |  |
+| **1. Ir para 'Minhas Passagens'** | **input**: Clique na seção 'Minhas Passagens'. <br> **feedback**: A seção de passagens é carregada com todas as passagens compradas listadas. <br> **plano**: Garantir que a seção carregue rapidamente e mostre todas as informações relevantes. <br>  |
+| **1.1 Localizar passagem** | **input**: Seleção da passagem desejada.  <br> **plano**: Assegurar que os detalhes úteis da passagem sejam facilmente legíveis. <br>  |
+| **1.1.1 Verificar os dados da passagem** |  **feedback**: Todas as informações necessárias são apresentadas.  |
+| **2. Ir para 'Rastreamento em tempo real'** | **input**: Selecionar a opção no menu. <br> **feedback**: Tela de rastreamento é exibida com opções para localizar os ônibus.  |
+| **2.1 Informar o número da linha e o horário de chegada desejado** | **input**: Entrada do número da linha e horário. <br> **feedback**: Sistema busca e mostra o status atualizado do ônibus. <br> **plano**: Reduzir erros de entrada de dados. <br> **recomendação**: Implementar validação de dados no campo de entrada. |
+| **2.2 Verificar a localização do ônibus** | **input**: Visualização no mapa. <br> **feedback**: Mapa mostra a localização atual do ônibus. <br> **plano**: Melhorar a precisão do sistema de rastreamento. <br>  |
+| **2.2.1 Ativar o recebimento de notificação** | **input**: Opção de ativar notificações selecionada. <br> **feedback**: Usuário recebe confirmação de que as notificações estão ativas. <br> **plano**: Garantir entrega de notificações em tempo real. <br> **recomendação**: Testar e assegurar a confiabilidade do sistema de notificações. |
+| **2.2.2 Informar o número de telefone** | **input**: Entrada do número de telefone no formulário. <br> **feedback**: Número é registrado para notificações via SMS. <br> **plano**: Proteger a privacidade dos dados do usuário. <br>  |
+
+<font size="2"><p style="text-align: center"> Fonte: [Alana Gabriele](https://github.com/alanagabriele)</p></font>
+
 ### Compartilhamento de Trajetos. 
 ### Histórico de passagens compradas. 
 ### Acúmulo de Pontos por Trajeto. 
