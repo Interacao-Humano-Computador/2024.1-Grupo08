@@ -124,7 +124,7 @@ GOAL 4: Verificar confirmação da passagem no e-ticket
 GOAL 5: Salvar ou imprimir o e-ticket, se necessário
     METHOD 5:
         OP 5.1: Salvar ou imprimir o e-ticket, se necessário.
-
+```
 ### Comprar passagem. 
 Nessa tarefa o usuário tem o objetivo de comprar uma passagem de ônibus.
 
