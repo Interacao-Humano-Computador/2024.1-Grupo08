@@ -65,6 +65,10 @@ Nessa tarefa o usuário tem o objetivo de ver seu historico de passagens.
 
 ### Acúmulo de Pontos por Trajeto
 ### Acompanhar compra de passagem
+
+
+![alt text](image-18.png)
+
 | **Objetivos / Operações** | **Problemas e Recomendações** |
 |---------------------------|-------------------------------|
 | **0. Acompanhar passagem** |  |
