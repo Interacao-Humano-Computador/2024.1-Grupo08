@@ -62,6 +62,35 @@ GOAL 6: Ativar o recebimento de notificações sobre o status do ônibus
 ```
 ### Compartilhamento de Trajetos. 
 ### Histórico de passagens compradas. 
+```
+GOAL 0: Acessar o site Centra Expresso
+    METHOD 0:
+        OP 0.1: Abrir o navegador.
+        OP 0.2: Digitar a URL do site Centra Expresso.
+
+GOAL 1: Acessar a seção 'Histórico de Passagens'
+    METHOD 1:
+        OP 1.1: Guiar o mouse para o menu 'Histórico'.
+        OP 1.2: Clicar na aba.
+
+GOAL 2: Localizar e selecionar a passagem desejada
+    METHOD 2:
+        OP 2.1: Guiar o mouse para a passagem específica.
+        OP 2.2: Clicar na passagem para exibir detalhes.
+
+GOAL 3: Verificar o status da passagem
+    METHOD 3:
+        OP 3.1: Observar o status da passagem (confirmada, utilizada, cancelada) na tela de detalhes.
+
+GOAL 4: Obter um comprovante ou realizar ações adicionais
+    METHOD 4:
+        OP 4.1: Guiar o mouse para a opção de comprovantes.
+        OP 4.2: Clicar para baixar ou imprimir o comprovante.
+        OP 4.3: Guiar o mouse para a opção de alterar ou cancelar a passagem, se necessário.
+        OP 4.4: Clicar na opção desejada para realizar a ação.
+        (Selection Rule: Ações adicionais disponíveis apenas para passagens ainda válidas.)
+
+```
 ### Acúmulo de Pontos por Trajeto. 
 ### Acompanhar compra de passagem. 
 ### Comprar passagem. 

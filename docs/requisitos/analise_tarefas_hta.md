@@ -43,6 +43,26 @@ Nessa tarefa o usuário tem o objetivo de rastrear um ônibus.
 
 ### Compartilhamento de Trajetos 
 ### Histórico de passagens compradas
+Nessa tarefa o usuário tem o objetivo de ver seu historico de passagens.
+
+<font size="2"><p style="text-align: center"> Figura 25 - HTA consultar historico de passagens </p></font>
+
+<center> ![Consultar historico de passagens - HTA](image-17.png) </center>
+
+<font size="2"><p style="text-align: center"> Tabela 1 - HTA Histórico de Passagens de Ônibus Compradas </p></font>
+
+| **Objetivos / Operações** | **Problemas e Recomendações** |
+|---------------------------|-------------------------------|
+| **0. Visualizar Histórico de Passagens** |  |
+| **1. Navegar para a seção 'Histórico de Passagens'** | **input**: Clique na aba "Histórico" no menu. <br> **feedback**: A seção é carregada com todas as passagens listadas. <br> **plano**: Garantir que a seção carregue rapidamente e mostre todas as informações relevantes. <br> |
+| **1.1 Localizar passagem desejada** | **input**: Seleção da passagem na lista. <br> **plano**: Garantir que as informações estejam ordenadas por data ou outra categoria útil. <br> |
+| **1.1.1 Verificar os dados da passagem** | **feedback**: Todas as informações necessárias são apresentadas (data, origem, destino, status). <br> **plano**: Certificar que os dados estejam precisos e atualizados. <br> |
+| **2. Conferir o status da passagem** | **input**: Visualizar o status da passagem na tela de detalhes. <br> **feedback**: O status da passagem é claramente indicado (confirmada, utilizada, cancelada). <br> |
+| **3. Realizar ações adicionais** | **input**: Escolha de opções adicionais, como baixar comprovante ou solicitar reembolso. <br> **feedback**: As ações são processadas conforme a escolha do usuário. <br> **plano**: Certificar-se de que as opções disponíveis sejam claras e acessíveis. <br> |
+| **3.1 Baixar comprovante ou solicitar reembolso** | **input**: Clique na opção de comprovante ou reembolso. <br> **feedback**: O comprovante é baixado ou o reembolso é solicitado. <br> **plano**: Garantir que a funcionalidade seja intuitiva e rápida. <br> |
+
+<font size="2"><p style="text-align: center"> Fonte: [Marco Tulio Soares de Deus](https://github.com/MarcoTulioSoares)</p></font>
+
 ### Acúmulo de Pontos por Trajeto
 ### Acompanhar compra de passagem
 ### Comprar passagem
