@@ -44,6 +44,7 @@ Rafael, um pequeno empresário de 31 anos, reside em Luziânia e aderiu ao progr
 
 ### Compartilhamento de trajetos
 
+Lucas, um estudante universitário dinâmico e independente de 23 anos, acorda em sua casa em Luziânia, e decide visitar seus pais. Ele pega seu notebook e acessa o site do Central Expresso para comprar sua passagem para visitar sua família em Brasília-DF. Ao abrir o navegador, Lucas digita o endereço do site do Central Expresso e é direcionado para a página inicial. Ele navega até a seção de "Minhas Passagens" e seleciona o trajeto que deseja compartilhar. Lucas encontra facilmente a opção de compartilhamento, localizada abaixo dos detalhes da viagem, e clica nela para iniciar o processo.Uma nova janela se abre, exibindo uma lista de contatos de Lucas e a opção de inserir manualmente endereços de e-mail. Ele percorre sua lista de contatos e seleciona sua família e alguns amigos próximos que ele gostaria de informar sobre sua viagem.Após selecionar os contatos desejados, Lucas clica no botão "Enviar" e uma confirmação aparece na tela, indicando que as informações foram enviadas com sucesso.
 
 ## Bibliografia
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. <br>

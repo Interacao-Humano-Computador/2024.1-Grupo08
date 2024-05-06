@@ -6,7 +6,7 @@ Personas são arquétipos criados para representar grupos de usuários típicos 
 
 Conforme Barbosa e Silva (2010), a utilização de personas envolve métodos qualitativos e quantitativos:
 
-- Pesquisa Qualitativa: Entrevistas detalhadas e grupos focais revelam motivações profundas e expectativas dos usuários.              
+- Pesquisa Qualitativa: Entrevistas detalhadas e grupos focais revelam motivações profundas e expectativas dos usuários.
 - Pesquisa Quantitativa: Análises estatísticas ajudam a entender as características demográficas e comportamentais dos usuários.
 - Análise de Segmentação: Essencial para definir grupos específicos de usuários representados por cada persona.
 
