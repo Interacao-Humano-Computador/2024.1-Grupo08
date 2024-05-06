@@ -60,6 +60,9 @@ GOAL 6: Ativar o recebimento de notificações sobre o status do ônibus
         OP 6.5: Clicar no botão "Ativar".
         (Selection Rule: Notificações disponíveis apenas se o usuário optar por atualizações.)
 ```
+<font size="2"><p style="text-align: center"> Fonte: [Alana Gabriele](https://github.com/alanagabriele)</p></font>
+
+
 ### Compartilhamento de Trajetos. 
 
 ```
@@ -79,6 +82,8 @@ GOAL 0: Compartilhar trajeto
                 OP 0.4.1: Clicar no botão "Enviar" para compartilhar as informações do trajeto.
 
 ```
+<font size="2"><p style="text-align: center"> Fonte: [Gustavo Alves](https://github.com/gustaallves)</p></font>
+
 ### Histórico de passagens compradas. 
 ```
 GOAL 0: Acessar o site Centra Expresso
@@ -109,6 +114,9 @@ GOAL 4: Obter um comprovante ou realizar ações adicionais
         (Selection Rule: Ações adicionais disponíveis apenas para passagens ainda válidas.)
 
 ```
+
+<font size="2"><p style="text-align: center"> Fonte: [Marco Tulio](https://github.com/MarcoTulioSoares)</p></font>
+
 ### Acúmulo de Pontos por Trajeto. 
 ```
 GOAL 0: Acessar o site Central Expresso
@@ -132,6 +140,9 @@ GOAL 3: Verificar o trajeto desejado
 
 
 ```
+
+<font size="2"><p style="text-align: center"> Fonte: [Pedro Henrique](https://github.com/PedroHenrique061)</p></font>
+
 ### Acompanhar compra de passagem. 
 ```
 GOAL 0: Acessar informações da passagem de ônibus
@@ -165,6 +176,9 @@ GOAL 5: Salvar ou imprimir o e-ticket, se necessário
     METHOD 5:
         OP 5.1: Salvar ou imprimir o e-ticket, se necessário.
 ```
+
+<font size="2"><p style="text-align: center"> Fonte: [Renan Araújo](hhttps://github.com/renantfm4)</p></font>
+
 ### Comprar passagem. 
 Nessa tarefa o usuário tem o objetivo de comprar uma passagem de ônibus.
 
@@ -191,6 +205,7 @@ GOAL 2: Comprar passagem
         OP 0.6: Escolher forma de pagamento.
         OP 0.7: Pagar.
 ```
+<font size="2"><p style="text-align: center"> Fonte: [Yasmim Rosa](hhttps://github.com/yaskisoba)</p></font>
 
 ## Bibliografia
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. <br>
@@ -199,4 +214,4 @@ GOAL 2: Comprar passagem
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 05/05/2024 | GOMS | [Yasmim Rosa](https://github.com/yaskisoba) <br>  |     |
+| 1.0    | 05/05/2024 | GOMS | [Yasmim Rosa](https://github.com/yaskisoba) <br>  | [Gustavo Alves](https://github.com/gustaallves)    |

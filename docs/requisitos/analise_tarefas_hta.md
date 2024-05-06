@@ -44,9 +44,14 @@ Nessa tarefa o usuário tem o objetivo de rastrear um ônibus.
 ### Compartilhamento de Trajetos 
 Nessa tarefa o usuário tem o objetivo de compartilhar o trajeto de sua passagem.
 
-<font size="2"><p style="text-align: center"> Figura 24 - HTA compartilhar informações sobre uma viagem. </p></font>
+<font size="2"><p style="text-align: center"> Figura 25 - HTA compartilhar informações sobre uma viagem. </p></font>
 
 <center> ![HTA compartilhar informações sobre uma viagem](image-20.png) </center>
+
+<font size="2"><p style="text-align: center"> Fonte: [Gustavo Alves](https://github.com/gustaallves)</p></font>
+
+
+<font size="2"><p style="text-align: center"> Tabela 23 - HTA compartilhar informações sobre uma viagem. </p></font>
 
 | **Objetivos / Operações**                                     | **Problemas e Recomendações**                                                                                                          |
 |---------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
@@ -59,16 +64,19 @@ Nessa tarefa o usuário tem o objetivo de compartilhar o trajeto de sua passagem
 | **1.2.1.1 Enviar as informações da viagem**                   | **input**: Clicar no botão 'Enviar'. <br>**feedback**: Confirmação de que as informações foram compartilhadas. <br>**plano**: Oferecer uma mensagem clara e direta de sucesso no compartilhamento. |
 | **2. Acompanhar compartilhamento**                            | **input**: Acesso a uma seção específica que permita ver o status do compartilhamento. <br>**feedback**: Informações detalhadas sobre quem visualizou o compartilhamento. <br>**plano**: Desenvolver uma funcionalidade que permita ao usuário acompanhar quem já acessou as informações compartilhadas. |
 
-<font size="2"><p style="text-align: center"> Fonte: [Gustavo Alves de Souza](https://github.com/gustaallves)</p></font>
+<font size="2"><p style="text-align: center"> Fonte: [Gustavo Alves](https://github.com/gustaallves)</p></font>
 
 ### Histórico de passagens compradas
 Nessa tarefa o usuário tem o objetivo de ver seu historico de passagens.
 
-<font size="2"><p style="text-align: center"> Figura 25 - HTA consultar historico de passagens </p></font>
+<font size="2"><p style="text-align: center"> Figura 26 - HTA consultar historico de passagens </p></font>
 
 <center> ![Consultar historico de passagens - HTA](image-17.png) </center>
 
-<font size="2"><p style="text-align: center"> Tabela 1 - HTA Histórico de Passagens de Ônibus Compradas </p></font>
+<font size="2"><p style="text-align: center"> Fonte: [Marco Tulio](https://github.com/MarcoTulioSoares)</p></font>
+
+
+<font size="2"><p style="text-align: center"> Tabela 24 - HTA Histórico de Passagens de Ônibus Compradas </p></font>
 
 | **Objetivos / Operações** | **Problemas e Recomendações** |
 |---------------------------|-------------------------------|
@@ -80,17 +88,19 @@ Nessa tarefa o usuário tem o objetivo de ver seu historico de passagens.
 | **3. Realizar ações adicionais** | **input**: Escolha de opções adicionais, como baixar comprovante ou solicitar reembolso. <br> **feedback**: As ações são processadas conforme a escolha do usuário. <br> **plano**: Certificar-se de que as opções disponíveis sejam claras e acessíveis. <br> |
 | **3.1 Baixar comprovante ou solicitar reembolso** | **input**: Clique na opção de comprovante ou reembolso. <br> **feedback**: O comprovante é baixado ou o reembolso é solicitado. <br> **plano**: Garantir que a funcionalidade seja intuitiva e rápida. <br> |
 
-<font size="2"><p style="text-align: center"> Fonte: [Marco Tulio Soares de Deus](https://github.com/MarcoTulioSoares)</p></font>
+<font size="2"><p style="text-align: center"> Fonte: [Marco Tulio](https://github.com/MarcoTulioSoares)</p></font>
 
 ### Acúmulo de Pontos por Trajeto
 
 Nessa tarefa o usuário tem o objetivo de acompanhar o total de pontos obtidos.
 
-<font size="2"><p style="text-align: center"> Figura 26 - HTA consultar acúmulo de pontos </p></font>
+<font size="2"><p style="text-align: center"> Figura 27 - HTA consultar acúmulo de pontos </p></font>
 
 <center> ![Consultar acúmulo de pontos - HTA](image-19.png) </center>
 
-<font size="2"><p style="text-align: center"> Tabela 24 - HTA Histórico de pontos obtidos </p></font>
+<font size="2"><p style="text-align: center"> Fonte: [Pedro Henrique](https://github.com/PedroHenrique061)</p></font>
+
+<font size="2"><p style="text-align: center"> Tabela 25 - HTA Histórico de pontos obtidos </p></font>
 
 | **Objetivos / Operações** | **Problemas e Recomendações** |
 |---------------------------|-------------------------------|
@@ -102,12 +112,18 @@ Nessa tarefa o usuário tem o objetivo de acompanhar o total de pontos obtidos.
 | **2. Identificar trajeto** | **input**: Ir para aba de trajeto a ser realizado. <br> **feedback**: Todas as informações necessárias são apresentadas (data, origem, destino, status). <br> **plano**: Garantir que a seção carregue rapidamente e mostre todas as informações relevantes. <br> |
 | **2.1 Verificar quantidade de pontos por trajeto** | **input**: Ir para aba de trajeto a ser realizado. <br> **feedback**: Todas as informações necessárias são apresentadas. <br> **plano**: Garantir que a seção carregue os pontos por cada trajeto . <br> |
 
-<font size="2"><p style="text-align: center"> Fonte: [Pedro Henrique Fernandino da Silva](https://github.com/PedroHenrique061)</p></font>
+<font size="2"><p style="text-align: center"> Fonte: [Pedro Henrique](https://github.com/PedroHenrique061)</p></font>
 
 ### Acompanhar compra de passagem
+<font size="2"><p style="text-align: center"> Figura 28 - HTA Acompanhar compra de passagem </p></font>
+
+<center> ![alt text](image-18.png) </center>
+
+<font size="2"><p style="text-align: center"> Fonte: [Renan Araújo](hhttps://github.com/renantfm4)</p></font>
+
+<font size="2"><p style="text-align: center"> Tabela 26 - Acompanhar compra de passagem </p></font>
 
 
-![alt text](image-18.png)
 
 | **Objetivos / Operações** | **Problemas e Recomendações** |
 |---------------------------|-------------------------------|
@@ -120,10 +136,18 @@ Nessa tarefa o usuário tem o objetivo de acompanhar o total de pontos obtidos.
 | **2.2.1 Recebimento do e-ticket digital** | **input**: No e-mail de confirmação do ingresso, descer a seção e selecionar o e-ticket<br> **feedback**: Receber as informações da passagem  |
 | **2.2.1.1 Salvar o e-ticket no dispositivo** | **input**: Seção de "Salvar no disposito" <br> **feedback**: Usuário recebe o e-ticket armazenado no seu dispositvo pra visualizar as informações a qualquer momento <br> |
 
+<font size="2"><p style="text-align: center"> Fonte: [Renan Araújo](hhttps://github.com/renantfm4)</p></font>
+
 ### Comprar passagem
 Nessa tarefa o usuário tem o objetivo de comprar sua passagem de ônibus.
 
-![alt text](image-16.png)
+<font size="2"><p style="text-align: center"> Figura 29 - HTA Comprar passagem </p></font>
+
+<center> ![alt text](image-16.png)</center>
+
+<font size="2"><p style="text-align: center"> Fonte: [Yasmim Rosa](hhttps://github.com/yaskisoba)</p></font>
+
+<font size="2"><p style="text-align: center"> Tabela 27 - Comprar passagem </p></font>
 
 | Objetivos / Operações       | Relações | Problemas e Recomendações                            |
 |-----------------------------|----------|------------------------------------------------------|
@@ -139,6 +163,8 @@ Nessa tarefa o usuário tem o objetivo de comprar sua passagem de ônibus.
 | 2.2.2 Pagamento com PIX      |          | Feedback: Código e QR CODE. |
 | 2.2.2.1 Pagar                |          |Feedback: Comprovante de pagamento e detalhes da compra. |
 
+<font size="2"><p style="text-align: center"> Fonte: [Yasmim Rosa](hhttps://github.com/yaskisoba)</p></font>
+
 
 ## Bibliografia
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. <br>
@@ -147,4 +173,4 @@ Nessa tarefa o usuário tem o objetivo de comprar sua passagem de ônibus.
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 05/05/2024 | HTA | [Yasmim Rosa](https://github.com/yaskisoba) <br>  |     |
+| 1.0    | 05/05/2024 | HTA | [Yasmim Rosa](https://github.com/yaskisoba) <br>  | [Gustavo Alves](https://github.com/gustaallves)    |

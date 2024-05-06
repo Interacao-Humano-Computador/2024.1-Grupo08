@@ -144,5 +144,5 @@ Com base nas informações obtidas podemos então montar o perfil do usuário co
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 04/04/2024 | Perfil de Usuários |  [Yasmim Rosa](https://github.com/yaskisoba) <br> [Marco Tulio](https://github.com/MarcoTulioSoares)  |  |
+| 1.0    | 03/05/2024 | Perfil de Usuários |  [Yasmim Rosa](https://github.com/yaskisoba) <br> [Marco Tulio](https://github.com/MarcoTulioSoares)  | [Pedro Henrique](https://github.com/PedroHenrique061)  |
 

@@ -82,7 +82,6 @@ Na **tabela 4** está o cronograma planejado.
 
 <font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba)</p></font>
 
-
 ### Cronograma Executado
 Na **tabela 5** está o cronograma executado.
 
@@ -90,13 +89,13 @@ Na **tabela 5** está o cronograma executado.
 
 | Atividade                       | Período para o desenvolvimento da atividade | Responsáveis             | Período da revisão | Revisores |
 |---------------------------------|--------------------------------------------|-------------------------- |--------------------|-----------|
-| Definição do perfil do usuário  |  **Início**: 08/04 <br> **Fim**: 10/04     | Marco Tulio e Yasmim Rosa | **Início**: 11/04 <br> **Fim**: 11/04 | Pedro Henrique   |
-| Criação de personas  | **Início**: 12/04 <br> **Fim**: 13/04  | Renan Araújo e Gustavo Alves  |  **Início**: 14/04 <br> **Fim**: 14/04   | Alana Gabriele     |
-| Pesquisa e definição dos aspectos éticos para pesquisas com pessoas | **Início**: 08/04 <br> **Fim**: 10/04  | Alana Gabriele e Pedro Henrique   |**Início**: 11/04 <br> **Fim**: 11/04 | Yasmim Rosa |
+| Definição do perfil do usuário  |  **Início**: 09/04 <br> **Fim**: 03/05     | Marco Tulio e Yasmim Rosa | **Início**: 04/05 <br> **Fim**: 04/05 | Pedro Henrique   |
+| Criação de personas  | **Início**: 12/04 <br> **Fim**: 03/05  | Renan Araújo e Gustavo Alves  |  **Início**: 04/05 <br> **Fim**: 04/05   | Alana Gabriele     |
+| Pesquisa e definição dos aspectos éticos para pesquisas com pessoas | **Início**: 08/04 <br> **Fim**: 08/04  | Alana Gabriele e Pedro Henrique   |**Início**: 09/04 <br> **Fim**: 09/04 | Yasmim Rosa |
 | Execução dos aspectos éticos para pesquisas com pessoas | **Início**: 12/04 <br> **Fim**: 13/04              | Gustavo Alves e Yasmim Rosa   | **Início**: 14/04 <br> **Fim**: 14/04 | Marco Tulio    |
-| Análise de tarefas (HTA)              | **Início**: 12/04 <br> **Fim**: 14/04                                      | Renan Araújo e Alana Gabriele   |  **Início**: 15/04 <br> **Fim**: 16/04  | Gustavo Alves  |
-| Inserção das atividades no Gitpages | **Início**: 16/04 <br> **Fim**: 18/04                                  | Pedro Henrique e Marco Tulio    | **Início**: 19/04 <br> **Fim**: 19/04   | Yasmim Rosa |
-| Gravação do vídeo de apresentação  | **Início**: 04/05 <br> **Fim**: 05/05                                   | Gustavo Alves  e Alana Gabriele | **Início**: 06/05 <br> **Fim**: 06/05   | Renan Araújo |
+| Análise de tarefas (HTA)              | **Início**: 12/04 <br> **Fim**: 04/05                                | Renan Araújo e Alana Gabriele   |  **Início**: 05/05 <br> **Fim**: 05/05  | Gustavo Alves  |
+| Inserção das atividades no Gitpages | **Início**: 09/04 <br> **Fim**: 05/05                                  | Pedro Henrique e Marco Tulio    | **Início**: 19/04 <br> **Fim**: 19/04   | Yasmim Rosa |
+| Gravação do vídeo de apresentação  | **Início**: 06/05 <br> **Fim**: 06/05                                   | Gustavo Alves  e Alana Gabriele | **Início**: 06/05 <br> **Fim**: 06/05   | Renan Araújo |
 | Correções pós-apresentação      | **Início**: 06/05 <br> **Fim**: 07/04                                      | Renan Araújo e Marco Tulio      | **Início**: 08/05 <br> **Fim**: 08/05   | Alana Gabriele |
 
 

@@ -83,4 +83,4 @@ O termo de consentimento, como citado anteriormente, é de extrema importância 
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 05/04/2024 | Aspectos éticos | [Alana Gabriele](https://github.com/alanagabriele) <br> [Pedro Henrique](https://github.com/PedroHenrique061) |   [Yasmim Rosa](https://github.com/yaskisoba)  |
+| 1.0    | 08/04/2024 | Aspectos éticos | [Alana Gabriele](https://github.com/alanagabriele) <br> [Pedro Henrique](https://github.com/PedroHenrique061) |   [Yasmim Rosa](https://github.com/yaskisoba)  |
