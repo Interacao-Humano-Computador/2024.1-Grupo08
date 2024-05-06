@@ -33,6 +33,10 @@ Com a função de histórico de passagens compradas, Pedro mantém um registro d
 
 ### Acompanhar pedido de compra de passagem
 
+Lucas, um estudante universitário de 23 anos, reside em Luziânia e está prestes a iniciar seu semestre na faculdade. Ele se prepara para sua rotina diária, que envolve o uso frequente de tecnologia para várias tarefas. Hoje, Lucas já tem uma passagem de ônibus para visitar sua família durante o fim de semana, usando o aplicativo Central Expresso.
+Após escolher o horário de partida que melhor se adequa à sua agenda, Lucas revisa cuidadosamente as informações do trajeto no site Central Expresso. Ele confere a data, horário e destino para garantir que tudo esteja correto, ele recebe imediatamente a confirmação da sua passagem em seu e-mail.
+Além da confirmação, Lucas recebe um e-ticket em formato digital, contendo todas as informações relevantes sobre seu trajeto, como número do ônibus, horários de partida e paradas por onde a linha passa para embarque. 
+Com todos esses acompanhamentos e detalhes adicionais, Lucas tem a tranquilidade de que seu trajeto será tranquilo e satisfatório, desde o momento da compra da passagem até o desembarque em seu destino final.
 
 ### Rastreamento de ônibus em tempo real
 
