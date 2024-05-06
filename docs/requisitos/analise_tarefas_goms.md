@@ -111,20 +111,25 @@ GOAL 4: Obter um comprovante ou realizar ações adicionais
 ```
 ### Acúmulo de Pontos por Trajeto. 
 ```
-GOAL 0: Compartilhar trajeto
+GOAL 0: Acessar o site Central Expresso
     METHOD 0:
-        OP 0.1: Identificar o trajeto desejado.
-            METHOD 0.1:
-                OP 0.1.1: Utilizar o mouse para clicar e arrastar sobre a barra de rolagem para visualizar o mapa e encontrar o trajeto desejado.               
-        OP 0.2: Acessar a opção de compartilhamento.
-            METHOD 0.2:
-                OP 0.2.1: Clicar no ícone de compartilhamento localizado na interface do site.
-        OP 0.3: Selecionar contatos.
-            METHOD 0.3:
-                OP 0.3.1: Utilizar o mouse para clicar sobre a lista de contatos disponíveis para selecionar os destinatários do compartilhamento.
-        OP 0.4: Enviar informações.
-            METHOD 0.4:
-                OP 0.4.1: Clicar no botão "Enviar" para compartilhar as informações do trajeto.
+        OP 0.1: Abrir o navegador.
+        OP 0.2: Digitar a URL do site Central Expresso.
+
+GOAL 1: Acessar a seção 'Meus Pontos'
+    METHOD 1:
+        OP 1.1: Guiar o mouse para o menu 'Acúmulo de Pontos por trajeto'.
+        OP 1.2: Clicar na aba.
+
+GOAL 2: Verificar nível de fidelidade
+    METHOD 2:
+        OP 2.1: Clicar no trajeto para exibir detalhes.
+        OP 2.2: Verificar ofertas e descontos disponíveis.
+
+GOAL 3: Verificar o trajeto desejado
+    METHOD 3:
+        OP 3.1: Observar o status do trajeto na tela de detalhes.
+
 
 ```
 ### Acompanhar compra de passagem. 
