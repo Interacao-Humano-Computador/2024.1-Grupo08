@@ -61,6 +61,24 @@ GOAL 6: Ativar o recebimento de notificações sobre o status do ônibus
         (Selection Rule: Notificações disponíveis apenas se o usuário optar por atualizações.)
 ```
 ### Compartilhamento de Trajetos. 
+
+```
+GOAL 0: Compartilhar trajeto
+    METHOD 0:
+        OP 0.1: Identificar o trajeto desejado.
+            METHOD 0.1:
+                OP 0.1.1: Utilizar o mouse para clicar e arrastar sobre a barra de rolagem para visualizar o mapa e encontrar o trajeto desejado.               
+        OP 0.2: Acessar a opção de compartilhamento.
+            METHOD 0.2:
+                OP 0.2.1: Clicar no ícone de compartilhamento localizado na interface do site.
+        OP 0.3: Selecionar contatos.
+            METHOD 0.3:
+                OP 0.3.1: Utilizar o mouse para clicar sobre a lista de contatos disponíveis para selecionar os destinatários do compartilhamento.
+        OP 0.4: Enviar informações.
+            METHOD 0.4:
+                OP 0.4.1: Clicar no botão "Enviar" para compartilhar as informações do trajeto.
+
+```
 ### Histórico de passagens compradas. 
 ```
 GOAL 0: Acessar o site Centra Expresso
@@ -92,6 +110,23 @@ GOAL 4: Obter um comprovante ou realizar ações adicionais
 
 ```
 ### Acúmulo de Pontos por Trajeto. 
+```
+GOAL 0: Compartilhar trajeto
+    METHOD 0:
+        OP 0.1: Identificar o trajeto desejado.
+            METHOD 0.1:
+                OP 0.1.1: Utilizar o mouse para clicar e arrastar sobre a barra de rolagem para visualizar o mapa e encontrar o trajeto desejado.               
+        OP 0.2: Acessar a opção de compartilhamento.
+            METHOD 0.2:
+                OP 0.2.1: Clicar no ícone de compartilhamento localizado na interface do site.
+        OP 0.3: Selecionar contatos.
+            METHOD 0.3:
+                OP 0.3.1: Utilizar o mouse para clicar sobre a lista de contatos disponíveis para selecionar os destinatários do compartilhamento.
+        OP 0.4: Enviar informações.
+            METHOD 0.4:
+                OP 0.4.1: Clicar no botão "Enviar" para compartilhar as informações do trajeto.
+
+```
 ### Acompanhar compra de passagem. 
 ```
 GOAL 0: Acessar informações da passagem de ônibus

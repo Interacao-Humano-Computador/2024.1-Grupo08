@@ -42,6 +42,25 @@ Nessa tarefa o usuário tem o objetivo de rastrear um ônibus.
 <font size="2"><p style="text-align: center"> Fonte: [Alana Gabriele](https://github.com/alanagabriele)</p></font>
 
 ### Compartilhamento de Trajetos 
+Nessa tarefa o usuário tem o objetivo de compartilhar o trajeto de sua passagem.
+
+<font size="2"><p style="text-align: center"> Figura 24 - HTA compartilhar informações sobre uma viagem. </p></font>
+
+<center> ![Consultar historico de passagens - HTA](image-19.png) </center>
+
+| **Objetivos / Operações**                                     | **Problemas e Recomendações**                                                                                                          |
+|---------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| **0. Compartilhamento de viagem**                             | **input**: Acesso ao site Central Expresso. <br>**feedback**: Usuário deve identificar claramente as opções de compartilhamento. <br>**plano**: Assegurar que a opção de compartilhamento seja visível e acessível. |
+| **1. Compartilhar informações sobre uma viagem**              | **input**: Seleção da opção de compartilhamento na página de detalhes da viagem. <br>**feedback**: Mostrar uma tela de compartilhamento simplificada. <br>**plano**: Reduzir cliques desnecessários e simplificar a interface. |
+| **1.1 Identificar a viagem desejada**                         | **input**: Pesquisa e seleção da viagem. <br>**feedback**: A viagem selecionada é exibida com todos os detalhes relevantes. <br>**plano**: Melhorar o sistema de busca para que os resultados sejam mais precisos e rápidos. |
+| **1.2 Acessar a opção de compartilhamento**                   | **input**: Clique na opção 'Compartilhar' disponível nos detalhes da viagem. <br>**feedback**: Deve haver uma clara confirmação visual de que a opção foi ativada. <br>**plano**: Certificar-se de que o botão de compartilhamento é facilmente identificável. |
+| **1.2.1 Selecionar os contatos para compartilhamento**        | **input**: Selecionar contatos da lista ou inserir novos e-mails. <br>**feedback**: Contatos devem ser facilmente adicionáveis e selecionáveis. <br>**plano**: Integrar uma funcionalidade para sugerir contatos frequentes e permitir a inserção rápida de novos e-mails. |
+| **1.2.2 Informar nome e e-mail**                              | **input**: Inserir manualmente os dados de novos contatos. <br>**feedback**: Os campos para entrada de dados devem ser claros e o formato exigido deve ser validado em tempo real. <br>**plano**: Assegurar validação e feedback imediato de erros de formatação. |
+| **1.2.1.1 Enviar as informações da viagem**                   | **input**: Clicar no botão 'Enviar'. <br>**feedback**: Confirmação de que as informações foram compartilhadas. <br>**plano**: Oferecer uma mensagem clara e direta de sucesso no compartilhamento. |
+| **2. Acompanhar compartilhamento**                            | **input**: Acesso a uma seção específica que permita ver o status do compartilhamento. <br>**feedback**: Informações detalhadas sobre quem visualizou o compartilhamento. <br>**plano**: Desenvolver uma funcionalidade que permita ao usuário acompanhar quem já acessou as informações compartilhadas. |
+
+<font size="2"><p style="text-align: center"> Fonte: [Gustavo Alves de Souza](https://github.com/gustaallves)</p></font>
+
 ### Histórico de passagens compradas
 Nessa tarefa o usuário tem o objetivo de ver seu historico de passagens.
 
