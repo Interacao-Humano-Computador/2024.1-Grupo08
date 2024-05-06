@@ -64,6 +64,27 @@ Nessa tarefa o usuário tem o objetivo de ver seu historico de passagens.
 <font size="2"><p style="text-align: center"> Fonte: [Marco Tulio Soares de Deus](https://github.com/MarcoTulioSoares)</p></font>
 
 ### Acúmulo de Pontos por Trajeto
+
+Nessa tarefa o usuário tem o objetivo de acompanhar o total de pontos obtidos.
+
+<font size="2"><p style="text-align: center"> Figura 26 - HTA consultar acúmulo de pontos </p></font>
+
+<center> ![Consultar acúmulo de pontos - HTA](image-19.png) </center>
+
+<font size="2"><p style="text-align: center"> Tabela 24 - HTA Histórico de pontos obtidos </p></font>
+
+| **Objetivos / Operações** | **Problemas e Recomendações** |
+|---------------------------|-------------------------------|
+| **0. Visualizar Acúmulo de Pontos** |  |
+| **1. Navegar para a seção 'Acúmulo de Pontos'** | **input**: Clique na aba "Meus Pontos" no menu. <br> **feedback**: A seção é carregada com todos os pontos acumulados. <br> **plano**: Garantir que a seção carregue rapidamente e mostre todas as informações relevantes. <br> |
+| **1.1 Acompanhar total de pontos** | **input**: Seleção de todos os pontos já obtidos. <br> **plano**: Garantir que as informações estejam ordenadas por trajeto feito. <br> |
+| **1.2 Acompanhar níveis de fidelidade** | **feedback**: Todas as informações necessárias são apresentadas. <br> **plano**: Certificar de todas as viagens já realizadas estejam corretas. <br> |
+| **1.3 Acompanhar ofertas e descontos** | **input**: Seleção de ofertas e descontos de acordo com o nível de fidelidade. <br> **feedback**: A seção é carregada com todos os pontos acumulados. <br> **plano**: Garantir que a seção carregue rapidamente e mostre todas as ofertas e descontos disponíveis. <br> |
+| **2. Identificar trajeto** | **input**: Ir para aba de trajeto a ser realizado. <br> **feedback**: Todas as informações necessárias são apresentadas (data, origem, destino, status). <br> **plano**: Garantir que a seção carregue rapidamente e mostre todas as informações relevantes. <br> |
+| **2.1 Verificar quantidade de pontos por trajeto** | **input**: Ir para aba de trajeto a ser realizado. <br> **feedback**: Todas as informações necessárias são apresentadas. <br> **plano**: Garantir que a seção carregue os pontos por cada trajeto . <br> |
+
+<font size="2"><p style="text-align: center"> Fonte: [Pedro Henrique Fernandino da Silva](https://github.com/PedroHenrique061)</p></font>
+
 ### Acompanhar compra de passagem
 
 
