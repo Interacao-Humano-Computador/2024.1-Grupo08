@@ -35,17 +35,21 @@ nav:
       - Sites Avaliados: planejamento/sites_avaliados.md
       - Site Escolhido: planejamento/site_escolhido.md
   - Atas:
-          - Ata 1: atas/ata1.md
-          - Ata 2: atas/ata2.md
-          - Ata 3: atas/ata3.md
-  - Apresentações: 
-      - Apresentação 1: apresentacoes/apresentacao_1.md 
+      - Ata 1: atas/ata1.md
+      - Ata 2: atas/ata2.md
+      - Ata 3: atas/ata3.md
+      - Ata 4: atas/ata4.md
+      - Ata 5: atas/ata5.md
+      - Ata 6: atas/ata6.md
+      - Ata 7: atas/ata7.md
+  - Apresentações:
+      - Apresentação 1: apresentacoes/apresentacao_1.md
   - Análise de Requisitos:
       - Aspectos Éticos: requisitos/etica.md
-      - Perfil de Usuários: requisitos/perfil_usuarios.md 
+      - Perfil de Usuários: requisitos/perfil_usuarios.md
       - Personas: requisitos/personas.md
       - Cenários: requisitos/cenarios.md
-      - Análise de Tarefas: 
+      - Análise de Tarefas:
           - HTA: requisitos/analise_tarefas_hta.md
           - GOMS: requisitos/analise_tarefas_goms.md
 
