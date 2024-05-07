@@ -1,5 +1,5 @@
 ## Introdução
-A segunda entrega realizada em 06 de abril de 2024 da disciplina de Interação Humano Computador.
+A segunda entrega realizada em 06 de maio de 2024 da disciplina de Interação Humano Computador.
 
 ## Vídeo da Apresentação
 

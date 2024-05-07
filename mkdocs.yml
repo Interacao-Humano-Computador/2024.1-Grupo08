@@ -44,6 +44,7 @@ nav:
       - Ata 7: atas/ata7.md
   - Apresentações:
       - Apresentação 1: apresentacoes/apresentacao_1.md
+      - Apresentação 2: apresentacoes/apresentacao_2.md
   - Análise de Requisitos:
       - Aspectos Éticos: requisitos/etica.md
       - Perfil de Usuários: requisitos/perfil_usuarios.md
