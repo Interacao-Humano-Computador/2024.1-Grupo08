@@ -18,13 +18,14 @@
 
 ## Decisões
 
-- As funcionalidades definidas foram:⁠
-  - Comprar passagem (Yasmim)
-  - Histórico de passagens compradas (utilizadas ou não) (Marco)
-  - Verificar horários das linhas de ônibus por ponto de referência (Alana)
-  - Criar usuário (Pedro)
-  - Acompanhar compra de passagem/pedido (Renan)
-  - Visualizar trajeto dos ônibus (Gustavo)
+As funcionalidades definidas foram:⁠
+
+- Comprar passagem (Yasmim)
+- Histórico de passagens compradas (utilizadas ou não) (Marco)
+- Verificar horários das linhas de ônibus por ponto de referência (Alana)
+- Criar usuário (Pedro)
+- Acompanhar compra de passagem/pedido (Renan)
+- Visualizar trajeto dos ônibus (Gustavo)
 
 ## Próxima Reunião
 

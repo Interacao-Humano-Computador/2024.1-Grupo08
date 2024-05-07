@@ -20,13 +20,14 @@
 
 ## Decisões
 
-- As funcionalidades definidas foram:⁠
-  - ⁠Comprar passagem, Yasmim será responsável;
-  - ⁠Histórico de passagens compradas (utilizadas ou não), Marco será responsável;
-  - Acompanhar compra de passagem/pedido, Renan será responsável;
-  - ⁠Rastreamento de Ônibus em Tempo Real, Alana será responsável;
-  - ⁠Acúmulo de Pontos por Viagem, Pedro será responsável;
-  - ⁠Compartilhamento de Viagens, Gustavo será responsável.
+As funcionalidades definidas foram:⁠
+
+- ⁠Comprar passagem, Yasmim será responsável;
+- ⁠Histórico de passagens compradas (utilizadas ou não), Marco será responsável;
+- Acompanhar compra de passagem/pedido, Renan será responsável;
+- ⁠Rastreamento de Ônibus em Tempo Real, Alana será responsável;
+- ⁠Acúmulo de Pontos por Viagem, Pedro será responsável;
+- ⁠Compartilhamento de Viagens, Gustavo será responsável.
 
 ## Próxima Reunião
 
