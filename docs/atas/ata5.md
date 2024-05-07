@@ -4,7 +4,7 @@
 - **Hora:** 21h
 - **Local:** Plataforma de Comunicação - Teams
 - **Gravação:** 
-<iframe src="https://unbbr.sharepoint.com/sites/IHC-Grupo888/_layouts/15/embed.aspx?UniqueId=94a79301-0a5a-41f7-a736-2df02f6418ff&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Reunião em _General_-20240422_211419-Gravação de Reunião.mp4"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hEwTt8rxyH4?si=xIeELAcOg_iKPqYR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- [link](https://unbbr.sharepoint.com/sites/IHC-Grupo888/Documentos%20Compartilhados/General/Recordings/Reuni%C3%A3o%20em%20_General_-20240422_211419-Grava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o.mp4?web=1) -->
 - **Participantes:**
   - [✓] [Alana Gabriele](https://github.com/alanagabriele)

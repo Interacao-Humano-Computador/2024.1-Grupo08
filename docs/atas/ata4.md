@@ -4,7 +4,9 @@
 - **Hora:** 22h
 - **Local:** Plataforma de Comunicação - Teams
 - **Gravação:** 
-<iframe src="https://unbbr.sharepoint.com/sites/IHC-Grupo888/_layouts/15/embed.aspx?UniqueId=37345099-ed87-42db-99e8-9020a7b0cb9b&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Reunião em _General_-20240408_204524-Gravação de Reunião.mp4"></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V2w2tnUCvlI?si=N9VkdyvFm-U6s7k-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <!-- [link](https://unbbr.sharepoint.com/sites/IHC-Grupo888/Documentos%20Compartilhados/General/Recordings/Reuni%C3%A3o%20em%20_General_-20240408_204524-Grava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o.mp4?web=1) -->
 - **Participantes:**
 
