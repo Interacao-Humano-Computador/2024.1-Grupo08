@@ -168,13 +168,9 @@ GOAL 3: Verificar detalhes da passagem no e-ticket recebido por e-mail
         OP 3.1: Abrir diretamente o e-ticket recebido por e-mail.
         OP 3.2: Visualizar todas as informações relevantes sobre a passagem no e-ticket.
         
-GOAL 4: Verificar confirmação da passagem no e-ticket
+GOAL 4: Salvar ou imprimir o e-ticket, se necessário
     METHOD 4:
-        OP 4.1: Verificar se todas as informações estão corretas e atualizadas no e-ticket.
-        
-GOAL 5: Salvar ou imprimir o e-ticket, se necessário
-    METHOD 5:
-        OP 5.1: Salvar ou imprimir o e-ticket, se necessário.
+        OP 4.1: Salvar ou imprimir o e-ticket, se necessário.
 ```
 
 <font size="2"><p style="text-align: center"> Fonte: [Renan Araújo](hhttps://github.com/renantfm4)</p></font>
