@@ -41,7 +41,13 @@ nav:
   - Apresentações: 
       - Apresentação 1: apresentacoes/apresentacao_1.md 
   - Análise de Requisitos:
+      - Aspectos Éticos: requisitos/etica.md
       - Perfil de Usuários: requisitos/perfil_usuarios.md 
+      - Personas: requisitos/personas.md
+      - Cenários: requisitos/cenarios.md
+      - Análise de Tarefas: 
+          - HTA: requisitos/analise_tarefas_hta.md
+          - GOMS: requisitos/analise_tarefas_goms.md
 
 extra_css:
   - custom.css

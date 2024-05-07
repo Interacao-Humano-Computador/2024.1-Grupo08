@@ -15,6 +15,9 @@ Ao decidir o site, foi considerado os seguintes aspectos:
 
 ## Motivação de escolha entre os sites avaliados
 
+Com  base nos critérios para escolha, optamos por aquele que não foi escolhido por nenhuma equipe do semestre atual e nem dos anteriores e, principalmente, observando qual teria um público de fácil acesso sendo escolhido então um site de uma empresa de ônibus chamada **Central Expresso** com pouca usabilidade e sem indicativos de acessibilidade. O público em questão são pessoas em migração pendular, realizada entre Luziânia-GO até cidades satélites do Distrito Federal. <br>
+Alguns pontos em relação a acessibilidade e usablidade também foram considerados para a escolha, como:
+
 <ul>
 <li> Navegação não intuitiva que dificulta a experiência do usuário; </li>
 <li> Presença de ícones que não cumprem funções práticas, comprometendo a funcionalidade; </li>
@@ -25,8 +28,31 @@ Ao decidir o site, foi considerado os seguintes aspectos:
 
 O site escolhido se encontra disponível neste [link](https://www.centralexpresso.com/).
 
+<font size="2"><p style="text-align: center"> Figura 10 - Usabilidade do site Central Expresso </p></font>
+
+<center>![Central Expresso](<central_expresso.gif>)</center>
+
+<font size="2"><p style="text-align: center"> Fonte: Central Expresso. Disponível em: [https://www.centralexpresso.com/](https://www.centralexpresso.com/).</p></font>
+
+
+### Funcionalidades
+Para cada membro da equipe foi escolhida uma funcionalidade do site, sendo um site com poucas funcionalidades algumas foram criadas para desenvolvimento do projeto.
+
+<ul>
+<li> Alana Gabriele: Rastreamento de Ônibus em Tempo Real.  </li>
+<li> Gustavo Alves: Compartilhamento de Trajetos. </li>
+<li> Marco Tulio: Histórico de passagens compradas. </li>
+<li> Pedro Henrique: Acúmulo de Pontos por Trajeto. </li>
+<li> Renan Araújo: Acompanhar compra de passagem. </li>
+<li> Yasmim Rosa: Comprar passagem. </li>
+</ul>
+
+
+
 ## Histórico de Versões
 
 | Versão |    Data    | Descrição                                         | Autor(es)                                       | Revisor(es)                                        |
 | ------ | :--------: | ------------------------------------------------- | ----------------------------------------------- | -------------------------------------------------- |
 | 1.0    | 04/04/2024 | Adição dos tópicos do site escolhido e introdução | [Marco Tulio](https://github.com/MarcoTulioSoares) | [Renan Araújo](https://github.com/renantfm4) |
+| 1.2    | 01/05/2024 | Ajustes de acordo com feedback | [Yasmim Rosa](https://github.com/yaskisoba) | [Pedro Henrique](https://github.com/PedroHenrique061) |
+| 1.3    | 01/05/2024 | Adicionando funcionalidades por membro da equipe | [Yasmim Rosa](https://github.com/yaskisoba) |  |
