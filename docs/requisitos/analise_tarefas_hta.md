@@ -102,15 +102,16 @@ Nessa tarefa o usuário tem o objetivo de acompanhar o total de pontos obtidos.
 
 <font size="2"><p style="text-align: center"> Tabela 25 - HTA Histórico de pontos obtidos </p></font>
 
-| **Objetivos / Operações** | **Problemas e Recomendações** |
-|---------------------------|-------------------------------|
-| **0. Visualizar Acúmulo de Pontos** |  |
-| **1. Navegar para a seção 'Acúmulo de Pontos'** | **input**: Clique na aba "Meus Pontos" no menu. <br> **feedback**: A seção é carregada com todos os pontos acumulados. <br> **plano**: Garantir que a seção carregue rapidamente e mostre todas as informações relevantes. <br> |
-| **1.1 Acompanhar total de pontos** | **input**: Seleção de todos os pontos já obtidos. <br> **plano**: Garantir que as informações estejam ordenadas por trajeto feito. <br> |
-| **1.2 Acompanhar níveis de fidelidade** | **feedback**: Todas as informações necessárias são apresentadas. <br> **plano**: Certificar de todas as viagens já realizadas estejam corretas. <br> |
-| **1.3 Acompanhar ofertas e descontos** | **input**: Seleção de ofertas e descontos de acordo com o nível de fidelidade. <br> **feedback**: A seção é carregada com todos os pontos acumulados. <br> **plano**: Garantir que a seção carregue rapidamente e mostre todas as ofertas e descontos disponíveis. <br> |
-| **2. Identificar trajeto** | **input**: Ir para aba de trajeto a ser realizado. <br> **feedback**: Todas as informações necessárias são apresentadas (data, origem, destino, status). <br> **plano**: Garantir que a seção carregue rapidamente e mostre todas as informações relevantes. <br> |
-| **2.1 Verificar quantidade de pontos por trajeto** | **input**: Ir para aba de trajeto a ser realizado. <br> **feedback**: Todas as informações necessárias são apresentadas. <br> **plano**: Garantir que a seção carregue os pontos por cada trajeto . <br> |
+| Objetivos / Operações       | Relações | Problemas e Recomendações                            |
+|-----------------------------|----------|------------------------------------------------------|
+| 0.Visualizar Acúmulo de Pontos        | 1 > 2    | Input: Acúmulo de Pontos. |
+| 1. Navegar para a seção 'Acúmulo de Pontos'        | 1 > 2    | Input: Clique na aba "Meus Pontos" no menu. <br> Feedback: A seção é carregada com todos os pontos acumulados.|
+| 1.1  Acompanhar total de pontos |          | Input: Seleção de todos os pontos já obtidos.  |
+| 1.1.1 Acompanhar níveis de fidelidade   |          | Feedback: Todas as informações necessárias são apresentadas. |
+| 1.1.2 Transformar pontos em passagem   |          |  Input: Seleção da quantidade de pontos. |
+| 1.2 Acompanhar ofertas e descontos   |          |  Input: Seleção de ofertas e descontos de acordo com o nível de fidelidade. <br>Feedback: A seção é carregada com todas ofertas e descontos disponíveis.|
+| 2. Identificar trajeto   | 1 > 2    | Input: Ir para aba de trajeto a ser realizado. <br> Feedback: Todas as informações necessárias são apresentadas (data, origem, destino, status). |
+| 2.1 Verificar quantidade de pontos por trajeto | | Input: Ir para aba de trajeto a ser realizado. <br> Feedback: Quantidade de pontos é apresentada. |
 
 <font size="2"><p style="text-align: center"> Fonte: [Pedro Henrique](https://github.com/PedroHenrique061)</p></font>
 
