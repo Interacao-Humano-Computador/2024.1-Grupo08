@@ -53,6 +53,7 @@ nav:
       - Análise de Tarefas:
           - HTA: requisitos/analise_tarefas_hta.md
           - GOMS: requisitos/analise_tarefas_goms.md
+      - Princípios Gerais: requisitos/principios_gerais.md
 
 extra_css:
   - custom.css
