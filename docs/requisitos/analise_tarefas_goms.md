@@ -119,24 +119,26 @@ GOAL 4: Obter um comprovante ou realizar ações adicionais
 
 ### Acúmulo de Pontos por Trajeto. 
 ```
-GOAL 0: Acessar o site Central Expresso
-    METHOD 0:
+GOAL 0: Pesquisar por pontos 
+    METHOD 0: Encontrar a seção de pontos
         OP 0.1: Abrir o navegador.
-        OP 0.2: Digitar a URL do site Central Expresso.
+        OP 0.2: Digitar a URL do site do Central Expresso.
+        OP 0.3: Navegar até a seção de meus pontos.
 
-GOAL 1: Acessar a seção 'Meus Pontos'
-    METHOD 1:
-        OP 1.1: Guiar o mouse para o menu 'Acúmulo de Pontos por trajeto'.
-        OP 1.2: Clicar na aba.
+GOAL 1: Verificar nível de fidelidade
+    METHOD 1: Ir para ofertas e descontos
+        OP 1.1: Clicar no trajeto para exibir detalhes.
+        OP 1.2: Clicar nas ofertas e descontos disponíveis.
 
-GOAL 2: Verificar nível de fidelidade
-    METHOD 2:
-        OP 2.1: Clicar no trajeto para exibir detalhes.
-        OP 2.2: Verificar ofertas e descontos disponíveis.
+GOAL 2: Transformar pontos em passagem
+    METHOD 2: Ir para o trajeto desejado
+        OP 2.1: Clicar na quantidade de pontos totais.
+        OP 2.2: Informar quantidade de pontos a ser utilizados.
+        OP 2.3: Clicar em confirmar.
 
-GOAL 3: Verificar o trajeto desejado
-    METHOD 3:
-        OP 3.1: Observar o status do trajeto na tela de detalhes.
+GOAL 3: Verificar pontos por trajeto
+    METHOD 3: Escolher trajeto desejado
+        OP 3.1: Clicar no trajeto para exibir detalhes.
 
 
 ```
