@@ -106,9 +106,9 @@ Nessa tarefa o usuário tem o objetivo de acompanhar o total de pontos obtidos.
 |-----------------------------|----------|------------------------------------------------------|
 | 0.Visualizar Acúmulo de Pontos        | 1 > 2    | Input: Acúmulo de Pontos. |
 | 1. Navegar para a seção 'Acúmulo de Pontos'        | 1 > 2    | Input: Clique na aba "Meus Pontos" no menu. <br> Feedback: A seção é carregada com todos os pontos acumulados.|
-| 1.1  Acompanhar total de pontos |          | Input: Seleção de todos os pontos já obtidos.  |
+| 1.1  Acompanhar total de pontos |          | Input: São apresentados todos os pontos já obtidos.  |
 | 1.1.1 Acompanhar níveis de fidelidade   |          | Feedback: Todas as informações necessárias são apresentadas. |
-| 1.1.2 Transformar pontos em passagem   |          |  Input: Seleção da quantidade de pontos. |
+| 1.1.2 Transformar pontos em passagem   |          |  Input: Seleção da quantidade de pontos.  <br> Feedback: A seção é carregada com todas as passagens ofertadas.|
 | 1.2 Acompanhar ofertas e descontos   |          |  Input: Seleção de ofertas e descontos de acordo com o nível de fidelidade. <br>Feedback: A seção é carregada com todas ofertas e descontos disponíveis.|
 | 2. Identificar trajeto   | 1 > 2    | Input: Ir para aba de trajeto a ser realizado. <br> Feedback: Todas as informações necessárias são apresentadas (data, origem, destino, status). |
 | 2.1 Verificar quantidade de pontos por trajeto | | Input: Ir para aba de trajeto a ser realizado. <br> Feedback: Quantidade de pontos é apresentada. |
