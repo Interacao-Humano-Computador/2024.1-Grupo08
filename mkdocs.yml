@@ -53,7 +53,10 @@ nav:
       - Análise de Tarefas:
           - HTA: requisitos/analise_tarefas_hta.md
           - GOMS: requisitos/analise_tarefas_goms.md
-      - Princípios Gerais: requisitos/principios_gerais.md
+      - Características da Plataforma: requisitos/caracteristicas_gerais.md
+      - Princípios Gerais do Projeto: requisitos/principios_gerais.md
+      - Metas de Usabilidade: requisitos/metas_usabilidade.md
+      - Guia de Estilo: requisitos/guia_estilo.md
 
 extra_css:
   - custom.css
