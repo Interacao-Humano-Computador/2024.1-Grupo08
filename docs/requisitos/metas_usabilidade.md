@@ -44,4 +44,4 @@ Assim como citado no aprendizado, dependendo das limitações pode ser menos fá
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 05/05/2024 | metas de usabilidade | [Yasmim Rosa](https://github.com/yaskisoba) <br>  |  |
+| 1.0    | 05/05/2024 | metas de usabilidade | [Yasmim Rosa](https://github.com/yaskisoba) <br> [Renan Araújo](https://github.com/renantfm4)    |  |
