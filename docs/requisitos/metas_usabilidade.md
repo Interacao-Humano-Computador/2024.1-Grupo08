@@ -39,6 +39,7 @@ Assim como citado no aprendizado, dependendo das limitações pode ser menos fá
 
 ## Bibliografia
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. <br>
+> As 6 metas de usabilidade, disponível em: https://medium.com/difournier-uxr/as-6-metas-de-usabilidade-9491442fd56a. Acesso em: 10/05/2024.
 
 ## Histórico de Versões
 
