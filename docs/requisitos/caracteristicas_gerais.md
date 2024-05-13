@@ -26,4 +26,4 @@ Em relação as tecnologias utilizadas, não existe uma documentação que apont
 
 | Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
 | ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 11/05/2024 |  Características da Plataforma | [Yasmim Rosa](https://github.com/yaskisoba) <br>  |     |
+| 1.0    | 11/05/2024 |  Características da Plataforma | [Yasmim Rosa](https://github.com/yaskisoba) <br>  |    [Renan Araújo](https://github.com/renantfm4) <br>  |
