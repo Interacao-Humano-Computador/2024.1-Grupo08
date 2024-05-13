@@ -24,3 +24,20 @@ Os públicos-alvo deste guia de estilo são:
 - **Integrantes do grupo**: que utilizarão o guia como ferramenta de organização no desenvolvimento do projeto de IHC.
 - **Desenvolvedor(es) responsável(eis)**: pela interface do Central Expresso.
 
+### Como utilizar o Guia
+
+Este guia de estilo pode ser utilizado como uma referência para tomar decisões de design durante todo o ciclo de vida do projeto de Interação Humano Computador, incluindo tanto a fase de produção quanto a fase de manutenção. As diretrizes e melhores práticas fornecidas neste guia são relevantes para orientar a tomada de decisões de design e garantir que a interface de usuário resultante atenda às necessidades dos usuários finais, promovendo assim uma interação eficaz e satisfatória com o sistema.
+ 
+ ### Como mantê-lo
+
+ O guia de estilo é um documento dinâmico que requer manutenção constante (pelo menos até o final do projeto) para se manter atualizado e assegurar sua relevância através das versões e das novas ideias que emergem durante o desenvolvimento e a interação com os stakeholders. Para garantir a manutenção adequada do guia de estilo, é essencial adotar as seguintes práticas:
+
+- **Atualizações regulares**: Sempre que houver decisões de design ou desenvolvimento que impactem o site, o guia de estilo deve ser atualizado para refletir essas mudanças. Isso inclui adicionar ou atualizar elementos de interface e ajustar recomendações com base em feedbacks e aprendizados adquiridos durante o processo de desenvolvimento.
+
+- **Colaboração contínua**: A manutenção do guia de estilo é uma tarefa colaborativa. É crucial encorajar a participação ativa da equipe de desenvolvimento, designers e outros stakeholders para fornecer feedback, sugestões e contribuições para o aprimoramento do guia.
+
+- **Versionamento e controle de alterações**: Recomenda-se o uso de um sistema de controle de versão para o guia de estilo, o que permite um registro claro das modificações, facilitando o rastreamento e a revisão das alterações ao longo do tempo. Isso auxilia na colaboração, na revisão de mudanças anteriores e na identificação de possíveis regressões.
+
+- **Avaliação e feedback dos usuários**: É fundamental buscar continuamente o feedback dos usuários sobre a usabilidade da interface. As necessidades e percepções dos usuários podem evoluir, tornando crucial estar aberto a sugestões e críticas construtivas para melhorar tanto o guia de estilo quanto a experiência do usuário.
+
+## Resultados da Análise
