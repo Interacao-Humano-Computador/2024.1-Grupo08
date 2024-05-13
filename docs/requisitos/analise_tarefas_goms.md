@@ -123,15 +123,16 @@ GOAL 0: Pesquisar por pontos
     METHOD 0: Encontrar a seção de pontos
         OP 0.1: Abrir o navegador.
         OP 0.2: Digitar a URL do site do Central Expresso.
-        OP 0.3: Navegar até a seção de meus pontos.
+        OP 0.3: Navegar até a seção de meus pontos.   
 
-GOAL 1: Verificar nível de fidelidade
-    METHOD 1: Ir para ofertas e descontos
-        OP 1.1: Clicar no trajeto para exibir detalhes.
-        OP 1.2: Clicar nas ofertas e descontos disponíveis.
+GOAL 1: Verificar total de pontos
+    METHOD 1: Informar dados
+        OP 1.1: Inserir nome, CPF, data de nascimento e endereço.
+        OP 1.2: Clicar no trajeto para exibir detalhes.
+        OP 1.3: Clicar nas ofertas e descontos disponíveis.
 
 GOAL 2: Transformar pontos em passagem
-    METHOD 2: Ir para o trajeto desejado
+    METHOD 2: Ir para total de pontos
         OP 2.1: Clicar na quantidade de pontos totais.
         OP 2.2: Informar quantidade de pontos a ser utilizados.
         OP 2.3: Clicar em confirmar.
@@ -139,8 +140,6 @@ GOAL 2: Transformar pontos em passagem
 GOAL 3: Verificar pontos por trajeto
     METHOD 3: Escolher trajeto desejado
         OP 3.1: Clicar no trajeto para exibir detalhes.
-
-
 ```
 
 <font size="2"><p style="text-align: center"> Fonte: [Pedro Henrique](https://github.com/PedroHenrique061)</p></font>
