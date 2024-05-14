@@ -55,7 +55,7 @@ Os elementos de interface são apresentados na figura 1.
 
 **Estilos de interação:**
 
-Navegação: menu de navegação no topo da página, ícone de carrinho de compras, botões para selecionar o período da vizualização dos horários, volta para página anterior, esvaziar o carrinho e avançar.
+Navegação: menu de navegação no topo da página, ícone de carrinho de compras, botões para selecionar o período da vizualização dos horários, voltar para página anterior, esvaziar o carrinho e avançar.
 
 **Seleção de um estilo:**
 
@@ -69,7 +69,7 @@ Não foram encontradas teclas de atalho.
 
 **Preenchimento de campos:**
 
-- Campo de texto para informar a quantidade de passagens que deseja adicionar no carrihno;
+- Campo de texto para informar a quantidade de passagens que deseja adicionar no carrinho;
 - Dados do cliente e endereço de entrega para a compra da passagem.
 
 **Seleção:**
@@ -94,6 +94,10 @@ Apesar das telas não serem minimalista, elas seguem o mesmo padrão.
 **Sequências de diálogos:**
 
 Mensagens de confirmação em pop-ups, com botões de ação claros ("Sim", "Não"), utilizado para ação de evaziar o carrinho, botão de avançar indicando a sequência do formulário de comprar de passagens.
+
+## Bibliografia
+
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. <br>
 
 ## Histórico de Versões
 
