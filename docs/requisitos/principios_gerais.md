@@ -85,8 +85,6 @@ Nesta violação, os ícones destinados ao acesso às redes sociais do site não
 
 Refere-se à capacidade do sistema de antecipar as necessidades do usuário e prover recursos ou informações que possam ser necessárias antes mesmo de o usuário solicitar, melhorando a eficiência e a experiência de uso.
 
-#### Violação
-
 ### 7- Visibilidade e Reconhecimento
 
 #### Definição
