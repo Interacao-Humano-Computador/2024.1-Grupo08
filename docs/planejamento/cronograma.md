@@ -120,6 +120,22 @@ Na **tabela 6** está o cronograma planejado.
 
 <font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba)</p></font>
 
+### Cronograma Executado
+
+<font size="2"><p style="text-align: center">Tabela 6 - Cronograma executado de atividades da etapa 3 </p></font>
+
+
+| Atividade                       | Período para o desenvolvimento da atividade | Responsáveis             | Período da revisão | Revisores |
+|---------------------------------|--------------------------------------------|--------------------------|--------------------|-----------|
+| Definição dos princípios gerais do projeto | **Início**: 07/05 <br> **Fim**: 07/05 | Gustavo Alves e Pedro Henrique          |  **Início**: 08/05 <br> **Fim**: 08/05 | Yasmim Rosa     |
+| Definição das metas de usabilidade         | **Início**: 09/05 <br> **Fim**: 09/05 | Renan Araújo e Yasmim Rosa        | **Início**: 10/05 <br> **Fim**: 10/05  | Alana Gabriele      |
+| Elaboração do Guia de Estilo    | **Início**: 10/05 <br> **Fim**: 13/05 | Alana Gabriele e Marco Tulio                       | **Início**: 13/05 <br> **Fim**: 13/05  | Renan Araújo   |
+| Inserção das atividades no Gitpages | **Início**: 10/05 <br> **Fim**: 13/05  | Renan Araújo e Pedro Henrique                 |**Início**: 13/05 <br> **Fim**: 13/05 | Marco Tulio     |
+| Gravar vídeo de apresentação    |  **Início**: 11/05 <br> **Fim**: 13/05     | Gustavo Alves e Marco Tulio | **Início**: 13/05 <br> **Fim**: 13/05 | Renan Araújo |
+| Correções pós-apresentação      | **Início**: 14/05 <br> **Fim**: 15/05      | Yasmim Rosa e Alana Gabriele                    | **Início**: 16/05 <br> **Fim**: 16/05| Gustavo Alves         |
+
+<font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba)</p></font>
+
 
 ## Etapa 4
 Na **tabela 7** está o cronograma planejado.
