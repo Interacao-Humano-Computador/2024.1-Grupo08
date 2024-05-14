@@ -26,7 +26,7 @@ O guia deve ser utilizado durante a produção e manutenção do site. Ele deve 
 
 ### Como mantê-lo
 
-É vital manter a padronização visual e interativa em toda a plataforma do Central Expresso, revisando sistematicamente o manual de estilo após cada modificação feita por alunos, designers e desenvolvedores no projeto de Interação Humano-Computador. Este processo garante que todas as alterações estejam em conformidade com os critérios estabelecidos no guia, melhorando significativamente a experiência do usuário e mitigando riscos de problemas de usabilidade e acessibilidade.
+Preservar a consistência visual e funcional em todo o sistema do Central Expresso é essencial, exigindo atualizações regulares no manual de estilo sempre que ocorrerem mudanças no projeto de Interação Humano-Computador por parte de alunos, designers e desenvolvedores. Tal prática assegura a adequação de todas as modificações às normas definidas no guia, o que aprimora substancialmente a experiência do usuário e reduz possíveis dificuldades de usabilidade e acessibilidade.
 
 ## Resultados da Análise
 
@@ -88,7 +88,7 @@ Mensagens de confirmação em pop-ups, com botões de ação claros ("Sim", "Nã
 ## Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. <br>
-
+>Interação Humano-Computador. (2023). Público-Alvo do Guia de Estilo. Recuperado de https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/guia-de-estilo/#publico-alvo-do-guia-de-estilo
 ## Histórico de Versões
 
 | Versão |    Data    | Descrição      | Autor(es)                                                                                                   | Revisor(es)                                  |
