@@ -18,11 +18,7 @@ O guia está organizado em seções que cobrem os principais elementos de interf
 
 ### Público-alvo
 
-Os públicos-alvo deste guia de estilo são:
-
-- **Estudantes de IHC**: que poderão utilizar este documento como material de estudo e referência.
-- **Integrantes do grupo**: que utilizarão o guia como ferramenta de organização no desenvolvimento do projeto de IHC.
-- **Desenvolvedor(es) responsável(eis)**: pela interface do Central Expresso.
+Desenvolvido para atender às necessidades dos alunos da disciplina de Interação Humano-Computador e dos profissionais de design e desenvolvimento do Bilheteria Digital, este guia de estilo oferece um conjunto de diretrizes e melhores práticas. Detalhadas nas Metas de Usabilidade e nos Princípios Gerais, essas orientações são essenciais para que todos os atores envolvidos possam fazer escolhas de design bem fundamentadas.
 
 ### Como utilizar o Guia
 
@@ -30,13 +26,7 @@ O guia deve ser utilizado durante a produção e manutenção do site. Ele deve 
 
 ### Como mantê-lo
 
-O guia de estilo é um documento dinâmico que requer manutenção constante (pelo menos até o final do projeto) para se manter atualizado e assegurar sua relevância através das versões e das novas ideias que emergem durante o desenvolvimento e a interação com os stakeholders. Para garantir a manutenção adequada do guia de estilo, é essencial adotar as seguintes práticas:
-
-- **Atualizações regulares**: Sempre que houver decisões de design ou desenvolvimento que impactem o site, o guia de estilo deve ser atualizado para refletir essas mudanças. Isso inclui adicionar ou atualizar elementos de interface e ajustar recomendações com base em feedbacks e aprendizados adquiridos durante o processo de desenvolvimento.
-
-- **Versionamento e controle de alterações**: Recomenda-se o uso de um sistema de controle de versão para o guia de estilo, o que permite um registro claro das modificações, facilitando o rastreamento e a revisão das alterações ao longo do tempo. Isso auxilia na colaboração, na revisão de mudanças anteriores e na identificação de possíveis regressões.
-
-- **Avaliação e feedback dos usuários**: É fundamental buscar continuamente o feedback dos usuários sobre a usabilidade da interface. As necessidades e percepções dos usuários podem evoluir, tornando crucial estar aberto a sugestões e críticas construtivas para melhorar tanto o guia de estilo quanto a experiência do usuário.
+É vital manter a padronização visual e interativa em toda a plataforma do Central Expresso, revisando sistematicamente o manual de estilo após cada modificação feita por alunos, designers e desenvolvedores no projeto de Interação Humano-Computador. Este processo garante que todas as alterações estejam em conformidade com os critérios estabelecidos no guia, melhorando significativamente a experiência do usuário e mitigando riscos de problemas de usabilidade e acessibilidade.
 
 ## Resultados da Análise
 
