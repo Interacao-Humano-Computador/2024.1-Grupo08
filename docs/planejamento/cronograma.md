@@ -121,8 +121,9 @@ Na **tabela 6** está o cronograma planejado.
 <font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba)</p></font>
 
 ### Cronograma Executado
+Na **tabela 7** tem o cronograma executado.
 
-<font size="2"><p style="text-align: center">Tabela 6 - Cronograma executado de atividades da etapa 3 </p></font>
+<font size="2"><p style="text-align: center">Tabela 7 - Cronograma executado de atividades da etapa 3 </p></font>
 
 
 | Atividade                       | Período para o desenvolvimento da atividade | Responsáveis             | Período da revisão | Revisores |
