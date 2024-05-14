@@ -6,11 +6,25 @@ A criação de um guia de estilo eficaz é vital para direcionar o desenvolvimen
 
 ### Objetivo do Guia de Estilo
 
-Este guia de estilo tem como objetivo fornecer diretrizes e melhores práticas para o design e para o desenvolvimento de interfaces de usuário eficazes e usáveis na disciplina de IHC. Abordaremos os seguintes elementos:
+Este guia de estilo é projetado para fornecer diretrizes e práticas recomendadas para a concepção e o desenvolvimento de interfaces de usuário que sejam eficazes e fáceis de usar em Interacção Humano-Computador (IHC). Neste guia, exploraremos os seguintes aspectos:
 
-- **Elementos de interface**: disposição espacial e _grid_, janelas, tipografia, cores, símbolos, _widgets_, logo e design de telas;
-- **Elementos de interação**: estilos de interação, seleção de um estilo, aceleradores (teclas de atalho);
-- **Elementos de ação**: preenchimento de campos, seleção e ativação.
+#### Elementos de Interface
+- **Disposição espacial e grid**: Organização do espaço na tela para facilitar a interação.
+- **Janelas**: Uso e gestão de janelas dentro da interface.
+- **Tipografia**: Escolha de fontes e estilos de texto para melhorar a legibilidade.
+- **Cores**: Seleção e combinação de cores para aumentar a clareza e a estética.
+- **Símbolos**: Uso de ícones e símbolos para comunicação rápida e eficaz.
+- **Widgets**: Implementação de elementos interativos como botões e caixas de seleção.
+- **Logo e design de telas**: Incorporação de identidade visual e layout das telas.
+
+#### Elementos de Interação
+- **Estilos de interação**: Diferentes métodos para permitir a interação dos usuários com o sistema.
+- **Seleção de um estilo**: Critérios para escolher o estilo de interação mais adequado.
+- **Aceleradores (teclas de atalho)**: Implementação de atalhos de teclado para acelerar a interação.
+
+#### Elementos de Ação
+- **Preenchimento de campos**: Estratégias para a entrada de dados pelos usuários.
+- **Seleção e ativação**: Métodos para selecionar e ativar comandos ou opções dentro da interface.
 
 ### Organização e Conteúdo do Guia de Estilo
 
