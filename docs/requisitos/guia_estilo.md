@@ -49,7 +49,7 @@ Os elementos de interface são apresentados na figura 1.
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2F5GleYtH5j0tZ9VGLaT7jtU%2FCentral-Expresso%3Fnode-id%3D0%253A1%26t%3DeATVP7qRllh0mWQg-1" allowfullscreen></iframe>
 
-<font size="2"><p style="text-align: center"> Fonte: [Alana Gabriele](https://github.com/alanagabriele) e [Marco Túlio](https://github.com/MarcoTulioSoares). Disponível em: [Google Docs](https://docs.google.com/document/d/1SYxAgTJFDZQ4u4j6DUbN0arY3rBEV0UuM4vYtjSpkd8/edit?usp=sharing).</p></font>
+<font size="2"><p style="text-align: center"> Fonte: [Alana Gabriele](https://github.com/alanagabriele) e [Marco Túlio](https://github.com/MarcoTulioSoares).</p></font>
 
 ## Elementos de Interação
 
@@ -97,6 +97,6 @@ Mensagens de confirmação em pop-ups, com botões de ação claros ("Sim", "Nã
 
 ## Histórico de Versões
 
-| Versão |    Data    | Descrição      | Autor(es)                                                                                                   | Revisor(es) |
-| ------ | :--------: | -------------- | ----------------------------------------------------------------------------------------------------------- | ----------- |
-| 1.0    | 13/05/2024 | Guia de Estilo | [Alana Gabriele](https://github.com/alanagabriele/) <br> [Marco Túlio](https://github.com/MarcoTulioSoares) | [ ]()       |
+| Versão |    Data    | Descrição      | Autor(es)                                                                                                   | Revisor(es)                                  |
+| ------ | :--------: | -------------- | ----------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 1.0    | 13/05/2024 | Guia de Estilo | [Alana Gabriele](https://github.com/alanagabriele/) <br> [Marco Túlio](https://github.com/MarcoTulioSoares) | [Renan Araújo](https://github.com/renantfm4) |
