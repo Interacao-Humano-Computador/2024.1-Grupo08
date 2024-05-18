@@ -120,7 +120,7 @@ Nessa tarefa o usuário tem o objetivo de acompanhar o total de pontos obtidos.
 ### Acompanhar compra de passagem
 <font size="2"><p style="text-align: center"> Figura 28 - HTA Acompanhar compra de passagem </p></font>
 
-<center> ![alt text](image-18.png) </center>
+<center> ![alt text](image-20.png) </center>
 
 <font size="2"><p style="text-align: center"> Fonte: [Renan Araújo](hhttps://github.com/renantfm4)</p></font>
 
