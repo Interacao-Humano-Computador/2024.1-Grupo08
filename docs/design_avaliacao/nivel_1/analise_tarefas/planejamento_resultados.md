@@ -28,7 +28,7 @@ Dessa forma é dever do avaliador:
 
 A partir da execução da avaliação, os responsaveis pela avaliação devem registrar as respostas do entrevistado para cada uma das pesquisas planejadas.Deve conter os aspectos mais relevantes identificados durante a avaliação, incluindo os problemas encontrados, as sugestões de melhorias propostas e o feedback dos usuários. Essa etapa permitirá reunir em uma única perspectiva as principais informações relacionadas às melhorias a serem aplicadas na plataforma da Central Expresso
 
-### relato da interpretação e análise dos dados
+### Relato da interpretação e análise dos dados
 
 Os responsáveis pela avaliação devem realizar uma análise e interpretação dos resultados obtidos a partir da avaliação de tarefas. Isso envolve examinar os dados coletados durante a avaliação, identificar padrões, tendências e extrair conclusões significativas dessas informações. É necessário contextualizar os resultados dentro do objetivo da avaliação e considerar o impacto dos problemas específicos na usabilidade, na experiência do usuário e nos objetivos propostos.
 
