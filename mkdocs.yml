@@ -60,6 +60,6 @@ nav:
       - Metas de Usabilidade: requisitos/metas_usabilidade.md
       - Guia de Estilo: requisitos/guia_estilo.md
   - Design, Avaliação e Desenvolvimento:
-      - Planejamento do Relato dos Resultados da Avaliação : Design_avaliacao/PlanejamentoResultadosA.md
+      - Planejamento do Relato dos Resultados da Avaliação do Storyboard: Design_avaliacao/PlanejamentoResultadosA.md
 extra_css:
   - custom.css
