@@ -4,7 +4,7 @@ Este documento apresenta um planejamento para a elaboração de um relatório qu
 
 ## Elementos do Relato de Resultados
 
-A partir da execução da valiação, os responsaveis pela avaliação devem relatar os resultados levando em consideração os itens a baixo.
+A partir da execução da avaliação, os responsaveis pela avaliação devem relatar os resultados levando em consideração os itens a baixo.
 
 
 
@@ -27,12 +27,22 @@ Dessa forma é dever do avaliador:
 
 ### Sumário dos dados coletados
 
+A partir da execução da avaliação, os responsaveis pela avaliação devem registrar as respostas do entrevistado para cada uma das pesquisas planejadas.
+
 ### relato da interpretação e análise dos dados
+
+
 
 ### Problemas encontrados
 
+Os responsaveis pela avaliação devem listar os problemas encontrados nos storyboards, com base nos resultados coletados.
+
 ### Sugestões de correções
+
+
 
 ### Gravações do teste piloto e da entrevista
 
 ## Bibliografia
+
+BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. <br>
