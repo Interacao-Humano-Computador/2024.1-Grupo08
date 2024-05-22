@@ -26,6 +26,10 @@ Dessa forma é dever do avaliador:
 * Gravar dados sobre o avaliador de cada avaliação.
 
 ### Sumário dos dados coletados
+Deve-se:
+
+* Documentar respostas dos entrevistas de acordo com as perguntas do teste
+* Qualquer anomalia na resposta do entrevistado, como dúvidas ou recusa em responder, deve ser registrada.
 
 ### relato da interpretação e análise dos dados
 
