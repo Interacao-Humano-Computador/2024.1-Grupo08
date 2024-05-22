@@ -51,4 +51,4 @@ Os responsáveis pela avaliação devem incluir o relato de resultados da grava�
 
 | Versão |    Data    | Descrição                     | Autor(es)                                          | Revisor(es) |
 | ------ | :--------: | ----------------------------- | -------------------------------------------------- | ----------- |
-| 1.0    | 18/05/2024 |Planejamento da Avaliação do Storyboard | [Marco Tulio](https://github.com/MarcoTulioSoares) <br> [Pedro Henrique](https://github.com/PedroHenrique061)  | [Gustavo Alves](https://github.com/gustaallves) |
+| 1.0    | 18/05/2024 |Planejamento do Relato do Storyboard | [Marco Tulio](https://github.com/MarcoTulioSoares) <br> [Pedro Henrique](https://github.com/PedroHenrique061)  | [Gustavo Alves](https://github.com/gustaallves) |
