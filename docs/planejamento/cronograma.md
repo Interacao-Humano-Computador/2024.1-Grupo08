@@ -139,10 +139,10 @@ Na **tabela 7** tem o cronograma executado.
 
 
 ## Etapa 4
-Na **tabela 7** está o cronograma planejado.
+Na **tabela 8** está o cronograma planejado.
 ### Cronograma Planejado
 
-<font size="2"><p style="text-align: center">Tabela 7 - Cronograma planejado de atividades da etapa 4 </p></font>
+<font size="2"><p style="text-align: center">Tabela 8 - Cronograma planejado de atividades da etapa 4 </p></font>
 
 
 | Atividade                       | Período para o desenvolvimento da atividade | Responsáveis             | Período da revisão | Revisores |
@@ -157,11 +157,29 @@ Na **tabela 7** está o cronograma planejado.
 <font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba)</p></font>
 
 
+### Cronograma Executado
+Na **tabela 9** está o cronograma executado da etapa 4.
+
+<font size="2"><p style="text-align: center">Tabela 9 - Cronograma planejado de atividades da etapa 4 </p></font>
+
+
+| Atividade                       | Período para o desenvolvimento da atividade | Responsáveis             | Período da revisão | Revisores |
+|---------------------------------|--------------------------------------------|--------------------------|--------------------|-----------|
+| Planejamento da avaliação do Storyboard   | **Início**: 15/05 <br> **Fim**: 17/05         | Renan Araújo e Yasmim Rosa   | **Início**: 18/05 <br> **Fim**: 18/05     | Alana Gabriele     |
+| Planejamento do relato dos resultados da avaliação do Storyboard        | **Início**: 18/05 <br> **Fim**: 18/05  | Pedro Henrique e Marco Tulio | **Início**: 19/05 <br> **Fim**: 19/05 | Gustavo Alves |
+| Análise de tarefas (HTA)                | **Início**: 18/05 <br> **Fim**: 19/05           | Gustavo Alves e Alana Gabriele  | **Início**: 20/05 <br> **Fim**: 20/05 | Yasmim Rosa     |
+| Inserção das atividades no Gitpages |  **Início**: 20/05 <br> **Fim**: 20/05        | Yasmim Rosa e Marco Tulio   |  **Início**: 21/05 <br> **Fim**: 21/05 | Renan Araújo     |
+| Gravar vídeo de apresentação    | **Início**: 21/05 <br> **Fim**: 22/05             | Pedro Henrique e Gustavo Alves  | **Início**: 23/05 <br> **Fim**: 23/05 | Marco Tulio     |
+| Correções pós-apresentação      | **Início**: 23/05 <br> **Fim**: 24/05             | Alana Gabriele e Renan Araújo   | **Início**: 25/05 <br> **Fim**: 25/05| Pedro Henrique   |
+
+<font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba)</p></font>
+
+
 ## Etapa 5
-Na **tabela 8** está o cronograma planejado.
+Na **tabela 10** está o cronograma planejado.
 ### Cronograma Planejado
 
-<font size="2"><p style="text-align: center">Tabela 8 - Cronograma planejado de atividades da etapa 5 </p></font>
+<font size="2"><p style="text-align: center">Tabela 10 - Cronograma planejado de atividades da etapa 5 </p></font>
 
 | Atividade                       | Período para o desenvolvimento da atividade | Responsáveis             | Período da revisão | Revisores |
 |---------------------------------|--------------------------------------------|--------------------------|--------------------|-----------|
