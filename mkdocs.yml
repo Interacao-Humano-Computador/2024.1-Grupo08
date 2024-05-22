@@ -65,6 +65,6 @@ nav:
         - Planejamento da Avaliação da Análise de Tarefas: Design_avaliacao/analiseTarefas/planejAvaliacaoAnaliseTarefas.md
         - Planejamento do Relato dos Resultados da Avaliação do Storyboard: Design_avaliacao/analiseTarefas/PlanejamentoResultadosA.md
       - StoryBoard:
-        -Planejamento da Avaliação do Storyboard: Design_avaliacao/storyboard/planejAvaliacaoStoryboard.md
+        - Planejamento da Avaliação do Storyboard: Design_avaliacao/storyboard/planejAvaliacaoStoryboard.md
 extra_css:
   - custom.css
