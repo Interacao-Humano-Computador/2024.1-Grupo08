@@ -63,7 +63,7 @@ nav:
       - Nível 1:
           - StoryBoard:
               - Planejamento da Avaliação do Storyboard: design_avaliacao/nivel_1/storyboard/planejamento_avaliacao.md
-              - Planejamento do Relato dos Resultados da Avaliação do Storyboard: design_avaliacao/nivel_1/analise_tarefas/planejamento_resultados.md
+              - Planejamento do Relato dos Resultados da Avaliação do Storyboard: design_avaliacao/nivel_1/storyboard/planejamento_resultados.md
           - Análise de Tarefas:
               - Planejamento da Avaliação da Análise de Tarefas: design_avaliacao/nivel_1/analise_tarefas/planejamento_avaliacao.md
 extra_css:

@@ -45,5 +45,10 @@ Os responsáveis pela avaliação devem  propor sugestões de correção para os
 Os responsáveis pela avaliação devem incluir o relato de resultados da gravação do teste piloto e da entrevista. Caso o teste piloto indique a necessidade de alteração do planejamento da avaliação, deverá ser registrado também ou precisará ser alterado.
 
 ## Bibliografia
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. <br>
 
-BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. <br>
+## Histórico de Versões
+
+| Versão |    Data    | Descrição                     | Autor(es)                                          | Revisor(es) |
+| ------ | :--------: | ----------------------------- | -------------------------------------------------- | ----------- |
+| 1.0    | 18/05/2024 |Planejamento da Avaliação do Storyboard | [Marco Tulio](https://github.com/MarcoTulioSoares) <br> [Pedro Henrique](https://github.com/PedroHenrique061)  | [Gustavo Alves](https://github.com/gustaallves) |
