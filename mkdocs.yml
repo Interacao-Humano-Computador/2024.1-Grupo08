@@ -59,6 +59,7 @@ nav:
       - Princípios Gerais do Projeto: requisitos/principios_gerais.md
       - Metas de Usabilidade: requisitos/metas_usabilidade.md
       - Guia de Estilo: requisitos/guia_estilo.md
-
+  - Design, Avaliação e Desenvolvimento:
+      - Planejamento do Relato dos Resultados da Avaliação : Design_avaliacao/PlanejamentoRasultadosA.md
 extra_css:
   - custom.css
