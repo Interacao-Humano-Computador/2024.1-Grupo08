@@ -27,7 +27,7 @@ Foi utilizado o Framework DECIDE com intuito de orientar o planejamento, a execu
 
 O objetivo geral da avaliação de IHC é melhorar a usabilidade, eficiência e acessibilidade do site, garantido que os usuários possam navegar intuitivamente, realizar tarefas de maneira rápida e sem dificuldades. A avaliação visa identificar e corrigir problemas de usabilidade, validar decisões de design, aumentar a satisfação do usuário e assegurar que o site seja acessível a todos.
 
-#### **E**xplorar perguntas a serem feitas na avaliação
+### **E**xplorar perguntas a serem feitas na avaliação
 
 Para a realização dessa etapa, foi utilizado como referência o livro de Barbosa e Silva (2010). Nesta fase, é fundamental explorar e definir as perguntas específicas que a avaliação de IHC deve responder. Essas perguntas guiarão o processo de avaliação, focando em aspectos essenciais da experiência do usuário. Algumas das perguntas a serem consideradas incluem:
 
