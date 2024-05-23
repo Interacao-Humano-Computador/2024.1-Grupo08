@@ -65,6 +65,26 @@ Antes do início das avaliações será realizado um teste piloto para verifica�
 
 <font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba) e [Renan Araújo](https://github.com/renantfm4)</p></font>
 
+Na tabela 2, está o cronograma das entrevistas que serão realizadas:
+
+<font size="2"><p style="text-align: center">Tabela 2 - Cronograma de Entrevistas </p></font>
+
+<center>
+
+| Entrevistador(a)  | Funcionalidade                     | Data        |
+|-------------------|------------------------------------|------------------|
+| Alana Gabriele    | Rastreamento de Ônibus em Tempo Real | 31/05/2024 |
+| Gustavo Alves     | Compartilhamento de Trajetos        | 28/05/2024 |
+| Marco Tulio       | Histórico de passagens compradas    | 27/05/2024|
+| Pedro Henrique    | Acúmulo de Pontos por Trajeto       | 28/05/2024 |
+| Renan Araújo      | Acompanhar compra de passagem       | 29/05/2024 |
+| Yasmim Rosa       | Comprar passagem                    | 28/05/2024 |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba) e [Renan Araújo](https://github.com/renantfm4)</p></font>
+
+
 ### D - Decidir questões éticas
 
 Na condução da avaliação, é necessário garantir o respeito pelos direitos dos participantes. Para isso, as entrevistas e questionários com os usuários serão conduzidas somente após o preenchimento do termo de consentimento disponível no documento dedicado aos aspectos éticos.
