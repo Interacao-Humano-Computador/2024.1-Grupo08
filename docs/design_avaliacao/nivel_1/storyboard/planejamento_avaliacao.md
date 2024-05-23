@@ -65,6 +65,26 @@ Antes do início das avaliações será realizado um teste piloto para verifica�
 
 <font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba) e [Renan Araújo](https://github.com/renantfm4)</p></font>
 
+Na tabela 2, está o cronograma das entrevistas que serão realizadas:
+
+<font size="2"><p style="text-align: center">Tabela 2 - Cronograma de Entrevistas </p></font>
+
+<center>
+
+| Entrevistador(a)  | Funcionalidade                     | Data        |
+|-------------------|------------------------------------|------------------|
+| Alana Gabriele    | Rastreamento de Ônibus em Tempo Real | 31/05/2024 |
+| Gustavo Alves     | Compartilhamento de Trajetos        | 28/05/2024 |
+| Marco Tulio       | Histórico de passagens compradas    | 27/05/2024|
+| Pedro Henrique    | Acúmulo de Pontos por Trajeto       | 28/05/2024 |
+| Renan Araújo      | Acompanhar compra de passagem       | 29/05/2024 |
+| Yasmim Rosa       | Comprar passagem                    | 28/05/2024 |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba) e [Renan Araújo](https://github.com/renantfm4)</p></font>
+
+
 ### D - Decidir questões éticas
 
 Na condução da avaliação, é necessário garantir o respeito pelos direitos dos participantes. Para isso, as entrevistas e questionários com os usuários serão conduzidas somente após o preenchimento do termo de consentimento disponível no documento dedicado aos aspectos éticos.
@@ -86,7 +106,7 @@ Barbosa e Silva (2011) define que a realização de um estudo-piloto é uma pequ
 O teste piloto ocorrerá no dia 22 de maio de 2024 às 16h30, na FGA, sendo o papel do entrevistador do Renan Araújo e da entrevistada Yasmim Rosa.
 
 ## Resultado do Teste Piloto
-
+No teste piloto, tudo ocorreu de maneira fluída mas se notou a necessidade de impressão das perguntas a serem realizadas pelo entrevistador.<iframe width="560" height="315" src="https://www.youtube.com/embed/dCpe7UdlZgY?si=Xo95n08LyzvlN4XK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Bibliografia
