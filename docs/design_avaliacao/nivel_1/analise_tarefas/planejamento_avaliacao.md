@@ -1,4 +1,4 @@
-# Planejamento da avaliação da Análise de tarefas
+# Planejamento da Avaliação da Análise de Tarefas
 
 ## Introdução
 
@@ -98,4 +98,4 @@ BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, 
 
 | Versão | Data       | Descrição            | Autor(es)                                          | Revisor(es) |
 | ------ | ---------- | -------------------- | -------------------------------------------------- | ----------- |
-| 1.0    | 22/05/2023 | Criação do documento | [Alana Gabriele](https://github.com/alanagabriele) | []()        |
+| 1.0    | 22/05/2023 | Criação do documento | [Alana Gabriele](https://github.com/alanagabriele)  | []()        |
