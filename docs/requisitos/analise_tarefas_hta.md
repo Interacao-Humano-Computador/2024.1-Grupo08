@@ -46,7 +46,7 @@ Nessa tarefa o usuário tem o objetivo de compartilhar o trajeto de sua passagem
 
 <font size="2"><p style="text-align: center"> Figura 25 - HTA compartilhar informações sobre uma viagem. </p></font>
 
-<center> ![HTA compartilhar informações sobre uma viagem](image-20.png) </center>
+<center> ![HTA compartilhar informações sobre uma viagem](image-22.png) </center>
 
 <font size="2"><p style="text-align: center"> Fonte: [Gustavo Alves](https://github.com/gustaallves)</p></font>
 
