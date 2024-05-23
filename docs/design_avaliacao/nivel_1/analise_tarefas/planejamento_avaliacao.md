@@ -25,7 +25,12 @@ Foi utilizado o Framework DECIDE com intuito de orientar o planejamento, a execu
 
 #### Objetivo
 
-O objetivo geral da avaliação de IHC é melhorar a usabilidade, eficiência e acessibilidade do site, garantido que os usuários possam navegar intuitivamente, realizar tarefas de maneira rápida e sem dificuldades. A avaliação visa identificar e corrigir problemas de usabilidade, validar decisões de design, aumentar a satisfação do usuário e assegurar que o site seja acessível a todos.
+Os principais aspectos comumente avaliados em uma avaliação de IHC incluem:
+
+- Apropriação de tecnologia pelos usuários, incluindo o sistema computacional a ser avaliado mas não se limitando a ele;
+- Ideias e alternativas de design;
+- Conformidade com um padrão;
+- Problemas na interação e na interface.
 
 ### **E**xplorar perguntas a serem feitas na avaliação
 
@@ -88,7 +93,17 @@ Antes de iniciar as entrevistas, serão abordadas as questões éticas envolvida
 
 ### **E**valuate (Avaliar), interpretar e apresentar os dados
 
-Após a avaliação do site Central Expresso, é crucial analisar e apresentar os dados com atenção aos aspectos fundamentais que garantem a integridade do estudo. Será avaliado a confiabilidade dos dados, assegurando que os resultados se mantenham consistentes em repetidas aplicações do mesmo método sob as mesmas condições. Em seguida, a validação interna do estudo é avaliada para confirmar se o método realmente mede o que se propõe, mantendo os dados livres de distorções. Além disso, a validade externa é considerada para determinar até que ponto os resultados são generalizáveis para contextos semelhantes. Por fim, a validade ecológica é examinada, verificando o quão próximo o ambiente e métodos de estudo estão nas condições reais de uso.
+Após a avaliação do site Central Expresso, é crucial analisar e apresentar os dados com atenção aos aspectos fundamentais que garantem a integridade do estudo. Será avaliado a confiabilidade dos dados, assegurando que os resultados se mantenham consistentes em repetidas aplicações do mesmo método sob as mesmas condições. Em seguida, a validação interna do estudo é avaliada para confirmar se o método realmente mede o que se propõe, mantendo os dados livres de distorções. Além disso, a validade externa é considerada para determinar até que ponto os resultados são generalizáveis para contextos semelhantes. Por fim, a validade ecológica é examinada, verificando o quão próximo o ambiente e métodos de estudo estão nas condições reais de uso. Com isso, os seguintes tópicos serão utilizado para avaliar, interpretrar e apresentar os dados:
+
+-Propósito e alcance da avaliação
+-Método de avaliação
+-Escolha dos participantes
+-Questões identificadas
+-Sugestões para melhorias
+-Feedback dos usuários
+-Análise e interpretação das respostas dos usuários
+-Resumo das principais conclusões
+-Plano de aprimoramento do projeto
 
 ### Planejamento do teste piloto
 
