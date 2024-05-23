@@ -32,6 +32,8 @@ Os principais aspectos comumente avaliados em uma avaliação de IHC incluem:
 - Conformidade com um padrão;
 - Problemas na interação e na interface.
 
+Entre eles será avaliado "Problemas na interação e na interface".
+
 ### **E**xplorar perguntas a serem feitas na avaliação
 
 Para a realização dessa etapa, foi utilizado como referência o livro de Barbosa e Silva (2010). Nesta fase, é fundamental explorar e definir as perguntas específicas que a avaliação de IHC deve responder. Essas perguntas guiarão o processo de avaliação, focando em aspectos essenciais da experiência do usuário. Algumas das perguntas a serem consideradas incluem:
