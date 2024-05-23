@@ -115,4 +115,4 @@ No teste piloto foi observado a necessidade de reformulação das perguntas, que
 
 | Versão | Data       | Descrição            | Autor(es)                                          | Revisor(es) |
 | ------ | ---------- | -------------------- | -------------------------------------------------- | ----------- |
-| 1.0    | 22/05/2023 | Criação do documento | [Alana Gabriele](https://github.com/alanagabriele) | []()        |
+| 1.0    | 22/05/2023 | Criação do documento | [Alana Gabriele](https://github.com/alanagabriele) <br> [Gustavo Alves](https://github.com/gustaallves) | [Yasmim Rosa](https://github.com/yaskisoba)|
