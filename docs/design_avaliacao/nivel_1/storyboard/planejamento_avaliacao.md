@@ -106,7 +106,7 @@ Barbosa e Silva (2011) define que a realização de um estudo-piloto é uma pequ
 O teste piloto ocorrerá no dia 22 de maio de 2024 às 16h30, na FGA, sendo o papel do entrevistador do Renan Araújo e da entrevistada Yasmim Rosa.
 
 ## Resultado do Teste Piloto
-
+No teste piloto, tudo ocorreu de maneira fluída mas se notou a necessidade de impressão das perguntas a serem realizadas pelo entrevistador.<iframe width="560" height="315" src="https://www.youtube.com/embed/dCpe7UdlZgY?si=Xo95n08LyzvlN4XK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Bibliografia
