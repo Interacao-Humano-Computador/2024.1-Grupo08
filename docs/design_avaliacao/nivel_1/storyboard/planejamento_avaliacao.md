@@ -46,22 +46,22 @@ Antes do início das avaliações será realizado um teste piloto para verifica�
 
 <font size="2"><p style="text-align: center">Tabela 1 - Perguntas da entrevista </p></font>
 
-| Perguntas                                                             | Respostas  |
-|-----------------------------------------------------------------------|------------|
-| Qual seu nome?                                                        | Aberta     |
-| Quantos anos você tem?                                                | Aberta     |
-| Qual seu nível de experiência com tecnologias?                        | Aberta     |
-| Qual cidade você mora?                                                | Aberta     |
-| Com qual frequência costuma pegar ônibus da Central Expresso (CT Expresso)? | Aberta |
-| Com qual objetivo?                                                    | Aberta     |
-| Tem o costume de planejar sua semana com antecedência?                | SIM ( ) NÃO ( ) |
-| Fazer a compra de passagens antes de pegar o ônibus seria uma vantagem para você? | SIM ( ) NÃO ( ) |
-| Costuma realizar compras online?                                      | SIM ( ) NÃO ( ) |
-| Os atores presentes no storyboard são coerentes com a realidade?      | SIM ( ) NÃO ( ) |
-| A sequência de ações leva ao objetivo final?                          | SIM ( ) NÃO ( ) |
+| Perguntas                                                                                              | Respostas       |
+| ------------------------------------------------------------------------------------------------------ | --------------- |
+| Qual seu nome?                                                                                         | Aberta          |
+| Quantos anos você tem?                                                                                 | Aberta          |
+| Qual seu nível de experiência com tecnologias?                                                         | Aberta          |
+| Qual cidade você mora?                                                                                 | Aberta          |
+| Com qual frequência costuma pegar ônibus da Central Expresso (CT Expresso)?                            | Aberta          |
+| Com qual objetivo?                                                                                     | Aberta          |
+| Tem o costume de planejar sua semana com antecedência?                                                 | SIM ( ) NÃO ( ) |
+| Fazer a compra de passagens antes de pegar o ônibus seria uma vantagem para você?                      | SIM ( ) NÃO ( ) |
+| Costuma realizar compras online?                                                                       | SIM ( ) NÃO ( ) |
+| Os atores presentes no storyboard são coerentes com a realidade?                                       | SIM ( ) NÃO ( ) |
+| A sequência de ações leva ao objetivo final?                                                           | SIM ( ) NÃO ( ) |
 | O storyboard propõe maneiras mais eficientes ou interessantes de os usuários atingirem seus objetivos? | SIM ( ) NÃO ( ) |
-| O storyboard representa a tarefa que ele está relacionado?            | SIM ( ) NÃO ( ) |
-| As ações dos atores seguem uma ordem justificável e coesa?            | SIM ( ) NÃO ( ) |
+| O storyboard representa a tarefa que ele está relacionado?                                             | SIM ( ) NÃO ( ) |
+| As ações dos atores seguem uma ordem justificável e coesa?                                             | SIM ( ) NÃO ( ) |
 
 <font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba) e [Renan Araújo](https://github.com/renantfm4)</p></font>
 
@@ -71,19 +71,16 @@ Na tabela 2, está o cronograma das entrevistas que serão realizadas:
 
 <center>
 
-| Entrevistador(a)  | Funcionalidade                     | Data        |
-|-------------------|------------------------------------|------------------|
-| Alana Gabriele    | Rastreamento de Ônibus em Tempo Real | 31/05/2024 |
-| Gustavo Alves     | Compartilhamento de Trajetos        | 28/05/2024 |
-| Marco Tulio       | Histórico de passagens compradas    | 27/05/2024|
-| Pedro Henrique    | Acúmulo de Pontos por Trajeto       | 28/05/2024 |
-| Renan Araújo      | Acompanhar compra de passagem       | 29/05/2024 |
-| Yasmim Rosa       | Comprar passagem                    | 28/05/2024 |
+|        Entrevistadores         |    Data    | Horário de início e fim | Local             |
+| :----------------------------: | :--------: | :---------------------: | ----------------- |
+| Alana Gabriele e Gustavo Alves | 27/05/2024 |     17:10 até 17:20     | Faculdade do Gama |
+| Renan Araújo e Pedro Henrique  | 27/05/2024 |     17:20 até 17:30     | Faculdade do Gama |
+|  Gustavo Alves e Yasmin Rosa   | 28/05/2024 |     10:10 até 10:20     | Faculdade do Gama |
+|  Yasmin Rosa e Alana Gabriele  | 29/05/2024 |     17:10 até 17:20     | Faculdade do Gama |
+|  Pedro Henrique e Marco Tulio  | 30/05/2024 |     12:10 até 12:20     | Faculdade do Gama |
+|   Marco Tulio e Renan Araújo   | 30/05/2024 |     17:10 até 17:20     | Faculdade do Gama |
 
-</center>
-
-<font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba) e [Renan Araújo](https://github.com/renantfm4)</p></font>
-
+<font size="2"><p style="text-align: center">Fonte: [Alana Gabriele](https://github.com/alanagabriele) e [Gustavo Alves](https://github.com/gustaallves) </p></font>
 
 ### D - Decidir questões éticas
 
@@ -106,14 +103,15 @@ Barbosa e Silva (2011) define que a realização de um estudo-piloto é uma pequ
 O teste piloto ocorrerá no dia 22 de maio de 2024 às 16h30, na FGA, sendo o papel do entrevistador do Renan Araújo e da entrevistada Yasmim Rosa.
 
 ## Resultado do Teste Piloto
+
 No teste piloto, tudo ocorreu de maneira fluída mas se notou a necessidade de impressão das perguntas a serem realizadas pelo entrevistador.<iframe width="560" height="315" src="https://www.youtube.com/embed/dCpe7UdlZgY?si=Xo95n08LyzvlN4XK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
 ## Bibliografia
+
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versões
 
-| Versão |    Data    | Descrição                     | Autor(es)                                          | Revisor(es) |
-| ------ | :--------: | ----------------------------- | -------------------------------------------------- | ----------- |
-| 1.0    | 17/05/2024 |Planejamento da Avaliação do Storyboard | [Renan Araújo](https://github.com/renantfm4) <br> [Yasmim Rosa](https://github.com/yaskisoba)  | [Alana Gabriele](https://github.com/alanagabriele) |
+| Versão |    Data    | Descrição                               | Autor(es)                                                                                     | Revisor(es)                                        |
+| ------ | :--------: | --------------------------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| 1.0    | 17/05/2024 | Planejamento da Avaliação do Storyboard | [Renan Araújo](https://github.com/renantfm4) <br> [Yasmim Rosa](https://github.com/yaskisoba) | [Alana Gabriele](https://github.com/alanagabriele) |
