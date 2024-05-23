@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A avaliação é essencial em qualquer processo de desenvolvimento que visa criar um sistema interativo com alta qualidade de uso. Esse processo guia o avaliador na análise de usabilidade do sistema, ajudando a identificar problemas na interação e na interface que possam comprometer a experiência do usuário ao utilizar o sistema. Para isso, serão realizadas entrevistas com usuários, baseado no [Perfil do usuário](docs/requisitos/perfil_usuarios.md), que utilizam o produto.
+A avaliação é essencial em qualquer processo de desenvolvimento que visa criar um sistema interativo com alta qualidade de uso. Esse processo guia o avaliador na análise de usabilidade do sistema, ajudando a identificar problemas na interação e na interface que possam comprometer a experiência do usuário ao utilizar o sistema. Para isso, serão realizadas entrevistas com usuários, baseado no [Perfil do usuário](../../../requisitos/perfil_usuarios.md), que utilizam o produto.
 
 ## Planejamento
 
@@ -31,32 +31,33 @@ O objetivo geral da avaliação de IHC é melhorar a usabilidade, eficiência e 
 
 Para a realização dessa etapa, foi utilizado como referência o livro de Barbosa e Silva (2010). Nesta fase, é fundamental explorar e definir as perguntas específicas que a avaliação de IHC deve responder. Essas perguntas guiarão o processo de avaliação, focando em aspectos essenciais da experiência do usuário. Algumas das perguntas a serem consideradas incluem:
 
-| Ordenação | Pergunta                                                                                         | Resposta possível                                                                         | Tipo de pergunta |
-| --------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- | ---------------- |
-| 1         | Quanto anos você tem?                                                                            | Resposta discursiva                                                                       | Fechada          |
-| 2         | Qual sua ocupação ?                                                                              | Resposta discursiva                                                                       | Fechada          |
-| 3         | Qual sua ocupação ?                                                                              | Resposta discursiva                                                                       | Fechada          |
-| 4         | Qual seu grau de experiência com tecnologias?                                                    | Resposta discursiva                                                                       | Fechada          |
-| 5         | Com qual frequência você utiliza o site Central Expresso?                                        | Resposta discursiva                                                                       | Fechada          |
-| 6         | Se tivesse um programa de acúmulo de pontos, você participaria?                                  | - Sim <br> - Não <br>❗Caso a resposta seja não, não se deve realizar as outras perguntas | Fechada          |
-| 6.1       | O fluxo de acúmulo de pontos estimula a compra de passagens?                                     | Resposta discursiva                                                                       | Fechada          |
-| 7         | Fazer a compra online de passagens antes de pegar o ônibus faz sentido para você?                | - Sim <br> - Não <br> ! Caso a resposta seja “não”, pular para a pergunta 8.              |
-| Fechada   |
-| 7.1       | Observando o fluxo de Comprar passagem, atende às suas expectativas? Se não, descreva os motivos | - Sim <br> - Não <br>❗Caso resposta seja não, não se deve realizar a pergunta 10         | Fechada          |
-| 7.2       | Após a compra da passagem, como você espera que seja o acompanhamento do seu pedido?             | Resposta discursiva                                                                       | Aberta           |
-| 7.3       | Você considera importante ter um Histórico de passagens compradas?                               | - Sim <br> - Não <br>                                                                     | Fechada          |
-| 7.3.1     | Você já realizou o fluxo de jogar uma partida de xadrez no Lichess ?                             | - Sim <br> - Não <br> ❗Caso resposta seja não, não se deve realizar a pergunta 13        | Fechada          |
-| 7.3.2     | Caso não, descreva o(os) motivo(os).                                                             | Resposta discursiva                                                                       | Aberta           |
-| 8         | Como você espera que seja a consulta de horários e destinos de ônibus no site?                   | - Sim <br> - Não <br> ❗Caso resposta seja não, não se deve realizar a pergunta 15        | Fechada          |
-| 8.1       | O fluxo de ⁠Rastreamento de Ônibus em Tempo Real é coerente? Se não, descreva os motivos.        | Resposta discursiva                                                                       | Aberta           |
-| 9         | Você utilizaria a funcionalidade de compartilhamento de viagens no site?                         | Resposta discursiva                                                                       | Aberta           |
-| 9.1       | Caso sim, o fluxo de ⁠Compartilhamento de Viagem, atende às suas expectativas?                   | Resposta discursiva                                                                       | Aberta           |
-| 9.2       | Caso não, descreva o(os) motivo(os).                                                             | Resposta discursiva                                                                       | Aberta           |
-| 9.2       | As funcionalidades apresentadas atendem às suas expectativas?                                    | - Sim <br> - Não <br>                                                                     | Fechada          |
+| Ordenação | Pergunta                                                                                         | Resposta possível                                                                 | Tipo de pergunta |
+| --------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- | ---------------- |
+| 1         | Quanto anos você tem?                                                                            | Resposta discursiva                                                               | Fechada          |
+| 2         | Qual sua ocupação ?                                                                              | Resposta discursiva                                                               | Fechada          |
+| 3         | Qual sua ocupação ?                                                                              | Resposta discursiva                                                               | Fechada          |
+| 4         | Qual seu grau de experiência com tecnologias?                                                    | Resposta discursiva                                                               | Fechada          |
+| 5         | Com qual frequência você utiliza o site Central Expresso?                                        | Resposta discursiva                                                               | Fechada          |
+| 6         | Se tivesse um programa de acúmulo de pontos, você participaria?                                  | - Sim <br> - Não <br>❗Caso a resposta seja não, não realizar a próxima pergunta  | Fechada          |
+| 6.1       | O fluxo de acúmulo de pontos estimula a compra de passagens?                                     | Resposta discursiva                                                               | Fechada          |
+| 7         | Fazer a compra online de passagens antes de pegar o ônibus faz sentido para você?                | - Sim <br> - Não <br> ❗ Caso a resposta seja “não”, pular para a pergunta 8.     | Fechada          |
+| 7.1       | Observando o fluxo de Comprar passagem, atende às suas expectativas? Se não, descreva os motivos | - Sim <br> - Não <br>❗Caso resposta seja não, não se deve realizar a pergunta 10 | Fechada          |
+| 7.2       | Após a compra da passagem, como você espera que seja o acompanhamento do seu pedido?             | Resposta discursiva                                                               | Aberta           |
+| 7.3       | Você considera importante ter um Histórico de passagens compradas?                               | - Sim <br> - Não <br>                                                             | Fechada          |
+| 7.3.1     | caso sim, o fluxo de Histórico de passagens compradas satisfaz as suas expectativas?             | Resposta discursiva                                                               | Fechada          |
+| 7.3.2     | Caso não, descreva o(os) motivo(os).                                                             | Resposta discursiva                                                               | Aberta           |
+| 8         | Como você espera que seja a consulta de horários e destinos de ônibus no site?                   | Resposta discursiva                                                               | Fechada          |
+| 8.1       | O fluxo de ⁠Rastreamento de Ônibus em Tempo Real é coerente? Se não, descreva os motivos.        | - Sim <br> - Não                                                                  | Aberta           |
+| 9         | Você utilizaria a funcionalidade de compartilhamento de viagens no site?                         | - Sim <br> - Não                                                                  | Aberta           |
+| 9.1       | Caso sim, o fluxo de ⁠Compartilhamento de Viagem, atende às suas expectativas?                   | Resposta discursiva                                                               | Aberta           |
+| 9.2       | Caso não, descreva o(os) motivo(os).                                                             | Resposta discursiva                                                               | Aberta           |
+| 9.2       | As funcionalidades apresentadas atendem às suas expectativas?                                    | - Sim <br> - Não <br>                                                             | Fechada          |
 
 <div style="text-align: center">
 <p> Tabela 2: Questões para entrevistas.</p>
 </div>
+
+<font size="2"><p style="text-align: center">Fonte: [Alana Gabriele](https://github.com/alanagabriele) e [Gustavo Alves](https://github.com/gustaallves) </p></font>
 
 ### **C**hoose (Escolher) os métodos de avaliação
 
@@ -66,21 +67,20 @@ O método escolhido é o de investigação por possibilitar coletas de dados sob
 
 Para realizar o recrutamento baseado no perfil do usuário e nas Personas definidas, serão enviados convites a usuários reais do sistema. Está planejado realizar seis entrevistas presenciais, que serão conduzidas na Faculdade do Gama da Universidade de Brasília. Cada entrevista contará com a participação de dois membros do grupo de Interação Humano-Computador (IHC): um responsável por conduzir a entrevista e outro por registrar as informações coletadas. Não haverá custos associados a essas reuniões, uma vez que tanto os avaliadores quanto os entrevistados são estudantes da universidade.
 
-Entrevista 1
+Entrevistas Marcadas
 
-| Entrevistadores | Entrevistado |    Data    | Horário de início e fim | Local |
-| :-------------: | :----------: | :--------: | :---------------------: | ----- |
-|                 |              | 20/12/2022 |                         |       |
+|        Entrevistadores         |    Data    | Horário de início e fim | Local             |
+| :----------------------------: | :--------: | :---------------------: | ----------------- |
+| Alana Gabriele e Gustavo Alves | 27/05/2024 |     17:00 até 17:10     | Faculdade do Gama |
+| Renan Araújo e Pedro Henrique  | 27/05/2024 |     17:10 até 17:20     | Faculdade do Gama |
+|  Gustavo Alves e Yasmin Rosa   | 28/05/2024 |     10:00 até 10:10     | Faculdade do Gama |
+|  Yasmin Rosa e Alana Gabriele  | 29/05/2024 |     17:00 até 17:10     | Faculdade do Gama |
+|  Pedro Henrique e Marco Tulio  | 30/05/2024 |     12:00 até 12:10     | Faculdade do Gama |
+|   Marco Tulio e Renan Araújo   | 30/05/2024 |     17:00 até 17:10     | Faculdade do Gama |
 
 ### **D**ecidir como lidar com as questões éticas
 
-Antes de iniciar as entrevistas, serão abordadas as questões éticas envolvidas, garantindo que todos os participantes assinem o termo de consentimento informado, encontrado na seção Aspectos éticos. Este documento é importante para estabelecer uma relação de confiança e transparência com o entrevistado.
-
-<!-- ![Termo de consentimento da entrevista](images/termoConsentimento.jpeg) -->
-
-<div style="text-align: center">
-<p> Figura 1: Termo de consentimento da entrevista (Fonte: [1]).</p>
-</div>
+Antes de iniciar as entrevistas, serão abordadas as questões éticas envolvidas, garantindo que todos os participantes assinem o termo de consentimento informado, encontrado na seção [Aspectos éticos]("../../../../../requisitos/etica.md"). Este documento é importante para estabelecer uma relação de confiança e transparência com o entrevistado.
 
 ### **E**valuate (Avaliar), interpretar e apresentar os dados
 
