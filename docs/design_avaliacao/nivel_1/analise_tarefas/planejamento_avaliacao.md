@@ -38,27 +38,16 @@ Entre eles será avaliado "Problemas na interação e na interface".
 
 Para a realização dessa etapa, foi utilizado como referência o livro de Barbosa e Silva (2010). Nesta fase, é fundamental explorar e definir as perguntas específicas que a avaliação de IHC deve responder. Essas perguntas guiarão o processo de avaliação, focando em aspectos essenciais da experiência do usuário. Algumas das perguntas a serem consideradas incluem:
 
-| Ordenação | Pergunta                                                                                         | Resposta possível                                                                 |
-| --------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- |
-| 1         | Quanto anos você tem?                                                                            | Resposta discursiva                                                               |
-| 2         | Qual sua ocupação ?                                                                              | Resposta discursiva                                                               |
-| 3         | Qual sua ocupação ?                                                                              | Resposta discursiva                                                               |
-| 4         | Qual seu grau de experiência com tecnologias?                                                    | Resposta discursiva                                                               |
-| 5         | Com qual frequência você utiliza o site Central Expresso?                                        | Resposta discursiva                                                               |
-| 6         | Se tivesse um programa de acúmulo de pontos, você participaria?                                  | - Sim <br> - Não <br>❗Caso a resposta seja não, não realizar a próxima pergunta  |
-| 6.1       | O fluxo de acúmulo de pontos estimula a compra de passagens?                                     | Resposta discursiva                                                               |
-| 7         | Fazer a compra online de passagens antes de pegar o ônibus faz sentido para você?                | - Sim <br> - Não <br> ❗ Caso a resposta seja “não”, pular para a pergunta 8.     |
-| 7.1       | Observando o fluxo de Comprar passagem, atende às suas expectativas? Se não, descreva os motivos | - Sim <br> - Não <br>❗Caso resposta seja não, não se deve realizar a pergunta 10 |
-| 7.2       | Após a compra da passagem, como você espera que seja o acompanhamento do seu pedido?             | Resposta discursiva                                                               |
-| 7.3       | Você considera importante ter um Histórico de passagens compradas?                               | - Sim <br> - Não <br>                                                             |
-| 7.3.1     | caso sim, o fluxo de Histórico de passagens compradas satisfaz as suas expectativas?             | Resposta discursiva                                                               |
-| 7.3.2     | Caso não, descreva o(os) motivo(os).                                                             | Resposta discursiva                                                               |
-| 8         | Como você espera que seja a consulta de horários e destinos de ônibus no site?                   | Resposta discursiva                                                               |
-| 8.1       | O fluxo de ⁠Rastreamento de Ônibus em Tempo Real é coerente? Se não, descreva os motivos.        | - Sim <br> - Não                                                                  |
-| 9         | Você utilizaria a funcionalidade de compartilhamento de viagens no site?                         | - Sim <br> - Não                                                                  |
-| 9.1       | Caso sim, o fluxo de ⁠Compartilhamento de Viagem, atende às suas expectativas?                   | Resposta discursiva                                                               |
-| 9.2       | Caso não, descreva o(os) motivo(os).                                                             | Resposta discursiva                                                               |
-| 9.2       | As funcionalidades apresentadas atendem às suas expectativas?                                    | - Sim <br> - Não <br>                                                             |
+| Ordenação | Pergunta                                                               | Resposta possível     |
+| --------- | ---------------------------------------------------------------------- | --------------------- |
+| 1         | Qual o seu nome?                                                       | Resposta discursiva   |
+| 2         | Quanto anos você tem?                                                  | Resposta discursiva   |
+| 3         | Qual sua ocupação ?                                                    | Resposta discursiva   |
+| 4         | Qual seu grau de experiência com tecnologias?                          | Resposta discursiva   |
+| 5         | Com qual frequência você utiliza o site Central Expresso?              | Resposta discursiva   |
+| 6         | O fluxo apresentado é coerente para você? Caso não, descreva o motivo. | - Sim <br> - Não <br> |
+| 7         | Você mudaria alguma coisa do fluxo? Caso sim, descreva o motivo.       | Resposta discursiva   |
+| 8         | O fluxo atinge o seu objetivo? Caso não, descreva o motivo.            | - Sim <br> - Não <br> |
 
 <div style="text-align: center">
 <p> Tabela 2: Questões para entrevistas.</p>
@@ -123,6 +112,7 @@ No teste piloto foi observado a necessidade de reformulação das perguntas, que
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição            | Autor(es)                                                                                               | Revisor(es)                                 |
-| ------ | ---------- | -------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
-| 1.0    | 22/05/2023 | Criação do documento | [Alana Gabriele](https://github.com/alanagabriele) <br> [Gustavo Alves](https://github.com/gustaallves) | [Yasmim Rosa](https://github.com/yaskisoba) |
+| Versão | Data       | Descrição              | Autor(es)                                                                                               | Revisor(es)                                 |
+| ------ | ---------- | ---------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| 1.0    | 22/05/2023 | Criação do documento   | [Alana Gabriele](https://github.com/alanagabriele) <br> [Gustavo Alves](https://github.com/gustaallves) | [Yasmim Rosa](https://github.com/yaskisoba) |
+| 2.0    | 29/05/2023 | Arrumando as perguntas | [Alana Gabriele](https://github.com/alanagabriele)                                                      |                                             |
