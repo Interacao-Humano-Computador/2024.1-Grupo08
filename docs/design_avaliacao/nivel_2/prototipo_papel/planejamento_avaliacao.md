@@ -60,6 +60,14 @@ Cada sessão de entrevista contará com o avaliador simulador do sistema, que se
 
 <font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba) e [Renan Araújo](https://github.com/renantfm4)</p></font>
 
+### Referência para elaboração do protótipo de papel
+O protótipo de papel deve ser elaborado de maneira tradicional, ou seja, com papel e lápis. Como o site deste projeto é um site avaliado principalmente no seu formato de visualização em computadores a folha deve estar na horizontal, devem ser elaborados elementos de interação também com papel como por exemplo: menus do tipo hambúrguer, possíveis erros e inputs. 
+De maneira geral, os protótipos de papel devem:
+
+- Serem elaborados com a folha em formato horizontal;
+- Possuírem elementos de interação simulados com papel;
+- Estarem coerentes, mas não se limitar, com o fluxo da análise de tarefas elaborados com HTA.
+
 ### Entrevista
 Como forma de revalidação que o participante se encaixa no perfil de usuário levantado, inicialmente será realizado algumas perguntas gerais sobre o participante como pode ser observado na tabela 2.
 
