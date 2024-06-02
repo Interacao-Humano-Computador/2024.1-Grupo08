@@ -161,7 +161,8 @@ Site destinado a turistas brasileiros que desejam emitir seu visto para visitar 
 > CEBRASPE. Disponível em: [Link para CEBRASPE](https://www.cebraspe.org.br/). Acesso em 11 de abril de 2024. <br:>
 > DF no Ponto. Disponível em: [Link para DF no Ponto](https://dfnoponto.semob.df.gov.br/). Acesso em 11 de abril de 2024.
 
-
+## Bibliografia
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versões
 

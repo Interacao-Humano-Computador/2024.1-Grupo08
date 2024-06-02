@@ -47,6 +47,8 @@ Para cada membro da equipe foi escolhida uma funcionalidade do site, sendo um si
 <li> Yasmim Rosa: Comprar passagem. </li>
 </ul>
 
+## Bibliografia
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 
 ## Histórico de Versões
