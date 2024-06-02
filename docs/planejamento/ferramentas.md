@@ -2,9 +2,9 @@
 
 A seleção das ferramentas pode influenciar consideravelmente o andamento e o resultado de um projeto. Escolher as ferramentas adequadas não apenas otimiza a eficiência da equipe, mas também pode determinar a facilidade de comunicação, a qualidade do trabalho e a capacidade de cumprir prazos. Uma escolha inadequada pode levar a obstáculos na colaboração, atrasos e até mesmo comprometer a entrega final.
 
-Segue abaixo na **tabela 13** as ferramentas utilizadas no projeto:
+Segue abaixo na **tabela 1** as ferramentas utilizadas no projeto:
 
-<font size="2"><p style="text-align: center">Tabela 13 - Ferramentas  </p></font>
+<font size="2"><p style="text-align: center">Tabela 1 - Ferramentas  </p></font>
 
 | Foto                                                                                                                           | Nome                        | Finalidade                                 |
 | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ------------------------------------------ |

@@ -3,7 +3,11 @@
 ## Introdução
 
 Na disciplina, cada integrante do grupo ficou responsável por planejar, com o framework DECIDE, e avaliar um site escolhido individualmente. Assim foi possível que cada um obtivesse experiência com os conceitos abordado na disciplina possibilitando uma compreensão das características, funcionalidades e experiência do usuário de cada plataforma. Através dessas avaliações individuais, buscamos identificar pontos fortes, fracos e possíveis melhorias. 
-Essa atividade também proporcionou insumos para a escolha de um site para realização da avaliação de IHC em equipe. Na **tabela 13** estão cada site que cada membro avaliou.
+Essa atividade também proporcionou insumos para a escolha de um site para realização da avaliação de IHC em equipe. Na **tabela 1** estão cada site que cada membro avaliou.
+
+<font size="2"><p style="text-align: center">Tabela 1 - Sites avaliados por membros da equipe </p></font>
+
+<center>
 
 | Nome |    Site Avaliado    | 
 | ------ | :--------: | 
@@ -14,7 +18,10 @@ Essa atividade também proporcionou insumos para a escolha de um site para reali
   [Renan Araújo](https://github.com/renantfm4)   | CEBRASPE |     
   [Yasmim Rosa](https://github.com/yaskisoba) | DF no Ponto |
 
-  <font size="2"><p style="text-align: left">Tabela 13 - Sites avaliados por membros da equipe  <br> Fonte: [Gustavo Alves](https://github.com/gustaallves)</p></font>
+</center>
+
+  <font size="2"><p style="text-align: center">Fonte: [Gustavo Alves](https://github.com/gustaallves)</p></font>
+
 
 ## SIGAA
 
@@ -25,7 +32,7 @@ O SIGAA (Sistema Integrado de Gestão de Atividades Acadêmicas) é uma platafor
 um conjunto completo de ferramentas de gravação, edição, processamento, mixagem e
 masterização de áudio multipista e MIDI.” (Reaper, 2024)
 
-<font size="2"><p style="text-align: center"> Figura 5 - Site REAPER</p></font>
+<font size="2"><p style="text-align: center"> Figura 1 - Site REAPER</p></font>
 
 ![REAPER](image-6.png)
 
@@ -56,7 +63,7 @@ O site da Embaixada Americana oferece informações sobre os serviços consulare
 ## Central Expresso 
 O site Central Expresso é uma plataforma especializada na venda de passagens de ônibus, oferecendo aos usuários a facilidade de consultar horários, destinos e informações detalhadas sobre suas linhas.
 
-<font size="2"><p style="text-align: center"> Figura 6 - Site Central Expresso</p></font>
+<font size="2"><p style="text-align: center"> Figura 2 - Site Central Expresso</p></font>
 
 ![Central Expresso](image-5.png)
 
@@ -81,7 +88,7 @@ O site Central Expresso é uma plataforma especializada na venda de passagens de
 
 O CEBRASPE (Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos) é uma instituição líder na organização de concursos públicos e processos seletivos no Brasil. Seu site fornece informações sobre editais, resultados e serviços relacionados, facilitando a participação dos candidatos nos certames organizados pela instituição.
 
-<font size="2"><p style="text-align: center"> Figura 7 - Site CEBRASPE </p></font>
+<font size="2"><p style="text-align: center"> Figura 3 - Site CEBRASPE </p></font>
 
 ![Cebraspe](image-7.png)
 
@@ -105,7 +112,7 @@ O CEBRASPE (Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promo�
 - Revisar sua infraestrutura de autenticação para identificar possíveis falhas ou gargalos, o que é notável sempre que alguém tenta logar com sua conta no site.
 ## DF no Ponto
 O DFnoPonto é um sistema de consulta de horários e linhas de transporte público no Distrito Federal. Com ele, você pode verificar itinerários, visualizar trajetos e obter informações sobre os pontos de parada. Além disso, o DFnoPonto também oferece a localização em tempo real dos ônibus via sinal de GPS.
-<font size="2"><p style="text-align: center"> Figura 8 - Site DF no Ponto </p></font>
+<font size="2"><p style="text-align: center"> Figura 4 - Site DF no Ponto </p></font>
 
 ![DF no Ponto](image-4.png)
 
@@ -127,7 +134,7 @@ O DFnoPonto é um sistema de consulta de horários e linhas de transporte públi
 ## Embaixada e Consulados dos EUA no Brasil
 Site destinado a turistas brasileiros que desejam emitir seu visto para visitar os Estados Unidos.
 
-<font size="2"><p style="text-align: center"> Figura 9 - Site Embaixada e Consulados dos EUA no Brasil </p></font>
+<font size="2"><p style="text-align: center"> Figura 5 - Site Embaixada e Consulados dos EUA no Brasil </p></font>
 
 ![Embaixada e Consulados dos EUA no Brasil](image-8.png)
 
