@@ -45,4 +45,9 @@ Por fim, elaboramos um relatório detalhado dos resultados da avaliação. Este 
 BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 
+## Histórico de Versões
+
+| Versão |    Data    | Descrição                               | Autor(es)                                                                                     | Revisor(es)                                        |
+| ------ | :--------: | --------------------------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| 1.0    | 03/06/2024 | Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel| [Pedro Henrique ](https://github.com/PedroHenrique061) <br> [Gustavo Alves](https://github.com/gustaallves) | [Alana Gabriele](https://github.com/alanagabriele) |
 
