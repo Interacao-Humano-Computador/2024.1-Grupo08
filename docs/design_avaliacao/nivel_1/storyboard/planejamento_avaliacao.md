@@ -80,6 +80,8 @@ Na tabela 2, está o cronograma das entrevistas que serão realizadas:
 |  Pedro Henrique e Marco Tulio  | 30/05/2024 |     12:10 até 12:20     | Faculdade do Gama |
 |   Marco Tulio e Renan Araújo   | 30/05/2024 |     17:10 até 17:20     | Faculdade do Gama |
 
+</center>
+
 <font size="2"><p style="text-align: center">Fonte: [Alana Gabriele](https://github.com/alanagabriele) e [Gustavo Alves](https://github.com/gustaallves) </p></font>
 
 ### D - Decidir questões éticas
