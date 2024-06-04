@@ -28,14 +28,14 @@ O cronograma executado das entrevistas está na tabela 1.
 
 <center>
 
-|        Entrevistadores         |    Data    | Horário de início e fim | Local             |
+|        Entrevistador         |    Data    | Horário de início e fim | Local             |
 | :----------------------------: | :--------: | :---------------------: | ----------------- |
-| Alana Gabriele e Gustavo Alves | 27/05/2024 |     17:00 até 17:10     | Faculdade do Gama |
-| Renan Araújo e Pedro Henrique  | 27/05/2024 |     17:10 até 17:20     | Faculdade do Gama |
-|  Gustavo Alves e Yasmin Rosa   | 28/05/2024 |     10:00 até 10:10     | Faculdade do Gama |
-|  Yasmim Rosa e Alana Gabriele  | 29/05/2024 |     17:00 até 17:10     | Faculdade do Gama |
-|  Pedro Henrique e Marco Tulio  | 30/05/2024 |     12:00 até 12:10     | Faculdade do Gama |
-|   Marco Tulio e Renan Araújo   | 30/05/2024 |     17:00 até 17:10     | Faculdade do Gama |
+| Alana Gabriele | 29/05/2024 |     17:30 até 17:43     | Faculdade do Gama |
+| Renan Araújo | 27/05/2024 |     17:10 até 17:24       | Faculdade do Gama |
+|  Gustavo Alves | 02/06/2024 |     11:00 até 11:20     | Empresa do entrevistado |
+|  Yasmim Rosa  | 03/06/2024 |     14:00 até 14:25     | Faculdade do Gama |
+|  Pedro Henrique  | 30/05/2024 |     12:00 até 12:20  | Faculdade do Gama |
+|   Marco Tulio | 30/05/2024 |     14:00 até 14:23     | Faculdade do Gama |
 
 </center>
 <font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba) </p></font>
