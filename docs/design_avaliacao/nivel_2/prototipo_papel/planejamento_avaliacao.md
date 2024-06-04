@@ -121,6 +121,9 @@ Na tabela 4, está o cronograma das entrevistas que serão realizadas:
 |  Pedro Henrique e Marco Tulio  | a definir  |    a definir            | Faculdade do Gama |
 |   Marco Tulio e Renan Araújo   | a definir  |     a definir           | Faculdade do Gama |
 
+</center>
+
+
 <font size="2"><p style="text-align: center">Fonte: [Alana Gabriele](https://github.com/alanagabriele) e [Gustavo Alves](https://github.com/gustaallves) </p></font>
 
 ### D - Decidir questões éticas
