@@ -20,6 +20,26 @@ A abordagem a ser utilizada, com base nos temas mencionados, seguindo a perspect
 
 Utilizando storyboards, a avaliação busca visualizar e planejar a interação do usuário com o sistema, garantindo que as funcionalidades atendam às necessidades e expectativas dos usuários de maneira eficaz.
 
+Ao todo foram realizadas seis entrevistas com seis participantes.
+
+O cronograma executado das entrevistas está na tabela 1.
+
+<font size="2"><p style="text-align: center">Tabela 1 - Cronograma Executado de Entrevistas </p></font>
+
+<center>
+
+| Entrevistador  |    Data    | Horário de início e fim | Local                   |
+| :------------: | :--------: | :---------------------: | ----------------------- |
+| Alana Gabriele | 29/05/2024 |     17:45 até 18:00     | Faculdade do Gama       |
+|  Renan Araújo  | 27/05/2024 |     17:30 até 17:46     | Faculdade do Gama       |
+| Gustavo Alves  | 02/06/2024 |     11:24 até 11:36     | Empresa do entrevistado |
+|  Yasmim Rosa   | 03/06/2024 |     14:30 até 14:40     | Faculdade do Gama       |
+| Pedro Henrique | 30/05/2024 |     12:25 até 12:36     | Faculdade do Gama       |
+|  Marco Tulio   | 30/05/2024 |     14:26 até 14:46     | Faculdade do Gama       |
+
+</center>
+<font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba) </p></font>
+
 ### Método de avaliação
 
 O método escolhido foi o de investigação por possibilitar coletas de dados sobre o design, problemas frequentes e expectativas para atualizações futuras. Para tal, foram realizadas entrevistas juntamente a um questionário.
@@ -57,7 +77,7 @@ O [StoryBoard](./storyboard.md) tem como objetivo garantir que o rastreamento de
 
 A gravação da entrevista pode ser conferida a seguir:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wxX3kqSl4XY?si=y3RDF7p2tt2GzVQR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nzfQtleDvyI?si=lRgGTtunRNYaszeF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Questões identificadas
 
@@ -162,7 +182,13 @@ Assim como citado no sumário, no que diz a construção da história o storyboa
 
 ## Análise e Interpretação das Respostas dos Usuários
 
-A análise das respostas dos usuários revela que, em geral, as funcionalidades apresentadas nos storyboards foram bem recebidas e compreendidas. A maioria dos participantes considerou as tarefas intuitivas e eficazes. No entanto, foram identificados alguns pontos específicos que necessitam de atenção em compra de passagem. Embora a história e o fluxo de ações tenham sido considerados coesos na tarefa Comprar passagem, o participante apontou que a necessidade de enviar o comprovante de pagamento por email é ineficiente e desnecessária. Esta etapa foi considerada um ponto de atrito que poderia ser melhorado para aumentar a eficiência do processo.
+A análise das respostas dos usuários revela que, em geral, as funcionalidades apresentadas nos storyboards foram bem recebidas e compreendidas. A maioria dos participantes considerou as tarefas intuitivas e eficazes. No entanto, foram identificados alguns pontos específicos que necessitam de atenção em compra de passagem. Embora a história e o fluxo de ações tenham sido considerados coesos na tarefa Comprar passagem, o participante apontou que a necessidade de enviar o comprovante de pagamento por email é ineficiente e desnecessária. Esta etapa foi considerada um ponto de atrito que poderia ser melhorado para aumentar a eficiência do processo. De acordo com o objetivo Problemas na interação e na interface. As perguntas respondidas a partir das entrevistas foram:
+
+- O usuário vai entender o que deve fazer em seguida? Sim. Os usuários demonstraram uma compreensão clara das etapas que deveriam seguir para completar as tarefas apresentadas nos storyboards. As ações e o fluxo de trabalho foram considerados coesos e intuitivos, permitindo aos participantes saber o que fazer a cada etapa.
+
+- Quais barreiras o usuário encontra para atingir seus objetivos? No geral, os usuários conseguiram realizar as tarefas sem grandes dificuldades. Contudo, foram identificadas algumas barreiras.
+
+- Que parte da interface e da interação o deixa insatisfeito? Insatisfação com a Etapa de Envio de Comprovante: Os usuários ficaram insatisfeitos com a necessidade de enviar o comprovante de pagamento por email após a compra de passagem. Eles consideraram esta etapa redundante e prefeririam uma solução mais integrada e direta dentro do site.
 
 ## Resumo das Principais Conclusões
 
