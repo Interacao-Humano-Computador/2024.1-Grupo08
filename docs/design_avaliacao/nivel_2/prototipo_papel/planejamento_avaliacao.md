@@ -41,7 +41,8 @@ Para realização da avaliação serão necessários:
 - Sala para realização da entrevista;
 - Termo de consentimento livre e esclarecido (TCLE);
 - Aparelho eletrônico para filmagem;
-- Dois avaliadores: observador e simulador do sistema.
+- Dois avaliadores: observador e simulador do sistema;
+- Definição de dois cenários para a avaliação.
 
 Cada sessão de entrevista contará com o avaliador simulador do sistema, que será o responsável por elaborar o protótipo de papel bem como garantir um bom uso do mesmo, e o avaliador observador que realizará as anotações sobre a experiência de uso. Na tabela 1 está o cronograma para providenciar as principais questões levantadas:
 
@@ -51,6 +52,7 @@ Cada sessão de entrevista contará com o avaliador simulador do sistema, que se
 | Data de Início | Data de Fim    | Atividade                            |
 | -------------- | -------------- | ------------------------------------ |
 | 02/06/2024     | 04/06/2024     | Elaborar protótipo de papel          |
+| 03/06/2024     | 04/06/2024     | Elaborar cenários para avaliação     |
 | 04/06/2024     | 04/06/2024     | Preparar TCLE                        |
 | 02/06/2024     | 05/06/2024     | Recrutamento de participantes        |
 | 02/06/2024     | 05/06/2024     | Marcação da sessão de entrevista     |
