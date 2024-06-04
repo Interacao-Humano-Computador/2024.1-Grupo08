@@ -36,7 +36,23 @@ Entre eles será avaliado "Problemas na interação e na interface".
 
 ### **E**xplorar perguntas a serem feitas na avaliação
 
-Para a realização dessa etapa, foi utilizado como referência o livro de Barbosa e Silva (2010). Nesta fase, é fundamental explorar e definir as perguntas específicas que a avaliação de IHC deve responder. Essas perguntas guiarão o processo de avaliação, focando em aspectos essenciais da experiência do usuário. Algumas das perguntas a serem consideradas incluem:
+Para a realização dessa etapa, foi utilizado como referência o livro de Barbosa e Silva (2010). Nesta fase, é fundamental explorar e definir as perguntas específicas que a avaliação de IHC deve responder. Essas perguntas guiarão o processo de avaliação, focando em aspectos essenciais da experiência do usuário. As perguntas a serem consideradas são:
+
+- O usuário vai entender o que deve fazer em seguida?
+- Quais barreiras o usuário encontra para atingir seus objetivos?
+- Que parte da interface e da interação o deixa insatisfeito?
+
+### **C**hoose (Escolher) os métodos de avaliação
+
+O método escolhido é o de investigação por possibilitar coletas de dados sobre o design, problemas frequentes e expectativas para atualizações futuras. Para tal, serão realizadas entrevistas que serão gravadas, com o uso de questionário como roteiro.
+
+### **I**dentificar e administrar as questões práticas da avaliação
+
+Para realizar o recrutamento baseado no perfil do usuário e nas Personas definidas, serão enviados convites a usuários reais do sistema. Está planejado realizar seis entrevistas presenciais, que serão conduzidas na Faculdade do Gama da Universidade de Brasília. Cada entrevista contará com a participação de dois membros do grupo de Interação Humano-Computador (IHC): um responsável por conduzir a entrevista e outro por registrar as informações coletadas. Não haverá custos associados a essas reuniões, uma vez que tanto os avaliadores quanto os entrevistados são estudantes da universidade. Na tabela 1 estão as perguntas e na tabela 2 está o cronograma:
+
+<div style="text-align: center">
+<p> Tabela 1: Questões para entrevistas.</p>
+</div>
 
 | Ordenação | Pergunta                                                               | Resposta possível     |
 | --------- | ---------------------------------------------------------------------- | --------------------- |
@@ -49,19 +65,8 @@ Para a realização dessa etapa, foi utilizado como referência o livro de Barbo
 | 7         | Você mudaria alguma coisa do fluxo? Caso sim, descreva o motivo.       | Resposta discursiva   |
 | 8         | O fluxo atinge o seu objetivo? Caso não, descreva o motivo.            | - Sim <br> - Não <br> |
 
-<div style="text-align: center">
-<p> Tabela 2: Questões para entrevistas.</p>
-</div>
 
 <font size="2"><p style="text-align: center">Fonte: [Alana Gabriele](https://github.com/alanagabriele) e [Gustavo Alves](https://github.com/gustaallves) </p></font>
-
-### **C**hoose (Escolher) os métodos de avaliação
-
-O método escolhido é o de investigação por possibilitar coletas de dados sobre o design, problemas frequentes e expectativas para atualizações futuras. Para tal, serão realizadas entrevistas que serão gravadas, com o uso de questionário como roteiro.
-
-### **I**dentificar e administrar as questões práticas da avaliação
-
-Para realizar o recrutamento baseado no perfil do usuário e nas Personas definidas, serão enviados convites a usuários reais do sistema. Está planejado realizar seis entrevistas presenciais, que serão conduzidas na Faculdade do Gama da Universidade de Brasília. Cada entrevista contará com a participação de dois membros do grupo de Interação Humano-Computador (IHC): um responsável por conduzir a entrevista e outro por registrar as informações coletadas. Não haverá custos associados a essas reuniões, uma vez que tanto os avaliadores quanto os entrevistados são estudantes da universidade. Na tabela 2 está o cronograma:
 
 <font size="2"><p style="text-align: center">Tabela 2 - Cronograma de Entrevistas </p></font>
 
@@ -86,15 +91,15 @@ Antes de iniciar as entrevistas, serão abordadas as questões éticas envolvida
 
 Após a avaliação do site Central Expresso, é crucial analisar e apresentar os dados com atenção aos aspectos fundamentais que garantem a integridade do estudo. Será avaliado a confiabilidade dos dados, assegurando que os resultados se mantenham consistentes em repetidas aplicações do mesmo método sob as mesmas condições. Em seguida, a validação interna do estudo é avaliada para confirmar se o método realmente mede o que se propõe, mantendo os dados livres de distorções. Além disso, a validade externa é considerada para determinar até que ponto os resultados são generalizáveis para contextos semelhantes. Por fim, a validade ecológica é examinada, verificando o quão próximo o ambiente e métodos de estudo estão nas condições reais de uso. Com isso, os seguintes tópicos serão utilizado para avaliar, interpretrar e apresentar os dados:
 
--Propósito e alcance da avaliação
--Método de avaliação
--Escolha dos participantes
--Questões identificadas
--Sugestões para melhorias
--Feedback dos usuários
--Análise e interpretação das respostas dos usuários
--Resumo das principais conclusões
--Plano de aprimoramento do projeto
+- Propósito e alcance da avaliação
+- Método de avaliação
+- Escolha dos participantes
+- Questões identificadas
+- Sugestões para melhorias
+- Feedback dos usuários
+- Análise e interpretação das respostas dos usuários
+- Resumo das principais conclusões
+- Plano de aprimoramento do projeto
 
 ### Planejamento do teste piloto
 
