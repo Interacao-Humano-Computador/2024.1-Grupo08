@@ -85,10 +85,11 @@ Nesta funcionalidade, conforme detalhado na Análise Hierárquica de Tarefas (HT
 O usuário trata-se de alguém que estuda em Brasília e reside em Luziânia, e possui uma boa experiência com tecnologia.
 
 A entrevista está disponível a seguir:
-<iframe width="560" height="315" src="https://youtu.be/B2gFDL1eSoQ?si=r_LNDYUkJCAe9URf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2gFDL1eSoQ?si=r_LNDYUkJCAe9URf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 #### Questões identificadas
-- Em nenhum momento a usuaria se sentiu e foi possivel concluir a entrevista com facilidade;
+- Em nenhum momento o usuario se sentiu e foi possivel concluir a entrevista com facilidade;
 - Nenhum problema foi identificado.
 
 #### Sugestões para melhorias
