@@ -73,7 +73,7 @@ A gravação da entrevista pode ser conferida a seguir:
 
 ### Compartilhamento de Trajeto
 
-O [StoryBoard](./storyboard.md) tem como objetivo garantir que o rastreamento de um ônibus em tempo real atendam às necessidades e expectativas dos usuários.
+O [StoryBoard](./storyboard.md) tem como objetivo garantir que o compartilhamento de trajeto atendam às necessidades e expectativas dos usuários.
 
 A gravação da entrevista pode ser conferida a seguir:
 
@@ -96,7 +96,7 @@ A gravação da entrevista pode ser conferida a seguir:
 
 ### Histórico de passagens compradas
 
-O [StoryBoard](./storyboard.md) tem como objetivo garantir que o rastreamento de um ônibus em tempo real atendam às necessidades e expectativas dos usuários.
+O [StoryBoard](./storyboard.md) tem como objetivo garantir que o histórico de passagens compradas atendam às necessidades e expectativas dos usuários.
 
 A gravação da entrevista pode ser conferida a seguir:
 
@@ -118,7 +118,7 @@ A gravação da entrevista pode ser conferida a seguir:
 
 ### Acúmulo de Pontos por Trajeto
 
-O [StoryBoard](./storyboard.md) tem como objetivo garantir que o rastreamento de um ônibus em tempo real atendam às necessidades e expectativas dos usuários.
+O [StoryBoard](./storyboard.md) tem como objetivo garantir que o Acúmulo de Pontos por Trajeto atendam às necessidades e expectativas dos usuários.
 
 A gravação da entrevista pode ser conferida a seguir:
 
@@ -140,7 +140,7 @@ A gravação da entrevista pode ser conferida a seguir:
 
 ### Acompanhar compra de passagem
 
-O [StoryBoard](./storyboard.md) tem como objetivo garantir que o rastreamento de um ônibus em tempo real atendam às necessidades e expectativas dos usuários.
+O [StoryBoard](./storyboard.md) tem como objetivo garantir que o acompanhamento da compra de passagem atendam às necessidades e expectativas dos usuários.
 
 A gravação da entrevista pode ser conferida a seguir:
 
@@ -162,7 +162,7 @@ A gravação da entrevista pode ser conferida a seguir:
 
 ### Comprar Passagem
 
-O [StoryBoard](./storyboard.md) tem como objetivo garantir que o rastreamento de um ônibus em tempo real atendam às necessidades e expectativas dos usuários.
+O [StoryBoard](./storyboard.md) tem como objetivo garantir que comprar passagem atendam às necessidades e expectativas dos usuários.
 
 A gravação da entrevista pode ser conferida a seguir:
 
