@@ -1,0 +1,149 @@
+## Introdução
+
+O relato da avaliação abrange principalmente a interpretação dos dados coletados, devendo analisar os dados individuais de cada usuário para posteriormente buscar uma interpretação mais generalista.
+
+## Metodologia
+
+A abordagem a ser utilizada, com base nos temas mencionados, seguindo a perspectiva de Barbosa e Silva (2011, p.279), adaptada para este contexto e como definido no planejamento, compreenderá os seguintes elementos:
+
+- Propósito e alcance da avaliação
+- Método de avaliação
+- Escolha dos participantes
+- Questões identificadas
+- Sugestões para melhorias
+- Feedback dos usuários
+- Análise e interpretação das respostas dos usuários
+- Resumo das principais conclusões
+- Plano de aprimoramento do projeto
+
+### Propósito e alcance da avaliação
+
+O propósito da avaliação é identificar problemas de usabilidade e oportunidades de melhoria nas funcionalidades principais do site Central Expresso. O alcance abrange tarefas como Rastreamento de Ônibus em Tempo Real, Compartilhamento de Trajetos, Histórico de Passagens Compradas, Acúmulo de Pontos por Trajeto, Acompanhar Compra de Passagem e Comprar Passagem.
+
+Ao todo foram realizadas seis entrevistas com seis participantes.
+
+O cronograma executado das entrevistas está na tabela 1.
+
+<font size="2"><p style="text-align: center">Tabela 1 - Cronograma Executado de Entrevistas </p></font>
+
+<center>
+
+|        Entrevistadores         |    Data    | Horário de início e fim | Local             |
+| :----------------------------: | :--------: | :---------------------: | ----------------- |
+| Alana Gabriele e Gustavo Alves | 27/05/2024 |     17:00 até 17:10     | Faculdade do Gama |
+| Renan Araújo e Pedro Henrique  | 27/05/2024 |     17:10 até 17:20     | Faculdade do Gama |
+|  Gustavo Alves e Yasmin Rosa   | 28/05/2024 |     10:00 até 10:10     | Faculdade do Gama |
+|  Yasmim Rosa e Alana Gabriele  | 29/05/2024 |     17:00 até 17:10     | Faculdade do Gama |
+|  Pedro Henrique e Marco Tulio  | 30/05/2024 |     12:00 até 12:10     | Faculdade do Gama |
+|   Marco Tulio e Renan Araújo   | 30/05/2024 |     17:00 até 17:10     | Faculdade do Gama |
+
+</center>
+<font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba) </p></font>
+
+### Método de avaliação
+
+O método escolhido foi o de investigação por possibilitar coletas de dados sobre o design, problemas frequentes e expectativas para atualizações futuras. Para tal, foram realizadas entrevistas juntamente a um questionário.
+
+### Escolha dos participantes
+
+Foram selecionados 6 usuários para a realização da avaliação, cada um recrutado por um avaliador e com base no [perfil de usuário]() previamente estabelecido neste projeto.
+
+Antes de cada entrevista esse perfil de usuário foi revalidado por algumas perguntas simples sobre o participante.
+
+### Rastreamento de Ônibus em Tempo Real
+#### Questões identificadas
+#### Sugestões para melhorias
+#### Feedback dos usuários
+
+
+### Compartilhamento de Trajeto
+Nesta funcionalidade, como descrito no HTA (Hierarchical Task Analysis) realizado na análise de tarefas, o seu objetivo é compartilhar o trajeto de um ônibus.
+
+O participante representa o perfil do usuário, trabalhando em brasília e morando em Luziânia, com alta experiência em tecnologia.
+
+A entrevista está disponível a seguir:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nzfQtleDvyI?si=SDcg-y47mokcwGtB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Questões identificadas
+
+- Feedback Positivo: O usuário demonstrou compreensão das etapas e completou a tarefa de compartilhamento de trajeto sem dificuldades.
+- Problema Identificado: Não foram identificados problemas durante a avaliação.
+
+#### Sugestões para melhorias
+
+- Nenhum Problema Identificado: Não foram identificados problemas durante a avaliação.
+
+#### Feedback dos usuários
+
+- Interpretação Positiva: O usuário validou o design atual do processo de compartilhamento de trajeto, indicando eficácia e usabilidade satisfatória.
+- Confirmação da Eficácia: O usuário conseguiu entender e realizar a tarefa com sucesso, demonstrando que os passos atuais atendem às suas necessidades.
+
+### Histórico de passagens compradas
+Nesta funcionalidade, conforme detalhado na Análise Hierárquica de Tarefas (HTA) realizada, tratata-se de uma funcionalidade em que o usuario tem a capacidade de gerenciar passagens futuras e passadas entre outras opções dentro da funcionalidade.
+
+O usuário trata-se de alguém que estuda em Brasília e reside em Luziânia, e possui uma boa experiência com tecnologia.
+
+A entrevista está disponível a seguir:
+<iframe width="560" height="315" src="https://youtu.be/B2gFDL1eSoQ?si=r_LNDYUkJCAe9URf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Questões identificadas
+- Em nenhum momento a usuaria se sentiu e foi possivel concluir a entrevista com facilidade;
+- Nenhum problema foi identificado.
+
+#### Sugestões para melhorias
+- Tendo em vista que a entrevista ocorreu com bastante êxito, ainda não existe nenhuma sugestão de melhoria.
+#### Feedback dos usuários
+- Análise Favorável: O usuário aprovou o design atual do sistema de historico de viagens, e reconhecendo sua importância.
+- Validação da Eficiência: O usuário compreendeu e completou a tarefa com êxito, evidenciando que as etapas atuais são adequadas às suas expectativas.
+
+
+### Acúmulo de Pontos por Trajeto
+#### Questões identificadas
+#### Sugestões para melhorias
+#### Feedback dos usuários
+
+### Acompanhar compra de passagem
+#### Questões identificadas
+#### Sugestões para melhorias
+#### Feedback dos usuários
+
+### Comprar passagem
+Nesta funcionalidade, assim como descrito no HTA (Hierarchical Task Analysis) realizado na análise de tarefas, tem como objetivo realizar a compra de passagens.
+
+A participante se enquadra no perfil do usuário sendo uma estudante do campus Gama da Universidade de Brasília, moradora de Luziânia e com alta experiência com tecnologia.
+
+A gravação da entrevista pode ser conferida a seguir:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hR6L9NbQWas?si=o7p_UIhGLgaHwE8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Questões identificadas
+De maneira geral, a participante conseguiu compreender o HTA de maneira eficaz mesmo com o surgimento de eventuais dúvidas relacionadas a estrutura de construção do HTA.
+
+#### Sugestões para melhorias
+A participante não encontrou pontos de melhoria ao que foi possível a interpretação completa do HTA de comprar passagem, afirmou ainda que seria possível realizar a tarefa com sucesso utilizando o HTA avaliado.
+
+#### Feedback dos usuários
+O feedback da participante foi positivo e afirmou que seria possível realizar a tarefa observando o HTA proposto para a funcionalidade.
+
+### Análise e interpretação das respostas dos usuários
+
+As respostas dos usuários serão analisadas para identificar padrões comuns e tendências. Esta análise ajudará a compreender melhor os principais pontos de frustração e satisfação dos usuários.
+
+### Resumo das principais conclusões
+
+Espera-se concluir que, apesar das funcionalidades valiosas, existem áreas significativas que necessitam de melhorias. A ênfase será na necessidade de interfaces mais intuitivas, feedback eficaz e clareza nas informações.
+
+### Plano de aprimoramento do projeto
+
+No plano de aprimoramento do projeto, será delineado um conjunto de estratégias para abordar as áreas críticas identificadas durante a análise da tarefa. Este plano incluirá a definição de metas específicas para cada área de melhoria, como a interface de usuário, sistemas de rastreamento, gestão de dados de passagens, mecanismos de pontuação e processos de compra. As estratégias propostas visam simplificar a interação do usuário, aumentar a eficiência dos serviços oferecidos e melhorar a comunicação entre o sistema e seus usuários. O plano também especificará os passos preliminares para a execução das melhorias, incluindo a revisão de design, testes de usabilidade e a integração de feedback dos usuários para garantir que as soluções sejam eficazes e bem recebidas.
+
+## Bibliografia
+
+> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+
+## Histórico de Versões
+
+| Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
+| ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
+| 1.0    | 22/05/2024 | Relato da Avaliação da Análise de Tarefas | [Yasmim Rosa](https://github.com/yaskisoba) |  [Gustavo Alves](https://github.com/gustaallves)    |

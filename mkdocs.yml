@@ -47,11 +47,12 @@ nav:
       - Apresentação 1: apresentacoes/apresentacao_1.md
       - Apresentação 2: apresentacoes/apresentacao_2.md
       - Apresentação 3: apresentacoes/apresentacao_3.md
+      - Apresentação 4: apresentacoes/apresentacao_4.md
   - Análise de Requisitos:
       - Aspectos Éticos: requisitos/etica.md
       - Perfil de Usuários: requisitos/perfil_usuarios.md
       - Personas: requisitos/personas.md
-      - Cenários: requisitos/cenarios.md 
+      - Cenários: requisitos/cenarios.md
       - Análise de Tarefas:
           - HTA: requisitos/analise_tarefas_hta.md
           - GOMS: requisitos/analise_tarefas_goms.md
@@ -60,6 +61,19 @@ nav:
       - Metas de Usabilidade: requisitos/metas_usabilidade.md
       - Guia de Estilo: requisitos/guia_estilo.md
   - Design, Avaliação e Desenvolvimento:
-      - Planejamento do Relato dos Resultados da Avaliação do Storyboard: Design_avaliacao/PlanejamentoResultadosA.md
+      - Nível 1:
+          - StoryBoard:
+              - Storyboard: design_avaliacao/nivel_1/storyboard/storyboard.md
+              - Planejamento da Avaliação do Storyboard: design_avaliacao/nivel_1/storyboard/planejamento_avaliacao.md
+              - Planejamento do Relato dos Resultados da Avaliação do Storyboard: design_avaliacao/nivel_1/storyboard/planejamento_resultados.md
+          - Análise de Tarefas:
+              - Planejamento da Avaliação da Análise de Tarefas: design_avaliacao/nivel_1/analise_tarefas/planejamento_avaliacao.md
+              - Planejamento do Relato da Avaliação da Análise de Tarefas: design_avaliacao/nivel_1/analise_tarefas/planejamento_relato_avaliacao.md
+              - Relato da Avaliação da Análise de Tarefas: design_avaliacao/nivel_1/analise_tarefas/relato_avaliacao.md
+      - Nível 2:
+          - Protótipo de Papel:
+            - Planejamento da Avaliação do Protótipo de Papel: design_avaliacao/nivel_2/prototipo_papel/planejamento_avaliacao.md
+            - Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel: design_avaliacao/nivel_2/prototipo_papel/planejamento_relato.md
+
 extra_css:
   - custom.css

@@ -28,7 +28,7 @@ Alguns pontos em relação a acessibilidade e usablidade também foram considera
 
 O site escolhido se encontra disponível neste [link](https://www.centralexpresso.com/).
 
-<font size="2"><p style="text-align: center"> Figura 10 - Usabilidade do site Central Expresso </p></font>
+<font size="2"><p style="text-align: center"> Figura 1 - Usabilidade do site Central Expresso </p></font>
 
 <center>![Central Expresso](<central_expresso.gif>)</center>
 
@@ -47,6 +47,8 @@ Para cada membro da equipe foi escolhida uma funcionalidade do site, sendo um si
 <li> Yasmim Rosa: Comprar passagem. </li>
 </ul>
 
+## Bibliografia
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 
 ## Histórico de Versões

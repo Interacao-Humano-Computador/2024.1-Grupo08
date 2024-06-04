@@ -72,6 +72,10 @@ O termo de consentimento, como citado anteriormente, é de extrema importância 
 <font size="2"><p style="text-align: center"> Fonte: [Alana Gabriele](https://github.com/alanagabriele) e [Pedro Henrique](https://github.com/PedroHenrique061). Disponível em: [Google Docs](https://docs.google.com/document/d/1SYxAgTJFDZQ4u4j6DUbN0arY3rBEV0UuM4vYtjSpkd8/edit?usp=sharing).</p></font>
 
 
+## Como será utilizado?
+O termo de consentimento livre e esclarecido (TCLE) elaborado será utilizado em cada avaliação realizada para estabelecer confiança e transparência entre o participante e avaliador.
+
+
 ## Bibliografia
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. <br>
 
