@@ -51,6 +51,7 @@ Foram selecionados 6 usuários para a realização da avaliação, cada um recru
 Antes de cada entrevista esse perfil de usuário foi revalidado por algumas perguntas simples sobre o participante.
 
 ### Rastreamento de Ônibus em Tempo Real
+
 Nesta funcionalidade, assim como descrito no HTA (Hierarchical Task Analysis) realizado na análise de tarefas, tem como objetivo rastrear o trajeto de um ônibus em tempo real.
 
 A gravação da entrevista pode ser conferida a seguir:
@@ -58,18 +59,21 @@ A gravação da entrevista pode ser conferida a seguir:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KBBWZ2Okl8U?si=rZqr_a910yDVe7Ky" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Questões identificadas
+
 - Feedback Positivo: O usuário demonstrou compreensão das etapas e completou a tarefa de rastreamento de ônibus de trajeto sem dificuldades.
 - Problema Identificado: Não foram identificados problemas durante a avaliação.
 
 #### Sugestões para melhorias
+
 - Nenhum Problema Identificado: Não foram identificados problemas durante a avaliação.
 
 #### Feedback dos usuários
+
 - Interpretação Positiva: A participante aprovou o processo de rastreamento de ônibus, indicando eficácia e usabilidade satisfatória.
 - Confirmação da Eficácia: O usuário conseguiu entender e realizar a tarefa com sucesso, demonstrando que os passos atuais atendem às suas necessidades.
 
-
 ### Compartilhamento de Trajeto
+
 Nesta funcionalidade, como descrito no HTA (Hierarchical Task Analysis) realizado na análise de tarefas, o seu objetivo é compartilhar o trajeto de um ônibus.
 
 O participante representa o perfil do usuário, trabalhando em brasília e morando em Luziânia, com alta experiência em tecnologia.
@@ -93,31 +97,39 @@ A entrevista está disponível a seguir:
 - Confirmação da Eficácia: O usuário conseguiu entender e realizar a tarefa com sucesso, demonstrando que os passos atuais atendem às suas necessidades.
 
 ### Histórico de passagens compradas
+
 Nesta funcionalidade, conforme detalhado na Análise Hierárquica de Tarefas (HTA) realizada, tratata-se de uma funcionalidade em que o usuario tem a capacidade de gerenciar passagens futuras e passadas entre outras opções dentro da funcionalidade.
 
 O usuário trata-se de alguém que estuda em Brasília e reside em Luziânia, e possui uma boa experiência com tecnologia.
 
 A entrevista está disponível a seguir:
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B2gFDL1eSoQ?si=r_LNDYUkJCAe9URf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
 #### Questões identificadas
+
 - Em nenhum momento o usuario se sentiu e foi possivel concluir a entrevista com facilidade;
 - Nenhum problema foi identificado.
 
 #### Sugestões para melhorias
+
 - Tendo em vista que a entrevista ocorreu com bastante êxito, ainda não existe nenhuma sugestão de melhoria.
+
 #### Feedback dos usuários
+
 - Análise Favorável: O usuário aprovou o design atual do sistema de historico de viagens, e reconhecendo sua importância.
 - Validação da Eficiência: O usuário compreendeu e completou a tarefa com êxito, evidenciando que as etapas atuais são adequadas às suas expectativas.
 
-
 ### Acúmulo de Pontos por Trajeto
+
 #### Questões identificadas
+
 #### Sugestões para melhorias
+
 #### Feedback dos usuários
 
 ### Acompanhar compra de passagem
+
 Nesta funcionalidade, assim como descrito no HTA (Hierarchical Task Analysis) realizado na análise de tarefas, tem como objetivo acompanhar a compra de uma passagem.
 
 A gravação da entrevista pode ser conferida a seguir:
@@ -125,17 +137,21 @@ A gravação da entrevista pode ser conferida a seguir:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9I8kvONb9XU?si=UHUBUyzSjRDVHjIq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Questões identificadas
+
 - Feedback Positivo: O usuário demonstrou compreensão das etapas e completou a tarefa de acompanhamento de trajeto sem dificuldades.
 - Problema Identificado: Não foram identificados problemas durante a avaliação.
 
 #### Sugestões para melhorias
+
 - Nenhum Problema Identificado: Não foram identificados problemas durante a avaliação.
 
 #### Feedback dos usuários
+
 - Interpretação Positiva: O usuário validou o design atual do processo de acompanhamento de trajeto, indicando eficácia e usabilidade satisfatória.
 - Confirmação da Eficácia: O usuário conseguiu entender e realizar a tarefa com sucesso, demonstrando que os passos atuais atendem às suas necessidades.
 
 ### Comprar passagem
+
 Nesta funcionalidade, assim como descrito no HTA (Hierarchical Task Analysis) realizado na análise de tarefas, tem como objetivo realizar a compra de passagens.
 
 A participante se enquadra no perfil do usuário sendo uma estudante do campus Gama da Universidade de Brasília, moradora de Luziânia e com alta experiência com tecnologia.
@@ -145,12 +161,15 @@ A gravação da entrevista pode ser conferida a seguir:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hR6L9NbQWas?si=o7p_UIhGLgaHwE8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Questões identificadas
+
 De maneira geral, a participante conseguiu compreender o HTA de maneira eficaz mesmo com o surgimento de eventuais dúvidas relacionadas a estrutura de construção do HTA.
 
 #### Sugestões para melhorias
+
 A participante não encontrou pontos de melhoria ao que foi possível a interpretação completa do HTA de comprar passagem, afirmou ainda que seria possível realizar a tarefa com sucesso utilizando o HTA avaliado.
 
 #### Feedback dos usuários
+
 O feedback da participante foi positivo e afirmou que seria possível realizar a tarefa observando o HTA proposto para a funcionalidade.
 
 ### Análise e interpretação das respostas dos usuários
@@ -171,6 +190,6 @@ No plano de aprimoramento do projeto, será delineado um conjunto de estratégia
 
 ## Histórico de Versões
 
-| Versão |    Data    | Descrição                                 | Autor(es)                                       | Revisor(es)                                    |
-| ------ | :--------: | ----------------------------------------- | ----------------------------------------------- | ---------------------------------------------- |
-| 1.0    | 22/05/2024 | Relato da Avaliação da Análise de Tarefas | [Yasmim Rosa](https://github.com/yaskisoba) |  [Gustavo Alves](https://github.com/gustaallves)    |
+| Versão |    Data    | Descrição                                 | Autor(es)                                   | Revisor(es)                                     |
+| ------ | :--------: | ----------------------------------------- | ------------------------------------------- | ----------------------------------------------- |
+| 1.0    | 22/05/2024 | Relato da Avaliação da Análise de Tarefas | [Yasmim Rosa](https://github.com/yaskisoba) | [Gustavo Alves](https://github.com/gustaallves) |
