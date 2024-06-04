@@ -2,43 +2,41 @@
 
 O planejamento do relato dos resultados da avaliação de um protótipo de papel envolve a organização para obter os feedbacks e possíveis descobertas que podem acontecer durante a avaliação. Esse processo é fundamental para identificar se existem problemas de usabilidade e orientar as próximas etapas do desenvolvimento do projeto, garantindo que os resultados sejam comunicados de forma eficaz.
 
+## Elementos do Relato de Resultados
 
-## Metodologia
-Para a avaliação do protótipo de papel, utilizaremos uma metodologia baseada no livro "Interação Humano-Computador" de Barbosa e Silva (2010). Esta metodologia inclui:
+A partir da execução da avaliação, os responsaveis pela avaliação devem relatar os resultados levando em consideração os itens a baixo.
 
-- Definição dos objetivos;
-- Seleção dos participantes;
-- Desenvolvimento de cenário de uso;
-- Condução da avaliação;
-- Coleta de feedback;
-- Análise de dados;
-- Relato dos resultados.
+### Objetivos e escopo da avaliação
+O relato deve conter:
 
-## Definição dos Objetivos
-A primeira etapa é definir objetivos claros para a avaliação. Estes objetivos devem especificar quais aspectos da usabilidade e da funcionalidade do protótipo de papel serão testados. Iremos avaliar a facilidade de navegação, a clareza das instruções, ou a eficiência com que os usuários conseguem completar tarefas específicas. A definição de objetivos claros é crucial, pois orienta todo o processo de avaliação e ajuda a focar os esforços nas áreas mais importantes.
+* Objetivos da avaliação
+* Validação de objetivos atingidos.
 
+### Método de avaliação empregado
 
-##  Seleção dos Participantes
-Iremos selecionar 6 participantes para a avaliação. É importante que estes participantes representem o público-alvo do projeto com experiência tecnológica e contexto de uso.
+A metodologia empregada no relato dos resultados da avaliação deve ser a mesma implementada no planejamento da avaliação do Protótipo de Papel
 
+### Avaliadores e Participantes
+Dessa forma é dever do avaliador:
 
-## Desenvolvimento de Cenários de Uso
-Desenvolvemos cenários de uso que os participantes irão seguir durante a avaliação. Esses cenários devem simular situações reais em que o produto seria utilizado, permitindo observar como os usuários interagem com o protótipo em contextos práticos. Cada cenário deve ser acompanhado de tarefas específicas que os participantes devem completar, garantindo que todos os aspectos importantes do protótipo sejam testados.
+* Documentar informações dos participantes da avaliação e do  teste piloto 
+* Gravar dados sobre o avaliador de cada avaliação.
 
+### Sumário dos dados coletados
 
-## Condução da Avaliação
-Durante a condução da avaliação, observamos os participantes enquanto eles realizam as tarefas definidas. É fundamental permitir que os participantes explorem o protótipo de forma autônoma. Intervenções mínimas ajudam a capturar uma interação mais natural e realista.
+A partir da execução da avaliação, os responsaveis pela avaliação devem registrar as respostas do entrevistado para cada uma das pesquisas planejadas. Deve conter os aspectos mais relevantes identificados durante a avaliação, incluindo os problemas encontrados, as sugestões de melhorias propostas e o feedback dos usuários. Essa etapa permitirá reunir em uma única perspectiva as principais informações relacionadas às melhorias a serem aplicadas na plataforma da Central Expresso.
 
-## Coleta de Feedback
-Após a conclusão das tarefas, coletamos feedback detalhado dos participantes sobre suas experiências. Utilizamos uma combinação de entrevistas individuais e discussões em grupo para obter uma compreensão profunda dos pensamentos e sentimentos dos usuários. Esse feedback qualitativo é essencial para complementar as observações feitas durante a condução da avaliação, fornecendo informações sobre as motivações e frustrações dos usuários.
+### Relato da interpretação e análise dos dados
 
+Os responsáveis pela avaliação devem realizar uma análise e interpretação dos resultados obtidos a partir da avaliação de tarefas. Isso envolve examinar os dados coletados durante a avaliação, identificar padrões, tendências e extrair conclusões significativas dessas informações. É necessário contextualizar os resultados dentro do objetivo da avaliação e considerar o impacto dos problemas específicos na usabilidade, na experiência do usuário e nos objetivos propostos.
 
-## Análise dos Dados
-Com os dados coletados, passamos para a fase de análise. Organizamos e categorizamos os problemas de usabilidade identificados, buscando padrões e tendências comuns. Iremos avaliar e entender as causas subjacentes dos problemas observados, o que nos ajuda a formular soluções mais eficazes e direcionadas.
+### Problemas encontrados
 
+Os responsaveis pela avaliação devem listar os problemas encontrados nos protótipos de papel, com base nos resultados coletados. Assim é necessário registrar de maneira clara e objetiva cada  erro, falha ou desafio enfrentado pelo usuário ao interagir com o sistema.
 
-## Relato dos Resultados
-Por fim, elaboramos um relatório detalhado dos resultados da avaliação. Este relatório deve ser claro, organizado e acessível a todos os membros da equipe de desenvolvimento. Incluímos uma descrição dos problemas de usabilidade encontrados, exemplos específicos de feedback dos usuários, e recomendações concretas para melhorias. O relatório deve também destacar os pontos fortes do protótipo, reconhecendo os aspectos que funcionam bem e que podem ser mantidos ou ampliados nas iterações futuras. A clareza e a organização do relatório são essenciais para garantir que as descobertas sejam compreendidas e aplicadas de maneira eficaz.
+### Sugestões de correções
+
+Os responsáveis pela avaliação devem  propor sugestões de correção para os problemas identificados, recorrendo às sugestões do usuário e acrescentando as suas próprias.
 
 
 ## Bibliografia

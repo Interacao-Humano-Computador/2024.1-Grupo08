@@ -26,7 +26,7 @@ Dessa forma é dever do avaliador:
 
 ### Sumário dos dados coletados
 
-A partir da execução da avaliação, os responsaveis pela avaliação devem registrar as respostas do entrevistado para cada uma das pesquisas planejadas.Deve conter os aspectos mais relevantes identificados durante a avaliação, incluindo os problemas encontrados, as sugestões de melhorias propostas e o feedback dos usuários. Essa etapa permitirá reunir em uma única perspectiva as principais informações relacionadas às melhorias a serem aplicadas na plataforma da Central Expresso
+A partir da execução da avaliação, os responsaveis pela avaliação devem registrar as respostas do entrevistado para cada uma das pesquisas planejadas. Deve conter os aspectos mais relevantes identificados durante a avaliação, incluindo os problemas encontrados, as sugestões de melhorias propostas e o feedback dos usuários. Essa etapa permitirá reunir em uma única perspectiva as principais informações relacionadas às melhorias a serem aplicadas na plataforma da Central Expresso.
 
 ### Relato da interpretação e análise dos dados
 
