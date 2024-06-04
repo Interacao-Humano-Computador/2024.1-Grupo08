@@ -5,6 +5,7 @@ O planejamento do relato dos resultados da avaliação de um protótipo de papel
 
 ## Metodologia
 Para a avaliação do protótipo de papel, utilizaremos uma metodologia baseada no livro "Interação Humano-Computador" de Barbosa e Silva (2010). Esta metodologia inclui:
+
 - Definição dos objetivos;
 - Seleção dos participantes;
 - Desenvolvimento de cenário de uso;
@@ -12,7 +13,6 @@ Para a avaliação do protótipo de papel, utilizaremos uma metodologia baseada 
 - Coleta de feedback;
 - Análise de dados;
 - Relato dos resultados.
-
 
 ## Definição dos Objetivos
 A primeira etapa é definir objetivos claros para a avaliação. Estes objetivos devem especificar quais aspectos da usabilidade e da funcionalidade do protótipo de papel serão testados. Iremos avaliar a facilidade de navegação, a clareza das instruções, ou a eficiência com que os usuários conseguem completar tarefas específicas. A definição de objetivos claros é crucial, pois orienta todo o processo de avaliação e ajuda a focar os esforços nas áreas mais importantes.
