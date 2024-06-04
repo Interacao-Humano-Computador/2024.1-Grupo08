@@ -184,6 +184,12 @@ A participante não encontrou pontos de melhoria ao que foi possível a interpre
 O feedback da participante foi positivo e afirmou que seria possível realizar a tarefa observando o HTA proposto para a funcionalidade.
 
 ### Análise e interpretação das respostas dos usuários
+O objetivo da avaliação era identificar problemas na interação e na interface, este que foi explorado durante toda a avaliação. As perguntas que deveriam ser respondidas ao fim da avaliação estão a seguir com suas respectivas respostas:
+
+- O usuário vai entender o que deve fazer em seguida? Sim, o usuário será capaz de saber o que se deve fazer seguindo o fluxo indicado.
+- Quais barreiras o usuário encontra para atingir seus objetivos? Na análise de tarefas com HTA, o usuário não encontra nenhuma barreira.
+- Que parte da interface e da interação o deixa insatisfeito? Não há interação significativa, o usuário entende o que deve ser feito e o fluxo a ser seguido.
+
 De maneira geral, os participantes não encontraram dificuldades na interpretação do HTA de cada tarefa o que indica que a atual construção das tarefas é satisfatória ao que os participantes puderam afirmar que seguiriam o HTA de maneira fluída para atingir o objetivo proposto. <br>
 Sendo essa avaliação de um artefato significantemente conceitual, é possível que tenha sido desconsiderado em algum nível a complexidade das tarefas o que justificaria a quantidade mínima de feedbacks construtivos/negativos em relação as análises de tarefas estruturadas com o HTA que foram propostas. Entretanto, pode-se revalidar os dados inferidos desta análise em posteriores nas quais as funcionalidades serão abordadas com outras ferramentas podendo propor aos participantes novas perspectivas.
 
