@@ -121,12 +121,23 @@ A entrevista está disponível a seguir:
 - Validação da Eficiência: O usuário compreendeu e completou a tarefa com êxito, evidenciando que as etapas atuais são adequadas às suas expectativas.
 
 ### Acúmulo de Pontos por Trajeto
+Nesta funcionalidade, como descrito no HTA (Hierarchical Task Analysis) realizado na análise de tarefas, o seu objetivo acumular pontos por trajeto realizado.
+
+A entrevista está disponível a seguir:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dC0t-IhbUyY?si=vZqNdPKl00A73Smt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Questões identificadas
+- Feedback Positivo: O usuário demonstrou compreensão das etapas e completou a tarefa de acompanhamento de trajeto sem dificuldades.
+- Problema Identificado: Não foram identificados problemas durante a avaliação
 
 #### Sugestões para melhorias
+- Nenhum Problema Identificado: Não foram identificados problemas durante a avaliação.
 
 #### Feedback dos usuários
+- Interpretação Positiva: O usuário validou o design atual do processo de acompanhamento de trajeto, indicando eficácia e usabilidade satisfatória.
+- Confirmação da Eficácia: O usuário conseguiu entender e realizar a tarefa com sucesso, demonstrando que os passos atuais atendem às suas necessidades.
+
 
 ### Acompanhar compra de passagem
 
@@ -173,16 +184,15 @@ A participante não encontrou pontos de melhoria ao que foi possível a interpre
 O feedback da participante foi positivo e afirmou que seria possível realizar a tarefa observando o HTA proposto para a funcionalidade.
 
 ### Análise e interpretação das respostas dos usuários
-
-As respostas dos usuários serão analisadas para identificar padrões comuns e tendências. Esta análise ajudará a compreender melhor os principais pontos de frustração e satisfação dos usuários.
+De maneira geral, os participantes não encontraram dificuldades na interpretação do HTA de cada tarefa o que indica que a atual construção das tarefas é satisfatória ao que os participantes puderam afirmar que seguiriam o HTA de maneira fluída para atingir o objetivo proposto. <br>
+Sendo essa avaliação de um artefato significantemente conceitual, é possível que tenha sido desconsiderado em algum nível a complexidade das tarefas o que justificaria a quantidade mínima de feedbacks construtivos/negativos em relação as análises de tarefas estruturadas com o HTA que foram propostas. Entretanto, pode-se revalidar os dados inferidos desta análise em posteriores nas quais as funcionalidades serão abordadas com outras ferramentas podendo propor aos participantes novas perspectivas.
 
 ### Resumo das principais conclusões
-
-Espera-se concluir que, apesar das funcionalidades valiosas, existem áreas significativas que necessitam de melhorias. A ênfase será na necessidade de interfaces mais intuitivas, feedback eficaz e clareza nas informações.
+Com os dados analisados e interpretados, não foi possível com esta avaliação descobrir pontos de melhoria para o projeto, o que não indica que não há melhorias a serem realizadas, mas sim que não foram possíveis de serem identificadas com esta avaliação e podem ser identificadas com avaliações posteriores.
 
 ### Plano de aprimoramento do projeto
 
-No plano de aprimoramento do projeto, será delineado um conjunto de estratégias para abordar as áreas críticas identificadas durante a análise da tarefa. Este plano incluirá a definição de metas específicas para cada área de melhoria, como a interface de usuário, sistemas de rastreamento, gestão de dados de passagens, mecanismos de pontuação e processos de compra. As estratégias propostas visam simplificar a interação do usuário, aumentar a eficiência dos serviços oferecidos e melhorar a comunicação entre o sistema e seus usuários. O plano também especificará os passos preliminares para a execução das melhorias, incluindo a revisão de design, testes de usabilidade e a integração de feedback dos usuários para garantir que as soluções sejam eficazes e bem recebidas.
+Não foi necessário a realização de um plano de aprimoramento do projeto, devido a não identificação de nenhum ponto de melhoria.
 
 ## Bibliografia
 
