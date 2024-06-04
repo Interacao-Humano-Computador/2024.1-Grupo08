@@ -93,9 +93,23 @@ A entrevista está disponível a seguir:
 - Confirmação da Eficácia: O usuário conseguiu entender e realizar a tarefa com sucesso, demonstrando que os passos atuais atendem às suas necessidades.
 
 ### Histórico de passagens compradas
+Nesta funcionalidade, conforme detalhado na Análise Hierárquica de Tarefas (HTA) realizada, tratata-se de uma funcionalidade em que o usuario tem a capacidade de gerenciar passagens futuras e passadas entre outras opções dentro da funcionalidade.
+
+O usuário trata-se de alguém que estuda em Brasília e reside em Luziânia, e possui uma boa experiência com tecnologia.
+
+A entrevista está disponível a seguir:
+<iframe width="560" height="315" src="https://youtu.be/B2gFDL1eSoQ?si=r_LNDYUkJCAe9URf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 #### Questões identificadas
+- Em nenhum momento a usuaria se sentiu e foi possivel concluir a entrevista com facilidade;
+- Nenhum problema foi identificado.
+
 #### Sugestões para melhorias
+- Tendo em vista que a entrevista ocorreu com bastante êxito, ainda não existe nenhuma sugestão de melhoria.
 #### Feedback dos usuários
+- Análise Favorável: O usuário aprovou o design atual do sistema de historico de viagens, e reconhecendo sua importância.
+- Validação da Eficiência: O usuário compreendeu e completou a tarefa com êxito, evidenciando que as etapas atuais são adequadas às suas expectativas.
+
 
 ### Acúmulo de Pontos por Trajeto
 #### Questões identificadas
