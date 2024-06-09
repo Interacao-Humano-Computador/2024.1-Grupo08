@@ -48,7 +48,6 @@ nav:
       - Apresentação 2: apresentacoes/apresentacao_2.md
       - Apresentação 3: apresentacoes/apresentacao_3.md
       - Apresentação 4: apresentacoes/apresentacao_4.md
-      - Apresentação 5: apresentacoes/apresentacao_5.md
   - Análise de Requisitos:
       - Aspectos Éticos: requisitos/etica.md
       - Perfil de Usuários: requisitos/perfil_usuarios.md
@@ -76,6 +75,8 @@ nav:
           - Protótipo de Papel:
               - Planejamento da Avaliação do Protótipo de Papel: design_avaliacao/nivel_2/prototipo_papel/planejamento_avaliacao.md
               - Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel: design_avaliacao/nivel_2/prototipo_papel/planejamento_relato.md
-      
-extra_css:
+      - Nível 3:
+          - Protipo de Alta Fidelidade:
+              - Planejamento relato Prototipo de Alta Fidelidade: design_avaliacao/nivel_3/planejamento_relato_PAF.md
+extra_css:                                        
   - custom.css
