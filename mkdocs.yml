@@ -76,8 +76,6 @@ nav:
           - Protótipo de Papel:
               - Planejamento da Avaliação do Protótipo de Papel: design_avaliacao/nivel_2/prototipo_papel/planejamento_avaliacao.md
               - Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel: design_avaliacao/nivel_2/prototipo_papel/planejamento_relato.md
-      - Nível 3:
-          - Protótipo de Alta Fidelidade: design_avaliacao/nivel_3/planejamentoRelatoAFD.md
-
+      
 extra_css:
   - custom.css
