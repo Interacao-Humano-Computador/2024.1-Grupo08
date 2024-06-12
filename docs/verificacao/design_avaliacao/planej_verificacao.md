@@ -127,21 +127,27 @@ tratados e como serão apresentados? </td>
   </thead>
   <tbody>
     <tr>
-      <td>1. A estrutura geral do relato é a mesma definida no planejamento?</td>
+      <td>1. A estrutura geral do relato é a mesma definida no planejamento mas de maneira detalhada com instruções?</td>
       <td></td>
     </tr>
     <tr>
-      <td>2. A metodologia da avaliação foi bem definida bem como como sua execução?
+      <td>2. A metodologia da avaliação foi definida?
       </td>
       <td></td>
     </tr>
     <tr>
-      <td>3. As perguntas exploratórias definidas foram respondidas?
+      <td>3. Os objetivos específicos da avaliação foram definidos?
       </td>
       <td></td>
     </tr>
     <tr>
-      <td>4. Foi possível identificar um padrão de respostas dos usuários a fim de elaborar o reprojeto (se necessário)? </td>
+      <td>4. Os problemas e dificuldades encontrados durante o teste piloto foram documentados?
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5. Os próximos passos após a apresentação dos resultados foram planejados?
+      </td>
       <td></td>
     </tr>
   </tbody>
@@ -169,21 +175,25 @@ tratados e como serão apresentados? </td>
   </thead>
   <tbody>
     <tr>
-      <td>1. A estrutura geral do relato é a mesma definida no planejamento?</td>
+      <td>1. A estrutura geral do relato é a mesma definida no planejamento mas de maneira detalhada com instruções?</td>
       <td></td>
     </tr>
     <tr>
-      <td>2. A metodologia da avaliação foi bem definida bem como como sua execução?
+      <td>2. A metodologia da avaliação foi definida?
       </td>
       <td></td>
     </tr>
     <tr>
-      <td>3. As perguntas exploratórias definidas foram respondidas?
+      <td>3. O processo de avaliação foi revisado para identificar eficiência?
       </td>
       <td></td>
     </tr>
     <tr>
-      <td>4. Foi possível identificar um padrão de respostas dos usuários a fim de elaborar o reprojeto (se necessário)? </td>
+      <td>4. Os métodos de análise dos dados coletados foram definidos?  </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5. Os próximos passos após a apresentação dos resultados foram planejados?  </td>
       <td></td>
     </tr>
   </tbody>
