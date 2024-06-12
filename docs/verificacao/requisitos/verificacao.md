@@ -403,6 +403,9 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
 <h3> Sugestões de Melhoria </h3>
 <p>Poderia especificar um pouco mais em "Calcular pontos", por exemplo citar as formas possíveis de calcular e também quais critérios são utilizados.</p>
 
+<h3> Vídeo da Verificação </h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-I6vyUNglG8?si=1I81U1So4LvcXMC1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <h2> Funcionalidade: Criação de Problema - Colocar nome </h2>
 
 <h3> Checklist </h3>
