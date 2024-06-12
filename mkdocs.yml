@@ -78,5 +78,14 @@ nav:
       - Nível 3:
           - Protipo de Alta Fidelidade:
               - Planejamento relato Prototipo de Alta Fidelidade: Design_avaliacao/nivel_3/planejamento_relato_PAF.md
+  - Verificação:
+      - Grupo 1 (CD-MOJ):
+        - Planejamento da Verificação: verificacao/planej_verificacao.md
+        - Análise de Requisitos:
+          - Planejamento da Verificação dos Artefatos: verificacao/requisitos/planej_verificacao.md
+        - Design, Avaliação e Desenvolvimento:
+          - Planejamento da Verificação dos Artefatos: verificacao/design_avaliacao/planej_verificacao.md
+
+
 extra_css:                                        
   - custom.css
