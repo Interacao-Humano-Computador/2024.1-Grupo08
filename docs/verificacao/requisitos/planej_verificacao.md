@@ -11,6 +11,8 @@ Cada membro da equipe ficou com em média 2 artefatos para elaboração dos chec
 <details>
 <summary>Artefato: Perfil do Usuário (Renan Araújo)</summary>
 <p>O artefato de perfil do usuário é necessário para entender qual o público do sistema.</p>
+
+As perguntas foram elaboradas seguindo as definições de Barbosa e Silva (2011) no capítulo 8 chamado de "Organização do Espaço de Problema", especificamente do tópico Perfil de Usuário.
 <h2> Checklist </h2>
 <p> Na tabela 1, está o checklist elaborado: </p>
 
@@ -61,6 +63,8 @@ Cada membro da equipe ficou com em média 2 artefatos para elaboração dos chec
 
 <details>
 <summary>Artefato: Personas (Yasmim Rosa)</summary>
+As perguntas foram elaboradas seguindo as definições de Barbosa e Silva (2011) no capítulo 8 chamado de "Organização do Espaço de Problema", especificamente do tópico Personas.
+
 <h2> Checklist </h2>
 <p> Na tabela 2, está o checklist elaborado: </p>
 
@@ -91,11 +95,7 @@ Cada membro da equipe ficou com em média 2 artefatos para elaboração dos chec
       <td></td>
     </tr>
     <tr>
-      <td>5. As questões éticas relacionadas aos participantes foram abordadas?</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>6. É informado para qual propósito as personas serão utilizadas no decorrer do projeto? </td>
+      <td>5. É informado para qual propósito as personas serão utilizadas no decorrer do projeto??</td>
       <td></td>
     </tr>
   </tbody>
@@ -109,6 +109,9 @@ Cada membro da equipe ficou com em média 2 artefatos para elaboração dos chec
 <details>
     <summary>Artefato: Aspectos Éticos de Pesquisas com Pessoas (Renan Araújo) </summary>
     <p> Para a realização de pesquisa com pessoas é necessário garantir seu bem-estar físico e psíquico antes, durante e após a pesquisa. </p>
+
+    As perguntas foram elaboradas seguindo as definições de Barbosa e Silva (2011) no capítulo 7 chamado de "Identificação de Necessidades dos Usuários e Definição dos Requisitos", especificamente do tópico Aspectos éticos de pesquisas envolvendo pessoas.
+    
     <h2> Checklist </h2>
 <p> Na tabela 3, está o checklist elaborado: </p>
 
@@ -143,10 +146,6 @@ Cada membro da equipe ficou com em média 2 artefatos para elaboração dos chec
       <td>5. É informado em quais etapas ou atividades o TCLE será introduzido ao participante? </td>
       <td></td>
     </tr>
-    <tr>
-      <td>6. A construção do artefato inclui introdução, bibliografia e histório de versões?</td>
-      <td></td>
-    </tr>
   </tbody>
 </table>
 
@@ -156,6 +155,7 @@ Cada membro da equipe ficou com em média 2 artefatos para elaboração dos chec
 
 <details>
     <summary> Artefato: Análise de tarefas (Yasmim Rosa) </summary>
+    As perguntas foram elaboradas seguindo as definições de Barbosa e Silva (2011) no capítulo 8 chamado de "Organização do Espaço de Problema", especificamente do tópico Análise de Tarefas e subtópicos "Análise Hierárquica de Tarefas" e "GOMS(Goals, Operators, Methods, and Selections Rules)".
     <h2> Checklist </h2>
   <p> Na tabela 4, está o checklist elaborado: </p>
 
@@ -211,6 +211,8 @@ Cada membro da equipe ficou com em média 2 artefatos para elaboração dos chec
 
 <details>
     <summary>Artefato: Princípios Gerais de Projeto (Yasmim Rosa) </summary>
+    As perguntas foram elaboradas seguindo as definições de Barbosa e Silva (2011) no capítulo 10 chamado de "Princípios e Diretrizes para o Design de IHC", especificamente do tópico Princípios e Diretrizes Gerais.
+    
   <h2> Checklist </h2>
   <p> Na tabela 5, está o checklist elaborado: </p>
 
@@ -236,10 +238,6 @@ Cada membro da equipe ficou com em média 2 artefatos para elaboração dos chec
       <td>3. Para cada princípio, foram indicados sua aplicação no site ou infração justificados por meio de figuras, vídeos, etc?</td>
       <td></td>
     </tr>
-    <tr>
-      <td>4. A construção do artefato inclui introdução, bibliografia e histório de versões?</td>
-      <td></td>
-    </tr>
   </tbody>
 </table>
 
@@ -249,6 +247,7 @@ Cada membro da equipe ficou com em média 2 artefatos para elaboração dos chec
 
 <details>
     <summary> Arfetato: Metas de usabilidade (Marco Tulio) </summary>
+    As perguntas foram elaboradas seguindo as definições de Barbosa e Silva (2011) no capítulo 6 chamado de "Processos de Design de IHC", especificamente dos tópicos "Engenharia de Usabilidade de Nielsen" e "Engenharia de Usabilidade de Mayhew".
   <h2> Checklist </h2>
   <p> Na tabela 6, está o checklist elaborado: </p>
 
@@ -263,7 +262,7 @@ Cada membro da equipe ficou com em média 2 artefatos para elaboração dos chec
   </thead>
   <tbody>
     <tr>
-      <td>1. Metas de usabilidade são coerente com o perfil do usuário?</td>
+      <td>1. Metas de usabilidade são coerentes com o perfil do usuário?</td>
       <td></td>
     </tr>
     <tr>
@@ -297,6 +296,8 @@ usuários? </td>
 
 <details>
     <summary> Artefato: Guia de Estilo e características da plataforma para o projeto (Alana Gabriele) </summary>
+    As perguntas foram elaboradas seguindo as definições de Barbosa e Silva (2011) no capítulo 10 chamado de "Princípios e Diretrizes para o Design de IHC", especificamente do tópico Guias de Estilo.
+    
     <h2> Checklist </h2>
   <p> Na tabela 7, está o checklist elaborado: </p>
 
@@ -379,3 +380,7 @@ Cada membro responsável deve utilizar a checklist disponibilizada para o artefa
 | Versão | Data       | Descrição                     | Autor                 | Revisor |
 | ------ | ---------- | ----------------------------- | --------------------- | ------- |
 | 1.0    | 11/06/2024 | Planejamento       | [Yasmim Rosa](https://github.com/yaskisoba) | [Renan Araújo](https://github.com/renantfm4)|
+| 1.1    | 11/06/2024 | Artefato análise de tarefas, personas e principios gerais       | [Yasmim Rosa](https://github.com/yaskisoba) | [Marco Tulio](https://github.com/)|
+| 1.2    | 11/06/2024 | Artefatos Perfil do Usuário e Aspectos Éticos       | [Renan Araújo](https://github.com/) | [Yasmim Rosa](https://github.com/)|
+| 1.3    | 11/06/2024 | Artefato metas de usabilidade       | [Marco Tulio](https://github.com/) | [Gustavo Alves](https://github.com/)|
+| 1.4    | 11/06/2024 | Artefato Guia de Estilo       | [Alana Gabriele](https://github.com/) | [Gustavo Alves](https://github.com/)|
