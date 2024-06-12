@@ -204,7 +204,7 @@ tratados e como serão apresentados? </td>
 </details>
 
 <details>
-    <summary> Arfetato: Relato dos resultados do Análise de Tarefas (Gustavo) </summary>
+    <summary> Arfetato: Relato dos resultados do Análise de Tarefas (Gustavo Alves) </summary>
   <h2> Checklist </h2>
   <p> Na tabela 5, está o checklist elaborado: </p>
 
@@ -247,10 +247,12 @@ tratados e como serão apresentados? </td>
   </tbody>
 </table>
 
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Gustavo Alves </a></p></font>
+
 </details>
 
 <details>
-    <summary> Artefato: Relato dos resultados do Storyboard (Gustavo) </summary>
+    <summary> Artefato: Relato dos resultados do Storyboard (Gustavo Alves) </summary>
     <h2> Checklist </h2>
   <p> Na tabela 6, está o checklist elaborado: </p>
 
@@ -301,15 +303,17 @@ tratados e como serão apresentados? </td>
   </tbody>
 </table>
 
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Gustavo Alves </a></p></font>
+
 </details>
 
 <details>
-    <summary> Artefato: Planejamento da Avaliação do Protótipo de Papel (Yasmim)
+    <summary> Artefato: Planejamento da Avaliação do Protótipo de Papel (Yasmim Rosa)
  </summary>
     <h2> Checklist </h2>
-  <p> Na tabela 6, está o checklist elaborado: </p>
+  <p> Na tabela 7, está o checklist elaborado: </p>
 
-  <font size="2"><p style="text-align: center"> Tabela 6 - Checklist de Verificação do Planejamento da Avaliação do Protótipo de Papel projeto </font>
+  <font size="2"><p style="text-align: center"> Tabela 7 - Checklist de Verificação do Planejamento da Avaliação do Protótipo de Papel </font>
 
   <table>
   <thead>
@@ -356,15 +360,17 @@ tratados e como serão apresentados? </td>
   </tbody>
 </table>
 
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa </a></p></font>
+
 </details>
 
 <details>
-    <summary> Artefato: Planejamento do relato dos resultados da avaliação do Protótipo de Papel (Marco)
+    <summary> Artefato: Planejamento do relato dos resultados da avaliação do Protótipo de Papel (Marco Tulio)
  </summary>
     <h2> Checklist </h2>
-  <p> Na tabela 6, está o checklist elaborado: </p>
+  <p> Na tabela 8, está o checklist elaborado: </p>
 
-  <font size="2"><p style="text-align: center"> Tabela 6 - Checklist de Verificação de Guia de Estilo e características da plataforma para o projeto </font>
+  <font size="2"><p style="text-align: center"> Tabela 8 - Checklist de Verificação do Planejamento do relato dos resultados da avaliação do Protótipo de Papel </font>
 
   <table>
   <thead>
@@ -401,6 +407,8 @@ tratados e como serão apresentados? </td>
   </tbody>
 </table>
 
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Marco Tulio </a></p></font>
+
 </details>
 
 ## Verificação dos Artefatos
@@ -417,4 +425,4 @@ Cada membro responsável deve utilizar a checklist disponibilizada para o artefa
 
 | Versão | Data       | Descrição                     | Autor                 | Revisor |
 | ------ | ---------- | ----------------------------- | --------------------- | ------- |
-| 1.0    | 11/06/2024 | Planejamento       | [Yasmim Rosa](https://github.com/yaskisoba) | [Renan Araújo](https://github.com/renantfm4)|
+| 1.0    | 11/06/2024 | Planejamento       | [Yasmim Rosa Rosa](https://github.com/yaskisoba) | [Renan Araújo](https://github.com/renantfm4)|

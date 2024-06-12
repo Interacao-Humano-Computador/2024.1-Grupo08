@@ -14,7 +14,7 @@ Cada membro da equipe ficou com em média 2 ou 3 artefatos para elaboração dos
 <h2> Checklist </h2>
 <p> Na tabela 1, está o checklist elaborado: </p>
 
-<font size="2"><p style="text-align: center"> Checklist de Verificação do Perfil do Usuário </font>
+<font size="2"><p style="text-align: center"> Tabela 1 - Checklist de Verificação do Perfil do Usuário </font>
 
 <table>
   <thead>
@@ -59,14 +59,60 @@ Cada membro da equipe ficou com em média 2 ou 3 artefatos para elaboração dos
 
 </details>
 
+<details>
+<summary>Artefato: Personas (Yasmim Rosa)</summary>
+<h2> Checklist </h2>
+<p> Na tabela 2, está o checklist elaborado: </p>
+
+<font size="2"><p style="text-align: center"> Tabela 2 - Checklist de Verificação das Personas </font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Questão</th>
+      <th>Resposta (Sim / Não / Incompleto)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1. A quantidade de personas elaboradas foi justificada? </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2. A elaboração das personas é coerente com o definido pelo perfil do usuário? </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3. Cada persona possui informações que caracterizam sua identidade como nome e sobrenome como também uma foto que a torne mais realista?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4. As personas possuem objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas definidas? </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5. As questões éticas relacionadas aos participantes foram abordadas?</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6. É informado para qual propósito as personas serão utilizadas no decorrer do projeto? </td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa </a></p></font>
+
+</details>
+
 
 <details>
     <summary>Artefato: Aspectos Éticos de Pesquisas com Pessoas (Renan Araújo) </summary>
     <p> Para a realização de pesquisa com pessoas é necessário garantir seu bem-estar físico e psíquico antes, durante e após a pesquisa. </p>
     <h2> Checklist </h2>
-<p> Na tabela 2, está o checklist elaborado: </p>
+<p> Na tabela 3, está o checklist elaborado: </p>
 
-<font size="2"><p style="text-align: center"> Tabela 2 - Checklist de Verificação dos Aspectos Éticos de Pesquisas com Pessoas </font>
+<font size="2"><p style="text-align: center"> Tabela 3 - Checklist de Verificação dos Aspectos Éticos de Pesquisas com Pessoas </font>
 
 
   <table>
@@ -111,9 +157,9 @@ Cada membro da equipe ficou com em média 2 ou 3 artefatos para elaboração dos
 <details>
     <summary> Artefato: Análise de tarefas (Yasmim Rosa) </summary>
     <h2> Checklist </h2>
-  <p> Na tabela 3, está o checklist elaborado: </p>
+  <p> Na tabela 4, está o checklist elaborado: </p>
 
-  <font size="2"><p style="text-align: center"> Tabela 3 - Checklist de Verificação da Análise de Tarefas </font>
+  <font size="2"><p style="text-align: center"> Tabela 4 - Checklist de Verificação da Análise de Tarefas </font>
 
   <table>
   <thead>
@@ -166,9 +212,9 @@ Cada membro da equipe ficou com em média 2 ou 3 artefatos para elaboração dos
 <details>
     <summary>Artefato: Princípios Gerais de Projeto (Yasmim Rosa) </summary>
   <h2> Checklist </h2>
-  <p> Na tabela 4, está o checklist elaborado: </p>
+  <p> Na tabela 5, está o checklist elaborado: </p>
 
-  <font size="2"><p style="text-align: center"> Tabela 4 - Checklist de Verificação dos Princípios Gerais de Projeto </font>
+  <font size="2"><p style="text-align: center"> Tabela 5 - Checklist de Verificação dos Princípios Gerais de Projeto </font>
 
   <table>
   <thead>
@@ -204,9 +250,9 @@ Cada membro da equipe ficou com em média 2 ou 3 artefatos para elaboração dos
 <details>
     <summary> Arfetato: Metas de usabilidade (Marco Tulio) </summary>
   <h2> Checklist </h2>
-  <p> Na tabela 5, está o checklist elaborado: </p>
+  <p> Na tabela 6, está o checklist elaborado: </p>
 
-  <font size="2"><p style="text-align: center"> Tabela 5 - Checklist de Verificação de Metas de usabilidade </font>
+  <font size="2"><p style="text-align: center"> Tabela 6 - Checklist de Verificação de Metas de usabilidade </font>
 
 <table>
   <thead>
@@ -245,14 +291,16 @@ usuários? </td>
   </tbody>
 </table>
 
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Marco Tulio </a></p></font>
+
 </details>
 
 <details>
     <summary> Artefato: Guia de Estilo e características da plataforma para o projeto (Alana Gabriele) </summary>
     <h2> Checklist </h2>
-  <p> Na tabela 6, está o checklist elaborado: </p>
+  <p> Na tabela 7, está o checklist elaborado: </p>
 
-  <font size="2"><p style="text-align: center"> Tabela 6 - Checklist de Verificação de Guia de Estilo e características da plataforma para o projeto </font>
+  <font size="2"><p style="text-align: center"> Tabela 7 - Checklist de Verificação de Guia de Estilo e características da plataforma para o projeto </font>
 
   <table>
   <thead>
@@ -291,6 +339,8 @@ usuários? </td>
     </tr>
   </tbody>
 </table>
+
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Alana Gabriele </a></p></font>
 
 </details>
 
