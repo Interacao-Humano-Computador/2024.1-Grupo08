@@ -29,30 +29,30 @@ O responsável pela verificação deste artefato é o <b>Pedro Henrique</b> o ch
   <tbody>
     <tr>
       <td>1. O framework utilizado foi o DECIDE?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2. O(s) objetivo(s) foi/foram declarado(s) respeitando àqueles definidos por Sharp et al.? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3. Define como serão tratadas as questões éticas?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4. Planeja a realização do teste piloto bem como uma data para realização? 
      </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5. Foi planejado como identificar e administrar as questões práticas da avaliação?
     </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6. Está especificado como os dados serão
 tratados e como serão apresentados? </td>
-      <td></td>
+      <td>Incompleto</td>
     </tr>
   </tbody>
 </table>
@@ -61,7 +61,7 @@ tratados e como serão apresentados? </td>
 
 <h2>Sugestões de Melhoria</h2>
 
-<p> responder o que pode melhorar com base na verificação. </p>
+<p> Avaliar, Interpretar e Apresentar os Dados- poderia citar quais tópicos seriam utilizados para avaliar, interpretar e apresentar os dados. </p>
 
 </details>
 
