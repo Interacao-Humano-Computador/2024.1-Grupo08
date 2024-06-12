@@ -83,7 +83,7 @@ nav:
         - Planejamento da Verificação: verificacao/planej_verificacao.md
         - Análise de Requisitos:
           - Planejamento da Verificação dos Artefatos: verificacao/requisitos/planej_verificacao.md
-          - Verificação: verificacao/verificacao.md
+          - Verificação: verificacao/requisitos/verificacao.md
         - Design, Avaliação e Desenvolvimento:
           - Planejamento da Verificação dos Artefatos: verificacao/design_avaliacao/planej_verificacao.md
           - Verificação: verificacao/design_avaliacao/verificacao.md
