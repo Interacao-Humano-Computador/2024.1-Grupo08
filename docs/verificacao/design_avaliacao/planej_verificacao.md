@@ -83,29 +83,29 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
     <tr>
       <td>1. Está seguindo o framework DECIDE?
       </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2. Os objetivos da avaliação do storyboard foram claramente definidos?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3. O número dos participantes selecionados para a avaliação são suficientes para obter resultados representativos e confiáveis?</td>
-      <td></td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>4. As questões éticas foram abordadas, garantindo o consentimento informado dos participantes?
      </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5. As questões específicas que a avaliação pretender responder foram identificadas?
       </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6. Foi realizado o teste piloto para testar previamente o ambiente e os materiais? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </tbody>
 </table>
