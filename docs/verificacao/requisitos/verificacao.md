@@ -364,7 +364,7 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
   <tbody>
     <tr>
       <td>1. O objetivo do usuário é bem definido e alcançado ao fim da tarefa?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2. As tarefas realizadas são justificáveis? (Possuem porquês e consequências relacionadas)
@@ -378,7 +378,7 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
     </tr>
     <tr>
       <td>4. O plano (HTA) possui relações que suportam o objetivo final e é finalizado com uma operação?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5. No método GOMS, possui os elementos característicos? Objetivos, operadores, métodos e regras de seleção.
@@ -539,19 +539,19 @@ O responsável pela verificação deste artefato é o <b>Pedro Henrique</b> o ch
   <tbody>
     <tr>
       <td>1. Os princípios levantados incluem os seguintes tópicos? Correspondência com as expectativas dos usuários; Simplicidade nas estruturas das tarefas; Equilíbrio entre controle e liberdade do usuário; Consistência e padronização; promoção da eficiência do usuário; Antecipação das necessidades do usuário;Visibilidade e reconhecimento; Conteúdo relevante e expressão adequada; e projeto para erros.</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2. A apresentação dos princípios levantados segue um padrão coerente, ou seja, que permite clareza sobre a necessidade, transparece seu uso (ou não) e seus impactos na jornada do usuário?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3. Para cada princípio, foram indicados sua aplicação no site ou infração justificados por meio de figuras, vídeos, etc?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4. A construção do artefato inclui introdução, bibliografia e histório de versões?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </tbody>
 </table>
@@ -560,7 +560,7 @@ O responsável pela verificação deste artefato é o <b>Pedro Henrique</b> o ch
 
   <h2>Sugestões de Melhoria</h2>
 
-<p> responder o que pode melhorar com base na verificação. </p>
+<p></p>
 
 
 </details>
