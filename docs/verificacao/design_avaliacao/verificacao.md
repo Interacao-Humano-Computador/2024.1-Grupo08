@@ -228,14 +228,14 @@ O responsável pela verificação deste artefato é o <b>Marco Tulio</b> o check
 </details>
 
 <details>
-    <summary> Arfetato: Relato dos resultados do Análise de Tarefas </summary>
+    <summary> Arfetato: Relato dos resultados da Análise de Tarefas </summary>
 
 O responsável pela verificação deste artefato é a <b>Yasmim Rosa</b> o checklist foi elaborado pelo <b>Gustavo Alves</b>
 
   <h2> Checklist </h2>
   <p> Na tabela 5, está o checklist com suas devidas respostas: </p>
 
-  <font size="2"><p style="text-align: center"> Tabela 5 - Checklist de Verificação do Relato dos resultados do Análise de Tarefas </font>
+  <font size="2"><p style="text-align: center"> Tabela 5 - Checklist de Verificação do Relato dos resultados da Análise de Tarefas </font>
 
 <table>
   <thead>
@@ -247,29 +247,29 @@ O responsável pela verificação deste artefato é a <b>Yasmim Rosa</b> o check
   <tbody>
     <tr>
       <td>1. Há uma explicação de como os resultados serão utilizados?</td>
-      <td></td>
+      <td> Não </td>
     </tr>
     <tr>
       <td>2. É citado sobre quais foram os instrumentos utilizados para a avaliação? (questionários, roteiros de entrevista, etc.)
 </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3. O perfil dos participantes é representativo do público-alvo? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4. As questões éticas relacionadas aos participantes foram abordadas?
 </td>
-      <td></td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>5.O feedback foi analisado para identificar tendências e padrões comuns? </td>
-      <td></td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>6. Existe um cronograma para possíveis melhorias? </td>
-      <td></td>
+      <td>Não</td>
     </tr>
   </tbody>
 </table>
@@ -278,7 +278,9 @@ O responsável pela verificação deste artefato é a <b>Yasmim Rosa</b> o check
 
 <h2>Sugestões de Melhoria</h2>
 
-<p> responder o que pode melhorar com base na verificação. </p>
+<p> Na secção de "Sugestões de Melhoria" em todos os casos, o foco é na interatividade com o sistema e não o HTA em si, além disso depois das entrevistas realizadas podia ter um tópico que tivesse uma resumo sobre os que os usuários disseram de maneira geral. </p>
+<p> Não tem um tópico de reprojeto ou planejamento que cobrisse as melhorias levantadas. </p>
+<p> Seria também interessante, se informassem de maneira narrativa que o participante aceitou o TCLE e informações gerais da entrevista. </p>
 
 </details>
 
@@ -473,3 +475,4 @@ O responsável pela verificação deste artefato é a <b>Yasmim Rosa</b> o check
 | Versão | Data       | Descrição                     | Autor                 | Revisor |
 | ------ | ---------- | ----------------------------- | --------------------- | ------- |
 | 1.0    | 11/06/2024 | Planejamento       | [Yasmim Rosa](https://github.com/yaskisoba) | [Renan Araújo](https://github.com/renantfm4)|
+| 1.1    | 11/06/2024 | verificação do artefato relato dos resultados da análise de tarefas       | [Yasmim Rosa](https://github.com/yaskisoba) | [Renan Araújo](https://github.com/renantfm4)|

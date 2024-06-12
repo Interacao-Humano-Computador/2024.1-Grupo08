@@ -213,13 +213,13 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
 </details>
 
 <details>
-    <summary> Arfetato: Relato dos resultados do Análise de Tarefas (Gustavo Alves) </summary>
+    <summary> Arfetato: Relato dos resultados da Análise de Tarefas (Gustavo Alves) </summary>
     As perguntas foram elaboradas seguindo as definições e passos sugeridos por Barbosa e Silva (2011) no capítulo 11 chamado de "Planejamento da Avaliação de IHC", em especial o tópico Consolidação e Relato dos Resultados.
 
   <h2> Checklist </h2>
   <p> Na tabela 5, está o checklist elaborado: </p>
 
-  <font size="2"><p style="text-align: center"> Tabela 5 - Checklist de Verificação do Relato dos resultados do Análise de Tarefas </font>
+  <font size="2"><p style="text-align: center"> Tabela 5 - Checklist de Verificação do Relato dos resultados da Análise de Tarefas </font>
 
 <table>
   <thead>
