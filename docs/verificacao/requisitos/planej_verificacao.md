@@ -4,7 +4,7 @@ De acordo com Reinehr (2020), a verificação é comumente definida como a anál
 ## Metodologia
 A verificação será realizada por meio do método de inspeção por meio de uma revisão formal com o uso de checklists.
 
-Cada membro da equipe ficou com em média 2 ou 3 artefatos para elaboração dos checklists, sendo quem elaborou o checklist impedido de o usar para verificar o artefato.
+Cada membro da equipe ficou com em média 2 artefatos para elaboração dos checklists, sendo quem elaborou o checklist impedido de o usar para verificar o artefato.
 
 ## Checklist para Verificação dos Artefatos
 
@@ -347,7 +347,21 @@ usuários? </td>
 
 
 ## Verificação dos Artefatos
-Os responsáveis pela verificação com o uso dos checklists elaborados estão na tabela 1:
+Os responsáveis pela verificação com o uso dos checklists elaborados estão na tabela 8:
+
+<font size="2"><p style="text-align: center"> Tabela 8 - Responsáveis pela Verificação dos Artefatos </font>
+
+| Responsável    | Artefato |
+|----------------|----------|
+| Gustavo Alves  | Perfil do Usuário|
+| Marco Tulio    | Personas |
+| Gustavo Alves  | Aspectos Éticos de Pesquisas com Pessoas |
+| Alana Gabriele, Gustavo Alves, Marco Tulio, Renan Araújo, Yasmim Rosa | Análise de Tarefas |
+| Pedro Henrique | Princípios Gerais de Projeto |
+| Renan Araújo   | Metas de Usabilidade |
+| Renan Araújo   | Guia de Estilo e características da plataforma para o projeto |
+
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa </a></p></font>
 
 
 
@@ -355,6 +369,10 @@ Cada membro responsável deve utilizar a checklist disponibilizada para o artefa
 
 ## Bibliografia
 > REINEHR, Sheila. Engenharia de requisitos. Grupo A, 2020. E-book. ISBN 9786556900674. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786556900674/. Acesso em: 11 jun. 2024.
+
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
+> Resolução nº 466, de 12 de dezembro de 2012. Brasília, DF: Diário Oficial da União, 2013. Disponível em: https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf. Acesso em: 11 de jun. de 2023.
 
 ## Histórico de Versões
 

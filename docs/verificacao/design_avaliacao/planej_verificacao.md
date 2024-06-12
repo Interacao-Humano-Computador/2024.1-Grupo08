@@ -4,7 +4,7 @@ De acordo com Reinehr (2020), a verificação é comumente definida como a anál
 ## Metodologia
 A verificação será realizada por meio do método de inspeção por meio de uma revisão formal com o uso de checklists.
 
-Cada membro da equipe ficou com em média 2 ou 3 artefatos para elaboração dos checklists, sendo quem elaborou o checklist impedido de o usar para verificar o artefato.
+Cada membro da equipe ficou com em média 1 ou 2 artefatos para elaboração dos checklists, sendo quem elaborou o checklist impedido de o usar para verificar o artefato.
 
 ## Checklist para Verificação dos Artefatos
 
@@ -412,7 +412,25 @@ tratados e como serão apresentados? </td>
 </details>
 
 ## Verificação dos Artefatos
-Os responsáveis pela verificação com o uso dos checklists elaborados estão na tabela 1:
+Os responsáveis pela verificação com o uso dos checklists elaborados estão na tabela 9:
+
+<font size="2"><p style="text-align: center"> Tabela 9 - Responsáveis pela Verificação dos Artefatos </font>
+
+<center>
+
+| Responsável    | Artefato |
+|----------------|----------|
+| Pedro Henrique  | Planejamento da Avaliação da Análise de Tarefas |
+| Marco Tulio     | Planejamento da Avaliação do Storyboard |
+| Marco Tulio     | Planejamento do relato dos resultados da avaliação do Storyboard  |
+| Alana Gabriele  | Planejamento do relato dos resultados da avaliação da Análise de tarefas  |
+| Yasmim Rosa    | Relato dos resultados da Análise de tarefas |
+| Alana Gabriele  | Relato dos resultados do Storyboard |
+| Alana Gabriele   | Planejamento da Avaliação do Protótipo de Papel |
+| Renan Araújo   | Planejamento do relato dos resultados da avaliação do Protótipo de Papel  |
+
+</center>
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa </a></p></font>
 
 
 
@@ -420,6 +438,8 @@ Cada membro responsável deve utilizar a checklist disponibilizada para o artefa
 
 ## Bibliografia
 > REINEHR, Sheila. Engenharia de requisitos. Grupo A, 2020. E-book. ISBN 9786556900674. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786556900674/. Acesso em: 11 jun. 2024.
+
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versões
 
