@@ -155,7 +155,7 @@ O responsável pela verificação deste artefato é o <b>Marco Tulio</b> o check
       <td></td>
     </tr>
     <tr>
-      <td>4. Os problemas e dificuldades encontrados durante o teste piloto foram documentados?
+      <td>4. Foi definido os feedbacks do usuário?
       </td>
       <td></td>
     </tr>
