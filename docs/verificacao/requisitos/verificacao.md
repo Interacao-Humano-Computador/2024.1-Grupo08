@@ -403,7 +403,7 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
 <h3> Sugestões de Melhoria </h3>
 <p>Poderia especificar um pouco mais em "Calcular pontos", por exemplo citar as formas possíveis de calcular e também quais critérios são utilizados.</p>
 
-<h2> Funcionalidade: Ranking de Contest - Colocar nome </h2>
+<h2> Funcionalidade: Criação de Problema - Colocar nome </h2>
 
 <h3> Checklist </h3>
     <p> Na tabela 8, está o checklist com suas devidas respostas: </p>
@@ -683,4 +683,4 @@ O responsável pela verificação deste artefato é o <b>Renan Araújo</b> o che
 
 | Versão | Data       | Descrição                     | Autor                 | Revisor |
 | ------ | ---------- | ----------------------------- | --------------------- | ------- |
-| 1.0    | 11/06/2024 | Planejamento       | [Yasmim Rosa Rosa](https://github.com/yaskisoba) | [Renan Araújo](https://github.com/renantfm4)|
+| 1.0    | 11/06/2024 | Planejamento       | [Yasmim Rosa](https://github.com/yaskisoba) | [Renan Araújo](https://github.com/renantfm4)|
