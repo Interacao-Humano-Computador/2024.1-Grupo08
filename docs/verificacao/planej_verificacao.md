@@ -8,7 +8,7 @@ Os artefatos do Grupo 1 foram separados entre duas grandes categorias "Análise 
 
 
 ## Artefatos
-Ao todo são 14 artefatos produzidos distruibuídos em uma média de 2 ou 3 artefatos para cada membro, sendo o membro responsável pela elaboração do checklist impedido de a usar para avaliar o artefato, com excessão de artefatos maiores onde pode ser dividido para todos os membros. 
+Ao todo são 15 artefatos produzidos distruibuídos em uma média de 2 ou 3 artefatos para cada membro, sendo o membro responsável pela elaboração do checklist impedido de a usar para avaliar o artefato, com excessão de artefatos maiores onde pode ser dividido para todos os membros. 
 
 ### Elaboração
 Na tabela 1, estão os responsáveis pela elaboração do checklist de cada artefato.
@@ -19,20 +19,21 @@ Na tabela 1, estão os responsáveis pela elaboração do checklist de cada arte
 
 | Artefato                                                          | Responsável |
 |-----------------------------------------------------------------|-------------|
-| Perfil do usuário                                               | Renan       |
-| Aspectos Éticos de Pesquisas com Pessoas                        | Renan       |
-| Análise de tarefas                                              | Yasmim      |
-| Princípios Gerais de Projeto                                    | Yasmim      |
-| Planejamento da Avaliação da Análise de tarefas                 | Marco       |
-| Metas de usabilidade                                            | Marco       |
-| Guia de Estilo e características da plataforma para o projeto   | Alana       |
-| Planejamento da Avaliação do Storyboard                         | Alana       |
-| Planejamento do relato dos resultados da avaliação do Storyboard| Pedro       |
-| Planejamento do relato dos resultados da avaliação da Análise de tarefas | Pedro       |
-| Relato dos resultados do Storyboard                             | Gustavo     |
-| Relato dos resultados da Análise de tarefas                     | Gustavo     |
-| Planejamento da Avaliação do Protótipo de Papel                 | Yasmim      |
-| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Marco       |
+| Perfil do usuário                                               | Renan Araújo       |
+| Aspectos Éticos de Pesquisas com Pessoas                        | Renan Araújo       |
+| Personas                        | Yasmim Rosa       |
+| Análise de tarefas                                              | Yasmim Rosa      |
+| Princípios Gerais de Projeto                                    | Yasmim Rosa      |
+| Planejamento da Avaliação da Análise de tarefas                 | Marco Tulio       |
+| Metas de usabilidade                                            | Marco Tulio       |
+| Guia de Estilo e características da plataforma para o projeto   | Alana Gabriele       |
+| Planejamento da Avaliação do Storyboard                         | Alana Gabriele       |
+| Planejamento do relato dos resultados da avaliação do Storyboard| Pedro Henrique       |
+| Planejamento do relato dos resultados da avaliação da Análise de tarefas | Pedro Henrique       |
+| Relato dos resultados do Storyboard                             | Gustavo Alves     |
+| Relato dos resultados da Análise de tarefas                     | Gustavo Alves     |
+| Planejamento da Avaliação do Protótipo de Papel                 | Yasmim Rosa      |
+| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Marco Tulio       |
 
 </center>
 
@@ -47,20 +48,20 @@ Na tabela 2, estão os responsáveis pela verificação de cada artefato.
 
 | Artefato                                                          | Responsável |
 |-----------------------------------------------------------------|-------------|
-| Perfil do usuário                                               | Gustavo     |
-| Aspectos Éticos de Pesquisas com Pessoas                        | Gustavo     |
-| Análise de tarefas                                              | Alana, Gustavo, Marco, Pedro, Renan, Yasmim       |
-| Princípios Gerais de Projeto                                    | Pedro       |
-| Planejamento da Avaliação da Análise de tarefas                 | Pedro       |
-| Metas de usabilidade                                            | Renan       |
-| Guia de Estilo e características da plataforma para o projeto   | Renan       |
-| Planejamento da Avaliação do Storyboard                         | Marco       |
-| Planejamento do relato dos resultados da avaliação do Storyboard| Marco       |
-| Planejamento do relato dos resultados da avaliação da Análise de tarefas | Alana       |
-| Relato dos resultados do Storyboard                             | Alana       |
-| Relato dos resultados da Análise de tarefas                     | Yasmim      |
-| Planejamento da Avaliação do Protótipo de Papel                 | Alana       |
-| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Renan       |
+| Perfil do usuário                                               | Gustavo Alves     |
+| Aspectos Éticos de Pesquisas com Pessoas                        | Gustavo Alves     |
+| Análise de tarefas                                              | Alana Gabriele, Gustavo Alves, Marco Tulio, Pedro Henrique, Renan Araújo, Yasmim Rosa       |
+| Princípios Gerais de Projeto                                    | Pedro Henrique       |
+| Planejamento da Avaliação da Análise de tarefas                 | Pedro Henrique       |
+| Metas de usabilidade                                            | Renan Araújo       |
+| Guia de Estilo e características da plataforma para o projeto   | Renan Araújo       |
+| Planejamento da Avaliação do Storyboard                         | Marco Tulio       |
+| Planejamento do relato dos resultados da avaliação do Storyboard| Marco Tulio       |
+| Planejamento do relato dos resultados da avaliação da Análise de tarefas | Alana Gabriele       |
+| Relato dos resultados do Storyboard                             | Alana Gabriele       |
+| Relato dos resultados da Análise de tarefas                     | Yasmim Rosa      |
+| Planejamento da Avaliação do Protótipo de Papel                 | Alana Gabriele       |
+| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Renan Araújo       |
 
 </center>
 <font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba)</p></font>
@@ -72,4 +73,4 @@ Na tabela 2, estão os responsáveis pela verificação de cada artefato.
 
 | Versão | Data       | Descrição                     | Autor                 | Revisor |
 | ------ | ---------- | ----------------------------- | --------------------- | ------- |
-| 1.0    | 11/06/2024 | Planejamento       | [Yasmim Rosa](https://github.com/yaskisoba) | [Renan Araújo](https://github.com/renantfm4)|
+| 1.0    | 11/06/2024 | Planejamento       | [Yasmim Rosa](https://github.com/yaskisoba) | [Renan Araújo](https://github.com/Renan Araújotfm4)|

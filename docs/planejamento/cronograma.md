@@ -209,10 +209,25 @@ Na **tabela 11** está o cronograma executado.
 <font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba)</p></font>
 
 ## Etapa 6.1
-Na **tabela 12** está o cronograma planejado.
+Na **tabela 12** está o cronograma planejado e na **tabela 13** está o cronograma executado.
 ### Cronograma Planejado
 
 <font size="2"><p style="text-align: center">Tabela 12 - Cronograma planejado de atividades da etapa 6.1 </p></font>
+
+
+| Atividade                       | Período para o desenvolvimento da atividade | Responsáveis             | Período da revisão | Revisores |
+|--------------------------------- |--------------------------------------------|--------------------------|--------------------|-----------|
+| Verificação dos artefatos  2 e 3 | **Início**: 08/06 <br> **Fim**: 10/06  | Gustavo Alves e Marco Tulio     | **Início**: 11/06 <br> **Fim**: 11/06 | Yasmim Rosa     |
+| Verificação dos artefatos  4 e 5 | **Início**: 08/06 <br> **Fim**: 10/06 | Alana Gabriele e Pedro Henrique |**Início**: 11/06 <br> **Fim**: 11/06| Gustavo Alves     |
+| Inserção das atividades no Gitpages | **Início**: 08/06 <br> **Fim**: 10/06 | Renan Araújo e Marco Tulio |**Início**: 11/06 <br> **Fim**: 11/06| Alana Gabriele   |
+| Gravar vídeo de apresentação     | **Início**: 12/06 <br> **Fim**: 12/06 | Yasmim Rosa e Gustavo Alves |**Início**: 12/06 <br> **Fim**: 12/06| Renan Araújo     |
+| Correções pós-apresentação       | **Início**: 14/06 <br> **Fim**: 15/06 | Pedro Henrique e Alana Gabriele  |**Início**: 16/06 <br> **Fim**: 16/06 |  Marco Tulio        |
+
+<font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba)</p></font>
+
+### Cronograma Executado
+
+<font size="2"><p style="text-align: center">Tabela 13 - Cronograma executado de atividades da etapa 6.1 </p></font>
 
 
 | Atividade                       | Período para o desenvolvimento da atividade | Responsáveis             | Período da revisão | Revisores |
@@ -226,13 +241,11 @@ Na **tabela 12** está o cronograma planejado.
 
 <font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba)</p></font>
 
-
-
 ## Etapa 6.2
-Na **tabela 13** está o cronograma planejado.
+Na **tabela 14** está o cronograma planejado.
 ### Cronograma Planejado
 
-<font size="2"><p style="text-align: center">Tabela 13 - Cronograma planejado de atividades da etapa 6.2 </p></font>
+<font size="2"><p style="text-align: center">Tabela 14 - Cronograma planejado de atividades da etapa 6.2 </p></font>
 
 | Atividade                       | Período para o desenvolvimento da atividade | Responsáveis             | Período da revisão | Revisores |
 |--------------------------------- |--------------------------------------------|--------------------------|--------------------|-----------|
@@ -247,10 +260,10 @@ Na **tabela 13** está o cronograma planejado.
 
 
 ## Etapa 7
-Na **tabela 14** está o cronograma planejado.
+Na **tabela 15** está o cronograma planejado.
 ### Cronograma Planejado
 
-<font size="2"><p style="text-align: center">Tabela 14 - Cronograma planejado de atividades da etapa 7 </p></font>
+<font size="2"><p style="text-align: center">Tabela 15 - Cronograma planejado de atividades da etapa 7 </p></font>
 
 
 | Atividade                       | Período para o desenvolvimento da atividade | Responsáveis             | Período da revisão | Revisores |
@@ -266,10 +279,10 @@ Na **tabela 14** está o cronograma planejado.
 
 
 ## Etapa 8
-Na **tabela 15** está o cronograma planejado.
+Na **tabela 16** está o cronograma planejado.
 ### Cronograma Planejado
 
-<font size="2"><p style="text-align: center">Tabela 15 - Cronograma planejado de atividades da etapa 8 </font>
+<font size="2"><p style="text-align: center">Tabela 16 - Cronograma planejado de atividades da etapa 8 </font>
 
 
 | Atividade                       | Período para o desenvolvimento da atividade | Responsáveis             | Período da revisão | Revisores |
