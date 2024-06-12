@@ -605,7 +605,7 @@ usuários? </td>
     </tr>
     <tr>
       <td>5.Facilita a realização rápida das tarefas? </td>
-      <tdSim></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6.A construção do artefato inclui introdução, bibliografia e histório de versões? </td>
@@ -618,7 +618,7 @@ usuários? </td>
 
 <h2>Sugestões de Melhoria</h2>
 
-<p> IncluIR exemplos práticos mais detalhados que ilustrem como cada meta de usabilidade pode ser aplicada na plataforma. </p>
+<p> Incluir exemplos práticos mais detalhados que ilustrem como cada meta de usabilidade pode ser aplicada na plataforma. </p>
 
 </details>
 
