@@ -369,12 +369,12 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
     <tr>
       <td>2. As tarefas realizadas são justificáveis? (Possuem porquês e consequências relacionadas)
       </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3. O plano, conjunto de subobjetivos do HTA, são elaborados de forma que sua necessidade é clara para alcançar o objetivo final?
       </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4. O plano (HTA) possui relações que suportam o objetivo final e é finalizado com uma operação?</td>
@@ -383,16 +383,16 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
     <tr>
       <td>5. No método GOMS, possui os elementos característicos? Objetivos, operadores, métodos e regras de seleção.
       </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6. O GOMS contém uma descrição detalhada do conhecimento necessário para realizar a tarefa?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>7. É possível, por meio do GOMS, visualizar os procedimentos necessários para realizar a tarefa em um computador?
 </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </tbody>
 </table>
@@ -401,7 +401,7 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
 
 
 <h3> Sugestões de Melhoria </h3>
-<p>colocar sugestões</p>
+<p>Poderia especificar um pouco mais em "Calcular pontos", por exemplo citar as formas possíveis de calcular e também quais critérios são utilizados.</p>
 
 <h2> Funcionalidade: Ranking de Contest - Colocar nome </h2>
 
