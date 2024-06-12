@@ -11,6 +11,7 @@ Cada membro da equipe ficou com em média 1 ou 2 artefatos para elaboração dos
 <details>
 <summary>Artefato: Planejamento da Avaliação da Análise de tarefas (Marco Tulio)</summary>
 
+As perguntas foram elaboradas seguindo as definições e passos sugeridos por Barbosa e Silva (2011) no capítulo 11 chamado de "Planejamento da Avaliação de IHC".
 
 <h2> Checklist </h2>
 <p> Na tabela 1, está o checklist elaborado: </p>
@@ -63,6 +64,8 @@ tratados e como serão apresentados? </td>
 <details>
     <summary>Artefato: Planejamento da Avaliação do Storyboard  (Alana Gabriele) </summary>
     
+As perguntas foram elaboradas seguindo as definições e passos sugeridos por Barbosa e Silva (2011) no capítulo 11 chamado de "Planejamento da Avaliação de IHC".
+
 <h2> Checklist </h2>
 <p> Na tabela 2, está o checklist elaborado: </p>
 
@@ -113,6 +116,9 @@ tratados e como serão apresentados? </td>
 
 <details>
     <summary> Artefato: Planejamento do relato dos resultados da avaliação da Análise de tarefas (Pedro Henrique) </summary>
+
+As perguntas foram elaboradas seguindo as definições e passos sugeridos por Barbosa e Silva (2011) no capítulo 11 chamado de "Planejamento da Avaliação de IHC", em especial o tópico Consolidação e Relato dos Resultados.
+
     <h2> Checklist </h2>
   <p> Na tabela 3, está o checklist elaborado: </p>
 
@@ -161,6 +167,9 @@ tratados e como serão apresentados? </td>
 <details>
     <summary>Artefato: Planejamento do relato dos resultados da avaliação do Storyboard (Pedro Henrique)
 </summary>
+
+As perguntas foram elaboradas seguindo as definições e passos sugeridos por Barbosa e Silva (2011) no capítulo 11 chamado de "Planejamento da Avaliação de IHC", em especial o tópico Consolidação e Relato dos Resultados.
+
   <h2> Checklist </h2>
   <p> Na tabela 4, está o checklist elaborado: </p>
 
@@ -205,6 +214,8 @@ tratados e como serão apresentados? </td>
 
 <details>
     <summary> Arfetato: Relato dos resultados do Análise de Tarefas (Gustavo Alves) </summary>
+    As perguntas foram elaboradas seguindo as definições e passos sugeridos por Barbosa e Silva (2011) no capítulo 11 chamado de "Planejamento da Avaliação de IHC", em especial o tópico Consolidação e Relato dos Resultados.
+
   <h2> Checklist </h2>
   <p> Na tabela 5, está o checklist elaborado: </p>
 
@@ -253,6 +264,8 @@ tratados e como serão apresentados? </td>
 
 <details>
     <summary> Artefato: Relato dos resultados do Storyboard (Gustavo Alves) </summary>
+
+As perguntas foram elaboradas seguindo as definições e passos sugeridos por Barbosa e Silva (2011) no capítulo 11 chamado de "Planejamento da Avaliação de IHC", em especial o tópico Consolidação e Relato dos Resultados.
     <h2> Checklist </h2>
   <p> Na tabela 6, está o checklist elaborado: </p>
 
@@ -310,6 +323,8 @@ tratados e como serão apresentados? </td>
 <details>
     <summary> Artefato: Planejamento da Avaliação do Protótipo de Papel (Yasmim Rosa)
  </summary>
+ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Barbosa e Silva (2011) no capítulo 11 chamado de "Planejamento da Avaliação de IHC".
+
     <h2> Checklist </h2>
   <p> Na tabela 7, está o checklist elaborado: </p>
 
@@ -367,6 +382,8 @@ tratados e como serão apresentados? </td>
 <details>
     <summary> Artefato: Planejamento do relato dos resultados da avaliação do Protótipo de Papel (Marco Tulio)
  </summary>
+  As perguntas foram elaboradas seguindo as definições e passos sugeridos por Barbosa e Silva (2011) no capítulo 11 chamado de "Planejamento da Avaliação de IHC", em especial o tópico Consolidação e Relato dos Resultados.
+
     <h2> Checklist </h2>
   <p> Na tabela 8, está o checklist elaborado: </p>
 
@@ -445,4 +462,9 @@ Cada membro responsável deve utilizar a checklist disponibilizada para o artefa
 
 | Versão | Data       | Descrição                     | Autor                 | Revisor |
 | ------ | ---------- | ----------------------------- | --------------------- | ------- |
-| 1.0    | 11/06/2024 | Planejamento       | [Yasmim Rosa Rosa](https://github.com/yaskisoba) | [Renan Araújo](https://github.com/renantfm4)|
+| 1.0    | 11/06/2024 | Planejamento       | [Yasmim Rosa](https://github.com/yaskisoba) | [Renan Araújo](https://github.com/renantfm4)|
+| 1.1    | 11/06/2024 | Artefato Planejamento da Análise de Tarefas e relato do protótipo de papel     | [Marco Tulio](https://github.com/) | [Gustavo Alves](https://github.com/)|
+| 1.2    | 11/06/2024 | Artefato Planejamento do Storyboard | [Alana Gabriele](https://github.com/) | [Renan Araújo](https://github.com/)|
+| 1.3    | 11/06/2024 | Artefato Planejamento do Relato - Análise de Tarefas e Storyboard | [Pedro Henrique](https://github.com/) | [Yasmim Rosa](https://github.com/)|
+| 1.4    | 11/06/2024 | Artefato Relato - Análise de Tarefas e Storyboard | [Gustavo Alves](https://github.com/) | [Yasmim Rosa](https://github.com/)|
+| 1.5    | 11/06/2024 | Ajustes e artefato planejamento da avaliação do protótipo de papel| [Yasmim Rosa](https://github.com/) | [Gustavo Alves](https://github.com/)|
