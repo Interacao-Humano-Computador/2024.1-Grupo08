@@ -61,7 +61,7 @@ Cada membro da equipe ficou com em média 2 ou 3 artefatos para elaboração dos
 
 
 <details>
-    <summary> Aspectos Éticos de Pesquisas com Pessoas (Renan Araújo) </summary>
+    <summary>Artefato: Aspectos Éticos de Pesquisas com Pessoas (Renan Araújo) </summary>
     <p> Para a realização de pesquisa com pessoas é necessário garantir seu bem-estar físico e psíquico antes, durante e após a pesquisa. </p>
     <h2> Checklist </h2>
 <p> Na tabela 2, está o checklist elaborado: </p>
@@ -109,7 +109,7 @@ Cada membro da equipe ficou com em média 2 ou 3 artefatos para elaboração dos
 </details>
 
 <details>
-    <summary> Análise de tarefas (Yasmim Rosa) </summary>
+    <summary> Artefato: Análise de tarefas (Yasmim Rosa) </summary>
     <h2> Checklist </h2>
   <p> Na tabela 3, está o checklist elaborado: </p>
 
@@ -164,7 +164,7 @@ Cada membro da equipe ficou com em média 2 ou 3 artefatos para elaboração dos
 
 
 <details>
-    <summary> Princípios Gerais de Projeto (Yasmim Rosa) </summary>
+    <summary>Artefato: Princípios Gerais de Projeto (Yasmim Rosa) </summary>
   <h2> Checklist </h2>
   <p> Na tabela 4, está o checklist elaborado: </p>
 
@@ -202,7 +202,7 @@ Cada membro da equipe ficou com em média 2 ou 3 artefatos para elaboração dos
 </details>
 
 <details>
-    <summary> Metas de usabilidade (Marco Tulio) </summary>
+    <summary> Arfetato: Metas de usabilidade (Marco Tulio) </summary>
   <h2> Checklist </h2>
   <p> Na tabela 5, está o checklist elaborado: </p>
 
@@ -248,7 +248,7 @@ usuários? </td>
 </details>
 
 <details>
-    <summary> Guia de Estilo e características da plataforma para o projeto (Alana Gabriele) </summary>
+    <summary> Artefato: Guia de Estilo e características da plataforma para o projeto (Alana Gabriele) </summary>
     <h2> Checklist </h2>
   <p> Na tabela 6, está o checklist elaborado: </p>
 
