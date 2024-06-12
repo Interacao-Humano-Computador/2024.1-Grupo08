@@ -587,29 +587,29 @@ O responsável pela verificação deste artefato é o <b>Renan Araújo</b> o che
   <tbody>
     <tr>
       <td>1. Metas de usabilidade são coerente com o perfil do usuário?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2. Verifica se a interface atinge as expectivas dos usuários?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3. Tem a verificação se as metas de
 usabilidade foram atingidas? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4.Fala sobre proteção dos dados dos
 usuários? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5.Facilita a realização rápida das tarefas? </td>
-      <td></td>
+      <tdSim></td>
     </tr>
     <tr>
       <td>6.A construção do artefato inclui introdução, bibliografia e histório de versões? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </tbody>
 </table>
@@ -618,7 +618,7 @@ usuários? </td>
 
 <h2>Sugestões de Melhoria</h2>
 
-<p> responder o que pode melhorar com base na verificação. </p>
+<p> IncluIR exemplos práticos mais detalhados que ilustrem como cada meta de usabilidade pode ser aplicada na plataforma. </p>
 
 </details>
 
