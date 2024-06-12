@@ -214,6 +214,20 @@ Na **tabela 12** está o cronograma planejado e na **tabela 13** está o cronogr
 
 <font size="2"><p style="text-align: center">Tabela 12 - Cronograma planejado de atividades da etapa 6.1 </p></font>
 
+| Atividade                       | Período para o desenvolvimento da atividade | Responsáveis             | Período da revisão | Revisores |
+|--------------------------------- |--------------------------------------------|--------------------------|--------------------|-----------|
+| Verificação do artefato  1       | **Início**: 04/06 <br> **Fim**: 06/06  | Renan Araújo e Yasmim Rosa  | **Início**: 07/06 <br> **Fim**: 07/06 | Marco Tulio     |
+| Verificação dos artefatos  2 e 3 | **Início**: 04/06 <br> **Fim**: 06/06  | Gustavo Alves e Marco Tulio     | **Início**: 07/06 <br> **Fim**: 07/06 | Yasmim Rosa     |
+| Verificação dos artefatos  4 e 5 | **Início**: 04/06 <br> **Fim**: 06/06 | Alana Gabriele e Pedro Henrique |**Início**: 07/06 <br> **Fim**: 07/06| Gustavo Alves     |
+| Inserção das atividades no Gitpages | **Início**: 06/06 <br> **Fim**: 06/06 | Renan Araújo e Marco Tulio |**Início**: 07/06 <br> **Fim**: 07/06| Alana Gabriele   |
+| Gravar vídeo de apresentação     | **Início**: 08/06 <br> **Fim**: 10/06 | Yasmim Rosa e Gustavo Alves |**Início**: 11/06 <br> **Fim**: 11/06| Renan Araújo     |
+| Correções pós-apresentação       | **Início**: 14/06 <br> **Fim**: 15/06 | Pedro Henrique e Alana Gabriele  |**Início**: 16/06 <br> **Fim**: 16/06 |  Marco Tulio        |
+
+<font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba)</p></font>
+
+### Cronograma Executado
+
+<font size="2"><p style="text-align: center">Tabela 13 - Cronograma executado de atividades da etapa 6.1 </p></font>
 
 | Atividade                       | Período para o desenvolvimento da atividade | Responsáveis             | Período da revisão | Revisores |
 |--------------------------------- |--------------------------------------------|--------------------------|--------------------|-----------|
@@ -223,21 +237,6 @@ Na **tabela 12** está o cronograma planejado e na **tabela 13** está o cronogr
 | Gravar vídeo de apresentação     | **Início**: 12/06 <br> **Fim**: 12/06 | Yasmim Rosa e Gustavo Alves |**Início**: 12/06 <br> **Fim**: 12/06| Renan Araújo     |
 | Correções pós-apresentação       | **Início**: 14/06 <br> **Fim**: 15/06 | Pedro Henrique e Alana Gabriele  |**Início**: 16/06 <br> **Fim**: 16/06 |  Marco Tulio        |
 
-<font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba)</p></font>
-
-### Cronograma Executado
-
-<font size="2"><p style="text-align: center">Tabela 13 - Cronograma executado de atividades da etapa 6.1 </p></font>
-
-
-| Atividade                       | Período para o desenvolvimento da atividade | Responsáveis             | Período da revisão | Revisores |
-|--------------------------------- |--------------------------------------------|--------------------------|--------------------|-----------|
-| Verificação do artefato  1       | **Início**: 04/06 <br> **Fim**: 06/06  | Renan Araújo e Yasmim Rosa  | **Início**: 07/06 <br> **Fim**: 07/06 | Marco Tulio     |
-| Verificação dos artefatos  2 e 3 | **Início**: 04/06 <br> **Fim**: 06/06  | Gustavo Alves e Marco Tulio     | **Início**: 07/06 <br> **Fim**: 07/06 | Yasmim Rosa     |
-| Verificação dos artefatos  4 e 5 | **Início**: 04/06 <br> **Fim**: 06/06 | Alana Gabriele e Pedro Henrique |**Início**: 07/06 <br> **Fim**: 07/06| Gustavo Alves     |
-| Inserção das atividades no Gitpages | **Início**: 06/06 <br> **Fim**: 06/06 | Renan Araújo e Marco Tulio |**Início**: 07/06 <br> **Fim**: 07/06| Alana Gabriele   |
-| Gravar vídeo de apresentação     | **Início**: 08/06 <br> **Fim**: 10/06 | Yasmim Rosa e Gustavo Alves |**Início**: 11/06 <br> **Fim**: 11/06| Renan Araújo     |
-| Correções pós-apresentação       | **Início**: 14/06 <br> **Fim**: 15/06 | Pedro Henrique e Alana Gabriele  |**Início**: 16/06 <br> **Fim**: 16/06 |  Marco Tulio        |
 
 <font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba)</p></font>
 
