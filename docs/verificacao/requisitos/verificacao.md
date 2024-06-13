@@ -349,7 +349,7 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
 <font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa </a></p></font>
 
 <h3> Sugestões de Melhoria </h3>
-<p>colocar sugestões</p>
+<p> O artefato foi bem desenvolvido, portanto não há sugestões de melhoria </p>
 
 <h2> Funcionalidade: Ranking de Contest - Pedro Henrique </h2>
 

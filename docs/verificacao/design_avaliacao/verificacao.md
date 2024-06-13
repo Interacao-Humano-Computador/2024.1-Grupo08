@@ -117,6 +117,7 @@ O responsável pela verificação deste artefato é o <b>Marco Tulio</b> o check
 <font size="2"><p style="text-align: center">Fonte: <a href=""> Alana Gabriele </a></p></font>
 
 <h2>Sugestões de Melhoria</h2>
+<p> Informar explicitamente a quantidade de pessoas que participaram das entrevistas. </p>
 
 <h3> Vídeo da Verificação </h3>
 
@@ -221,7 +222,7 @@ O responsável pela verificação deste artefato é o <b>Marco Tulio</b> o check
 
   <h2>Sugestões de Melhoria</h2>
 
-<p> responder o que pode melhorar com base na verificação. </p>
+<p> O artefato foi bem desenvolvido, portanto não há sugestões de melhoria </p>
 
 </details>
 
