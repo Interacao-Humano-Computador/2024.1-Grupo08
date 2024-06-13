@@ -194,25 +194,25 @@ O responsável pela verificação deste artefato é o <b>Marco Tulio</b> o check
   <tbody>
     <tr>
       <td>1. A estrutura geral do relato é a mesma definida no planejamento mas de maneira detalhada com instruções?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2. A metodologia da avaliação foi definida?
       </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3. O processo de avaliação foi revisado para identificar eficiência?
       </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4. Os métodos de análise dos dados coletados foram definidos?  </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5. Os próximos passos após a apresentação dos resultados foram planejados?  </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </tbody>
 </table>
