@@ -28,32 +28,32 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
   </thead>
   <tbody>
     <tr>
-      <td>1. É citado sobre quais foram os instrumentos utilizados para a avaliação? (questionários, roteiros de entrevista, etc.)</td>
-      <td></td>
+      <td>1. É citado sobre quais foram os instrumentos utilizados para a avaliação? (questionários, roteiros de entrevista, etc.)</d>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2. As informações a serem descobertas sobre o usuário incluem: quem são? seus objetivos? características de interesse como nível de instrução, atividades principais, faixa étaria, entre outros? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3. As respostas dos usuários foram analisadas para identificar padrões e tendências comuns?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4. O perfil dos participantes elaborado é coerente as informações obtidas? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5. As questões éticas relacionadas aos participantes foram abordadas?</td>
-      <td></td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>6. O propósito e uso posterior do perfil do usuário são definidos? </td>
-      <td></td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>7. A construção do artefato inclui introdução, bibliografia e histório de versões?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </tbody>
 </table>
@@ -62,7 +62,7 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
 
 <h2>Sugestões de Melhoria</h2>
 
-<p> responder o que pode melhorar com base na verificação. </p>
+<p> É importante ressaltar se as questões éticas foram abordadas, propor sobre como esses dados serão usados posteriormente, ao citar os resultados, reformular as perguntas para fazer afirmações sobre o questionário feito aos usuários.</p>
 
 </details>
 
@@ -139,27 +139,27 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
   <tbody>
     <tr>
       <td>1. Os aspectos éticos são apresentados levando em consideração os 4 princípios da Resolução No 466/2012 do Conselho Nacional de Saúde?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2. É explicado a aplicabilidade dos aspectos éticos no projeto?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3. O Termo de Consentimento Livre e Esclarecido (TCLE) é apresentado?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4. O TCLE apresentado informa ao participante seus direitos, a motivação da pesquisa e a finalidade da coleta de dados? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5. É informado em quais etapas ou atividades o TCLE será introduzido ao participante? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6. A construção do artefato inclui introdução, bibliografia e histório de versões?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </tbody>
 </table>
@@ -168,7 +168,7 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
 
 <h2>Sugestões de Melhoria</h2>
 
-<p> responder o que pode melhorar com base na verificação. </p>
+<p> Citar sobre quais são as diretrizes para o termo de consentimento.</p>
 
 </details>
 
@@ -406,7 +406,7 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
 <h3> Vídeo da Verificação </h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-I6vyUNglG8?si=1I81U1So4LvcXMC1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<h2> Funcionalidade: Criação de Problema - Colocar nome </h2>
+<h2> Funcionalidade: Criação de Problema - Gustavo Alves</h2>
 
 <h3> Checklist </h3>
     <p> Na tabela 8, está o checklist com suas devidas respostas: </p>
@@ -423,35 +423,35 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
   <tbody>
     <tr>
       <td>1. O objetivo do usuário é bem definido e alcançado ao fim da tarefa?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2. As tarefas realizadas são justificáveis? (Possuem porquês e consequências relacionadas)
       </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3. O plano, conjunto de subobjetivos do HTA, são elaborados de forma que sua necessidade é clara para alcançar o objetivo final?
       </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4. O plano (HTA) possui relações que suportam o objetivo final e é finalizado com uma operação?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5. No método GOMS, possui os elementos característicos? Objetivos, operadores, métodos e regras de seleção.
       </td>
-      <td></td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>6. O GOMS contém uma descrição detalhada do conhecimento necessário para realizar a tarefa?</td>
-      <td></td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>7. É possível, por meio do GOMS, visualizar os procedimentos necessários para realizar a tarefa em um computador?
 </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </tbody>
 </table>
@@ -459,7 +459,10 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
 <font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa </a></p></font>
 
 <h3> Sugestões de Melhoria </h3>
-<p>colocar sugestões</p>
+<p></p>
+
+<h3> Vídeo da Verificação </h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zW_6Cy2yBqs?si=p3wqTZUuMfVCUaI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h2> Funcionalidade: Criação de Contest - Colocar nome </h2>
 
