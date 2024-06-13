@@ -620,6 +620,11 @@ usuários? </td>
 
 <p> Incluir exemplos práticos mais detalhados que ilustrem como cada meta de usabilidade pode ser aplicada na plataforma. </p>
 
+<h3>Vídeo da Verificação</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=4D9M3RIuC6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 </details>
 
 <details>
