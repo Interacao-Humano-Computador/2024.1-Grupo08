@@ -196,35 +196,35 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
   <tbody>
     <tr>
       <td>1. O objetivo do usuário é bem definido e alcançado ao fim da tarefa?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2. As tarefas realizadas são justificáveis? (Possuem porquês e consequências relacionadas)
       </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3. O plano, conjunto de subobjetivos do HTA, são elaborados de forma que sua necessidade é clara para alcançar o objetivo final?
       </td>
-      <td></td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>4. O plano (HTA) possui relações que suportam o objetivo final e é finalizado com uma operação?</td>
-      <td></td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>5. No método GOMS, possui os elementos característicos? Objetivos, operadores, métodos e regras de seleção.
       </td>
-      <td></td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>6. O GOMS contém uma descrição detalhada do conhecimento necessário para realizar a tarefa?</td>
-      <td></td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>7. É possível, por meio do GOMS, visualizar os procedimentos necessários para realizar a tarefa em um computador?
 </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </tbody>
 </table>
@@ -233,7 +233,12 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
 
 
 <h3> Sugestões de Melhoria </h3>
-<p>colocar sugestões</p>
+<p>No HTA, as relações são incompatíveis com o declarado, por exemplo "Selecionar problema" é indicado como uma tarefa finalizada depois de duas sub-tarefas sequenciais contudo não há e isso se repete nas demais tarefas, então realizar esse ajuste é necessário para ficar mais coerente. A numeração também é incoerente ela deve ser relacionada a suas sub-tarefas.</p>
+<p>No GOMS, não foi definido qual variação foi utilizada, além disso não há métodos no GOMS da tarefa além de ser pouco detalhado.</p>
+
+<h3>Vídeo da Verificação</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R7Ry33nfm2A?si=c70hB9HftjimzTre" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h2> Funcionalidade: Tutorial de Resolução de Questões Pós-Contest - Colocar nome </h2>
 
