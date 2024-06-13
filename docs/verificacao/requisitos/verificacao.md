@@ -64,6 +64,9 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
 
 <p> É importante ressaltar se as questões éticas foram abordadas, propor sobre como esses dados serão usados posteriormente, ao citar os resultados, reformular as perguntas para fazer afirmações sobre o questionário feito aos usuários.</p>
 
+<h3> Vídeo da Verificação </h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zW_6Cy2yBqs?si=p3wqTZUuMfVCUaI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 </details>
 
 <details>
@@ -459,10 +462,9 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
 <font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa </a></p></font>
 
 <h3> Sugestões de Melhoria </h3>
-<p></p>
+<p>Poderia incluir uma aba de revisão das informações.</p>
 
-<h3> Vídeo da Verificação </h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zW_6Cy2yBqs?si=p3wqTZUuMfVCUaI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 <h2> Funcionalidade: Criação de Contest - Colocar nome </h2>
 
