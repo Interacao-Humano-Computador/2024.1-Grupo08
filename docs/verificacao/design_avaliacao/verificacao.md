@@ -76,7 +76,7 @@ O responsável pela verificação deste artefato é o <b>Marco Tulio</b> o check
 
 <font size="2"><p style="text-align: center"> Tabela 2 - Checklist de Verificação do Planejamento da Avaliação do Storyboard </font>
 
-  <table>
+<table>
   <thead>
     <tr>
       <th>Questão</th>
@@ -87,29 +87,29 @@ O responsável pela verificação deste artefato é o <b>Marco Tulio</b> o check
     <tr>
       <td>1. Está seguindo o framework DECIDE?
       </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2. Os objetivos da avaliação do storyboard foram claramente definidos?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3. O número dos participantes selecionados para a avaliação são suficientes para obter resultados representativos e confiáveis?</td>
-      <td></td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>4. As questões éticas foram abordadas, garantindo o consentimento informado dos participantes?
      </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5. As questões específicas que a avaliação pretender responder foram identificadas?
       </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6. Foi realizado o teste piloto para testar previamente o ambiente e os materiais? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </tbody>
 </table>
@@ -118,7 +118,7 @@ O responsável pela verificação deste artefato é o <b>Marco Tulio</b> o check
 
 <h2>Sugestões de Melhoria</h2>
 
-<p> responder o que pode melhorar com base na verificação. </p>
+<p> A quantidade de participantes . </p>
 
 </details>
 
@@ -437,26 +437,26 @@ O responsável pela verificação deste artefato é a <b>Alana Gabriele</b> o ch
     <tr>
       <td>1. Utiliza a estrutura definida no planejamento da avaliação?
       </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2. Dedida uma secção para análise de dados dos participantes bem como uma explicação de como deve ser realizado?
         </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3. Dedica uma secção para relato da interpretação e análise dos dados bem como uma explicação de como deve ser realizado?
     </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4. Introduz sobre a metodologia aplicada? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5. Possui uma secção dedicada a sugestões de correções?
      </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </tbody>
 </table>
@@ -464,8 +464,7 @@ O responsável pela verificação deste artefato é a <b>Alana Gabriele</b> o ch
 <font size="2"><p style="text-align: center">Fonte: <a href=""> Marco Tulio </a></p></font>
 
 <h2>Sugestões de Melhoria</h2>
-
-<p> responder o que pode melhorar com base na verificação. </p>
+<p> De maneira geral, o artefato foi bem elaborado então baseada nessa verificação não há ajustes a serem realizados. </p>
 
 </details>
 
@@ -481,4 +480,4 @@ O responsável pela verificação deste artefato é a <b>Alana Gabriele</b> o ch
 | ------ | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | -------------------------------------------- |
 | 1.0    | 11/06/2024 | Planejamento                                                                                                                                                                                                         | [Yasmim Rosa](https://github.com/yaskisoba)        | [Renan Araújo](https://github.com/renantfm4) |
 | 1.1    | 11/06/2024 | Verificação do artefato relato dos resultados da análise de tarefas                                                                                                                                                  | [Yasmim Rosa](https://github.com/yaskisoba)        | [Renan Araújo](https://github.com/renantfm4) |
-| 1.1    | 11/06/2024 | Verificação do artefato relato dos resultados do StoryBoard, Verificação do planejamento da avaliação do protótipo de papel, Verificação do planejamento do relato dos resultados da avaliação da Análise de tarefas | [Alana Gabriele](https://github.com/alanagabriele) | [Yasmim Rosa](https://github.com/yaskisoba)  |
+| 1.2    | 11/06/2024 | Verificação do artefato relato dos resultados do StoryBoard, Verificação do planejamento da avaliação do protótipo de papel, Verificação do planejamento do relato dos resultados da avaliação da Análise de tarefas | [Alana Gabriele](https://github.com/alanagabriele) | [Yasmim Rosa](https://github.com/yaskisoba)  |
