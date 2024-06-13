@@ -637,29 +637,29 @@ O responsável pela verificação deste artefato é o <b>Renan Araújo</b> o che
     <tr>
       <td>1. A introdução inclui orientações sobre como utilizar e manter o guia de estilo?
       </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2. O guia de estilo aborda de maneira detalhada a disposição espacial, janelas, tipografia símbolos não tipográficos, cores e animações?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3. O guia de estilo define um vocabulário e padrões claros, incluindo terminologia, tipos de telas para tarefas comuns e sequências de diálogos?
     </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4. O guia de estilo identifica claramente o público-alvo? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5. O guia de estilo inclui diretrizes sobre os estilos de interação, a seleção de estilos e o uso de aceleradores como teclas de atalho?
      </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6. A construção do artefato inclui introdução, bibliografia e histório de versões? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </tbody>
 </table>
@@ -667,8 +667,7 @@ O responsável pela verificação deste artefato é o <b>Renan Araújo</b> o che
 <font size="2"><p style="text-align: center">Fonte: <a href=""> Alana Gabriele </a></p></font>
 
 <h2>Sugestões de Melhoria</h2>
-
-<p> responder o que pode melhorar com base na verificação. </p>
+<p> De maneira geral, o artefato foi bem construído mas os elementos de interface poderiam terem tido mais destaque e com fotos epecíficas para cada um o que iria ajudar a ter uma visualização e entendimento melhores. </p>
 
 </details>
 
