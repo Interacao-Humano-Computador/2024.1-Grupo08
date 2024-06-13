@@ -131,9 +131,9 @@ O responsável pela verificação deste artefato é o <b>Marco Tulio</b> o check
 <h2> Checklist </h2>
   <p> Na tabela 3, está o checklist com suas devidas respostas: </p>
 
-<font size="2"><p style="text-align: center"> Tabela 3 - Checklist de Verificação do Planejamento do relato dos resultados da avaliação da Análise de tarefas </font>
+<font size="2"><p style="text-align: center"> Tabela 4 - Checklist de Verificação do Planejamento do relato dos resultados da avaliação do Storyboard </font>
 
-  <table>
+ <table>
   <thead>
     <tr>
       <th>Questão</th>
@@ -151,24 +151,22 @@ O responsável pela verificação deste artefato é o <b>Marco Tulio</b> o check
       <td>Sim</td>
     </tr>
     <tr>
-      <td>3. Os objetivos específicos da avaliação foram definidos?
+      <td>3. O processo de avaliação foi revisado para identificar eficiência?
       </td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>4. Foi definido os feedbacks do usuário?
-      </td>
+      <td>4. Os métodos de análise dos dados coletados foram definidos?  </td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>5. Os próximos passos após a apresentação dos resultados foram planejados?
-      </td>
+      <td>5. Os próximos passos após a apresentação dos resultados foram planejados?  </td>
       <td>Sim</td>
     </tr>
   </tbody>
 </table>
 
-<font size="2"><p style="text-align: center">Fonte: <a href=""> Pedro Henrique </a></p></font>
+  <font size="2"><p style="text-align: center">Fonte: <a href=""> Pedro Henrique </a></p></font>
 
 <h2>Sugestões de Melhoria</h2>
 

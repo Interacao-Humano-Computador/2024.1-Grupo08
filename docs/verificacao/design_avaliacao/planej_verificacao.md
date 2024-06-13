@@ -185,25 +185,25 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
   <tbody>
     <tr>
       <td>1. A estrutura geral do relato é a mesma definida no planejamento mas de maneira detalhada com instruções?</td>
-      <td>Sim</td>
+      <td></td>
     </tr>
     <tr>
       <td>2. A metodologia da avaliação foi definida?
       </td>
-      <td>Sim</td>
+      <td></td>
     </tr>
     <tr>
       <td>3. O processo de avaliação foi revisado para identificar eficiência?
       </td>
-      <td>Sim</td>
+      <td></td>
     </tr>
     <tr>
       <td>4. Os métodos de análise dos dados coletados foram definidos?  </td>
-      <td>Sim</td>
+      <td></td>
     </tr>
     <tr>
       <td>5. Os próximos passos após a apresentação dos resultados foram planejados?  </td>
-      <td>Sim</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
