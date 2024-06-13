@@ -431,26 +431,26 @@ O responsável pela verificação deste artefato é a <b>Yasmim Rosa</b> o check
     <tr>
       <td>1. Utiliza a estrutura definida no planejamento da avaliação?
       </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2. Dedida uma secção para análise de dados dos participantes bem como uma explicação de como deve ser realizado?
         </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3. Dedica uma secção para relato da interpretação e análise dos dados bem como uma explicação de como deve ser realizado?
     </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4. Introduz sobre a metodologia aplicada? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5. Possui uma secção dedicada a sugestões de correções?
      </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </tbody>
 </table>
@@ -458,8 +458,8 @@ O responsável pela verificação deste artefato é a <b>Yasmim Rosa</b> o check
 <font size="2"><p style="text-align: center">Fonte: <a href=""> Marco Tulio </a></p></font>
 
 <h2>Sugestões de Melhoria</h2>
+<p> De maneira geral, o artefato foi bem elaborado então baseada nessa verificação não há ajustes a serem realizados. </p>
 
-<p> responder o que pode melhorar com base na verificação. </p>
 
 </details>
 
