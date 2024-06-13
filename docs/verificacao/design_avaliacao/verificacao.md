@@ -1,11 +1,12 @@
 ## Introdução
+
 De acordo com Reinehr (2020), a verificação é comumente definida como a análise do produto para definir se ele foi construído de maneira correta. Levando em consideração essa definição, o planejamento dessa verificação terá enfoque em verificar a estrutura e a elaboração dos artefatos desenvolvidos pelo Grupo 1 responsável pelo projeto do site CD-MOJ.
 
 ## Metodologia
+
 A verificação será realizada por meio do método de inspeção por meio de uma revisão formal com o uso de checklists.
 
 Os checklists foram elaborados anteriormente e serão utilizadas por membros que não foram responsáveis por sua elaboração.
-
 
 ## Verificação dos Artefatos
 
@@ -65,7 +66,6 @@ tratados e como serão apresentados? </td>
 
 </details>
 
-
 <details>
     <summary>Artefato: Planejamento da Avaliação do Storyboard </summary>
 
@@ -75,7 +75,6 @@ O responsável pela verificação deste artefato é o <b>Marco Tulio</b> o check
 <p> Na tabela 2, está o checklist com suas devidas respostas: </p>
 
 <font size="2"><p style="text-align: center"> Tabela 2 - Checklist de Verificação do Planejamento da Avaliação do Storyboard </font>
-
 
   <table>
   <thead>
@@ -130,7 +129,7 @@ O responsável pela verificação deste artefato é o <b>Marco Tulio</b> o check
 <h2> Checklist </h2>
   <p> Na tabela 3, está o checklist com suas devidas respostas: </p>
 
-  <font size="2"><p style="text-align: center"> Tabela 3 - Checklist de Verificação do Planejamento do relato dos resultados da avaliação da Análise de tarefas </font>
+<font size="2"><p style="text-align: center"> Tabela 3 - Checklist de Verificação do Planejamento do relato dos resultados da avaliação da Análise de tarefas </font>
 
   <table>
   <thead>
@@ -142,39 +141,38 @@ O responsável pela verificação deste artefato é o <b>Marco Tulio</b> o check
   <tbody>
     <tr>
       <td>1. A estrutura geral do relato é a mesma definida no planejamento mas de maneira detalhada com instruções?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2. A metodologia da avaliação foi definida?
       </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3. Os objetivos específicos da avaliação foram definidos?
       </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4. Foi definido os feedbacks do usuário?
       </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5. Os próximos passos após a apresentação dos resultados foram planejados?
       </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </tbody>
 </table>
 
-  <font size="2"><p style="text-align: center">Fonte: <a href=""> Pedro Henrique </a></p></font>
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Pedro Henrique </a></p></font>
 
 <h2>Sugestões de Melhoria</h2>
 
-<p> responder o que pode melhorar com base na verificação. </p>
+<p> Nenhuma sugestão de melhoria necessária. </p>
 
 </details>
-
 
 <details>
     <summary>Artefato: Planejamento do relato dos resultados da avaliação do Storyboard 
@@ -184,7 +182,7 @@ O responsável pela verificação deste artefato é o <b>Marco Tulio</b> o check
   <h2> Checklist </h2>
   <p> Na tabela 4, está o checklist com suas devidas respostas: </p>
 
-  <font size="2"><p style="text-align: center"> Tabela 4 - Checklist de Verificação do Planejamento do relato dos resultados da avaliação do Storyboard </font>
+<font size="2"><p style="text-align: center"> Tabela 4 - Checklist de Verificação do Planejamento do relato dos resultados da avaliação do Storyboard </font>
 
  <table>
   <thead>
@@ -219,7 +217,7 @@ O responsável pela verificação deste artefato é o <b>Marco Tulio</b> o check
   </tbody>
 </table>
 
-  <font size="2"><p style="text-align: center">Fonte: <a href=""> Pedro Henrique </a></p></font>
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Pedro Henrique </a></p></font>
 
   <h2>Sugestões de Melhoria</h2>
 
@@ -235,7 +233,7 @@ O responsável pela verificação deste artefato é a <b>Yasmim Rosa</b> o check
   <h2> Checklist </h2>
   <p> Na tabela 5, está o checklist com suas devidas respostas: </p>
 
-  <font size="2"><p style="text-align: center"> Tabela 5 - Checklist de Verificação do Relato dos resultados da Análise de Tarefas </font>
+<font size="2"><p style="text-align: center"> Tabela 5 - Checklist de Verificação do Relato dos resultados da Análise de Tarefas </font>
 
 <table>
   <thead>
@@ -289,9 +287,10 @@ O responsável pela verificação deste artefato é a <b>Yasmim Rosa</b> o check
     O responsável pela verificação deste artefato é a <b>Alana Gabriele</b> o checklist foi elaborado pelo <b>Gustavo Alves</b>
 
     <h2> Checklist </h2>
+
   <p> Na tabela 6, está o checklist com suas devidas respostas: </p>
 
-  <font size="2"><p style="text-align: center"> Tabela 6 - Checklist de Verificação do Relato dos resultados do Storyboard </font>
+<font size="2"><p style="text-align: center"> Tabela 6 - Checklist de Verificação do Relato dos resultados do Storyboard </font>
 
   <table>
   <thead>
@@ -304,36 +303,36 @@ O responsável pela verificação deste artefato é a <b>Yasmim Rosa</b> o check
     <tr>
       <td>1. Há uma explicação de como os resultados serão utilizados?
       </td>
-      <td></td>
+      <td>Incompleto</td>
     </tr>
     <tr>
       <td>2. É citado sobre quais foram os instrumentos utilizados para a avaliação? (questionários, roteiros de entrevista, etc.)</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3. O perfil dos participantes é representativo do público-alvo?
     </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4. As respostas dos usuários foram analisadas para identificar padrões e tendências comuns?
  </td>
-      <td></td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>5. As questões éticas relacionadas aos participantes foram abordadas?
      </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6. Os recursos necessários (tempo, orçamento, avaliador) para implementar as melhorias estão identificados?
    </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>7. Foram implementadas alterações ou ajustes no storyboard em função de insights obtidos ou desafios encontrados durante a avaliação?
    </td>
-      <td></td>
+      <td>Não</td>
     </tr>
   </tbody>
 </table>
@@ -342,7 +341,13 @@ O responsável pela verificação deste artefato é a <b>Yasmim Rosa</b> o check
 
 <h2>Sugestões de Melhoria</h2>
 
-<p> responder o que pode melhorar com base na verificação. </p>
+<p> - Deixar explicito como os resultados serão utilizados; </p>
+<p> - Adicionar a tabela com as perguntas e respostas em todas as avaliações;</p>
+<p> - Juntar o resultado de cada avaliação para analisar e identificar padrões e tendências comuns.</p>
+
+<h2>Gravação</h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wrDEl0H0LgA?si=T4IF6xpbPFcnUzSG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </details>
 
@@ -350,12 +355,13 @@ O responsável pela verificação deste artefato é a <b>Yasmim Rosa</b> o check
     <summary> Artefato: Planejamento da Avaliação do Protótipo de Papel 
  </summary>
 
- O responsável pela verificação deste artefato é a <b>Alana Gabriele</b> o checklist foi elaborado pela <b>Yasmim Rosa</b>
+O responsável pela verificação deste artefato é a <b>Alana Gabriele</b> o checklist foi elaborado pela <b>Yasmim Rosa</b>
 
     <h2> Checklist </h2>
+
   <p> Na tabela 7, está o checklist com suas devidas respostas: </p>
 
-  <font size="2"><p style="text-align: center"> Tabela 7 - Checklist de Verificação do Planejamento da Avaliação do Protótipo de Papel </font>
+<font size="2"><p style="text-align: center"> Tabela 7 - Checklist de Verificação do Planejamento da Avaliação do Protótipo de Papel </font>
 
   <table>
   <thead>
@@ -368,36 +374,36 @@ O responsável pela verificação deste artefato é a <b>Yasmim Rosa</b> o check
     <tr>
       <td>1. Utiliza o framework DECIDE?
       </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2. O(s) objetivo(s) foi/foram declarado(s) respeitando àqueles definidos por Sharp et al.?
         </td>
-      <td></td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>3. As perguntas exploratórias foram definidas com base no(s) objetivo(s) escolhido(s) de forma a serem respondidas ao fim da avaliação?
     </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4. As questões práticas incluem etapas de preparação, recrutamento, organização temporal e espacial (cronograma e locais para realização) bem como o roteiro a ser utilizado? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5. São considerados os aspectos éticos para realização? É indicado em qual momento será introduzido ao participante durante a execução da avaliação?
      </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6. É definida uma estrutura para apresentação dos dados bem como a estratégia a ser utilizada para análise dos dados?
       </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>7. O teste piloto foi realizado e ajustes realizados para um melhor andamento da avaliação?
       </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </tbody>
 </table>
@@ -406,7 +412,7 @@ O responsável pela verificação deste artefato é a <b>Yasmim Rosa</b> o check
 
 <h2>Sugestões de Melhoria</h2>
 
-<p> responder o que pode melhorar com base na verificação. </p>
+<p> - Definir o(s) objetivo(s) respeitando àqueles definidos por Sharp et al.  </p>
 
 </details>
 
@@ -418,7 +424,7 @@ O responsável pela verificação deste artefato é a <b>Yasmim Rosa</b> o check
 <h2> Checklist </h2>
   <p> Na tabela 8, está o checklist com suas devidas respostas: </p>
 
-  <font size="2"><p style="text-align: center"> Tabela 8 - Checklist de Verificação do Planejamento do relato dos resultados da avaliação do Protótipo de Papel </font>
+<font size="2"><p style="text-align: center"> Tabela 8 - Checklist de Verificação do Planejamento do relato dos resultados da avaliação do Protótipo de Papel </font>
 
   <table>
   <thead>
@@ -463,16 +469,16 @@ O responsável pela verificação deste artefato é a <b>Yasmim Rosa</b> o check
 
 </details>
 
-
-
 ## Bibliografia
+
 > REINEHR, Sheila. Engenharia de requisitos. Grupo A, 2020. E-book. ISBN 9786556900674. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786556900674/. Acesso em: 11 jun. 2024.
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                     | Autor                 | Revisor |
-| ------ | ---------- | ----------------------------- | --------------------- | ------- |
-| 1.0    | 11/06/2024 | Planejamento       | [Yasmim Rosa](https://github.com/yaskisoba) | [Renan Araújo](https://github.com/renantfm4)|
-| 1.1    | 11/06/2024 | verificação do artefato relato dos resultados da análise de tarefas       | [Yasmim Rosa](https://github.com/yaskisoba) | [Renan Araújo](https://github.com/renantfm4)|
+| Versão | Data       | Descrição                                                                                                                                                                                                            | Autor                                              | Revisor                                      |
+| ------ | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | -------------------------------------------- |
+| 1.0    | 11/06/2024 | Planejamento                                                                                                                                                                                                         | [Yasmim Rosa](https://github.com/yaskisoba)        | [Renan Araújo](https://github.com/renantfm4) |
+| 1.1    | 11/06/2024 | Verificação do artefato relato dos resultados da análise de tarefas                                                                                                                                                  | [Yasmim Rosa](https://github.com/yaskisoba)        | [Renan Araújo](https://github.com/renantfm4) |
+| 1.1    | 11/06/2024 | Verificação do artefato relato dos resultados do StoryBoard, Verificação do planejamento da avaliação do protótipo de papel, Verificação do planejamento do relato dos resultados da avaliação da Análise de tarefas | [Alana Gabriele](https://github.com/alanagabriele) | [Yasmim Rosa](https://github.com/yaskisoba)  |
