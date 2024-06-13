@@ -84,27 +84,27 @@ O responsável pela verificação deste artefato é o <b>Marco Tulio</b> o check
   <tbody>
     <tr>
       <td>1. A quantidade de personas elaboradas foi justificada? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2. A elaboração das personas é coerente com o definido pelo perfil do usuário? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3. Cada persona possui informações que caracterizam sua identidade como nome e sobrenome como também uma foto que a torne mais realista?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4. As personas possuem objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas definidas? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5. As questões éticas relacionadas aos participantes foram abordadas?</td>
-      <td></td>
+      <td>Não</td>
     </tr>
     <tr>
       <td>6. É informado para qual propósito as personas serão utilizadas no decorrer do projeto? </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </tbody>
 </table>
