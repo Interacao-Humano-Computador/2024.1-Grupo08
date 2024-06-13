@@ -117,6 +117,7 @@ O responsável pela verificação deste artefato é o <b>Marco Tulio</b> o check
 <font size="2"><p style="text-align: center">Fonte: <a href=""> Alana Gabriele </a></p></font>
 
 <h2>Sugestões de Melhoria</h2>
+<p> Informar explicitamente a quantidade de pessoas que participaram das entrevistas. </p>
 
 <h3> Vídeo da Verificação </h3>
 
@@ -131,9 +132,9 @@ O responsável pela verificação deste artefato é o <b>Marco Tulio</b> o check
 <h2> Checklist </h2>
   <p> Na tabela 3, está o checklist com suas devidas respostas: </p>
 
-<font size="2"><p style="text-align: center"> Tabela 3 - Checklist de Verificação do Planejamento do relato dos resultados da avaliação da Análise de tarefas </font>
+<font size="2"><p style="text-align: center"> Tabela 4 - Checklist de Verificação do Planejamento do relato dos resultados da avaliação do Storyboard </font>
 
-  <table>
+ <table>
   <thead>
     <tr>
       <th>Questão</th>
@@ -151,24 +152,22 @@ O responsável pela verificação deste artefato é o <b>Marco Tulio</b> o check
       <td>Sim</td>
     </tr>
     <tr>
-      <td>3. Os objetivos específicos da avaliação foram definidos?
+      <td>3. O processo de avaliação foi revisado para identificar eficiência?
       </td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>4. Foi definido os feedbacks do usuário?
-      </td>
+      <td>4. Os métodos de análise dos dados coletados foram definidos?  </td>
       <td>Sim</td>
     </tr>
     <tr>
-      <td>5. Os próximos passos após a apresentação dos resultados foram planejados?
-      </td>
+      <td>5. Os próximos passos após a apresentação dos resultados foram planejados?  </td>
       <td>Sim</td>
     </tr>
   </tbody>
 </table>
 
-<font size="2"><p style="text-align: center">Fonte: <a href=""> Pedro Henrique </a></p></font>
+  <font size="2"><p style="text-align: center">Fonte: <a href=""> Pedro Henrique </a></p></font>
 
 <h2>Sugestões de Melhoria</h2>
 
@@ -196,25 +195,25 @@ O responsável pela verificação deste artefato é o <b>Marco Tulio</b> o check
   <tbody>
     <tr>
       <td>1. A estrutura geral do relato é a mesma definida no planejamento mas de maneira detalhada com instruções?</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>2. A metodologia da avaliação foi definida?
       </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>3. O processo de avaliação foi revisado para identificar eficiência?
       </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>4. Os métodos de análise dos dados coletados foram definidos?  </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>5. Os próximos passos após a apresentação dos resultados foram planejados?  </td>
-      <td></td>
+      <td>Sim</td>
     </tr>
   </tbody>
 </table>
@@ -223,7 +222,7 @@ O responsável pela verificação deste artefato é o <b>Marco Tulio</b> o check
 
   <h2>Sugestões de Melhoria</h2>
 
-<p> responder o que pode melhorar com base na verificação. </p>
+<p> O artefato foi bem desenvolvido, portanto não há sugestões de melhoria </p>
 
 </details>
 
