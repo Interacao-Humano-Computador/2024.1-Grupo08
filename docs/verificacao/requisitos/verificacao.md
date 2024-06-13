@@ -236,6 +236,10 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
 <p>No HTA, as relações são incompatíveis com o declarado, por exemplo "Selecionar problema" é indicado como uma tarefa finalizada depois de duas sub-tarefas sequenciais contudo não há e isso se repete nas demais tarefas, então realizar esse ajuste é necessário para ficar mais coerente. A numeração também é incoerente ela deve ser relacionada a suas sub-tarefas.</p>
 <p>No GOMS, não foi definido qual variação foi utilizada, além disso não há métodos no GOMS da tarefa além de ser pouco detalhado.</p>
 
+<h3>Vídeo da Verificação</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R7Ry33nfm2A?si=c70hB9HftjimzTre" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <h2> Funcionalidade: Tutorial de Resolução de Questões Pós-Contest - Colocar nome </h2>
 
 <h3> Checklist </h3>
