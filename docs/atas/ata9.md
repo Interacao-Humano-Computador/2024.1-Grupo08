@@ -20,20 +20,43 @@
 
 ## Decisões
 
-- Perfil do usuário (Yasmim)
-- Aspectos Éticos de Pesquisas com Pessoas (Renan)
-- Análise de tarefas (Pedro)
-- Princípios Gerais de Projeto (Alana)
-- Planejamento da Avaliação da Análise de tarefas (Marco)
-- Metas de usabilidade (Gustavo)
-- Guia de Estilo e características da plataforma para o projeto (Marco)
-- Planejamento da Avaliação do Storyboard (Alana)
-- Planejamento do relato dos resultados da avaliação do Storyboard (Pedro)
-- Planejamento do relato dos resultados da avaliação da Análise de tarefas (Yasmim)
-- Relato dos resultados do Storyboard (Gustavo e Alana)
-- Relato dos resultados da Análise de tarefas (Renan)
-- Planejamento da Avaliação do Protótipo de Papel (Yasmim e Renan)
-- Planejamento do relato dos resultados da avaliação do Protótipo de Papel (Gustavo)
+Fazer checklist de verificação: <br>
+
+<ul>
+<li>Perfil do usuário (Renan)</li>
+<li>Aspectos Éticos de Pesquisas com Pessoas (Renan)</li>
+<li>Análise de tarefas (Yasmim) </li>
+<li>Princípios Gerais de Projeto (Yasmim)</li>
+<li>Planejamento da Avaliação da Análise de tarefas (Marco) </li>
+<li>Metas de usabilidade (Marco)</li>
+<li>Guia de Estilo e características da plataforma para o projeto (Alana)</li>
+<li>Planejamento da Avaliação do Storyboard (Alana)</li>
+<li>Planejamento do relato dos resultados da avaliação do Storyboard (Pedro)</li>
+<li>Planejamento do relato dos resultados da avaliação da Análise de tarefas (Pedro)</li>
+<li>Relato dos resultados do Storyboard (Gustavo)</li>
+<li>Relato dos resultados da Análise de tarefas (Gustavo)</li>
+<li>Planejamento da Avaliação do Protótipo de Papel (Yasmim)<li>
+<li>Planejamento do relato dos resultados da avaliação do <li>Protótipo de Papel (Marco)</li>
+</ul>
+
+Usar checklist de verificação:<br>
+
+<ul>
+<li>Perfil do usuário (Gustavo)</li>
+<li>spectos Éticos de Pesquisas com Pessoas (Gustavo)</li>
+<li>Análise de tarefas (TODOS)</li>
+<li>Princípios Gerais de Projeto (Pedro)</li>
+<li>Planejamento da Avaliação da Análise de tarefas (Pedro)</li>
+<li>Metas de usabilidade (Renan)</li>
+<li>Guia de Estilo e características da plataforma para o projeto (Renan)</li>
+<li>Planejamento da Avaliação do Storyboard (Marco)
+<li>Planejamento do relato dos resultados da avaliação do Storyboard (Marco)
+<li>Planejamento do relato dos resultados da avaliação da Análise de tarefas (Alana)</li>
+<li>Relato dos resultados do Storyboard (Alana)</li>
+<li>Relato dos resultados da Análise de tarefas (Yasmim)</li>
+<li>Planejamento da Avaliação do Protótipo de Papel (Alana)</li>
+<li>Planejamento do relato dos resultados da avaliação do <li>Protótipo de Papel (Renan)</li>
+</ul>
 
 ## Histórico de Versões
 
