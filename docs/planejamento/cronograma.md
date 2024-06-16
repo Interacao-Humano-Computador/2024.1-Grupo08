@@ -259,7 +259,7 @@ Na **tabela 14** está o cronograma planejado.
 
 
 ## Etapa 7
-Na **tabela 15** está o cronograma planejado.
+Na **tabela 15** está o cronograma planejado e na **tabela 16** está o cronograma executado.
 ### Cronograma Planejado
 
 <font size="2"><p style="text-align: center">Tabela 15 - Cronograma planejado de atividades da etapa 7 </p></font>
@@ -276,12 +276,27 @@ Na **tabela 15** está o cronograma planejado.
 
 <font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba)</p></font>
 
+### Cronograma Executado
+
+<font size="2"><p style="text-align: center">Tabela 16 - Cronograma planejado de atividades da etapa 7 </p></font>
+
+
+| Atividade                       | Período para o desenvolvimento da atividade | Responsáveis             | Período da revisão | Revisores |
+|---------------------------------|--------------------------------------------|--------------------------|--------------------|-----------|
+| Relato dos resultados do Protótipo de Papel | **Início**: 17/06 <br> **Fim**: 18/06 |Alana Gabriele e Marco Tulio|**Início**: 19/06 <br> **Fim**: 19/06 | Yasmim Rosa     |
+| Planejamento da Avaliação do protótipo de alta fidelidade   |**Início**: 15/06 <br> **Fim**: 16/06 | Gustavo Alves e Pedro Henrique |**Início**: 17/06 <br> **Fim**: 17/06 | Renan Araújo     |
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | **Início**: 15/06 <br> **Fim**: 16/06 | Renan Araújo e Yasmim Rosa |**Início**: 17/06 <br> **Fim**: 17/06| Alana Gabriele |
+| Inserção das atividades no Gitpages |**Início**: 17/06 <br> **Fim**: 19/06 | Pedro Henrique e Gustavo Alves  |**Início**: 19/06 <br> **Fim**: 19/06 | Pedro Henrique     |
+| Gravar vídeo de apresentação    |**Início**: 19/06 <br> **Fim**: 19/06 | Alana Gabriele e Pedro Henrique   |**Início**: 19/06 <br> **Fim**: 19/06 | Marco Tulio     |
+| Correções pós-apresentação      |**Início**: 20/06 <br> **Fim**: 21/06  | Yasmim Rosa e Marco Tulio                    |**Início**: 22/06 <br> **Fim**: 22/06 |    Pedro Henrique      |
+
+<font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba)</p></font>
 
 ## Etapa 8
-Na **tabela 16** está o cronograma planejado.
+Na **tabela 17** está o cronograma planejado.
 ### Cronograma Planejado
 
-<font size="2"><p style="text-align: center">Tabela 16 - Cronograma planejado de atividades da etapa 8 </font>
+<font size="2"><p style="text-align: center">Tabela 17 - Cronograma planejado de atividades da etapa 8 </font>
 
 
 | Atividade                       | Período para o desenvolvimento da atividade | Responsáveis             | Período da revisão | Revisores |
