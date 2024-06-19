@@ -1,6 +1,6 @@
 ## Introdução
 
-Este documento apresenta um planejamento para a elaboração de um relatório que visa documentar os resultados obtidos através da avaliação dos storyboards elaborados pela equipe. O relatório de resultados tem como objetivo registrar os achados de uma avaliação de forma detalhada.
+Este documento apresenta um planejamento para a elaboração de um relatório que visa documentar os resultados obtidos através da avaliação dos protótipos de alta fidelidade elaborados pela equipe. O relatório de resultados tem como objetivo registrar os achados de uma avaliação de forma detalhada.
 
 ## Elementos do Relato de Resultados
 
