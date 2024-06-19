@@ -59,6 +59,9 @@ Para realização da avaliação serão necessários:
 
 <font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba) e [Renan Araújo](https://github.com/renantfm4)</p></font>
 
+### Referência para elaboração do protótipo de alta fidelidade
+O protótipo de alta fidelidade deve ser elaborado de maneira que o avaliador achar melhor, a plataforma para elaboração é de escolha aberta. Devem estar coerentes, mas não se limitar, com o fluxo da análise de tarefas elaborados com HTA e levar em consideração o descoberto da avaliação do protótipo de baixa fidelidade (papel).
+
 ### Entrevista
 Como forma de revalidação que o participante se encaixa no perfil de usuário levantado, inicialmente será realizado algumas perguntas gerais sobre o participante como pode ser observado na tabela 2.
 
@@ -103,6 +106,8 @@ Em seguida o participante iniciará o uso do protótipo de alta fidelidade, send
 
 </center>
 <font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba) e [Renan Araújo](https://github.com/renantfm4)</p></font>
+
+A gravação deve ser realizada, se possível, de dois ângulos distintos: a tela e o rosto do participante e outro ângulo que cubra o participante e sua interação com o sistema de maneira mais distante.
 
 ### Cronograma das entrevistas
 
