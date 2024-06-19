@@ -39,6 +39,15 @@ De maneira geral, os protótipos de papel devem:
 
 <details>
     <summary> Funcionalidade: Comprar passagem (Yasmim Rosa)  </summary>
+    <img src="../prototipo_papel/yasmim/y1.jpeg">
+    <img src="../prototipo_papel/yasmim/y2.jpeg">
+    <img src="../prototipo_papel/yasmim/y3.jpeg">
+    <img src="../prototipo_papel/yasmim/y4.jpeg">
+    <img src="../prototipo_papel/yasmim/y5.jpeg">
+    <img src="../prototipo_papel/yasmim/y6.jpeg">
+    <img src="../prototipo_papel/yasmim/y7.jpeg">
+    <img src="../prototipo_papel/yasmim/y8.jpeg">
+
 </details>
 
 ## Bibliografia

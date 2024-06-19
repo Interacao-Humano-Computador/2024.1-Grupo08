@@ -7,6 +7,30 @@ O relato da avaliação abrange principalmente a interpretação dos dados colet
 ## Avaliações
 <details>
 <summary>Funcionalidade: Rastreamento de Ônibus em Tempo Real (Alana Gabriele)</summary>
+   <h2> Questões Identificadas </h2> 
+   <ul>
+        <li>
+        <b>Feedback Positivo: </b> Durante a avaliação do protótipo de papel, o usuário demonstrou facilidade ao realizar o procedimento desejado para o acúmulo de pontos. A interface pareceu intuitiva e fácil de usar, permitindo que o usuário completasse a tarefa sem dificuldades.
+        </li>
+        <li>
+        <b>Problema Identificado: </b> Nenhum problema foi identificado durante a avaliação. O usuário conseguiu navegar pela interface e executar o rastreamento de ônibus em tempo real sem encontrar obstáculos ou pontos de confusão.
+        </li>
+   </ul>
+   <h2> Sugestões para Melhorias </h2> 
+   <ul>
+        <li>
+        O usuário sugeriu que o botão "Localizar" ficasse mais claro/explícito.
+        </li>
+   </ul>
+   <h2> Feedback do Usuário </h2> 
+   <ul>
+        <li>
+        O feedback geral do participante foi positivo. Ele demonstrou facilidade ao realizar a tarefa indicada, não encontrando problemas no processo. Este retorno indica que a interface do protótipo de papel é intuitiva e funcional para o rastreamento de ônibus em tempo real. As sugestões fornecidas são valiosas para aprimorar ainda mais a experiência do usuário e a segurança dos dados, garantindo uma interface ainda mais eficiente e agradável.
+        </li>
+   </ul>
+
+   <h2> Gravação da Avaliação </h2>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/k7QakXhRdEo?si=U3-Nmf2Ai4dX-1P8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 <details>
