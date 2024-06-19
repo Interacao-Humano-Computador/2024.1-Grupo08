@@ -48,24 +48,16 @@ Para realização da avaliação serão necessários:
 
 | Data de Início | Data de Fim    | Atividade                            |
 | -------------- | -------------- | ------------------------------------ |
-| 02/06/2024     | 04/06/2024     | Elaborar protótipo de alta fidelidade  |
-| 03/06/2024     | 04/06/2024     | Elaborar cenários para avaliação     |
-| 04/06/2024     | 04/06/2024     | Preparar TCLE                        |
-| 02/06/2024     | 05/06/2024     | Recrutamento de participantes        |
-| 02/06/2024     | 05/06/2024     | Marcação da sessão de entrevista     |
-| 05/06/2024     | 07/06/2024     | Realização das sessões de entrevista |
+| 21/06/2024     | 23/06/2024     | Elaborar protótipo de alta fidelidade  |
+| 21/06/2024     | 22/06/2024     | Elaborar cenários para avaliação     |
+| 21/06/2024     | 22/06/2024     | Preparar TCLE                        |
+| 21/06/2024     | 22/06/2024     | Recrutamento de participantes        |
+| 21/06/2024     | 23/06/2024     | Marcação da sessão de entrevista     |
+| 24/06/2024     | 25/06/2024     | Realização das sessões de entrevista |
 
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba) e [Renan Araújo](https://github.com/renantfm4)</p></font>
-
-### Referência para elaboração do protótipo de alta fidelidade
-O protótipo de papel deve ser elaborado de maneira tradicional, ou seja, com papel e lápis. Como o site deste projeto é um site avaliado principalmente no seu formato de visualização em computadores a folha deve estar na horizontal, devem ser elaborados elementos de interação também com papel como por exemplo: menus do tipo hambúrguer, possíveis erros e inputs. 
-De maneira geral, os protótipos de papel devem:
-
-- Serem elaborados com a folha em formato horizontal;
-- Possuírem elementos de interação simulados com papel;
-- Estarem coerentes, mas não se limitar, com o fluxo da análise de tarefas elaborados com HTA.
 
 ### Entrevista
 Como forma de revalidação que o participante se encaixa no perfil de usuário levantado, inicialmente será realizado algumas perguntas gerais sobre o participante como pode ser observado na tabela 2.
@@ -84,13 +76,30 @@ Como forma de revalidação que o participante se encaixa no perfil de usuário 
 
 <font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba) e [Renan Araújo](https://github.com/renantfm4)</p></font>
 
-Em seguida o participante iniciará o uso do protótipo de papel, sendo anotadas os comportamentoss dele pelo avaliador-observador. Ao fim serão realizadas as perguntas da tabela 3:
+Em seguida o participante iniciará o uso do protótipo de alta fidelidade, sendo anotadas os comportamentoss dele pelo avaliador. Ao fim serão realizadas as perguntas da tabela 3:
 
 <font size="2"><p style="text-align: center">Tabela 3 - Questionário </p></font>
 <center>
 
-| Perguntas                                                                                              | Respostas       |
-| ------------------------------------------------------------------------------------------------------ | --------------- |
+| Pergunta                                                                 | Resposta (Tipo de resposta esperada)         |
+|--------------------------------------------------------------------------|----------------------------------------------|
+| Quando você começou a usar o protótipo, foi fácil entender por onde começar? | Sim/Não, com comentários adicionais           |
+| As instruções iniciais eram claras e suficientes?                        | Sim/Não, com comentários adicionais           |
+| Em cada etapa, ficou claro para você o que deveria ser feito em seguida? | Sim/Não, com exemplos específicos             |
+| Houve algum momento em que você ficou confuso sobre qual ação tomar?     | Sim/Não, descreva o momento e a confusão      |
+| Como você descreveria sua experiência geral com o protótipo?             | Descrição aberta                             |
+| Quais elementos da interface você achou mais agradáveis ou úteis?        | Lista de elementos e comentários             |
+| Teve alguma parte da interface que você achou particularmente frustrante ou confusa? | Sim/Não, com descrição das partes             |
+| O que você mudaria ou melhoraria na interface?                           | Sugestões específicas                        |
+| Você conseguiu completar as tarefas propostas usando o protótipo?        | Sim/Não, com detalhes de dificuldades         |
+| Quanto tempo você levou para completar cada tarefa?                      | Tempo estimado para cada tarefa              |
+| Como você avaliaria a facilidade de uso do protótipo em uma escala de 1 a 5? | Avaliação numérica e justificativa           |
+| Houve alguma parta da funcionalidade que você achou difícil de usar ou de encontrar? | Sim/Não, com detalhes específicos             |
+| Todos os elementos da interface estavam claramente rotulados e eram facilmente compreensíveis? | Sim/Não, com exemplos específicos             |
+| Você conseguiu entender para que serve cada elemento do protótipo?       | Sim/Não, com detalhes dos elementos           |
+| Houve algum elemento que você achou desnecessário ou que não entendeu a utilidade? | Sim/Não, com descrição dos elementos           |
+| Como você avaliaria a estética visual do protótipo?                      | Descrição aberta                              |
+| Você sentiu que o protótipo respondia de forma eficiente às suas ações?  | Sim/Não, com detalhes específicos             |
 
 </center>
 <font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba) e [Renan Araújo](https://github.com/renantfm4)</p></font>
@@ -105,7 +114,12 @@ Na tabela 4, está o cronograma das entrevistas que serão realizadas:
 
 |        Entrevistadores         |    Data    | Horário de início e fim | Local             |
 | :----------------------------: | :--------: | :---------------------: | ----------------- |
-
+| Alana Gabriele  | 24/06/2024 |     17:10 até 17:20     | Faculdade do Gama |
+| Renan Araújo   | 24/06/2024 |     17:20 até 17:30     | Faculdade do Gama |
+|  Gustavo Alves   | 25/06/2024 |     10:10 até 10:20     | Faculdade do Gama |
+|  Yasmim Rosa   | 24/06/2024 |     17:10 até 17:20     | Faculdade do Gama |
+|  Pedro Henrique | 25/06/2024 |     12:10 até 12:20     | Faculdade do Gama |
+|   Marco Tulio | 25/06/2024 |     17:10 até 17:20     | Faculdade do Gama |
 
 </center>
 
@@ -131,9 +145,13 @@ De acordo com Barbosa e Silva (2011), os resultados indicam tendências de probl
 ## Planejamento do Teste Piloto
 
 Barbosa e Silva (2011) define que a realização de um estudo-piloto é uma pequena previsão para assegurar que o estudo é viável e resultará na coleta dos dados desejados para realização das análises planejadas. Com base nessa definição, o teste piloto será uma sessão de teste para verificar se a entrevista com o usuário está planejada de modo a garantir seu conforto e extrair os dados desejados. A sessão de teste piloto será realizada entre dois membros da equipe, de maneira a simular a entrevista de modo a garantir que as entrevistas ocorrerão da maneira planejada. <br>
-O teste piloto ocorrerá no dia ?? de junho de 2024 às 16h30, na FGA, sendo o papel da entrevistadora Yasmim Rosa e do entrevistado Renan Araújo.
-
-## Resultado do Teste Piloto
-
+O teste piloto ocorrerá no dia 21 de junho de 2024 às 16h30, na FGA, sendo o papel da entrevistadora Alana Gabriele e do entrevistado Renan Araújo.
 
 ## Bibliografia
+
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
+## Histórico de Versões
+
+| Versão |    Data    | Descrição                               | Autor(es)                                                                                     | Revisor(es)                                        |
+| ------ | :--------: | --------------------------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------- |

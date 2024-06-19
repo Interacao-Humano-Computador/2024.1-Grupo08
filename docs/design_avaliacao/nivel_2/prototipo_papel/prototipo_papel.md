@@ -18,7 +18,11 @@ De maneira geral, os protótipos de papel devem:
 
 <details>
     <summary>Funcionalidade: Compartilhamento de Trajetos (Gustavo Alves) </summary>
-    <img src="../../../prototipo_papel/gustavo/g1.jpeg">
+    <img src="../prototipo_papel/gustavo/g1.jpeg">
+    <img src="../prototipo_papel/gustavo/g2.jpeg">
+    <img src="../prototipo_papel/gustavo/g3.jpeg">
+    <img src="../prototipo_papel/gustavo/g4.jpeg">
+    <img src="../prototipo_papel/gustavo/g5.jpeg">
 </details>
 
 <details>
