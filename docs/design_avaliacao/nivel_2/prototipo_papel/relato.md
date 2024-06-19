@@ -80,6 +80,30 @@ O relato da avaliação abrange principalmente a interpretação dos dados colet
 
 <details>
     <summary> Funcionalidade: Comprar passagem (Yasmim Rosa)  </summary>
+       <h2> Questões Identificadas </h2> 
+   <ul>
+        <li>
+        <b>Feedback Positivo: </b> No decorrer da avaliação, a participante não demonstrou dificuldade em utilizar o protótipo para atingir o objetivo de comprar passagem. 
+        </li>
+        <li>
+        <b>Problema Identificado: </b> A participante indicou que no carrinho de compras antes de se iniciar o processo de compra, seria melhor que houvesse um botão que fechasse o pop-up aberto além da lista mostrada ter a opção de retirar itens.
+        </li>
+   </ul>
+   <h2> Sugestões para Melhorias </h2> 
+   <ul>
+        <li>
+        Assim como citado, a participante indicou que no carrinho de compras antes de se iniciar o processo de compra, seria melhor que houvesse um botão que fechasse o pop-up aberto além da lista mostrada ter a opção de retirar itens.
+        </li>
+   </ul>
+   <h2> Feedback do Usuário </h2> 
+   <ul>
+        <li>
+        O feedback da participante foi positivo, a experiência foi tranquila e ocorreu conforme o planejado, além de não demonstrar dificuldade no uso do protótipo de baixa fidelidade.
+        </li>
+   </ul>
+
+   <h2> Gravação da Avaliação </h2>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/CFtM2fATQ6w?si=lZvXjdllCDke2zaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 ## Bibliografia

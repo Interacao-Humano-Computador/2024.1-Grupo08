@@ -14,6 +14,10 @@ De maneira geral, os protótipos de papel devem:
 ## Protótipos de Papel
 <details>
 <summary>Funcionalidade: Rastreamento de Ônibus em Tempo Real (Alana Gabriele)</summary>
+    <img src="../prototipo_papel/alana/a1.jpeg">
+    <img src="../prototipo_papel/alana/a2.jpeg">
+    <img src="../prototipo_papel/alana/a3.jpeg">
+
 </details>
 
 <details>
