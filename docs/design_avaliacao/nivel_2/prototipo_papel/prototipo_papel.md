@@ -35,6 +35,11 @@ De maneira geral, os protótipos de papel devem:
 
 <details>
     <summary>Funcionalidade: Acúmulo de Pontos por Trajeto (Pedro Henrique)</summary>
+    <img src="../prototipo_papel/pedro/p1.jpeg">
+    <img src="../prototipo_papel/pedro/p2.jpeg">
+    <img src="../prototipo_papel/pedro/p3.jpeg">
+    <img src="../prototipo_papel/pedro/p4.jpeg">
+    <img src="../prototipo_papel/pedro/p5.jpeg">
 </details>
 
 <details>
