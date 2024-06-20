@@ -47,3 +47,4 @@ BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: E
 
 | Versão |    Data    | Descrição                               | Autor(es)                                                                                     | Revisor(es)                                        |
 | ------ | :--------: | --------------------------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| 1.0 | 19/06/2024 | Planejamento do Relato da Avaliação do Protótipo de Alta Fidelidade | [Renan Araújo]() <br> [Yasmim Rosa]() | [Alana Gabriele]() |

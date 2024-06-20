@@ -10,7 +10,7 @@ O relato da avaliação abrange principalmente a interpretação dos dados colet
    <h2> Questões Identificadas </h2> 
    <ul>
         <li>
-        <b>Feedback Positivo: </b> Durante a avaliação do protótipo de papel, o usuário demonstrou facilidade ao realizar o procedimento desejado para o acúmulo de pontos. A interface pareceu intuitiva e fácil de usar, permitindo que o usuário completasse a tarefa sem dificuldades.
+        <b>Feedback Positivo: </b> Durante a avaliação do protótipo de papel, o usuário demonstrou facilidade ao realizar o procedimento desejado para o rastreamento de ônibus em tempo real. A interface pareceu intuitiva e fácil de usar, permitindo que o usuário completasse a tarefa sem dificuldades.
         </li>
         <li>
         <b>Problema Identificado: </b> Nenhum problema foi identificado durante a avaliação. O usuário conseguiu navegar pela interface e executar o rastreamento de ônibus em tempo real sem encontrar obstáculos ou pontos de confusão.
@@ -68,6 +68,30 @@ O relato da avaliação abrange principalmente a interpretação dos dados colet
 
 <details>
     <summary> Funcionalidade: Histórico de passagens compradas (Marco Tulio) </summary>
+    <h2> Questões Identificadas </h2> 
+   <ul>
+        <li>
+        <b>Feedback Positivo: </b>  No decorrer da avaliação o participante realizou as tarefas e não se sentiu desconfortável.
+        </li>
+        <li>
+        <b>Problema Identificado: </b> Não houve.
+        </li>
+   </ul>
+   <h2> Sugestões para Melhorias </h2> 
+   <ul>
+        <li>
+        Não houve.
+        </li>
+   </ul>
+   <h2> Feedback do Usuário </h2> 
+   <ul>
+        <li>
+        O feedback geral do participante foi positivo. Expressou que gostou do desenho e teve um bom entendimento.
+        </li>
+   </ul>
+
+<h2> Gravação da Avaliação </h2>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/fuKFmfXTqiU?si=9oM0giDIgbUCpOj6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 <details>
@@ -100,6 +124,29 @@ O relato da avaliação abrange principalmente a interpretação dos dados colet
 
 <details>
     <summary> Funcionalidade: Acompanhar compra de passagem (Renan Araújo)</summary>
+        <h2> Questões Identificadas </h2> 
+   <ul>
+        <li>
+        <b>Feedback Positivo: </b> Durante a avaliação do protótipo de papel, o usuário demonstrou facilidade ao realizar o procedimento desejado para o acompanhamento de passagem. A interface pareceu intuitiva e fácil de usar, permitindo que o usuário completasse a tarefa sem dificuldades.
+        </li>
+        <li>
+        <b>Problema Identificado: </b> Nenhum problema foi identificado durante a avaliação. O usuário conseguiu navegar pela interface e executar o acompanhamento de passagem sem encontrar obstáculos ou pontos de confusão.
+        </li>
+   </ul>
+   <h2> Sugestões para Melhorias </h2> 
+   <ul>
+        <li>
+        O usuário não sugeriu nenhuma melhoria para a funcionalidade.
+   </ul>
+   <h2> Feedback do Usuário </h2> 
+   <ul>
+        <li>
+       Como o feedback geral do usuário foi positivo, ele não apresentou nenhuma dificuldade ao utilizar a funcionalidade indicada, sem encontrar nenhum problema ao realizá-la. Isso traz um bom retorno que a interface do protótipo de papel é coesa e intuitiva para poder acompanhar a passagem do ônibus.
+        </li>
+   </ul>
+
+<h2> Gravação da Avaliação </h2>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/RPLr-_4DqPI?si=-lxQPTIjmVGNr1fF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 <details>
@@ -138,3 +185,4 @@ O relato da avaliação abrange principalmente a interpretação dos dados colet
 
 | Versão |    Data    | Descrição                               | Autor(es)                                                                                     | Revisor(es)                                        |
 | ------ | :--------: | --------------------------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| 1.0 | 19/06/2024 | Relato da Avaliação do Protótipo de Papel | [Alana Gabriele]() <br> [Marco Tulio]() | [Yasmim Rosa]() |

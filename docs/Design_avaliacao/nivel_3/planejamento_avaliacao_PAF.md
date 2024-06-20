@@ -160,3 +160,4 @@ O teste piloto ocorrerá no dia 21 de junho de 2024 às 16h30, na FGA, sendo o p
 
 | Versão |    Data    | Descrição                               | Autor(es)                                                                                     | Revisor(es)                                        |
 | ------ | :--------: | --------------------------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| 1.0 | 19/06/2024 | Planejamento da Avaliação do Protótipo de Alta Fidelidade | [Gustavo Alves]() <br> [Pedro Henrique]() | [Renan Araújo]() |
