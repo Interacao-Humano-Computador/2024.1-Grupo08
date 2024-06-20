@@ -2,6 +2,10 @@
 O relato da avaliação abrange principalmente a interpretação dos dados coletados, devendo analisar os dados individuais de cada usuário para posteriormente buscar uma interpretação mais generalista.
 
 ## Metodologia
+A metodologia para a avaliação foi de investigação por meio de uma entrevista, a estrutura deste artefato é a estabelecida no planejamento do relato da avaliação.
+
+## Objetivos e Escopo
+O objetivo dessa avaliação foi identificar problemas na interação e na interface e cada membro ficou responsável por sua funcionalidade anteriormente elegida.
 
 
 ## Avaliações
@@ -176,6 +180,13 @@ O relato da avaliação abrange principalmente a interpretação dos dados colet
    <h2> Gravação da Avaliação </h2>
    <iframe width="560" height="315" src="https://www.youtube.com/embed/CFtM2fATQ6w?si=lZvXjdllCDke2zaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
+
+## Análise e Interpretação das Respostas dos Usuários
+Os usuários, de modo geral, consideraram as interfaces intuitivas e fáceis de usar, não encontrando grandes dificuldades durante a realização das tarefas propostas. No entanto, algumas sugestões de melhorias foram apresentadas para aumentar a clareza e a funcionalidade das interfaces. Houve também recomendações específicas para aprimorar a navegação e a segurança dos dados.
+
+## Plano de Aprimoramento
+Os usuários avaliaram positivamente a interface atual, destacando a facilidade de uso e a intuição das funcionalidades. No entanto, algumas sugestões de melhorias foram identificadas para otimizar a experiência do usuário, portanto, se faz necessário um cronograma para ajustes antes da elaboração do protótipo de alta fidelidade.
+
 
 ## Bibliografia
 >BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.

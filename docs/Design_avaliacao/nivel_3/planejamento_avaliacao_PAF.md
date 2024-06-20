@@ -29,7 +29,7 @@ As perguntas propostas por Barbosa e Silva (2011) foram adaptadas para serem res
 
 Para realização desta avaliação será utilizado o método de investigação devido ao seu potencial de coleta de diversos dados por meio da análise e interpretação de concepções, opiniões e expectativas do usuário. Esse método vai ser realizado por meio de uma entrevista guiada por um questionário.
 
-Serão 6 entrevistas guiadas por questionário, cada entrevista realizada por cada membro da equipe sobre seu storyboard da sua funcionalidade designada.
+Serão 6 entrevistas guiadas por questionário, cada entrevista realizada por cada membro da equipe sobre seu protótipo de alta fidelidade da sua funcionalidade designada.
 
 ### I - Identificar e administrar questões práticas da avaliação
 Para realização da avaliação serão necessários:
