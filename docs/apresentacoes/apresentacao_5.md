@@ -1,5 +1,5 @@
 ## Introdução
-A segunda entrega realizada em 03 de junho de 2024 da disciplina de Interação Humano Computador.
+A quinta entrega realizada em 03 de junho de 2024 da disciplina de Interação Humano Computador.
 
 ## Vídeo da Apresentação
 
@@ -24,4 +24,4 @@ A segunda entrega realizada em 03 de junho de 2024 da disciplina de Interação 
 
 | Versão |    Data    | Descrição                     | Autor(es)                                          | Revisor(es) |
 | ------ | :--------: | ----------------------------- | -------------------------------------------------- | ----------- |
-| 1.0    | 03/06/2024 | Apresentação 4 |  [Yasmim Rosa](https://github.com/yaskisoba) | [Alana Gabriele](https://github.com/alanagabriele) |
+| 1.0    | 03/06/2024 | Apresentação 5 |  [Yasmim Rosa](https://github.com/yaskisoba) | [Alana Gabriele](https://github.com/alanagabriele) |

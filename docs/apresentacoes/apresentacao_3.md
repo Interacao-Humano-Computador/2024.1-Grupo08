@@ -9,4 +9,4 @@ A terceira entrega realizada em 13 de maio de 2024 da disciplina de Interação 
 
 | Versão |    Data    | Descrição                     | Autor(es)                                          | Revisor(es) |
 | ------ | :--------: | ----------------------------- | -------------------------------------------------- | ----------- |
-| 1.0    | 13/05/2024 | Apresentação 2 | [Renan Araújo](https://github.com/renantfm4) <br> [Gustavo Alves](https://github.com/gustaallves)  | [Yasmim Rosa](https://github.com/yaskisoba) |
+| 1.0    | 13/05/2024 | Apresentação 3 | [Renan Araújo](https://github.com/renantfm4) <br> [Gustavo Alves](https://github.com/gustaallves)  | [Yasmim Rosa](https://github.com/yaskisoba) |
