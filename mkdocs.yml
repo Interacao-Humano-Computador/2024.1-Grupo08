@@ -95,6 +95,14 @@ nav:
         - Design, Avaliação e Desenvolvimento:
           - Planejamento da Verificação dos Artefatos: verificacao/design_avaliacao/planej_verificacao.md
           - Verificação: verificacao/design_avaliacao/verificacao.md
+      - Grupo 8 (Central Expresso):
+        - Planejamento da Verificação: verificacao_grupo/planej_verificacao.md
+        - Análise de Requisitos:
+          - Planejamento da Verificação dos Artefatos: verificacao_grupo/requisitos/planej_verificacao.md
+          - Verificação: verificacao_grupo/requisitos/verificacao.md
+        - Design, Avaliação e Desenvolvimento:
+          - Planejamento da Verificação dos Artefatos: verificacao_grupo/design_avaliacao/planej_verificacao.md
+          - Verificação: verificacao_grupo/design_avaliacao/verificacao.md
 
 
 extra_css:                                        
