@@ -4,14 +4,14 @@ De acordo com Reinehr (2020), a verificação é comumente definida como a anál
 ## Metodologia
 A verificação será realizada por meio do método de inspeção por meio de uma revisão formal com o uso de checklists.
 
-Os artefatos do Grupo 1 foram separados entre duas grandes categorias "Análise de Requisitos" e "Design, Avaliação e Desenvolvimento". Cada categoria  tem seu respectivo planejamento com seus checklists elaborados e em seguida uma página chamada de "Verificação" com os artefatos verificados com os checklists e sugestões de melhoria dos mesmos.
+Os artefatos do grupo foram separados entre duas grandes categorias "Análise de Requisitos" e "Design, Avaliação e Desenvolvimento". Cada categoria  tem seu respectivo planejamento com seus checklists elaborados e em seguida uma página chamada de "Verificação" com os artefatos verificados com os checklists e sugestões de melhoria dos mesmos.
 
 
 ## Artefatos
 Ao todo são 15 artefatos produzidos distruibuídos em uma média de 2 ou 3 artefatos para cada membro, sendo o membro responsável pela elaboração do checklist impedido de a usar para avaliar o artefato, com excessão de artefatos maiores onde pode ser dividido para todos os membros. 
 
 ### Elaboração
-Na tabela 1, estão os responsáveis pela elaboração do checklist de cada artefato.
+Na tabela 1, estão os responsáveis pela elaboração e/ou reajuste do checklist de cada artefato.
 
 <font size="2"><p style="text-align: center">Tabela 1 - Elaboração dos checklists para verificação dos artefatos </font>
 
@@ -22,18 +22,23 @@ Na tabela 1, estão os responsáveis pela elaboração do checklist de cada arte
 | Perfil do usuário                                               | Renan Araújo       |
 | Aspectos Éticos de Pesquisas com Pessoas                        | Renan Araújo       |
 | Personas                        | Yasmim Rosa       |
+| Cenários                        | Renan Araújo       |
 | Análise de tarefas                                              | Yasmim Rosa      |
 | Princípios Gerais de Projeto                                    | Yasmim Rosa      |
-| Planejamento da Avaliação da Análise de tarefas                 | Marco Tulio       |
+| Características da plataforma para o projeto | Alana Gabriele |
 | Metas de usabilidade                                            | Marco Tulio       |
-| Guia de Estilo e características da plataforma para o projeto   | Alana Gabriele       |
+| Guia de Estilo   | Alana Gabriele       |
 | Planejamento da Avaliação do Storyboard                         | Alana Gabriele       |
 | Planejamento do relato dos resultados da avaliação do Storyboard| Pedro Henrique       |
+| Planejamento da Avaliação da Análise de tarefas                 | Marco Tulio       |
 | Planejamento do relato dos resultados da avaliação da Análise de tarefas | Pedro Henrique       |
 | Relato dos resultados do Storyboard                             | Gustavo Alves     |
 | Relato dos resultados da Análise de tarefas                     | Gustavo Alves     |
 | Planejamento da Avaliação do Protótipo de Papel                 | Yasmim Rosa      |
 | Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Marco Tulio       |
+| Relato da avaliação do Protótipo de Papel | Gustavo Alves       |
+| Planejamento da Avaliação do Protótipo de Alta Fidelidade                 | Pedro Henrique       |
+| Planejamento do Relato do Protótipo de Alta Fidelidade                 |  Yasmim Rosa       |
 
 </center>
 
@@ -46,23 +51,6 @@ Na tabela 2, estão os responsáveis pela verificação de cada artefato.
 
 <center>
 
-| Artefato                                                          | Responsável |
-|-----------------------------------------------------------------|-------------|
-| Perfil do usuário                                               | Gustavo Alves     |
-| Aspectos Éticos de Pesquisas com Pessoas                        | Gustavo Alves     |
-| Análise de tarefas                                              | Alana Gabriele, Gustavo Alves, Marco Tulio, Pedro Henrique, Renan Araújo, Yasmim Rosa       |
-| Princípios Gerais de Projeto                                    | Pedro Henrique       |
-| Planejamento da Avaliação da Análise de tarefas                 | Pedro Henrique       |
-| Metas de usabilidade                                            | Renan Araújo       |
-| Guia de Estilo e características da plataforma para o projeto   | Renan Araújo       |
-| Planejamento da Avaliação do Storyboard                         | Marco Tulio       |
-| Planejamento do relato dos resultados da avaliação do Storyboard| Marco Tulio       |
-| Planejamento do relato dos resultados da avaliação da Análise de tarefas | Alana Gabriele       |
-| Relato dos resultados do Storyboard                             | Alana Gabriele       |
-| Relato dos resultados da Análise de tarefas                     | Yasmim Rosa      |
-| Planejamento da Avaliação do Protótipo de Papel                 | Alana Gabriele       |
-| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Renan Araújo       |
-
 </center>
 <font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba)</p></font>
 
@@ -73,4 +61,4 @@ Na tabela 2, estão os responsáveis pela verificação de cada artefato.
 
 | Versão | Data       | Descrição                     | Autor                 | Revisor |
 | ------ | ---------- | ----------------------------- | --------------------- | ------- |
-| 1.0    | 11/06/2024 | Planejamento       | [Yasmim Rosa](https://github.com/yaskisoba) | [Renan Araújo](https://github.com/Renan Araújotfm4)|
+| 1.0    | 24/06/2024 | Planejamento       | [Yasmim Rosa](https://github.com/yaskisoba) | [Renan Araújo](https://github.com/Renan Araújotfm4)|

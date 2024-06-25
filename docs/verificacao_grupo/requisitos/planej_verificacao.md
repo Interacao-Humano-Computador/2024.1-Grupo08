@@ -75,28 +75,45 @@ As perguntas foram elaboradas seguindo as definições de Barbosa e Silva (2011)
     <tr>
       <th>Questão</th>
       <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade<th>
+      <th>Captura de Tela<th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>1. A quantidade de personas elaboradas foi justificada? </td>
       <td></td>
+      <td>Item 8.2, página 169, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/personas_1.png">Página 169</a> <br> <a href="../prints/personas_2.png">Página 169 - trecho 2</a> </td>
     </tr>
     <tr>
       <td>2. A elaboração das personas é coerente com o definido pelo perfil do usuário? </td>
       <td></td>
+      <td>Item 8.2, página 167, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/personas_3.png">Página 167</a> </td>
     </tr>
     <tr>
       <td>3. Cada persona possui informações que caracterizam sua identidade como nome e sobrenome como também uma foto que a torne mais realista?</td>
       <td></td>
+      <td>Item 8.2, página 168, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/personas_4.png">Página 168</a> </td>
     </tr>
     <tr>
       <td>4. As personas possuem objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas definidas? </td>
       <td></td>
+      <td>Item 8.2, página 167 e 168, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/personas_5.png">Página 167</a> <a href="../prints/personas_6.png">Página 168</a> </td>
     </tr>
     <tr>
       <td>5. É informado para qual propósito as personas serão utilizadas no decorrer do projeto??</td>
       <td></td>
+      <td>Item 8.2, página 169, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/personas_7.png">Página 169</a> </td>
     </tr>
   </tbody>
 </table>
@@ -166,40 +183,63 @@ As perguntas foram elaboradas seguindo as definições de Barbosa e Silva (2011)
     <tr>
       <th>Questão</th>
       <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade<th>
+      <th>Captura de Tela<th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>1. O objetivo do usuário é bem definido e alcançado ao fim da tarefa?</td>
       <td></td>
+      <td>Item 8.4.1, página 178, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_1.png">Página 178</a> </td>
     </tr>
     <tr>
       <td>2. As tarefas realizadas são justificáveis? (Possuem porquês e consequências relacionadas)
       </td>
       <td></td>
+      <td>Item 8.4.1, página 178, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_1.png">Página 178</a> </td>
     </tr>
     <tr>
       <td>3. O plano, conjunto de subobjetivos do HTA, são elaborados de forma que sua necessidade é clara para alcançar o objetivo final?
       </td>
       <td></td>
+      <td>Item 8.4.1, página 179, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_2.png">Página 179</a> </td>
     </tr>
     <tr>
       <td>4. O plano (HTA) possui relações que suportam o objetivo final e é finalizado com uma operação?</td>
       <td></td>
+      <td>Item 8.4.1, página 179, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_3.png">Página 179</a> <br> <a href="../prints/analise_tarefas_4.png">Página 179 - trecho 2</a> </td>
     </tr>
     <tr>
       <td>5. No método GOMS, possui os elementos característicos? Objetivos, operadores, métodos e regras de seleção.
       </td>
       <td></td>
+      <td>Item 8.4.2, página 181, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_5.png">Página 181</a>  </td>
     </tr>
     <tr>
       <td>6. O GOMS contém uma descrição detalhada do conhecimento necessário para realizar a tarefa?</td>
       <td></td>
+      <td>Item 8.4.2, página 182, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_6.png">Página 182</a>  </td>
     </tr>
     <tr>
       <td>7. É possível, por meio do GOMS, visualizar os procedimentos necessários para realizar a tarefa em um computador?
 </td>
       <td></td>
+      <td>Item 8.4.2, página 182, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_7.png">Página 182</a>  </td>
     </tr>
   </tbody>
 </table>
