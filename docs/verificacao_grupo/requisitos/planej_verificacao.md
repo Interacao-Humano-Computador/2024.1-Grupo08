@@ -1,7 +1,9 @@
 ## Introdução
+
 De acordo com Reinehr (2020), a verificação é comumente definida como a análise do produto para definir se ele foi construído de maneira correta. Levando em consideração essa definição, o planejamento dessa verificação terá enfoque em verificar a estrutura e a elaboração dos artefatos desenvolvidos pelo Grupo 1 responsável pelo projeto do site CD-MOJ.
 
 ## Metodologia
+
 A verificação será realizada por meio do método de inspeção por meio de uma revisão formal com o uso de checklists.
 
 Cada membro da equipe ficou com em média 2 artefatos para elaboração dos checklists, sendo quem elaborou o checklist impedido de o usar para verificar o artefato.
@@ -13,6 +15,7 @@ Cada membro da equipe ficou com em média 2 artefatos para elaboração dos chec
 <p>O artefato de perfil do usuário é necessário para entender qual o público do sistema.</p>
 
 As perguntas foram elaboradas seguindo as definições de Barbosa e Silva (2011) no capítulo 8 chamado de "Organização do Espaço de Problema", especificamente do tópico Perfil de Usuário.
+
 <h2> Checklist </h2>
 <p> Na tabela 1, está o checklist elaborado: </p>
 
@@ -122,18 +125,109 @@ As perguntas foram elaboradas seguindo as definições de Barbosa e Silva (2011)
 
 </details>
 
+<details>
+<summary>Artefato: Cenários (Renan Araújo)</summary>
+<p>O artefato de Cenários é necessário para entender a história do usuário</p>
+
+As perguntas foram elaboradas seguindo as definições de Barbosa e Silva (2011) no capítulo 8 chamado de "Organização do Espaço de Problema", especificamente do tópico Cenários.
+
+<h2> Checklist </h2>
+<p> Na tabela 1, está o checklist elaborado: </p>
+
+<font size="2"><p style="text-align: center"> Tabela 1 - Checklist de Verificação de Cenários </font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Questão</th>
+      <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade<th>
+      <th>Captura de Tela<th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1. O cenário contém atores ? </td>
+      <td></td>
+      <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_1.png">Página 172</a> </td>
+    </tr>
+    <tr>
+    <td>2. O cenário contém objetivos?  </td>
+      <td></td>
+      <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_2.png">Página 172</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3. O cenário contém um título auto-explicativo?   </td>
+      <td></td>
+      <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_3.png">Página 172</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4. O cenário inclui características do ator?   </td>
+      <td></td>
+      <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_4.png">Página 172</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+     <td>5. O cenário contém planejamento?    </td>
+      <td></td>
+      <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_5.png">Página 175</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+       <td>6. O cenário contém ações?    </td>
+      <td></td>
+      <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_6.png">Página 175</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+     <td>7. O cenário contém avaliação ?    </td>
+      <td></td>
+      <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_7.png">Página 175</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+     <td>8. O cenário contém ambiente ?  </td>
+      <td></td>
+      <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_8.png">Página 175</a> </td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Renan Araújo </a></p></font>
+
+</details>
+
 
 <details>
     <summary>Artefato: Aspectos Éticos de Pesquisas com Pessoas (Renan Araújo) </summary>
     <p> Para a realização de pesquisa com pessoas é necessário garantir seu bem-estar físico e psíquico antes, durante e após a pesquisa. </p>
 
     As perguntas foram elaboradas seguindo as definições de Barbosa e Silva (2011) no capítulo 7 chamado de "Identificação de Necessidades dos Usuários e Definição dos Requisitos", especificamente do tópico Aspectos éticos de pesquisas envolvendo pessoas.
-    
+
     <h2> Checklist </h2>
+
 <p> Na tabela 3, está o checklist elaborado: </p>
 
 <font size="2"><p style="text-align: center"> Tabela 3 - Checklist de Verificação dos Aspectos Éticos de Pesquisas com Pessoas </font>
-
 
   <table>
   <thead>
@@ -176,7 +270,7 @@ As perguntas foram elaboradas seguindo as definições de Barbosa e Silva (2011)
     <h2> Checklist </h2>
   <p> Na tabela 4, está o checklist elaborado: </p>
 
-  <font size="2"><p style="text-align: center"> Tabela 4 - Checklist de Verificação da Análise de Tarefas </font>
+<font size="2"><p style="text-align: center"> Tabela 4 - Checklist de Verificação da Análise de Tarefas </font>
 
   <table>
   <thead>
@@ -244,10 +338,9 @@ As perguntas foram elaboradas seguindo as definições de Barbosa e Silva (2011)
   </tbody>
 </table>
 
-  <font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa </a></p></font>
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa </a></p></font>
 
 </details>
-
 
 <details>
     <summary>Artefato: Princípios Gerais de Projeto (Yasmim Rosa) </summary>
@@ -256,32 +349,43 @@ As perguntas foram elaboradas seguindo as definições de Barbosa e Silva (2011)
   <h2> Checklist </h2>
   <p> Na tabela 5, está o checklist elaborado: </p>
 
-  <font size="2"><p style="text-align: center"> Tabela 5 - Checklist de Verificação dos Princípios Gerais de Projeto </font>
+<font size="2"><p style="text-align: center"> Tabela 5 - Checklist de Verificação dos Princípios Gerais de Projeto </font>
 
   <table>
   <thead>
     <tr>
       <th>Questão</th>
       <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade<th>
+      <th>Captura de Tela<th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>1. Os princípios levantados incluem os seguintes tópicos? Correspondência com as expectativas dos usuários; Simplicidade nas estruturas das tarefas; Equilíbrio entre controle e liberdade do usuário; Consistência e padronização; promoção da eficiência do usuário; Antecipação das necessidades do usuário;Visibilidade e reconhecimento; Conteúdo relevante e expressão adequada; e projeto para erros.</td>
       <td></td>
+      <td>Item 10.2, página 238, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/principios_gerais_1.png">Página 238</a> </td>
     </tr>
     <tr>
       <td>2. A apresentação dos princípios levantados segue um padrão coerente, ou seja, que permite clareza sobre a necessidade, transparece seu uso (ou não) e seus impactos na jornada do usuário?</td>
       <td></td>
+      <td>Item 10.1, página 238, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/principios_gerais_2.png">Página 238 </a> <br> <a href="../prints/principios_gerais_2.png">Página 238 - Trecho 2</a> </td>
     </tr>
     <tr>
       <td>3. Para cada princípio, foram indicados sua aplicação no site ou infração justificados por meio de figuras, vídeos, etc?</td>
+       <td></td>
+      <td>Item 10.1, página 238, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
+      <td> <a href="../prints/principios_gerais_3.png">Página 238 </a> </td>
     </tr>
   </tbody>
 </table>
 
-  <font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa </a></p></font>
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa </a></p></font>
 
 </details>
 
@@ -291,7 +395,7 @@ As perguntas foram elaboradas seguindo as definições de Barbosa e Silva (2011)
   <h2> Checklist </h2>
   <p> Na tabela 6, está o checklist elaborado: </p>
 
-  <font size="2"><p style="text-align: center"> Tabela 6 - Checklist de Verificação de Metas de usabilidade </font>
+<font size="2"><p style="text-align: center"> Tabela 6 - Checklist de Verificação de Metas de usabilidade </font>
 
 <table>
   <thead>
@@ -341,13 +445,15 @@ usuários? </td>
     <h2> Checklist </h2>
   <p> Na tabela 7, está o checklist elaborado: </p>
 
-  <font size="2"><p style="text-align: center"> Tabela 7 - Checklist de Verificação de Guia de Estilo e características da plataforma para o projeto </font>
+<font size="2"><p style="text-align: center"> Tabela 7 - Checklist de Verificação de Guia de Estilo e características da plataforma para o projeto </font>
 
   <table>
   <thead>
     <tr>
       <th>Questão</th>
       <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade<th>
+      <th>Captura de Tela<th>
     </tr>
   </thead>
   <tbody>
@@ -355,28 +461,40 @@ usuários? </td>
       <td>1. A introdução inclui orientações sobre como utilizar e manter o guia de estilo?
       </td>
       <td></td>
+      <td>Item 10.5, página 258, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td>  <a href="../prints/guia_de_estilo_1.png">Imagem</a> </td>
     </tr>
     <tr>
       <td>2. O guia de estilo aborda de maneira detalhada a disposição espacial, janelas, tipografia símbolos não tipográficos, cores e animações?</td>
       <td></td>
+      <td>Item 10.5, página 258, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td>  <a href="../prints/guia_de_estilo_2.png">Imagem</a> </td>
     </tr>
     <tr>
       <td>3. O guia de estilo define um vocabulário e padrões claros, incluindo terminologia, tipos de telas para tarefas comuns e sequências de diálogos?
     </td>
       <td></td>
+      <td>Item 10.5, página 258, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td>  <a href="../prints/guia_de_estilo_3.png">Imagem</a> </td>
+    </tr>
     </tr>
     <tr>
       <td>4. O guia de estilo identifica claramente o público-alvo? </td>
       <td></td>
+     <td>Item 10.5, página 258, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td>  <a href="../prints/guia_de_estilo_4.png">Imagem</a> </td>
     </tr>
     <tr>
       <td>5. O guia de estilo inclui diretrizes sobre os estilos de interação, a seleção de estilos e o uso de aceleradores como teclas de atalho?
-     </td>
+      </td>
       <td></td>
-    </tr>
-    <tr>
-      <td>6. A construção do artefato inclui introdução, bibliografia e histório de versões? </td>
+       <td>Item 10.5, página 258, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
+      <td>  <a href="../prints/guia_de_estilo_5.png">Imagem</a> </td>
     </tr>
   </tbody>
 </table>
@@ -385,30 +503,28 @@ usuários? </td>
 
 </details>
 
-
-
 ## Verificação dos Artefatos
+
 Os responsáveis pela verificação com o uso dos checklists elaborados estão na tabela 8:
 
 <font size="2"><p style="text-align: center"> Tabela 8 - Responsáveis pela Verificação dos Artefatos </font>
 
-| Responsável    | Artefato |
-|----------------|----------|
-| Gustavo Alves  | Perfil do Usuário|
-| Marco Tulio    | Personas |
-| Gustavo Alves  | Aspectos Éticos de Pesquisas com Pessoas |
-| Alana Gabriele, Gustavo Alves, Marco Tulio, Renan Araújo, Yasmim Rosa | Análise de Tarefas |
-| Pedro Henrique | Princípios Gerais de Projeto |
-| Renan Araújo   | Metas de Usabilidade |
-| Renan Araújo   | Guia de Estilo e características da plataforma para o projeto |
+| Responsável                                                           | Artefato                                                      |
+| --------------------------------------------------------------------- | ------------------------------------------------------------- |
+| Gustavo Alves                                                         | Perfil do Usuário                                             |
+| Marco Tulio                                                           | Personas                                                      |
+| Gustavo Alves                                                         | Aspectos Éticos de Pesquisas com Pessoas                      |
+| Alana Gabriele, Gustavo Alves, Marco Tulio, Renan Araújo, Yasmim Rosa | Análise de Tarefas                                            |
+| Pedro Henrique                                                        | Princípios Gerais de Projeto                                  |
+| Renan Araújo                                                          | Metas de Usabilidade                                          |
+| Renan Araújo                                                          | Guia de Estilo e características da plataforma para o projeto |
 
 <font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa </a></p></font>
-
-
 
 Cada membro responsável deve utilizar a checklist disponibilizada para o artefato além de trazer sugestões de melhoriais se aplicável.
 
 ## Bibliografia
+
 > REINEHR, Sheila. Engenharia de requisitos. Grupo A, 2020. E-book. ISBN 9786556900674. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786556900674/. Acesso em: 11 jun. 2024.
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
@@ -417,10 +533,11 @@ Cada membro responsável deve utilizar a checklist disponibilizada para o artefa
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                     | Autor                 | Revisor |
-| ------ | ---------- | ----------------------------- | --------------------- | ------- |
-| 1.0    | 11/06/2024 | Planejamento       | [Yasmim Rosa](https://github.com/yaskisoba) | [Renan Araújo](https://github.com/renantfm4)|
-| 1.1    | 11/06/2024 | Artefato análise de tarefas, personas e principios gerais       | [Yasmim Rosa](https://github.com/yaskisoba) | [Marco Tulio](https://github.com/)|
-| 1.2    | 11/06/2024 | Artefatos Perfil do Usuário e Aspectos Éticos       | [Renan Araújo](https://github.com/) | [Yasmim Rosa](https://github.com/)|
-| 1.3    | 11/06/2024 | Artefato metas de usabilidade       | [Marco Tulio](https://github.com/) | [Gustavo Alves](https://github.com/)|
-| 1.4    | 11/06/2024 | Artefato Guia de Estilo       | [Alana Gabriele](https://github.com/) | [Gustavo Alves](https://github.com/)|
+| Versão | Data       | Descrição                                                 | Autor                                       | Revisor                                      |
+| ------ | ---------- | --------------------------------------------------------- | ------------------------------------------- | -------------------------------------------- |
+| 1.0    | 11/06/2024 | Planejamento                                              | [Yasmim Rosa](https://github.com/yaskisoba) | [Renan Araújo](https://github.com/renantfm4) |
+| 1.1    | 11/06/2024 | Artefato análise de tarefas, personas e principios gerais | [Yasmim Rosa](https://github.com/yaskisoba) | [Marco Tulio](https://github.com/)           |
+| 1.2    | 11/06/2024 | Artefatos Perfil do Usuário e Aspectos Éticos             | [Renan Araújo](https://github.com/)         | [Yasmim Rosa](https://github.com/)           |
+| 1.3    | 11/06/2024 | Artefato metas de usabilidade                             | [Marco Tulio](https://github.com/)          | [Gustavo Alves](https://github.com/)         |
+| 1.4    | 11/06/2024 | Artefato Guia de Estilo                                   | [Alana Gabriele](https://github.com/)       | [Gustavo Alves](https://github.com/)         |
+| 1.5    | 26/06/2024 | Referencias na Guia de Estilo                             | [Alana Gabriele](https://github.com/)       | [Yasmim Rosa](https://github.com/)           |
