@@ -144,37 +144,53 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
 
 <font size="2"><p style="text-align: center"> Tabela 3 - Checklist de Verificação do Planejamento do relato dos resultados da avaliação da Análise de tarefas </font>
 
-  <table>
+   <table>
   <thead>
     <tr>
       <th>Questão</th>
       <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade<th>
+      <th>Captura de Tela<th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>1. A estrutura geral do relato é a mesma definida no planejamento mas de maneira detalhada com instruções?</td>
+      <td>1. Os métodos de avaliação a serem utilizados foram escolhidos?</td>
       <td></td>
+      <td> Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 272.</td>
+      <td></td>
+      <td> <a href="../prints/PlanejamentoResultadoStoryboard.png">Página 272</a> </td>
     </tr>
     <tr>
-      <td>2. A metodologia da avaliação foi definida?
+      <td>2. Os objetivos específicos da avaliação do storyboard foram definidos? 
       </td>
       <td></td>
+      <td>Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 274.</td>
+      <td></td>
+      <td> <a href="../prints/PlanejamentoResultadoStoryboard1.png">Página 274</a> </td>
     </tr>
     <tr>
-      <td>3. Os objetivos específicos da avaliação foram definidos?
+      <td>3.  O processo de avaliação foi revisado para identificar eficiência?
       </td>
       <td></td>
+      <td>Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 276.</td>
+      <td></td>
+      <td> <a href="../prints/PlanejamentoResultadoStoryboard2.png">Página 276</a> </td>
     </tr>
     <tr>
-      <td>4. Os problemas e dificuldades encontrados durante o teste piloto foram documentados?
-      </td>
+      <td>4. Os métodos de análise dos dados coletados foram definidos? </td>
       <td></td>
+      <td>Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 277.</td>
+      <td></td>
+      <td> <a href="../prints/PlanejamentoResultadoStoryboard3.png">Página 277</a> <br> 
     </tr>
     <tr>
       <td>5. Os próximos passos após a apresentação dos resultados foram planejados?
       </td>
       <td></td>
+      <td> Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 279.</td>
+      <td></td>
+      <td> <a href="../prints/PlanejamentoResultadoStoryboard4.png">Página 279</a>  </td>
     </tr>
   </tbody>
 </table>
@@ -215,9 +231,9 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
       <td>2. Os objetivos específicos da avaliação do storyboard foram definidos? 
       </td>
       <td></td>
-      <td>Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 264.</td>
+      <td>Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 274.</td>
       <td></td>
-      <td> <a href="../prints/PlanejamentoResultadoStoryboard1.png">Página 264</a> </td>
+      <td> <a href="../prints/PlanejamentoResultadoStoryboard1.png">Página 274</a> </td>
     </tr>
     <tr>
       <td>3.  O processo de avaliação foi revisado para identificar eficiência?
