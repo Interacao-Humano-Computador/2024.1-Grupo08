@@ -203,11 +203,11 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
   </thead>
   <tbody>
     <tr>
-      <td>1. A estrutura geral do relato é a mesma definida no planejamento mas de maneira detalhada com instruções?</td>
+      <td>1. Os métodos de avaliação a serem utilizados foram escolhidos?</td>
       <td></td>
     </tr>
     <tr>
-      <td>2. A metodologia da avaliação foi definida?
+      <td>2. Os objetivos específicos da avaliação do storyboard foram definidos? 
       </td>
       <td></td>
     </tr>
@@ -249,29 +249,25 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
   </thead>
   <tbody>
     <tr>
-      <td>1. Há uma explicação de como os resultados serão utilizados?</td>
+      <td>1. O método de avaliação a ser utilizado foi escolhido?</td>
       <td></td>
     </tr>
     <tr>
-      <td>2. É citado sobre quais foram os instrumentos utilizados para a avaliação? (questionários, roteiros de entrevista, etc.)
+      <td>2. Os objetivos específicos da avaliação foram definidos?
 </td>
       <td></td>
     </tr>
     <tr>
-      <td>3. O perfil dos participantes é representativo do público-alvo? </td>
+      <td>3. Os problemas e dificuldades encontrados durante a avaliação foram documentados? </td>
       <td></td>
     </tr>
     <tr>
-      <td>4. As questões éticas relacionadas aos participantes foram abordadas?
+      <td>4. O planejamento de reprojeto foi iniciado com base nos resultados da avaliação
 </td>
       <td></td>
     </tr>
     <tr>
-      <td>5.O feedback foi analisado para identificar tendências e padrões comuns? </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>6. Existe um cronograma para possíveis melhorias? </td>
+      <td>5.As sugestões de melhoria baseadas nos resultados da avaliação foram propostas?  </td>
       <td></td>
     </tr>
   </tbody>
