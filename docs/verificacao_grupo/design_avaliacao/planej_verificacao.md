@@ -159,7 +159,7 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
       <td></td>
       <td> Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 272.</td>
       <td></td>
-      <td> <a href="../prints/PlanejamentoResultadoStoryboard.png">Página 272</a> </td>
+      <td> <a href="../prints/PlanejamentoResultadoAnalise.png">Página 272</a> </td>
     </tr>
     <tr>
       <td>2. Os objetivos específicos da avaliação do storyboard foram definidos? 
@@ -167,7 +167,7 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
       <td></td>
       <td>Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 274.</td>
       <td></td>
-      <td> <a href="../prints/PlanejamentoResultadoStoryboard1.png">Página 274</a> </td>
+      <td> <a href="../prints/PlanejamentoResultadoAnalise1.png">Página 274</a> </td>
     </tr>
     <tr>
       <td>3.  Os problemas e dificuldades encontrados durante a avaliação foram documentados?
@@ -175,14 +175,14 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
       <td></td>
       <td>Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 283</td>
       <td></td>
-      <td> <a href="../prints/PlanejamentoResultadoStoryboard2.png">Página 283</a> </td>
+      <td> <a href="../prints/PlanejamentoResultadoAnalise2.png">Página 283</a> </td>
     </tr>
     <tr>
       <td>4. O planejamento de reprojeto foi iniciado com base nos resultados da avaliação? </td>
       <td></td>
       <td>Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 302</td>
       <td></td>
-      <td> <a href="../prints/PlanejamentoResultadoStoryboard3.png">Página 302</a> <br> 
+      <td> <a href="../prints/PlanejamentoResultadoAnalise3.png">Página 302</a> <br> 
     </tr>
     <tr>
       <td>5. As sugestões de melhoria baseadas nos resultados da avaliação foram propostas?
@@ -190,7 +190,7 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
       <td></td>
       <td>Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 303</td>
       <td></td>
-      <td> <a href="../prints/PlanejamentoResultadoStoryboard4.png">Página 303</a>  </td>
+      <td> <a href="../prints/PlanejamentoResultadoAnalise4.png">Página 303</a>  </td>
     </tr>
   </tbody>
 </table>
