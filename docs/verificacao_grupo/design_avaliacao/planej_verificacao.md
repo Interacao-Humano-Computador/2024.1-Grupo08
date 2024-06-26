@@ -459,7 +459,7 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
  </summary>
   As perguntas foram elaboradas seguindo as definições e passos sugeridos por Barbosa e Silva (2011) no capítulo 11 chamado de "Planejamento da Avaliação de IHC", em especial o tópico Consolidação e Relato dos Resultados.
 
-    <h2> Checklist </h2>
+  <h2> Checklist </h2>
 
   <p> Na tabela 8, está o checklist elaborado: </p>
 
@@ -504,11 +504,67 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
 
 </details>
 
+<details>
+    <summary> Artefato: Planejamento do Relato do Protótipo de Alta Fidelidade (Yasmim Rosa)
+ </summary>
+  As perguntas foram elaboradas seguindo as definições e passos sugeridos por Barbosa e Silva (2011) no capítulo 11 chamado de "Planejamento da Avaliação de IHC", em especial o tópico Consolidação e Relato dos Resultados.
+
+  <h2> Checklist </h2>
+
+  <p> Na tabela 9, está o checklist elaborado: </p>
+
+<font size="2"><p style="text-align: center"> Tabela 9 - Checklist de Verificação do Planejamento do Relato do Protótipo de Alta Fidelidade </font>
+
+  <table>
+  <thead>
+    <tr>
+      <th>Questão</th>
+      <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade<th>
+      <th>Captura de Tela<th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1. É separada os resultados de cada avaliação com as observações e resultados individuais em diferentes tópicos? </td>
+      <td></td>
+      <td>Item 11.7.5, página 279, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/PlanejamentoRelatoPrototipoAltaFide_1.png">Página 279</a> </td>
+    </tr>
+    <tr>
+      <td>2. Há um espaço para responder se as questões que motivaram o estudo são respondidas ou jutificada sua ausência de resposta? </td>
+      <td></td>
+      <td>Item 11.7.5, página 279, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/PlanejamentoRelatoPrototipoAltaFide_2.png">Página 279</a> </td>
+    </tr>
+    <tr>
+      <td>3. Os dados possui um espaço para os dados serem generalizados para identificar recorrências?</td>
+      <td></td>
+      <td>Item 11.7.5, página 279, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/PlanejamentoRelatoPrototipoAltaFide_2.png">Página 279</a> </td>
+    </tr>
+    <tr>
+      <td>4. A estrutura do relato segue um modelo de modo a incluir os objetivos, escopo, informações da avaliação, sumário dos dados encontrados e planejamento de reprojeto por exemplo? </td>
+      <td></td>
+      <td>Item 11.7.5 página 279, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/PlanejamentoRelatoPrototipoAltaFide_5.png">Página 279</a> </td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa </a></p></font>
+
+</details>
+
 ## Verificação dos Artefatos
 
-Os responsáveis pela verificação com o uso dos checklists elaborados estão na tabela 9:
+Os responsáveis pela verificação com o uso dos checklists elaborados estão na tabela 10:
 
-<font size="2"><p style="text-align: center"> Tabela 9 - Responsáveis pela Verificação dos Artefatos </font>
+<font size="2"><p style="text-align: center"> Tabela 10 - Responsáveis pela Verificação dos Artefatos </font>
 
 <center>
 
