@@ -387,6 +387,8 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
     <tr>
       <th>Questão</th>
       <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade<th>
+      <th>Captura de Tela<th>
     </tr>
   </thead>
   <tbody>
@@ -394,35 +396,56 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
       <td>1. Utiliza o framework DECIDE?
       </td>
       <td></td>
+      <td>Item 11.8, página 280, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../printsPlanejamentoAvaliacaoPrototipoPapel_1.png">Página 280</a> </td>
     </tr>
     <tr>
       <td>2. O(s) objetivo(s) foi/foram declarado(s) respeitando àqueles definidos por Sharp et al.?
         </td>
       <td></td>
+      <td>Item 11.2, página 264, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../printsPlanejamentoAvaliacaoPrototipoPapel_2.png">Página 264</a> </td>
     </tr>
     <tr>
       <td>3. As perguntas exploratórias foram definidas com base no(s) objetivo(s) escolhido(s) de forma a serem respondidas ao fim da avaliação?
     </td>
       <td></td>
+      <td>Item 11.2, página 266, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../printsPlanejamentoAvaliacaoPrototipoPapel_3.png">Página 266</a> </td>
     </tr>
     <tr>
       <td>4. As questões práticas incluem etapas de preparação, recrutamento, organização temporal e espacial (cronograma e locais para realização) bem como o roteiro a ser utilizado? </td>
       <td></td>
+      <td>Item 11.7, página 275, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../printsPlanejamentoAvaliacaoPrototipoPapel_4.png">Página 275</a> </td>
     </tr>
     <tr>
       <td>5. São considerados os aspectos éticos para realização? É indicado em qual momento será introduzido ao participante durante a execução da avaliação?
      </td>
       <td></td>
+      <td>Item 7.4, página 140, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../printsPlanejamentoAvaliacaoPrototipoPapel_5.png">Página 140</a> </td>
     </tr>
     <tr>
       <td>6. É definida uma estrutura para apresentação dos dados bem como a estratégia a ser utilizada para análise dos dados?
       </td>
       <td></td>
+      <td>Item 11.7, página 279, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../printsPlanejamentoAvaliacaoPrototipoPapel_6.png">Página 279</a> </td>
     </tr>
     <tr>
       <td>7. O teste piloto foi realizado e ajustes realizados para um melhor andamento da avaliação?
       </td>
       <td></td>
+      <td>Item 11.7.2, página 276, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../printsPlanejamentoAvaliacaoPrototipoPapel_6.png">Página 276</a> </td>
     </tr>
   </tbody>
 </table>
