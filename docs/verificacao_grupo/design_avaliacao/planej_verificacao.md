@@ -170,27 +170,27 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
       <td> <a href="../prints/PlanejamentoResultadoStoryboard1.png">Página 274</a> </td>
     </tr>
     <tr>
-      <td>3.  O processo de avaliação foi revisado para identificar eficiência?
+      <td>3.  Os problemas e dificuldades encontrados durante a avaliação foram documentados?
       </td>
       <td></td>
-      <td>Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 276.</td>
+      <td>Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 283</td>
       <td></td>
-      <td> <a href="../prints/PlanejamentoResultadoStoryboard2.png">Página 276</a> </td>
+      <td> <a href="../prints/PlanejamentoResultadoStoryboard2.png">Página 283</a> </td>
     </tr>
     <tr>
-      <td>4. Os métodos de análise dos dados coletados foram definidos? </td>
+      <td>4. O planejamento de reprojeto foi iniciado com base nos resultados da avaliação? </td>
       <td></td>
-      <td>Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 277.</td>
+      <td>Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 302</td>
       <td></td>
-      <td> <a href="../prints/PlanejamentoResultadoStoryboard3.png">Página 277</a> <br> 
+      <td> <a href="../prints/PlanejamentoResultadoStoryboard3.png">Página 302</a> <br> 
     </tr>
     <tr>
-      <td>5. Os próximos passos após a apresentação dos resultados foram planejados?
+      <td>5. As sugestões de melhoria baseadas nos resultados da avaliação foram propostas?
       </td>
       <td></td>
-      <td> Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 279.</td>
+      <td>Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 303</td>
       <td></td>
-      <td> <a href="../prints/PlanejamentoResultadoStoryboard4.png">Página 279</a>  </td>
+      <td> <a href="../prints/PlanejamentoResultadoStoryboard4.png">Página 303</a>  </td>
     </tr>
   </tbody>
 </table>
