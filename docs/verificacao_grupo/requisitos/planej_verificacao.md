@@ -264,20 +264,31 @@ As perguntas foram elaboradas seguindo as definições de Barbosa e Silva (2011)
     <tr>
       <th>Questão</th>
       <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade<th>
+      <th>Captura de Tela<th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>1. Os princípios levantados incluem os seguintes tópicos? Correspondência com as expectativas dos usuários; Simplicidade nas estruturas das tarefas; Equilíbrio entre controle e liberdade do usuário; Consistência e padronização; promoção da eficiência do usuário; Antecipação das necessidades do usuário;Visibilidade e reconhecimento; Conteúdo relevante e expressão adequada; e projeto para erros.</td>
       <td></td>
+      <td>Item 10.2, página 238, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/principios_gerais_1.png">Página 238</a> </td>
     </tr>
     <tr>
       <td>2. A apresentação dos princípios levantados segue um padrão coerente, ou seja, que permite clareza sobre a necessidade, transparece seu uso (ou não) e seus impactos na jornada do usuário?</td>
       <td></td>
+      <td>Item 10.1, página 238, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/principios_gerais_2.png">Página 238 </a> <br> <a href="../prints/principios_gerais_2.png">Página 238 - Trecho 2</a> </td>
     </tr>
     <tr>
       <td>3. Para cada princípio, foram indicados sua aplicação no site ou infração justificados por meio de figuras, vídeos, etc?</td>
+       <td></td>
+      <td>Item 10.1, página 238, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
+      <td> <a href="../prints/principios_gerais_3.png">Página 238 </a> </td>
     </tr>
   </tbody>
 </table>
