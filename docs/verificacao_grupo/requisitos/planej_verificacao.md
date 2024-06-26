@@ -126,6 +126,98 @@ As perguntas foram elaboradas seguindo as definições de Barbosa e Silva (2011)
 </details>
 
 <details>
+<summary>Artefato: Cenários (Renan Araújo)</summary>
+<p>O artefato de Cenários é necessário para entender a história do usuário</p>
+
+As perguntas foram elaboradas seguindo as definições de Barbosa e Silva (2011) no capítulo 8 chamado de "Organização do Espaço de Problema", especificamente do tópico Cenários.
+
+<h2> Checklist </h2>
+<p> Na tabela 1, está o checklist elaborado: </p>
+
+<font size="2"><p style="text-align: center"> Tabela 1 - Checklist de Verificação de Cenários </font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Questão</th>
+      <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade<th>
+      <th>Captura de Tela<th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1. O cenário contém atores ? </td>
+      <td></td>
+      <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_1.png">Página 172</a> </td>
+    </tr>
+    <tr>
+    <td>2. O cenário contém objetivos?  </td>
+      <td></td>
+      <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_2.png">Página 172</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3. O cenário contém um título auto-explicativo?   </td>
+      <td></td>
+      <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_3.png">Página 172</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4. O cenário inclui características do ator?   </td>
+      <td></td>
+      <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_4.png">Página 172</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+     <td>5. O cenário contém planejamento?    </td>
+      <td></td>
+      <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_5.png">Página 175</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+       <td>6. O cenário contém ações?    </td>
+      <td></td>
+      <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_6.png">Página 175</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+     <td>7. O cenário contém avaliação ?    </td>
+      <td></td>
+      <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_7.png">Página 175</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+     <td>8. O cenário contém ambiente ?  </td>
+      <td></td>
+      <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_8.png">Página 175</a> </td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Renan Araújo </a></p></font>
+
+</details>
+
+
+<details>
     <summary>Artefato: Aspectos Éticos de Pesquisas com Pessoas (Renan Araújo) </summary>
     <p> Para a realização de pesquisa com pessoas é necessário garantir seu bem-estar físico e psíquico antes, durante e após a pesquisa. </p>
 
