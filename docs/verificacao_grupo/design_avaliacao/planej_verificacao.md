@@ -209,7 +209,7 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
       <td></td>
       <td> Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 272.</td>
       <td></td>
-      <td> <a href="../prints/analise_tarefas_1.png">Página 272</a> </td>
+      <td> <a href="../prints/PlanejamentoResultadoStoryboard.png">Página 272</a> </td>
     </tr>
     <tr>
       <td>2. Os objetivos específicos da avaliação do storyboard foram definidos? 
