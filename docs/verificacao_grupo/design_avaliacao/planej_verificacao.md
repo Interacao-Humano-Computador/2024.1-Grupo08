@@ -209,7 +209,7 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
       <td></td>
       <td> Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 272.</td>
       <td></td>
-      <td> <a href="../prints/analise_tarefas_1.png">Página 178</a> </td>
+      <td> <a href="../prints/analise_tarefas_1.png">Página 272</a> </td>
     </tr>
     <tr>
       <td>2. Os objetivos específicos da avaliação do storyboard foram definidos? 
@@ -217,7 +217,7 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
       <td></td>
       <td>Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 264.</td>
       <td></td>
-      <td> <a href="../prints/analise_tarefas_1.png">Página 178</a> </td>
+      <td> <a href="../prints/analise_tarefas_1.png">Página 264</a> </td>
     </tr>
     <tr>
       <td>3.  O processo de avaliação foi revisado para identificar eficiência?
@@ -225,14 +225,14 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
       <td></td>
       <td>Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 276.</td>
       <td></td>
-      <td> <a href="../prints/analise_tarefas_2.png">Página 179</a> </td>
+      <td> <a href="../prints/analise_tarefas_2.png">Página 276</a> </td>
     </tr>
     <tr>
       <td>4. Os métodos de análise dos dados coletados foram definidos? </td>
       <td></td>
       <td>Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 277.</td>
       <td></td>
-      <td> <a href="../prints/analise_tarefas_3.png">Página 179</a> <br> <a href="../prints/analise_tarefas_4.png">Página 179 - trecho 2</a> </td>
+      <td> <a href="../prints/analise_tarefas_3.png">Página 277</a> <br> <a href="../prints/analise_tarefas_4.png">Página 179 - trecho 2</a> </td>
     </tr>
     <tr>
       <td>5. Os próximos passos após a apresentação dos resultados foram planejados?
@@ -240,7 +240,7 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
       <td></td>
       <td> Barbosa, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021, p. 279.</td>
       <td></td>
-      <td> <a href="../prints/analise_tarefas_5.png">Página 181</a>  </td>
+      <td> <a href="../prints/analise_tarefas_5.png">Página 279</a>  </td>
     </tr>
   </tbody>
 </table>
