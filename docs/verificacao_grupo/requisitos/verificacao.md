@@ -123,6 +123,557 @@ O responsável pela verificação deste artefato é o <b>Marco Tulio</b> o check
 </details>
 
 <details>
+<summary>Artefato: Cenários </summary>
+O responsável pela verificação deste artefato é são todos os membros da equipe ( Alana Gabriele, Gustavo Alves, Marco Tulio, Renan Araújo, Pedro Henrique ) incluido a pessoa responsável pela elaboração do checklist (Renan Araújo).
+
+<h2> Funcionalidade: Rastreamento de Ônibus em Tempo Real - Yasmim Rosa  </h2>
+<h2> Checklist </h2>
+<p> Na tabela 3, está o checklist com suas devidas respostas: </p>
+
+<font size="2"><p style="text-align: center"> Tabela 3 - Checklist de Verificação do cenário Rastreamento de Ônibus em Tempo Real </font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Questão</th>
+      <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade<th>
+      <th>Captura de Tela<th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1. O cenário contém atores ? </td>
+      <td></td>
+      <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_1.png">Página 172</a> </td>
+    </tr>
+    <tr>
+    <td>2. O cenário contém objetivos?  </td>
+      <td></td>
+      <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_2.png">Página 172</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3. O cenário contém um título auto-explicativo?   </td>
+      <td></td>
+      <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_3.png">Página 172</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4. O cenário inclui características do ator?   </td>
+      <td></td>
+      <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_4.png">Página 172</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+     <td>5. O cenário contém planejamento?    </td>
+      <td></td>
+      <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_5.png">Página 175</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+       <td>6. O cenário contém ações?    </td>
+      <td></td>
+      <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_6.png">Página 175</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+     <td>7. O cenário contém avaliação ?    </td>
+      <td></td>
+      <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_7.png">Página 175</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+     <td>8. O cenário contém ambiente ?  </td>
+      <td></td>
+      <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_8.png">Página 175</a> </td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa </a></p></font>
+
+<h2>Sugestões de Melhoria</h2>
+
+<p></p>
+
+<h3> Vídeo da Verificação </h3>
+<!-- iframe aqui -->
+
+<h2> Funcionalidade: Compartilhamento de Trajetos - Pedro Henrique </h2>
+<h2> Checklist </h2>
+<p> Na tabela 3, está o checklist com suas devidas respostas: </p>
+
+<font size="2"><p style="text-align: center"> Tabela 4 - Checklist de Verificação do cenário Compartilhamento de Trajetos </font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Questão</th>
+      <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade<th>
+      <th>Captura de Tela<th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1. O cenário contém atores ? </td>
+      <td></td>
+      <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_1.png">Página 172</a> </td>
+    </tr>
+    <tr>
+    <td>2. O cenário contém objetivos?  </td>
+      <td></td>
+      <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_2.png">Página 172</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3. O cenário contém um título auto-explicativo?   </td>
+      <td></td>
+      <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_3.png">Página 172</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4. O cenário inclui características do ator?   </td>
+      <td></td>
+      <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_4.png">Página 172</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+     <td>5. O cenário contém planejamento?    </td>
+      <td></td>
+      <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_5.png">Página 175</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+       <td>6. O cenário contém ações?    </td>
+      <td></td>
+      <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_6.png">Página 175</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+     <td>7. O cenário contém avaliação ?    </td>
+      <td></td>
+      <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_7.png">Página 175</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+     <td>8. O cenário contém ambiente ?  </td>
+      <td></td>
+      <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_8.png">Página 175</a> </td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Pedro Henrique </a></p></font>
+
+<h2>Sugestões de Melhoria</h2>
+
+<p></p>
+
+<h3> Vídeo da Verificação </h3>
+<!-- iframe aqui -->
+
+<h2> Funcionalidade: Histórico de passagens compradas - Renan Araújo </h2>
+<h2> Checklist </h2>
+<p> Na tabela 3, está o checklist com suas devidas respostas: </p>
+
+<font size="2"><p style="text-align: center"> Tabela 5 - Checklist de Verificação do cenário Histórico de passagens compradas </font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Questão</th>
+      <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade<th>
+      <th>Captura de Tela<th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1. O cenário contém atores ? </td>
+      <td></td>
+      <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_1.png">Página 172</a> </td>
+    </tr>
+    <tr>
+    <td>2. O cenário contém objetivos?  </td>
+      <td></td>
+      <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_2.png">Página 172</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3. O cenário contém um título auto-explicativo?   </td>
+      <td></td>
+      <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_3.png">Página 172</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4. O cenário inclui características do ator?   </td>
+      <td></td>
+      <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_4.png">Página 172</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+     <td>5. O cenário contém planejamento?    </td>
+      <td></td>
+      <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_5.png">Página 175</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+       <td>6. O cenário contém ações?    </td>
+      <td></td>
+      <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_6.png">Página 175</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+     <td>7. O cenário contém avaliação ?    </td>
+      <td></td>
+      <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_7.png">Página 175</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+     <td>8. O cenário contém ambiente ?  </td>
+      <td></td>
+      <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_8.png">Página 175</a> </td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Renan Araújo </a></p></font>
+
+<h2>Sugestões de Melhoria</h2>
+
+<p></p>
+
+<h3> Vídeo da Verificação </h3>
+<!-- iframe aqui -->
+
+<h2> Funcionalidade: Acúmulo de Pontos por Trajeto - Alana Gabriele </h2>
+<h2> Checklist </h2>
+<p> Na tabela 3, está o checklist com suas devidas respostas: </p>
+
+<font size="2"><p style="text-align: center"> Tabela 6 - Checklist de Verificação do Acúmulo de Pontos por Trajeto </font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Questão</th>
+      <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade<th>
+      <th>Captura de Tela<th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1. O cenário contém atores ? </td>
+      <td>Sim</td>
+      <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_1.png">Página 172</a> </td>
+    </tr>
+    <tr>
+    <td>2. O cenário contém objetivos?  </td>
+      <td>Sim</td>
+      <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_2.png">Página 172</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3. O cenário contém um título auto-explicativo?   </td>
+      <td>Sim</td>
+      <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_3.png">Página 172</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4. O cenário inclui características do ator?   </td>
+      <td>Sim</td>
+      <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_4.png">Página 172</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+     <td>5. O cenário contém planejamento?    </td>
+      <td>Sim</td>
+      <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_5.png">Página 175</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+       <td>6. O cenário contém ações?    </td>
+      <td>Sim</td>
+      <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_6.png">Página 175</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+     <td>7. O cenário contém avaliação ?    </td>
+      <td>Sim</td>
+      <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_7.png">Página 175</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+     <td>8. O cenário contém ambiente ?  </td>
+      <td>Não</td>
+      <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_8.png">Página 175</a> </td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Alana Gabriele </a></p></font>
+
+<h2>Sugestões de Melhoria</h2>
+
+<p> Adicionar o ambiente do cenário.</p>
+
+<h3> Vídeo da Verificação </h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ndbmxhkUcCQ?si=_vXSg4NdplWIAD5Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<h2> Funcionalidade: Acompanhar compra de passagem - Marco Tulio</h2>
+<h2> Checklist </h2>
+<p> Na tabela 3, está o checklist com suas devidas respostas: </p>
+
+<font size="2"><p style="text-align: center"> Tabela 7 - Checklist de Verificação do cenário Acompanhar compra de passagem </font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Questão</th>
+      <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade<th>
+      <th>Captura de Tela<th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1. O cenário contém atores ? </td>
+      <td></td>
+      <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_1.png">Página 172</a> </td>
+    </tr>
+    <tr>
+    <td>2. O cenário contém objetivos?  </td>
+      <td></td>
+      <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_2.png">Página 172</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3. O cenário contém um título auto-explicativo?   </td>
+      <td></td>
+      <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_3.png">Página 172</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4. O cenário inclui características do ator?   </td>
+      <td></td>
+      <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_4.png">Página 172</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+     <td>5. O cenário contém planejamento?    </td>
+      <td></td>
+      <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_5.png">Página 175</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+       <td>6. O cenário contém ações?    </td>
+      <td></td>
+      <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_6.png">Página 175</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+     <td>7. O cenário contém avaliação ?    </td>
+      <td></td>
+      <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_7.png">Página 175</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+     <td>8. O cenário contém ambiente ?  </td>
+      <td></td>
+      <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_8.png">Página 175</a> </td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Marco Tulio </a></p></font>
+
+<h2>Sugestões de Melhoria</h2>
+
+<p></p>
+
+<h3> Vídeo da Verificação </h3>
+<!-- iframe aqui -->
+
+<h2> Funcionalidade: Comprar passagem - Gustavo Alves </h2>
+<h2> Checklist </h2>
+<p> Na tabela 3, está o checklist com suas devidas respostas: </p>
+
+<font size="2"><p style="text-align: center"> Tabela 8 - Checklist de Verificação do cenário Comprar passagem </font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Questão</th>
+      <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade<th>
+      <th>Captura de Tela<th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1. O cenário contém atores ? </td>
+      <td></td>
+      <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_1.png">Página 172</a> </td>
+    </tr>
+    <tr>
+    <td>2. O cenário contém objetivos?  </td>
+      <td></td>
+      <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_2.png">Página 172</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3. O cenário contém um título auto-explicativo?   </td>
+      <td></td>
+      <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_3.png">Página 172</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4. O cenário inclui características do ator?   </td>
+      <td></td>
+      <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_4.png">Página 172</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+     <td>5. O cenário contém planejamento?    </td>
+      <td></td>
+      <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_5.png">Página 175</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+       <td>6. O cenário contém ações?    </td>
+      <td></td>
+      <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_6.png">Página 175</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+     <td>7. O cenário contém avaliação ?    </td>
+      <td></td>
+      <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_7.png">Página 175</a> </td>
+      <td></td>
+    </tr>
+    <tr>
+     <td>8. O cenário contém ambiente ?  </td>
+      <td></td>
+      <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/cenarios_8.png">Página 175</a> </td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Gustavo Alves</a></p></font>
+
+<h2>Sugestões de Melhoria</h2>
+
+<p></p>
+
+<h3> Vídeo da Verificação </h3>
+<!-- iframe aqui -->
+</details>
+
+<details>
     <summary>Artefato: Aspectos Éticos de Pesquisas com Pessoas </summary>
 
 O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o checklist foi elaborado pelo <b>Renan Araújo</b>
@@ -130,7 +681,7 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
 <h2> Checklist </h2>
 <p> Na tabela 3, está o checklist com suas devidas respostas: </p>
 
-<font size="2"><p style="text-align: center"> Tabela 3 - Checklist de Verificação dos Aspectos Éticos de Pesquisas com Pessoas </font>
+<font size="2"><p style="text-align: center"> Tabela 9 - Checklist de Verificação dos Aspectos Éticos de Pesquisas com Pessoas </font>
 
   <table>
   <thead>
@@ -184,9 +735,9 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
 <h2> Funcionalidade: Submissão de Problema - Yasmim Rosa </h2>
 
 <h3> Checklist </h3>
-    <p> Na tabela 4, está o checklist com suas devidas respostas: </p>
+<p> Na tabela 4, está o checklist com suas devidas respostas: </p>
 
-<font size="2"><p style="text-align: center"> Tabela 4 - Checklist de Verificação de Submissão de Problema </font>
+<font size="2"><p style="text-align: center"> Tabela 10 - Checklist de Verificação de Submissão de Problema </font>
 
   <table>
   <thead>
@@ -246,7 +797,7 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
 <h3> Checklist </h3>
     <p> Na tabela 5, está o checklist com suas devidas respostas: </p>
 
-<font size="2"><p style="text-align: center"> Tabela 5 - Checklist de Verificação de Tutorial de Resolução de Questões Pós-Contest </font>
+<font size="2"><p style="text-align: center"> Tabela 11 - Checklist de Verificação de Tutorial de Resolução de Questões Pós-Contest </font>
 
   <table>
   <thead>
@@ -301,7 +852,7 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
 <h3> Checklist </h3>
     <p> Na tabela 6, está o checklist com suas devidas respostas: </p>
 
-<font size="2"><p style="text-align: center"> Tabela 6 - Checklist de Verificação de Verificação de Submissões </font>
+<font size="2"><p style="text-align: center"> Tabela 12 - Checklist de Verificação de Verificação de Submissões </font>
 
   <table>
   <thead>
@@ -356,7 +907,7 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
 <h3> Checklist </h3>
     <p> Na tabela 7, está o checklist com suas devidas respostas: </p>
 
-<font size="2"><p style="text-align: center"> Tabela 7 - Checklist de Verificação de Ranking de Contest </font>
+<font size="2"><p style="text-align: center"> Tabela 13 - Checklist de Verificação de Ranking de Contest </font>
 
   <table>
   <thead>
@@ -414,7 +965,7 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
 <h3> Checklist </h3>
     <p> Na tabela 8, está o checklist com suas devidas respostas: </p>
 
-<font size="2"><p style="text-align: center"> Tabela 8 - Checklist de Verificação de Criação de Problema </font>
+<font size="2"><p style="text-align: center"> Tabela 14 - Checklist de Verificação de Criação de Problema </font>
 
   <table>
   <thead>
@@ -464,14 +1015,12 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
 <h3> Sugestões de Melhoria </h3>
 <p>Poderia incluir uma aba de revisão das informações.</p>
 
-
-
 <h2> Funcionalidade: Criação de Contest - Renan Araújo </h2>
 
 <h3> Checklist </h3>
     <p> Na tabela 9, está o checklist com suas devidas respostas: </p>
 
-<font size="2"><p style="text-align: center"> Tabela 9 - Checklist de Verificação de Criação de Contest </font>
+<font size="2"><p style="text-align: center"> Tabela 15 - Checklist de Verificação de Criação de Contest </font>
 
   <table>
   <thead>
@@ -531,7 +1080,7 @@ O responsável pela verificação deste artefato é o <b>Pedro Henrique</b> o ch
   <h2> Checklist </h2>
   <p> Na tabela 10, está o checklist com suas devidas respostas: </p>
 
-<font size="2"><p style="text-align: center"> Tabela 10 - Checklist de Verificação dos Princípios Gerais de Projeto </font>
+<font size="2"><p style="text-align: center"> Tabela 16 - Checklist de Verificação dos Princípios Gerais de Projeto </font>
 
   <table>
   <thead>
@@ -575,7 +1124,7 @@ O responsável pela verificação deste artefato é o <b>Renan Araújo</b> o che
   <h2> Checklist </h2>
   <p> Na tabela 11, está o checklist com suas devidas respostas: </p>
 
-<font size="2"><p style="text-align: center"> Tabela 11 - Checklist de Verificação de Metas de usabilidade </font>
+<font size="2"><p style="text-align: center"> Tabela 17 - Checklist de Verificação de Metas de usabilidade </font>
 
 <table>
   <thead>
@@ -624,7 +1173,6 @@ usuários? </td>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4D9M3RIuC6s?si=xGdLy3q59BZryLm3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
 </details>
 
 <details>
@@ -634,7 +1182,7 @@ O responsável pela verificação deste artefato é o <b>Renan Araújo</b> o che
 <h2> Checklist </h2>
   <p> Na tabela 12, está o checklist com suas devidas respostas: </p>
 
-<font size="2"><p style="text-align: center"> Tabela 12 - Checklist de Verificação de Guia de Estilo e características da plataforma para o projeto </font>
+<font size="2"><p style="text-align: center"> Tabela 18 - Checklist de Verificação de Guia de Estilo e características da plataforma para o projeto </font>
 
   <table>
   <thead>
@@ -694,3 +1242,4 @@ O responsável pela verificação deste artefato é o <b>Renan Araújo</b> o che
 | 1.0    | 11/06/2024 | Planejamento                                                                | [Yasmim Rosa](https://github.com/yaskisoba)        | [Renan Araújo](https://github.com/renantfm4) |
 | 1.1    | 11/06/2024 | Verificação da funcionalidade Ranking de Contest                            | [Pedro Henrique](https://github.com/)              | [Yasmim Rosa](https://github.com/)           |
 | 1.2    | 11/06/2024 | Verificação da funcionalidade Tutorial de Resolução de Questões Pós-Contest | [Alana Gabriele](https://github.com/alanagabriele) | [Yasmim Rosa](https://github.com/)           |
+| 1.2    | 11/06/2024 | Estrutura de cenarios                                                       | [Alana Gabriele](https://github.com/alanagabriele) | [Yasmim Rosa](https://github.com/)           |
