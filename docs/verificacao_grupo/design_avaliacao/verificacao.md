@@ -301,6 +301,9 @@ O responsável pela verificação deste artefato é a <b>Yasmim Rosa</b> o check
 <p> Não tem um tópico de reprojeto ou planejamento que cobrisse as melhorias levantadas. </p>
 <p> Seria também interessante, se informassem de maneira narrativa que o participante aceitou o TCLE e informações gerais da entrevista. </p>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MNmG_JjXh54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 </details>
 
 <details>
