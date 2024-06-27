@@ -679,7 +679,7 @@ O responsável pela verificação deste artefato é são todos os membros da equ
 O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o checklist foi elaborado pelo <b>Renan Araújo</b>
 
 <h2> Checklist </h2>
-<p> Na tabela 3, está o checklist com suas devidas respostas: </p>
+<p> Na tabela 9, está o checklist com suas devidas respostas: </p>
 
 <font size="2"><p style="text-align: center"> Tabela 9 - Checklist de Verificação dos Aspectos Éticos de Pesquisas com Pessoas </font>
 
@@ -732,52 +732,75 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
 
     Cada membro ficou com uma das seis funcionalidades:
 
-<h2> Funcionalidade: Submissão de Problema - Yasmim Rosa </h2>
+<h2> Funcionalidade: Rastreamento de Ônibus em Tempo Real - Yasmin Rosa </h2>
 
 <h3> Checklist </h3>
-<p> Na tabela 4, está o checklist com suas devidas respostas: </p>
+<p> Na tabela 10, está o checklist com suas devidas respostas: </p>
 
-<font size="2"><p style="text-align: center"> Tabela 10 - Checklist de Verificação de Submissão de Problema </font>
+<font size="2"><p style="text-align: center"> Tabela 10 - Checklist de Verificação de Rastreamento de Ônibus em Tempo Real </font>
 
-  <table>
+   <table>
   <thead>
     <tr>
       <th>Questão</th>
       <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade<th>
+      <th>Captura de Tela<th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>1. O objetivo do usuário é bem definido e alcançado ao fim da tarefa?</td>
-      <td>Sim</td>
+      <td></td>
+      <td>Item 8.4.1, página 178, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_1.png">Página 178</a> </td>
     </tr>
     <tr>
       <td>2. As tarefas realizadas são justificáveis? (Possuem porquês e consequências relacionadas)
       </td>
-      <td>Sim</td>
+      <td></td>
+      <td>Item 8.4.1, página 178, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_1.png">Página 178</a> </td>
     </tr>
     <tr>
       <td>3. O plano, conjunto de subobjetivos do HTA, são elaborados de forma que sua necessidade é clara para alcançar o objetivo final?
       </td>
-      <td>Incompleto</td>
+      <td></td>
+      <td>Item 8.4.1, página 179, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_2.png">Página 179</a> </td>
     </tr>
     <tr>
       <td>4. O plano (HTA) possui relações que suportam o objetivo final e é finalizado com uma operação?</td>
-      <td>Não</td>
+      <td></td>
+      <td>Item 8.4.1, página 179, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_3.png">Página 179</a> <br> <a href="../prints/analise_tarefas_4.png">Página 179 - trecho 2</a> </td>
     </tr>
     <tr>
       <td>5. No método GOMS, possui os elementos característicos? Objetivos, operadores, métodos e regras de seleção.
       </td>
-      <td>Incompleto</td>
+      <td></td>
+      <td>Item 8.4.2, página 181, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_5.png">Página 181</a>  </td>
     </tr>
     <tr>
       <td>6. O GOMS contém uma descrição detalhada do conhecimento necessário para realizar a tarefa?</td>
-      <td>Incompleto</td>
+      <td></td>
+      <td>Item 8.4.2, página 182, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_6.png">Página 182</a>  </td>
     </tr>
     <tr>
       <td>7. É possível, por meio do GOMS, visualizar os procedimentos necessários para realizar a tarefa em um computador?
 </td>
-      <td>Sim</td>
+      <td></td>
+      <td>Item 8.4.2, página 182, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_7.png">Página 182</a>  </td>
     </tr>
   </tbody>
 </table>
@@ -785,290 +808,408 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
 <font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa </a></p></font>
 
 <h3> Sugestões de Melhoria </h3>
-<p>No HTA, as relações são incompatíveis com o declarado, por exemplo "Selecionar problema" é indicado como uma tarefa finalizada depois de duas sub-tarefas sequenciais contudo não há e isso se repete nas demais tarefas, então realizar esse ajuste é necessário para ficar mais coerente. A numeração também é incoerente ela deve ser relacionada a suas sub-tarefas.</p>
-<p>No GOMS, não foi definido qual variação foi utilizada, além disso não há métodos no GOMS da tarefa além de ser pouco detalhado.</p>
+<p></p>
 
 <h3>Vídeo da Verificação</h3>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R7Ry33nfm2A?si=c70hB9HftjimzTre" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<h2> Funcionalidade: Tutorial de Resolução de Questões Pós-Contest - Alana Gabriele </h2>
+<h2> Funcionalidade: Compartilhamento de Trajetos - Pedro Henrique </h2>
 
 <h3> Checklist </h3>
-    <p> Na tabela 5, está o checklist com suas devidas respostas: </p>
+    <p> Na tabela 11, está o checklist com suas devidas respostas: </p>
 
-<font size="2"><p style="text-align: center"> Tabela 11 - Checklist de Verificação de Tutorial de Resolução de Questões Pós-Contest </font>
+<font size="2"><p style="text-align: center"> Tabela 11 - Checklist de Verificação de Compartilhamento de Trajetos</font>
 
   <table>
   <thead>
     <tr>
       <th>Questão</th>
       <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade<th>
+      <th>Captura de Tela<th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>1. O objetivo do usuário é bem definido e alcançado ao fim da tarefa?</td>
-      <td>Sim</td>
+      <td></td>
+      <td>Item 8.4.1, página 178, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_1.png">Página 178</a> </td>
     </tr>
     <tr>
       <td>2. As tarefas realizadas são justificáveis? (Possuem porquês e consequências relacionadas)
       </td>
-      <td>Sim</td>
+      <td></td>
+      <td>Item 8.4.1, página 178, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_1.png">Página 178</a> </td>
     </tr>
     <tr>
       <td>3. O plano, conjunto de subobjetivos do HTA, são elaborados de forma que sua necessidade é clara para alcançar o objetivo final?
       </td>
-      <td>Sim</td>
+      <td></td>
+      <td>Item 8.4.1, página 179, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_2.png">Página 179</a> </td>
     </tr>
     <tr>
       <td>4. O plano (HTA) possui relações que suportam o objetivo final e é finalizado com uma operação?</td>
-      <td>Sim</td>
+      <td></td>
+      <td>Item 8.4.1, página 179, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_3.png">Página 179</a> <br> <a href="../prints/analise_tarefas_4.png">Página 179 - trecho 2</a> </td>
     </tr>
     <tr>
       <td>5. No método GOMS, possui os elementos característicos? Objetivos, operadores, métodos e regras de seleção.
       </td>
-      <td>Incompleto</td>
+      <td></td>
+      <td>Item 8.4.2, página 181, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_5.png">Página 181</a>  </td>
     </tr>
     <tr>
       <td>6. O GOMS contém uma descrição detalhada do conhecimento necessário para realizar a tarefa?</td>
-      <td>Incompleto</td>
+      <td></td>
+      <td>Item 8.4.2, página 182, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_6.png">Página 182</a>  </td>
     </tr>
     <tr>
       <td>7. É possível, por meio do GOMS, visualizar os procedimentos necessários para realizar a tarefa em um computador?
 </td>
-      <td>Sim</td>
+      <td></td>
+      <td>Item 8.4.2, página 182, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_7.png">Página 182</a>  </td>
     </tr>
   </tbody>
 </table>
 
-<font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa </a></p></font>
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Pedro Henrique </a></p></font>
 
 <h3>Sugestões de Melhoria</h3>
-<p> Detalhar mais o GOMS e a descrição</p>
+<p> </p>
+<h3> Vídeo da Verificação </h3>
 
-<h2> Funcionalidade: Verificação de Submissões - Marco Tulio </h2>
+<h2> Funcionalidade: Histórico de passagens compradas - Renan Araújo </h2>
 
 <h3> Checklist </h3>
-    <p> Na tabela 6, está o checklist com suas devidas respostas: </p>
+    <p> Na tabela 12, está o checklist com suas devidas respostas: </p>
 
-<font size="2"><p style="text-align: center"> Tabela 12 - Checklist de Verificação de Verificação de Submissões </font>
+<font size="2"><p style="text-align: center"> Tabela 12 - Checklist de Verificação de Histórico de passagens compradas </font>
 
-  <table>
+ <table>
   <thead>
     <tr>
       <th>Questão</th>
       <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade<th>
+      <th>Captura de Tela<th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>1. O objetivo do usuário é bem definido e alcançado ao fim da tarefa?</td>
-      <td>Sim</td>
+      <td></td>
+      <td>Item 8.4.1, página 178, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_1.png">Página 178</a> </td>
     </tr>
     <tr>
       <td>2. As tarefas realizadas são justificáveis? (Possuem porquês e consequências relacionadas)
       </td>
-      <td>Sim</td>
+      <td></td>
+      <td>Item 8.4.1, página 178, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_1.png">Página 178</a> </td>
     </tr>
     <tr>
       <td>3. O plano, conjunto de subobjetivos do HTA, são elaborados de forma que sua necessidade é clara para alcançar o objetivo final?
       </td>
-      <td>Sim</td>
+      <td></td>
+      <td>Item 8.4.1, página 179, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_2.png">Página 179</a> </td>
     </tr>
     <tr>
       <td>4. O plano (HTA) possui relações que suportam o objetivo final e é finalizado com uma operação?</td>
-      <td>Sim</td>
+      <td></td>
+      <td>Item 8.4.1, página 179, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_3.png">Página 179</a> <br> <a href="../prints/analise_tarefas_4.png">Página 179 - trecho 2</a> </td>
     </tr>
     <tr>
       <td>5. No método GOMS, possui os elementos característicos? Objetivos, operadores, métodos e regras de seleção.
       </td>
-      <td>Incompleto</td>
+      <td></td>
+      <td>Item 8.4.2, página 181, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_5.png">Página 181</a>  </td>
     </tr>
     <tr>
       <td>6. O GOMS contém uma descrição detalhada do conhecimento necessário para realizar a tarefa?</td>
-      <td>Incompleto</td>
+      <td></td>
+      <td>Item 8.4.2, página 182, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_6.png">Página 182</a>  </td>
     </tr>
     <tr>
       <td>7. É possível, por meio do GOMS, visualizar os procedimentos necessários para realizar a tarefa em um computador?
 </td>
-      <td>Sim</td>
+      <td></td>
+      <td>Item 8.4.2, página 182, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_7.png">Página 182</a>  </td>
     </tr>
   </tbody>
 </table>
 
-<font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa </a></p></font>
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Renan Araújo </a></p></font>
 
 <h3> Sugestões de Melhoria </h3>
-<p> O artefato foi bem desenvolvido, portanto não há sugestões de melhoria </p>
+<p> </p>
 
-<h2> Funcionalidade: Ranking de Contest - Pedro Henrique </h2>
+<h3> Vídeo da Verificação </h3>
 
+<h2> Funcionalidade: Acúmulo de Pontos por Trajeto - Alana Gabriele</h2>
+˚˚
 <h3> Checklist </h3>
-    <p> Na tabela 7, está o checklist com suas devidas respostas: </p>
+    <p> Na tabela 13, está o checklist com suas devidas respostas: </p>
 
-<font size="2"><p style="text-align: center"> Tabela 13 - Checklist de Verificação de Ranking de Contest </font>
+<font size="2"><p style="text-align: center"> Tabela 13 - Checklist de Verificação de Acúmulo de Pontos por Trajeto </font>
 
-  <table>
+ <table>
   <thead>
     <tr>
       <th>Questão</th>
       <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade<th>
+      <th>Captura de Tela<th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>1. O objetivo do usuário é bem definido e alcançado ao fim da tarefa?</td>
-      <td>Sim</td>
+      <td></td>
+      <td>Item 8.4.1, página 178, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_1.png">Página 178</a> </td>
     </tr>
     <tr>
       <td>2. As tarefas realizadas são justificáveis? (Possuem porquês e consequências relacionadas)
       </td>
-      <td>Sim</td>
+      <td></td>
+      <td>Item 8.4.1, página 178, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_1.png">Página 178</a> </td>
     </tr>
     <tr>
       <td>3. O plano, conjunto de subobjetivos do HTA, são elaborados de forma que sua necessidade é clara para alcançar o objetivo final?
       </td>
-      <td>Sim</td>
+      <td></td>
+      <td>Item 8.4.1, página 179, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_2.png">Página 179</a> </td>
     </tr>
     <tr>
       <td>4. O plano (HTA) possui relações que suportam o objetivo final e é finalizado com uma operação?</td>
-      <td>Sim</td>
+      <td></td>
+      <td>Item 8.4.1, página 179, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_3.png">Página 179</a> <br> <a href="../prints/analise_tarefas_4.png">Página 179 - trecho 2</a> </td>
     </tr>
     <tr>
       <td>5. No método GOMS, possui os elementos característicos? Objetivos, operadores, métodos e regras de seleção.
       </td>
-      <td>Sim</td>
+      <td></td>
+      <td>Item 8.4.2, página 181, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_5.png">Página 181</a>  </td>
     </tr>
     <tr>
       <td>6. O GOMS contém uma descrição detalhada do conhecimento necessário para realizar a tarefa?</td>
-      <td>Incompleto</td>
+      <td></td>
+      <td>Item 8.4.2, página 182, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_6.png">Página 182</a>  </td>
     </tr>
     <tr>
       <td>7. É possível, por meio do GOMS, visualizar os procedimentos necessários para realizar a tarefa em um computador?
 </td>
-      <td>Sim</td>
+      <td></td>
+      <td>Item 8.4.2, página 182, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_7.png">Página 182</a>  </td>
     </tr>
   </tbody>
 </table>
 
-<font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa </a></p></font>
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Alana Gabriele</a></p></font>
 
 <h3> Sugestões de Melhoria </h3>
 <p>Poderia especificar um pouco mais em "Calcular pontos", por exemplo citar as formas possíveis de calcular e também quais critérios são utilizados.</p>
 
 <h3> Vídeo da Verificação </h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-I6vyUNglG8?si=1I81U1So4LvcXMC1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<h2> Funcionalidade: Criação de Problema - Gustavo Alves</h2>
+<h2> Funcionalidade: Acompanhar compra de passagem - Marco Tulio
+</h2>
 
 <h3> Checklist </h3>
-    <p> Na tabela 8, está o checklist com suas devidas respostas: </p>
+    <p> Na tabela 14, está o checklist com suas devidas respostas: </p>
 
-<font size="2"><p style="text-align: center"> Tabela 14 - Checklist de Verificação de Criação de Problema </font>
+<font size="2"><p style="text-align: center"> Tabela 14 - Checklist de Verificação de Acompanhar compra de passagem </font>
 
-  <table>
+ <table>
   <thead>
     <tr>
       <th>Questão</th>
       <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade<th>
+      <th>Captura de Tela<th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>1. O objetivo do usuário é bem definido e alcançado ao fim da tarefa?</td>
-      <td>Sim</td>
+      <td></td>
+      <td>Item 8.4.1, página 178, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_1.png">Página 178</a> </td>
     </tr>
     <tr>
       <td>2. As tarefas realizadas são justificáveis? (Possuem porquês e consequências relacionadas)
       </td>
-      <td>Sim</td>
+      <td></td>
+      <td>Item 8.4.1, página 178, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_1.png">Página 178</a> </td>
     </tr>
     <tr>
       <td>3. O plano, conjunto de subobjetivos do HTA, são elaborados de forma que sua necessidade é clara para alcançar o objetivo final?
       </td>
-      <td>Sim</td>
+      <td></td>
+      <td>Item 8.4.1, página 179, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_2.png">Página 179</a> </td>
     </tr>
     <tr>
       <td>4. O plano (HTA) possui relações que suportam o objetivo final e é finalizado com uma operação?</td>
-      <td>Sim</td>
+      <td></td>
+      <td>Item 8.4.1, página 179, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_3.png">Página 179</a> <br> <a href="../prints/analise_tarefas_4.png">Página 179 - trecho 2</a> </td>
     </tr>
     <tr>
       <td>5. No método GOMS, possui os elementos característicos? Objetivos, operadores, métodos e regras de seleção.
       </td>
-      <td>Incompleto</td>
+      <td></td>
+      <td>Item 8.4.2, página 181, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_5.png">Página 181</a>  </td>
     </tr>
     <tr>
       <td>6. O GOMS contém uma descrição detalhada do conhecimento necessário para realizar a tarefa?</td>
-      <td>Incompleto</td>
+      <td></td>
+      <td>Item 8.4.2, página 182, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_6.png">Página 182</a>  </td>
     </tr>
     <tr>
       <td>7. É possível, por meio do GOMS, visualizar os procedimentos necessários para realizar a tarefa em um computador?
 </td>
-      <td>Sim</td>
+      <td></td>
+      <td>Item 8.4.2, página 182, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_7.png">Página 182</a>  </td>
     </tr>
   </tbody>
 </table>
 
-<font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa </a></p></font>
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Marco Tulio </a></p></font>
 
 <h3> Sugestões de Melhoria </h3>
-<p>Poderia incluir uma aba de revisão das informações.</p>
+<p></p>
+<h3> Vídeo da Verificação </h3>
 
-<h2> Funcionalidade: Criação de Contest - Renan Araújo </h2>
+<h2> Funcionalidade: Comprar passagem - Gustavo Alves </h2>
 
 <h3> Checklist </h3>
-    <p> Na tabela 9, está o checklist com suas devidas respostas: </p>
+    <p> Na tabela 15, está o checklist com suas devidas respostas: </p>
 
-<font size="2"><p style="text-align: center"> Tabela 15 - Checklist de Verificação de Criação de Contest </font>
+<font size="2"><p style="text-align: center"> Tabela 15 - Checklist de Verificação de Comprar passagem </font>
 
-  <table>
+ <table>
   <thead>
     <tr>
       <th>Questão</th>
       <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade<th>
+      <th>Captura de Tela<th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>1. O objetivo do usuário é bem definido e alcançado ao fim da tarefa?</td>
-      <td>Sim</td>
+      <td></td>
+      <td>Item 8.4.1, página 178, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_1.png">Página 178</a> </td>
     </tr>
     <tr>
       <td>2. As tarefas realizadas são justificáveis? (Possuem porquês e consequências relacionadas)
       </td>
-      <td>Sim</td>
+      <td></td>
+      <td>Item 8.4.1, página 178, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_1.png">Página 178</a> </td>
     </tr>
     <tr>
       <td>3. O plano, conjunto de subobjetivos do HTA, são elaborados de forma que sua necessidade é clara para alcançar o objetivo final?
       </td>
-      <td>Sim</td>
+      <td></td>
+      <td>Item 8.4.1, página 179, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_2.png">Página 179</a> </td>
     </tr>
     <tr>
       <td>4. O plano (HTA) possui relações que suportam o objetivo final e é finalizado com uma operação?</td>
-      <td>Sim</td>
+      <td></td>
+      <td>Item 8.4.1, página 179, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_3.png">Página 179</a> <br> <a href="../prints/analise_tarefas_4.png">Página 179 - trecho 2</a> </td>
     </tr>
     <tr>
       <td>5. No método GOMS, possui os elementos característicos? Objetivos, operadores, métodos e regras de seleção.
       </td>
-      <td>Incompleto</td>
+      <td></td>
+      <td>Item 8.4.2, página 181, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_5.png">Página 181</a>  </td>
     </tr>
     <tr>
       <td>6. O GOMS contém uma descrição detalhada do conhecimento necessário para realizar a tarefa?</td>
-      <td>Incompleto</td>
+      <td></td>
+      <td>Item 8.4.2, página 182, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_6.png">Página 182</a>  </td>
     </tr>
     <tr>
       <td>7. É possível, por meio do GOMS, visualizar os procedimentos necessários para realizar a tarefa em um computador?
 </td>
-      <td>Sim</td>
+      <td></td>
+      <td>Item 8.4.2, página 182, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/analise_tarefas_7.png">Página 182</a>  </td>
     </tr>
   </tbody>
 </table>
 
-<font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa </a></p></font>
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Gustavo Alves </a></p></font>
 
 <h3> Sugestões de Melhoria </h3>
-<p>Detalhar mais o GOMS</p>
+<p></p>
+
+<h3> Vídeo da Verificação </h3>
 
 </details>
 
