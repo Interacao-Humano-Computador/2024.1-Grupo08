@@ -1,6 +1,6 @@
 ## Introdução
 
-De acordo com Reinehr (2020), a verificação é comumente definida como a análise do produto para definir se ele foi construído de maneira correta. Levando em consideração essa definição, o planejamento dessa verificação terá enfoque em verificar a estrutura e a elaboração dos artefatos desenvolvidos pelo Grupo 1 responsável pelo projeto do site CD-MOJ.
+De acordo com Reinehr (2020), a verificação é comumente definida como a análise do produto para definir se ele foi construído de maneira correta. Levando em consideração essa definição, o planejamento dessa verificação terá enfoque em verificar a estrutura e a elaboração dos artefatos desenvolvidos pelo grupo durante o projeto.
 
 ## Metodologia
 
@@ -13,7 +13,7 @@ Os checklists foram elaborados anteriormente e serão utilizadas por membros que
 <details>
 <summary>Artefato: Planejamento da Avaliação da Análise de tarefas</summary>
 
-O responsável pela verificação deste artefato é o <b>Pedro Henrique</b> o checklist foi elaborado pelo <b>Marco Tulio </b>
+O responsável pela verificação deste artefato é o <b>Yasmim Rosa</b> o checklist foi elaborado pelo <b>Marco Tulio </b>
 
 <h2> Checklist </h2>
 <p> Na tabela 1, está o checklist com suas devidas respostas: </p>
@@ -25,35 +25,49 @@ O responsável pela verificação deste artefato é o <b>Pedro Henrique</b> o ch
     <tr>
       <th>Questão</th>
       <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade</th>
+      <th>Captura de Tela</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>1. O framework utilizado foi o DECIDE?</td>
       <td>Sim</td>
+      <td>Item 11.8, página 279 e 280, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td> <a href="../prints/PlanejamentoAvaliacaoTarefas_1.jpeg">Página 279</a> </td>
     </tr>
     <tr>
       <td>2. O(s) objetivo(s) foi/foram declarado(s) respeitando àqueles definidos por Sharp et al.? </td>
       <td>Sim</td>
+      <td>Item 11, página 261, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td> <a href="../prints/PlanejamentoAvaliacaoTarefas_2.jpeg">Página 261</a> </td>
     </tr>
     <tr>
       <td>3. Define como serão tratadas as questões éticas?</td>
       <td>Sim</td>
+      <td>Item 11.7.2, página 275, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td> <a href="../prints/PlanejamentoAvaliacaoTarefas_3.jpeg">Página 275</a> </td>
     </tr>
     <tr>
       <td>4. Planeja a realização do teste piloto bem como uma data para realização? 
      </td>
       <td>Sim</td>
+      <td>Item 11.7.2, página 276, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td> <a href="../prints/PlanejamentoAvaliacaoTarefas_4.jpeg">Página 276</a> </td>
     </tr>
     <tr>
       <td>5. Foi planejado como identificar e administrar as questões práticas da avaliação?
     </td>
       <td>Sim</td>
+      <td>Item 11.7.2, página 275, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
     </tr>
+    <td> <a href="../prints/PlanejamentoAvaliacaoTarefas_5.jpeg">Página 275</a> </td>
     <tr>
       <td>6. Está especificado como os dados serão
 tratados e como serão apresentados? </td>
-      <td>Incompleto</td>
+      <td>Sim</td>
+      <td>Item 11.7.4, página 278, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td> <a href="../prints/PlanejamentoAvaliacaoTarefas_6.jpeg">Página 278</a> </td>
     </tr>
   </tbody>
 </table>
@@ -62,7 +76,10 @@ tratados e como serão apresentados? </td>
 
 <h2>Sugestões de Melhoria</h2>
 
-<p> Avaliar, Interpretar e Apresentar os Dados- poderia citar quais tópicos seriam utilizados para avaliar, interpretar e apresentar os dados. </p>
+<p> No tópico de questões práticas poderia haver uma separação entre as perguntas a serem realizadas entre perguntas para confirmação do perfil do usuário e perguntas sobre a avaliação. Inserir a data no plnajemanto de teste piloto também seria interessante.</p>
+
+<h3> Vídeo da Verificação </h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kNLpvfIAuww?si=Bkn2eSBB-rzlKnkh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </details>
 
@@ -445,7 +462,7 @@ O responsável pela verificação deste artefato é a <b>Alana Gabriele</b> o ch
 <details>
     <summary> Artefato: Planejamento do relato dos resultados da avaliação do Protótipo de Papel
  </summary>
- O responsável pela verificação deste artefato é o <b>Renan Araújo</b> o checklist foi elaborado pelo <b>Marco Tulio</b>
+ O responsável pela verificação deste artefato é o <b>Yasmim Rosa</b> o checklist foi elaborado pelo <b>Marco Tulio</b>
 
 <h2> Checklist </h2>
   <p> Na tabela 8, está o checklist com suas devidas respostas: </p>
@@ -455,8 +472,10 @@ O responsável pela verificação deste artefato é a <b>Alana Gabriele</b> o ch
   <table>
   <thead>
     <tr>
-      <th>Questão</th>
+       <th>Questão</th>
       <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade</th>
+      <th>Captura de Tela</th>
     </tr>
   </thead>
   <tbody>
@@ -464,25 +483,35 @@ O responsável pela verificação deste artefato é a <b>Alana Gabriele</b> o ch
       <td>1. Utiliza a estrutura definida no planejamento da avaliação?
       </td>
       <td>Sim</td>
+      <td>Item 11.8, página 280, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td> <a href="../prints/PlanejamentoRelatoPrototipoPapel_1.jpeg">Página 280</a> </td>
     </tr>
     <tr>
       <td>2. Dedida uma secção para análise de dados dos participantes bem como uma explicação de como deve ser realizado?
         </td>
       <td>Sim</td>
+      <td>Item 12.2.3, página 319, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td> <a href="../prints/PlanejamentoRelatoPrototipoPapel_2.jpeg">Página 319</a> </td>
     </tr>
     <tr>
       <td>3. Dedica uma secção para relato da interpretação e análise dos dados bem como uma explicação de como deve ser realizado?
     </td>
       <td>Sim</td>
+      <td>Item 12.2.3, página 319, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td> <a href="../prints/PlanejamentoRelatoPrototipoPapel_3.jpeg">Página 319</a> </td>
     </tr>
     <tr>
       <td>4. Introduz sobre a metodologia aplicada? </td>
       <td>Sim</td>
+      <td>Item 12.2.3, página 319, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td> <a href="../prints/PlanejamentoRelatoPrototipoPapel_4.jpeg">Página 319</a> </td>
     </tr>
     <tr>
       <td>5. Possui uma secção dedicada a sugestões de correções?
      </td>
       <td>Sim</td>
+      <td>Item 12.2.3, página 319, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td> <a href="../prints/PlanejamentoRelatoPrototipoPapel_5.jpeg">Página 319</a> </td>
     </tr>
   </tbody>
 </table>
@@ -490,7 +519,10 @@ O responsável pela verificação deste artefato é a <b>Alana Gabriele</b> o ch
 <font size="2"><p style="text-align: center">Fonte: <a href=""> Marco Tulio </a></p></font>
 
 <h2>Sugestões de Melhoria</h2>
-<p> De maneira geral, o artefato foi bem elaborado então baseada nessa verificação não há ajustes a serem realizados. </p>
+<p> No tópico "método" poderia falar da metodologia da avaliação ao invés do método de construção do artefato.</p>
+
+<h3> Vídeo da Verificação </h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PyayC9zMv3U?si=nTiwDyFsCaoAWK3z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </details>
 

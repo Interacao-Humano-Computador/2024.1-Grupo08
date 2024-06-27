@@ -1,12 +1,12 @@
 ## Introdução
 
-De acordo com Reinehr (2020), a verificação é comumente definida como a análise do produto para definir se ele foi construído de maneira correta. Levando em consideração essa definição, o planejamento dessa verificação terá enfoque em verificar a estrutura e a elaboração dos artefatos desenvolvidos pelo Grupo 1 responsável pelo projeto do site CD-MOJ.
+De acordo com Reinehr (2020), a verificação é comumente definida como a análise do produto para definir se ele foi construído de maneira correta. Levando em consideração essa definição, o planejamento dessa verificação terá enfoque em verificar a estrutura e a elaboração dos artefatos desenvolvidos pelo grupo durante o desenvolvimento do projeto.
 
 ## Metodologia
 
 A verificação será realizada por meio do método de inspeção por meio de uma revisão formal com o uso de checklists.
 
-Cada membro da equipe ficou com em média 2 artefatos para elaboração dos checklists, sendo quem elaborou o checklist impedido de o usar para verificar o artefato.
+Cada membro da equipe ficou com em média 3 artefatos para elaboração dos checklists, sendo quem elaborou o checklist impedido de o usar para verificar o artefato.
 
 ## Checklist para Verificação dos Artefatos
 
@@ -557,22 +557,6 @@ usuários? </td>
 
 ## Verificação dos Artefatos
 
-Os responsáveis pela verificação com o uso dos checklists elaborados estão na tabela 8:
-
-<font size="2"><p style="text-align: center"> Tabela 8 - Responsáveis pela Verificação dos Artefatos </font>
-
-| Responsável                                                           | Artefato                                                      |
-| --------------------------------------------------------------------- | ------------------------------------------------------------- |
-| Gustavo Alves                                                         | Perfil do Usuário                                             |
-| Marco Tulio                                                           | Personas                                                      |
-| Gustavo Alves                                                         | Aspectos Éticos de Pesquisas com Pessoas                      |
-| Alana Gabriele, Gustavo Alves, Marco Tulio, Renan Araújo, Yasmim Rosa | Análise de Tarefas                                            |
-| Pedro Henrique                                                        | Princípios Gerais de Projeto                                  |
-| Renan Araújo                                                          | Metas de Usabilidade                                          |
-| Renan Araújo                                                          | Guia de Estilo e características da plataforma para o projeto |
-
-<font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa </a></p></font>
-
 Cada membro responsável deve utilizar a checklist disponibilizada para o artefato além de trazer sugestões de melhoriais se aplicável.
 
 ## Bibliografia
@@ -592,4 +576,4 @@ Cada membro responsável deve utilizar a checklist disponibilizada para o artefa
 | 1.2    | 11/06/2024 | Artefatos Perfil do Usuário e Aspectos Éticos             | [Renan Araújo](https://github.com/)         | [Yasmim Rosa](https://github.com/)           |
 | 1.3    | 11/06/2024 | Artefato metas de usabilidade                             | [Marco Tulio](https://github.com/)          | [Gustavo Alves](https://github.com/)         |
 | 1.4    | 11/06/2024 | Artefato Guia de Estilo                                   | [Alana Gabriele](https://github.com/)       | [Gustavo Alves](https://github.com/)         |
-| 1.5    | 26/06/2024 | Referencias na Guia de Estilo                             | [Alana Gabriele](https://github.com/)       | [Yasmim Rosa](https://github.com/)           |
+| 2.0    | 26/06/2024 | Referencias na Guia de Estilo                             | [Alana Gabriele](https://github.com/)       | [Yasmim Rosa](https://github.com/)           |
