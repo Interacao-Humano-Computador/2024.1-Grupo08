@@ -1323,18 +1323,20 @@ usuários? </td>
 
 <details>
     <summary> Artefato: Guia de Estilo e características da plataforma para o projeto </summary>
-O responsável pela verificação deste artefato é o <b>Renan Araújo</b> o checklist foi elaborado pela <b>Alana Gabriele</b>
+O responsável pela verificação deste artefato é o <b>Yasmim Rosa</b> o checklist foi elaborado pela <b>Alana Gabriele</b>
 
 <h2> Checklist </h2>
   <p> Na tabela 12, está o checklist com suas devidas respostas: </p>
 
 <font size="2"><p style="text-align: center"> Tabela 18 - Checklist de Verificação de Guia de Estilo e características da plataforma para o projeto </font>
 
-  <table>
+ <table>
   <thead>
     <tr>
       <th>Questão</th>
       <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade<th>
+      <th>Captura de Tela<th>
     </tr>
   </thead>
   <tbody>
@@ -1342,28 +1344,40 @@ O responsável pela verificação deste artefato é o <b>Renan Araújo</b> o che
       <td>1. A introdução inclui orientações sobre como utilizar e manter o guia de estilo?
       </td>
       <td>Sim</td>
+      <td>Item 10.5, página 258, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td>  <a href="../prints/guia_de_estilo_1.png">Imagem</a> </td>
     </tr>
     <tr>
       <td>2. O guia de estilo aborda de maneira detalhada a disposição espacial, janelas, tipografia símbolos não tipográficos, cores e animações?</td>
       <td>Sim</td>
+      <td>Item 10.5, página 258, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td>  <a href="../prints/guia_de_estilo_2.png">Imagem</a> </td>
     </tr>
     <tr>
       <td>3. O guia de estilo define um vocabulário e padrões claros, incluindo terminologia, tipos de telas para tarefas comuns e sequências de diálogos?
     </td>
       <td>Sim</td>
+      <td>Item 10.5, página 258, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td>  <a href="../prints/guia_de_estilo_3.png">Imagem</a> </td>
+    </tr>
     </tr>
     <tr>
       <td>4. O guia de estilo identifica claramente o público-alvo? </td>
-      <td>Sim</td>
+      <td>Não</td>
+     <td>Item 10.5, página 258, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td>  <a href="../prints/guia_de_estilo_4.png">Imagem</a> </td>
     </tr>
     <tr>
       <td>5. O guia de estilo inclui diretrizes sobre os estilos de interação, a seleção de estilos e o uso de aceleradores como teclas de atalho?
-     </td>
+      </td>
       <td>Sim</td>
-    </tr>
-    <tr>
-      <td>6. A construção do artefato inclui introdução, bibliografia e histório de versões? </td>
-      <td>Sim</td>
+       <td>Item 10.5, página 258, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td>  <a href="../prints/guia_de_estilo_5.png">Imagem</a> </td>
     </tr>
   </tbody>
 </table>
@@ -1371,7 +1385,10 @@ O responsável pela verificação deste artefato é o <b>Renan Araújo</b> o che
 <font size="2"><p style="text-align: center">Fonte: <a href=""> Alana Gabriele </a></p></font>
 
 <h2>Sugestões de Melhoria</h2>
-<p> De maneira geral, o artefato foi bem construído mas os elementos de interface poderiam terem tido mais destaque e com fotos epecíficas para cada um o que iria ajudar a ter uma visualização e entendimento melhores. </p>
+<p> O público-alvo é definido (o que é) mas não é citado quem seria o público-alvo</p>
+
+<h3> Vídeo da Verificação </h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TNDCIPXoAqw?si=Nix_3apcVunrbC1h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </details>
 
