@@ -25,7 +25,7 @@ O responsável pela verificação deste artefato é o <b>Marco Tulio</b> o check
       <th>Questão</th>
       <th>Resposta (Sim / Não / Incompleto)</th>
     </tr>
-  </thead>
+  </thead>gi
   <tbody>
     <tr>
       <td>1. É citado sobre quais foram os instrumentos utilizados para a avaliação? (questionários, roteiros de entrevista, etc.)</d>
@@ -45,7 +45,7 @@ O responsável pela verificação deste artefato é o <b>Marco Tulio</b> o check
     </tr>
     <tr>
       <td>5. As questões éticas relacionadas aos participantes foram abordadas?</td>
-      <td>Não</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <td>6. O propósito e uso posterior do perfil do usuário são definidos? </td>
@@ -62,10 +62,10 @@ O responsável pela verificação deste artefato é o <b>Marco Tulio</b> o check
 
 <h2>Sugestões de Melhoria</h2>
 
-<p> É importante ressaltar se as questões éticas foram abordadas, propor sobre como esses dados serão usados posteriormente, ao citar os resultados, reformular as perguntas para fazer afirmações sobre o questionário feito aos usuários.</p>
+<p> O artefato foi bem desenvolvido, portanto não há sugestões de melhoria</p>
 
 <h3> Vídeo da Verificação </h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zW_6Cy2yBqs?si=p3wqTZUuMfVCUaI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tlMiUiXxRmU?si=T9oNGf2MTN4t_Hml" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </details>
 
@@ -306,7 +306,6 @@ O responsável pela verificação deste artefato é são todos os membros da equ
 <p>De maneira geral o cenário está bem explicado, porém poderia ter mais informações sobre o autor, por exemplo, com o que ele trabalha, etc.</p>
 
 <h3> Vídeo da Verificação </h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UnwbA6LziaU?si=FziMOU127rSEiUHW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <h2> Funcionalidade: Histórico de passagens compradas - Renan Araújo </h2>
 <h2> Checklist </h2>
 <p> Na tabela 3, está o checklist com suas devidas respostas: </p>
@@ -509,14 +508,14 @@ O responsável pela verificação deste artefato é são todos os membros da equ
   <tbody>
     <tr>
       <td>1. O cenário contém atores ? </td>
-      <td></td>
+      <td>Incompleto</td>
       <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/cenarios_1.png">Página 172</a> </td>
     </tr>
     <tr>
     <td>2. O cenário contém objetivos?  </td>
-      <td></td>
+      <td>Incompleto</td>
       <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/cenarios_2.png">Página 172</a> </td>
@@ -524,7 +523,7 @@ O responsável pela verificação deste artefato é são todos os membros da equ
     </tr>
     <tr>
       <td>3. O cenário contém um título auto-explicativo?   </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/cenarios_3.png">Página 172</a> </td>
@@ -532,7 +531,7 @@ O responsável pela verificação deste artefato é são todos os membros da equ
     </tr>
     <tr>
       <td>4. O cenário inclui características do ator?   </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/cenarios_4.png">Página 172</a> </td>
@@ -540,7 +539,7 @@ O responsável pela verificação deste artefato é são todos os membros da equ
     </tr>
     <tr>
      <td>5. O cenário contém planejamento?    </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/cenarios_5.png">Página 175</a> </td>
@@ -548,7 +547,7 @@ O responsável pela verificação deste artefato é são todos os membros da equ
     </tr>
     <tr>
        <td>6. O cenário contém ações?    </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/cenarios_6.png">Página 175</a> </td>
@@ -556,7 +555,7 @@ O responsável pela verificação deste artefato é são todos os membros da equ
     </tr>
     <tr>
      <td>7. O cenário contém avaliação ?    </td>
-      <td></td>
+      <td>Não</td>
       <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/cenarios_7.png">Página 175</a> </td>
@@ -564,7 +563,7 @@ O responsável pela verificação deste artefato é são todos os membros da equ
     </tr>
     <tr>
      <td>8. O cenário contém ambiente ?  </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/cenarios_8.png">Página 175</a> </td>
@@ -580,6 +579,7 @@ O responsável pela verificação deste artefato é são todos os membros da equ
 <p></p>
 
 <h3> Vídeo da Verificação </h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3eiRHG2e_6Q?si=FgugGKkCon2Ty6PK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- iframe aqui -->
 
 <h2> Funcionalidade: Comprar passagem - Gustavo Alves </h2>
@@ -974,8 +974,6 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
 <p> </p>
 
 <h3> Vídeo da Verificação </h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AZZYP0RNS70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 
 <h2> Funcionalidade: Acúmulo de Pontos por Trajeto - Alana Gabriele</h2>
 ˚˚
@@ -1078,7 +1076,7 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
   <tbody>
     <tr>
       <td>1. O objetivo do usuário é bem definido e alcançado ao fim da tarefa?</td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.4.1, página 178, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/analise_tarefas_1.png">Página 178</a> </td>
@@ -1086,7 +1084,7 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
     <tr>
       <td>2. As tarefas realizadas são justificáveis? (Possuem porquês e consequências relacionadas)
       </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.4.1, página 178, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/analise_tarefas_1.png">Página 178</a> </td>
@@ -1094,14 +1092,14 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
     <tr>
       <td>3. O plano, conjunto de subobjetivos do HTA, são elaborados de forma que sua necessidade é clara para alcançar o objetivo final?
       </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.4.1, página 179, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/analise_tarefas_2.png">Página 179</a> </td>
     </tr>
     <tr>
       <td>4. O plano (HTA) possui relações que suportam o objetivo final e é finalizado com uma operação?</td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.4.1, página 179, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/analise_tarefas_3.png">Página 179</a> <br> <a href="../prints/analise_tarefas_4.png">Página 179 - trecho 2</a> </td>
@@ -1111,12 +1109,12 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
       </td>
       <td></td>
       <td>Item 8.4.2, página 181, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
-      <td></td>
+      <td>Sim</td>
       <td> <a href="../prints/analise_tarefas_5.png">Página 181</a>  </td>
     </tr>
     <tr>
       <td>6. O GOMS contém uma descrição detalhada do conhecimento necessário para realizar a tarefa?</td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.4.2, página 182, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/analise_tarefas_6.png">Página 182</a>  </td>
@@ -1124,7 +1122,7 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
     <tr>
       <td>7. É possível, por meio do GOMS, visualizar os procedimentos necessários para realizar a tarefa em um computador?
 </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.4.2, página 182, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/analise_tarefas_7.png">Página 182</a>  </td>
@@ -1137,6 +1135,7 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
 <h3> Sugestões de Melhoria </h3>
 <p></p>
 <h3> Vídeo da Verificação </h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BZ7fGwkyj6M?si=graaeRafpZE-McMz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h2> Funcionalidade: Comprar passagem - Gustavo Alves </h2>
 
