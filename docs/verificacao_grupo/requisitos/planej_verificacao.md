@@ -443,35 +443,45 @@ As perguntas foram elaboradas seguindo as definições de Barbosa e Silva (2011)
     <tr>
       <th>Questão</th>
       <th>Resposta (Sim / Não / Incompleto)</th>
+      <th> Rastreabilidade</th>
+      <th>Captura de Tela</th>
+      
+      
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>1. Metas de usabilidade são coerentes com o perfil do usuário?</td>
       <td></td>
+      <td>Item 6.3.2, página 116, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
     </tr>
     <tr>
       <td>2. Verifica se a interface atinge as expectivas dos usuários?</td>
       <td></td>
+      <td>Item 6.3.2, página 121, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+
     </tr>
     <tr>
       <td>3. Tem a verificação se as metas de
 usabilidade foram atingidas? </td>
       <td></td>
+      <td>Item 6.3.2, página 119, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+
     </tr>
     <tr>
       <td>4.Fala sobre proteção dos dados dos
 usuários? </td>
       <td></td>
+      <td>Item 7.4, página 140, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+
     </tr>
     <tr>
       <td>5.Facilita a realização rápida das tarefas? </td>
       <td></td>
+      <td>Item 6.3.2, página 117, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+
     </tr>
-    <tr>
-      <td>6.A construção do artefato inclui introdução, bibliografia e histório de versões? </td>
-      <td></td>
-    </tr>
+    
   </tbody>
 </table>
 

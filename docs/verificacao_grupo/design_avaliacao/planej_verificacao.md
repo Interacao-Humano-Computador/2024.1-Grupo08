@@ -25,35 +25,46 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
     <tr>
       <th>Questão</th>
       <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade</th>
+      <th>Captura de Tela</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>1. O framework utilizado foi o DECIDE?</td>
       <td></td>
+      <td>Item 11.8, página 279 e 280, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      
     </tr>
     <tr>
       <td>2. O(s) objetivo(s) foi/foram declarado(s) respeitando àqueles definidos por Sharp et al.? </td>
       <td></td>
+      <td>Item 11, página 261, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
     </tr>
     <tr>
       <td>3. Define como serão tratadas as questões éticas?</td>
       <td></td>
+      <td>Item 11.7.2, página 275, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
     </tr>
     <tr>
       <td>4. Planeja a realização do teste piloto bem como uma data para realização? 
      </td>
       <td></td>
+      <td>Item 11.7.2, página 276, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      
     </tr>
     <tr>
       <td>5. Foi planejado como identificar e administrar as questões práticas da avaliação?
     </td>
       <td></td>
+      <td>Item 11.7.2, página 275, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
     </tr>
     <tr>
       <td>6. Está especificado como os dados serão
 tratados e como serão apresentados? </td>
       <td></td>
+      <td>Item 11.7.4, página 278, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      
     </tr>
   </tbody>
 </table>
@@ -279,46 +290,30 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
     <tr>
       <th>Questão</th>
       <th>Resposta (Sim / Não / Incompleto)</th>
-      <th>Rastreabilidade</th>
-      <th>Captura de Tela</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>1. O método de avaliação a ser utilizado foi escolhido?</td>
       <td></td>
-      <td>Item 8.4.1, página 180, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
-      <td><a href="../prints/resultado_analise_tarefas_1.png">Página 180</a></td>
     </tr>
     <tr>
-      <td>2. É citado sobre quais foram os instrumentos utilizados para a avaliação? (questionários, roteiros de entrevista, etc.)</td>
+      <td>2. Os objetivos específicos da avaliação foram definidos?
+</td>
       <td></td>
-      <td>Item 11.6, página 272, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
-      <td><a href="../prints/resultado_analise_tarefas_2.png">Página 272</a></td>
     </tr>
     <tr>
-      <td>3. O perfil dos participantes é representativo do público-alvo?</td>
+      <td>3. Os problemas e dificuldades encontrados durante a avaliação foram documentados? </td>
       <td></td>
-      <td>Item 7.5.2, página 151 - 152, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
-      <td><a href="../prints/resultado_analise_tarefas_3.png">Página 151 - 152</a></td>
     </tr>
     <tr>
-      <td>4. As questões éticas relacionadas aos participantes foram abordadas?</td>
+      <td>4. O planejamento de reprojeto foi iniciado com base nos resultados da avaliação
+</td>
       <td></td>
-      <td>Item 7.4, página 141, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
-      <td><a href="../prints/resultado_analise_tarefas_4.png">Página 141</a></td>
     </tr>
     <tr>
-      <td>5. O feedback foi analisado para identificar tendências e padrões comuns?</td>
+      <td>5.As sugestões de melhoria baseadas nos resultados da avaliação foram propostas?  </td>
       <td></td>
-      <td>Item 7.5.5.5, página 158, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
-      <td><a href="../prints/resultado_analise_tarefas_5.png">Página 158</a></td>
-    </tr>
-    <tr>
-      <td>6. Existe um cronograma para possíveis melhorias?</td>
-      <td></td>
-      <td>Item 11.7, página 273, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
-      <td><a href="../prints/resultado_analise_tarefas_6.png">Página 273</a></td>
     </tr>
   </tbody>
 </table>
@@ -343,52 +338,42 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
     <tr>
       <th>Questão</th>
       <th>Resposta (Sim / Não / Incompleto)</th>
-      <th>Rastreabilidade</th>
-      <th>Captura de Tela</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>1. Há uma explicação de como os resultados serão utilizados?</td>
+      <td>1. Há uma explicação de como os resultados serão utilizados?
+      </td>
       <td></td>
-      <td>Item 8.4.1, página 180, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
-      <td><a href="../prints/resultado_analise_tarefas_1.png">Página 180</a></td>
     </tr>
     <tr>
       <td>2. É citado sobre quais foram os instrumentos utilizados para a avaliação? (questionários, roteiros de entrevista, etc.)</td>
       <td></td>
-      <td>Item 11.6, página 272, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
-      <td><a href="../prints/resultado_analise_tarefas_2.png">Página 272</a></td>
     </tr>
     <tr>
-      <td>3. O perfil dos participantes é representativo do público-alvo?</td>
+      <td>3. O perfil dos participantes é representativo do público-alvo?
+    </td>
       <td></td>
-      <td>Item 7.5.2, página 151 - 152, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
-      <td><a href="../prints/resultado_analise_tarefas_3.png">Página 151 - 152</a></td>
     </tr>
     <tr>
-      <td>4. As questões éticas relacionadas aos participantes foram abordadas?</td>
+      <td>4. As respostas dos usuários foram analisadas para identificar padrões e tendências comuns?
+ </td>
       <td></td>
-      <td>Item 7.4, página 141, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
-      <td><a href="../prints/resultado_analise_tarefas_4.png">Página 141</a></td>
     </tr>
     <tr>
-      <td>5. O feedback foi analisado para identificar tendências e padrões comuns?</td>
+      <td>5. As questões éticas relacionadas aos participantes foram abordadas?
+     </td>
       <td></td>
-      <td>Item 7.5.5.5, página 158, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
-      <td><a href="../prints/resultado_analise_tarefas_5.png">Página 158</a></td>
     </tr>
     <tr>
-      <td>6. Os recursos necessários (tempo, orçamento, avaliador) para implementar as melhorias estão identificados?</td>
+      <td>6. Os recursos necessários (tempo, orçamento, avaliador) para implementar as melhorias estão identificados?
+   </td>
       <td></td>
-      <td>Item 11.7.2, página 275, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
-      <td><a href="../prints/resultado_analise_tarefas_6.png">Página 273</a></td>
     </tr>
     <tr>
-      <td>7. Foram implementadas alterações ou ajustes no storyboard em função de insights obtidos ou desafios encontrados durante a avaliação?</td>
+      <td>7. Foram implementadas alterações ou ajustes no storyboard em função de insights obtidos ou desafios encontrados durante a avaliação?
+   </td>
       <td></td>
-      <td>Item 6.3.4, página 273, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
-      <td><a href="../prints/resultado_analise_tarefas_6.png">Página 121 - 122</a></td>
     </tr>
   </tbody>
 </table>
@@ -485,7 +470,7 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
  </summary>
   As perguntas foram elaboradas seguindo as definições e passos sugeridos por Barbosa e Silva (2011) no capítulo 11 chamado de "Planejamento da Avaliação de IHC", em especial o tópico Consolidação e Relato dos Resultados.
 
-  <h2> Checklist </h2>
+    <h2> Checklist </h2>
 
   <p> Na tabela 8, está o checklist elaborado: </p>
 
@@ -494,8 +479,10 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
   <table>
   <thead>
     <tr>
-      <th>Questão</th>
+       <th>Questão</th>
       <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade</th>
+      <th>Captura de Tela</th>
     </tr>
   </thead>
   <tbody>
@@ -503,25 +490,31 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
       <td>1. Utiliza a estrutura definida no planejamento da avaliação?
       </td>
       <td></td>
+      <td>Item 11.8, página 280, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+
     </tr>
     <tr>
       <td>2. Dedida uma secção para análise de dados dos participantes bem como uma explicação de como deve ser realizado?
         </td>
       <td></td>
+      <td>Item 12.2.3, página 319, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
     </tr>
     <tr>
       <td>3. Dedica uma secção para relato da interpretação e análise dos dados bem como uma explicação de como deve ser realizado?
     </td>
       <td></td>
+      <td>Item 12.2.3, página 319, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
     </tr>
     <tr>
       <td>4. Introduz sobre a metodologia aplicada? </td>
       <td></td>
+      <td>Item 12.2.3, página 319, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
     </tr>
     <tr>
       <td>5. Possui uma secção dedicada a sugestões de correções?
      </td>
       <td></td>
+      <td>Item 12.2.3, página 319, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
     </tr>
   </tbody>
 </table>
@@ -530,6 +523,7 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
 
 </details>
 
+<<<<<<< HEAD
 <details>
     <summary> Artefato: Planejamento do Relato do Protótipo de Alta Fidelidade (Yasmim Rosa)
  </summary>
@@ -636,11 +630,13 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
 
 </details>
 
+=======
+>>>>>>> 5777f7c43a92657e4320cdb73506ad538a1986f4
 ## Verificação dos Artefatos
 
-Os responsáveis pela verificação com o uso dos checklists elaborados estão na tabela 10:
+Os responsáveis pela verificação com o uso dos checklists elaborados estão na tabela 9:
 
-<font size="2"><p style="text-align: center"> Tabela 10 - Responsáveis pela Verificação dos Artefatos </font>
+<font size="2"><p style="text-align: center"> Tabela 9 - Responsáveis pela Verificação dos Artefatos </font>
 
 <center>
 
