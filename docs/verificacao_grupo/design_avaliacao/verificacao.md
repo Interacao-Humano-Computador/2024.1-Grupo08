@@ -167,7 +167,7 @@ O responsável pela verificação deste artefato é o <b>Marco Tulio</b> o check
   </tbody>
 </table>
 
-  <font size="2"><p style="text-align: center">Fonte: <a href=""> Pedro Henrique </a></p></font>
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Pedro Henrique </a></p></font>
 
 <h2>Sugestões de Melhoria</h2>
 
@@ -369,6 +369,8 @@ O responsável pela verificação deste artefato é a <b>Alana Gabriele</b> o ch
     <tr>
       <th>Questão</th>
       <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade<th>
+      <th>Captura de Tela<th>
     </tr>
   </thead>
   <tbody>
@@ -376,35 +378,56 @@ O responsável pela verificação deste artefato é a <b>Alana Gabriele</b> o ch
       <td>1. Utiliza o framework DECIDE?
       </td>
       <td>Sim</td>
+      <td>Item 11.8, página 280, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/PlanejamentoAvaliacaoPrototipoPapel_1.png">Página 280</a> </td>
     </tr>
     <tr>
       <td>2. O(s) objetivo(s) foi/foram declarado(s) respeitando àqueles definidos por Sharp et al.?
         </td>
-      <td>Não</td>
+      <td>Sim</td>
+      <td>Item 11.2, página 264, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/PlanejamentoAvaliacaoPrototipoPapel_2.png">Página 264</a> </td>
     </tr>
     <tr>
       <td>3. As perguntas exploratórias foram definidas com base no(s) objetivo(s) escolhido(s) de forma a serem respondidas ao fim da avaliação?
     </td>
       <td>Sim</td>
+      <td>Item 11.2, página 266, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/PlanejamentoAvaliacaoPrototipoPapel_3.png">Página 266</a> </td>
     </tr>
     <tr>
       <td>4. As questões práticas incluem etapas de preparação, recrutamento, organização temporal e espacial (cronograma e locais para realização) bem como o roteiro a ser utilizado? </td>
       <td>Sim</td>
+      <td>Item 11.7, página 275, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/PlanejamentoAvaliacaoPrototipoPapel_4.png">Página 275</a> </td>
     </tr>
     <tr>
       <td>5. São considerados os aspectos éticos para realização? É indicado em qual momento será introduzido ao participante durante a execução da avaliação?
      </td>
       <td>Sim</td>
+      <td>Item 7.4, página 140, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/PlanejamentoAvaliacaoPrototipoPapel_5.png">Página 140</a> </td>
     </tr>
     <tr>
       <td>6. É definida uma estrutura para apresentação dos dados bem como a estratégia a ser utilizada para análise dos dados?
       </td>
-      <td>Sim</td>
+      <td>Incompleto</td>
+      <td>Item 11.7, página 279, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/PlanejamentoAvaliacaoPrototipoPapel_6.png">Página 279</a> </td>
     </tr>
     <tr>
       <td>7. O teste piloto foi realizado e ajustes realizados para um melhor andamento da avaliação?
       </td>
       <td>Sim</td>
+      <td>Item 11.7.2, página 276, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/PlanejamentoAvaliacaoPrototipoPapel_6.png">Página 276</a> </td>
     </tr>
   </tbody>
 </table>
@@ -413,8 +436,10 @@ O responsável pela verificação deste artefato é a <b>Alana Gabriele</b> o ch
 
 <h2>Sugestões de Melhoria</h2>
 
-<p> - Definir o(s) objetivo(s) respeitando àqueles definidos por Sharp et al.  </p>
+<p> Colocar a estratégia a ser utilizada para análise dos dados. </p>
 
+<h2>Gravação</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OlfXVFLMbdk?si=4VQbS6xwJqYmcywr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 <details>
@@ -469,6 +494,89 @@ O responsável pela verificação deste artefato é a <b>Alana Gabriele</b> o ch
 
 </details>
 
+<details>
+    <summary> Artefato: Planejamento da Avaliação do Protótipo de Alta Fidelidade
+ </summary>
+ O responsável pela verificação deste artefato é a <b>Alana Gabriele</b> o checklist foi elaborado pela <b>Yasmim Rosa</b>
+
+<font size="2"><p style="text-align: center"> Tabela 9 - Checklist de Verificação do Planejamento da Avaliação do Protótipo de Alta Fidelidade </font>
+
+  <table>
+  <thead>
+    <tr>
+      <th>Questão</th>
+      <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade<th>
+      <th>Captura de Tela<th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1. Utiliza o framework DECIDE?
+      </td>
+      <td></td>
+      <td>Item 11.8, página 280, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../printsPlanejamentoAvaliacaoPrototipoPapel_1.png">Página 280</a> </td>
+    </tr>
+    <tr>
+      <td>2. O(s) objetivo(s) foi/foram declarado(s) respeitando àqueles definidos por Sharp et al.?
+        </td>
+      <td></td>
+      <td>Item 11.2, página 264, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../printsPlanejamentoAvaliacaoPrototipoPapel_2.png">Página 264</a> </td>
+    </tr>
+    <tr>
+      <td>3. As perguntas exploratórias foram definidas com base no(s) objetivo(s) escolhido(s) de forma a serem respondidas ao fim da avaliação?
+    </td>
+      <td></td>
+      <td>Item 11.2, página 266, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../printsPlanejamentoAvaliacaoPrototipoPapel_3.png">Página 266</a> </td>
+    </tr>
+    <tr>
+      <td>4. As questões práticas incluem etapas de preparação, recrutamento, organização temporal e espacial (cronograma e locais para realização) bem como o roteiro a ser utilizado? </td>
+      <td></td>
+      <td>Item 11.7, página 275, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../printsPlanejamentoAvaliacaoPrototipoPapel_4.png">Página 275</a> </td>
+    </tr>
+    <tr>
+      <td>5. São considerados os aspectos éticos para realização? É indicado em qual momento será introduzido ao participante durante a execução da avaliação?
+     </td>
+      <td></td>
+      <td>Item 7.4, página 140, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../printsPlanejamentoAvaliacaoPrototipoPapel_5.png">Página 140</a> </td>
+    </tr>
+    <tr>
+      <td>6. É definida uma estrutura para apresentação dos dados bem como a estratégia a ser utilizada para análise dos dados?
+      </td>
+      <td></td>
+      <td>Item 11.7, página 279, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../printsPlanejamentoAvaliacaoPrototipoPapel_6.png">Página 279</a> </td>
+    </tr>
+    <tr>
+      <td>7. O teste piloto foi realizado e ajustes realizados para um melhor andamento da avaliação?
+      </td>
+      <td></td>
+      <td>Item 11.7.2, página 276, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../printsPlanejamentoAvaliacaoPrototipoPapel_6.png">Página 276</a> </td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa </a></p></font>
+
+<h2>Sugestões de Melhoria</h2>
+
+<h2>Gravação</h2>
+
+</details>
+
 ## Bibliografia
 
 > REINEHR, Sheila. Engenharia de requisitos. Grupo A, 2020. E-book. ISBN 9786556900674. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786556900674/. Acesso em: 11 jun. 2024.
@@ -482,3 +590,4 @@ O responsável pela verificação deste artefato é a <b>Alana Gabriele</b> o ch
 | 1.0    | 11/06/2024 | Planejamento                                                                                                                                                                                                         | [Yasmim Rosa](https://github.com/yaskisoba)        | [Renan Araújo](https://github.com/renantfm4) |
 | 1.1    | 11/06/2024 | Verificação do artefato relato dos resultados da análise de tarefas                                                                                                                                                  | [Yasmim Rosa](https://github.com/yaskisoba)        | [Renan Araújo](https://github.com/renantfm4) |
 | 1.2    | 11/06/2024 | Verificação do artefato relato dos resultados do StoryBoard, Verificação do planejamento da avaliação do protótipo de papel, Verificação do planejamento do relato dos resultados da avaliação da Análise de tarefas | [Alana Gabriele](https://github.com/alanagabriele) | [Yasmim Rosa](https://github.com/yaskisoba)  |
+| 1.3    | 26/06/2024 | Planejamento da Avaliação do Protótipo de Alta Fidelidade e Planejamento da Avaliação do Protótipo de Papel                                                                                                          | [Alana Gabriele](https://github.com/alanagabriele) |                                              |
