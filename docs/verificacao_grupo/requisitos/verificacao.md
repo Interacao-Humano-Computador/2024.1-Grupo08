@@ -303,7 +303,7 @@ O responsável pela verificação deste artefato é são todos os membros da equ
 
 <h2>Sugestões de Melhoria</h2>
 
-<p></p>
+<p>O HTA e o GOMS estão bem elaborados, não há sugestão de melhoria.</p>
 
 <h3> Vídeo da Verificação </h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iOG8QmKa7LE?si=Wvse4fZK25-MGd4I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
