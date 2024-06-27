@@ -235,14 +235,14 @@ O responsável pela verificação deste artefato é são todos os membros da equ
   <tbody>
     <tr>
       <td>1. O cenário contém atores ? </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/cenarios_1.png">Página 172</a> </td>
     </tr>
     <tr>
     <td>2. O cenário contém objetivos?  </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/cenarios_2.png">Página 172</a> </td>
@@ -250,7 +250,7 @@ O responsável pela verificação deste artefato é são todos os membros da equ
     </tr>
     <tr>
       <td>3. O cenário contém um título auto-explicativo?   </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/cenarios_3.png">Página 172</a> </td>
@@ -258,7 +258,7 @@ O responsável pela verificação deste artefato é são todos os membros da equ
     </tr>
     <tr>
       <td>4. O cenário inclui características do ator?   </td>
-      <td></td>
+      <td>Incompleto</td>
       <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/cenarios_4.png">Página 172</a> </td>
@@ -266,7 +266,7 @@ O responsável pela verificação deste artefato é são todos os membros da equ
     </tr>
     <tr>
      <td>5. O cenário contém planejamento?    </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/cenarios_5.png">Página 175</a> </td>
@@ -274,7 +274,7 @@ O responsável pela verificação deste artefato é são todos os membros da equ
     </tr>
     <tr>
        <td>6. O cenário contém ações?    </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/cenarios_6.png">Página 175</a> </td>
@@ -282,7 +282,7 @@ O responsável pela verificação deste artefato é são todos os membros da equ
     </tr>
     <tr>
      <td>7. O cenário contém avaliação ?    </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/cenarios_7.png">Página 175</a> </td>
@@ -290,7 +290,7 @@ O responsável pela verificação deste artefato é são todos os membros da equ
     </tr>
     <tr>
      <td>8. O cenário contém ambiente ?  </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/cenarios_8.png">Página 175</a> </td>
@@ -303,7 +303,7 @@ O responsável pela verificação deste artefato é são todos os membros da equ
 
 <h2>Sugestões de Melhoria</h2>
 
-<p>O HTA e o GOMS estão bem elaborados, não há sugestão de melhoria.</p>
+<p>De maneira geral o cenário está bem explicado, porém poderia ter mais informações sobre o autor, por exemplo, com o que ele trabalha, etc.</p>
 
 <h3> Vídeo da Verificação </h3>
 <h2> Funcionalidade: Histórico de passagens compradas - Renan Araújo </h2>
