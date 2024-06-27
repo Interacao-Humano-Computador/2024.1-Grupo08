@@ -25,7 +25,7 @@ O responsável pela verificação deste artefato é o <b>Marco Tulio</b> o check
       <th>Questão</th>
       <th>Resposta (Sim / Não / Incompleto)</th>
     </tr>
-  </thead>gi
+  </thead>
   <tbody>
     <tr>
       <td>1. É citado sobre quais foram os instrumentos utilizados para a avaliação? (questionários, roteiros de entrevista, etc.)</d>
@@ -508,7 +508,7 @@ O responsável pela verificação deste artefato é são todos os membros da equ
   <tbody>
     <tr>
       <td>1. O cenário contém atores ? </td>
-      <td>Incompleto</td>
+      <td>Sim</td>
       <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/cenarios_1.png">Página 172</a> </td>
