@@ -45,16 +45,6 @@ Na tabela 1, estão os responsáveis pela elaboração e/ou reajuste do checklis
 
 <font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba)</p></font>
 
-### Verificação
-Na tabela 2, estão os responsáveis pela verificação de cada artefato.
-
-<font size="2"><p style="text-align: center">Tabela 2 - Verificação dos Artefatos </font>
-
-<center>
-
-</center>
-<font size="2"><p style="text-align: center">Fonte: [Yasmim Rosa](https://github.com/yaskisoba)</p></font>
-
 ## Bibliografia
 > REINEHR, Sheila. Engenharia de requisitos. Grupo A, 2020. E-book. ISBN 9786556900674. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786556900674/. Acesso em: 11 jun. 2024.
 
