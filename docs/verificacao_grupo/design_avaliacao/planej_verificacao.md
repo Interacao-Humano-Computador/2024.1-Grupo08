@@ -523,7 +523,6 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
 
 </details>
 
-<<<<<<< HEAD
 <details>
     <summary> Artefato: Planejamento do Relato do Protótipo de Alta Fidelidade (Yasmim Rosa)
  </summary>
@@ -630,8 +629,7 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
 
 </details>
 
-=======
->>>>>>> 5777f7c43a92657e4320cdb73506ad538a1986f4
+
 ## Verificação dos Artefatos
 
 Os responsáveis pela verificação com o uso dos checklists elaborados estão na tabela 9:
@@ -673,3 +671,4 @@ Cada membro responsável deve utilizar a checklist disponibilizada para o artefa
 | 1.4    | 11/06/2024 | Artefato Relato - Análise de Tarefas e Storyboard                          | [Gustavo Alves](https://github.com/)        | [Yasmim Rosa](https://github.com/)           |
 | 1.5    | 11/06/2024 | Ajustes e artefato planejamento da avaliação do protótipo de papel         | [Yasmim Rosa](https://github.com/)          | [Gustavo Alves](https://github.com/)         |
 | 1.6    | 26/06/2024 | Referencia nas perguntas do Planejamento da Avaliação do StoryBoard        | [Alana Gabriele](https://github.com/)       | [Gustavo Alves](https://github.com/)         |
+| 1.7    | 26/06/2024 | Referencia nas perguntas do Relato do resultado da avaliação do Protótipo de Papel        | [Gustavo Alves](https://github.com/)  |   [Alana Gabriele](https://github.com/)            |
