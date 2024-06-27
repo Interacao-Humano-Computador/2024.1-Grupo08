@@ -639,26 +639,6 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
 
 ## Verificação dos Artefatos
 
-Os responsáveis pela verificação com o uso dos checklists elaborados estão na tabela 9:
-
-<font size="2"><p style="text-align: center"> Tabela 9 - Responsáveis pela Verificação dos Artefatos </font>
-
-<center>
-
-| Responsável    | Artefato                                                                 |
-| -------------- | ------------------------------------------------------------------------ |
-| Pedro Henrique | Planejamento da Avaliação da Análise de Tarefas                          |
-| Marco Tulio    | Planejamento da Avaliação do Storyboard                                  |
-| Marco Tulio    | Planejamento do relato dos resultados da avaliação do Storyboard         |
-| Alana Gabriele | Planejamento do relato dos resultados da avaliação da Análise de tarefas |
-| Yasmim Rosa    | Relato dos resultados da Análise de tarefas                              |
-| Alana Gabriele | Relato dos resultados do Storyboard                                      |
-| Alana Gabriele | Planejamento da Avaliação do Protótipo de Papel                          |
-| Renan Araújo   | Planejamento do relato dos resultados da avaliação do Protótipo de Papel |
-
-</center>
-<font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa </a></p></font>
-
 Cada membro responsável deve utilizar a checklist disponibilizada para o artefato além de trazer sugestões de melhoriais se aplicável.
 
 ## Bibliografia
@@ -676,6 +656,6 @@ Cada membro responsável deve utilizar a checklist disponibilizada para o artefa
 | 1.2    | 11/06/2024 | Artefato Planejamento do Storyboard                                        | [Alana Gabriele](https://github.com/)       | [Renan Araújo](https://github.com/)          |
 | 1.3    | 11/06/2024 | Artefato Planejamento do Relato - Análise de Tarefas e Storyboard          | [Pedro Henrique](https://github.com/)       | [Yasmim Rosa](https://github.com/)           |
 | 1.4    | 11/06/2024 | Artefato Relato - Análise de Tarefas e Storyboard                          | [Gustavo Alves](https://github.com/)        | [Yasmim Rosa](https://github.com/)           |
-| 1.5    | 11/06/2024 | Ajustes e artefato planejamento da avaliação do protótipo de papel         | [Yasmim Rosa](https://github.com/)          | [Gustavo Alves](https://github.com/)         |
-| 1.6    | 26/06/2024 | Referencia nas perguntas do Planejamento da Avaliação do StoryBoard        | [Alana Gabriele](https://github.com/)       | [Gustavo Alves](https://github.com/)         |
-| 1.7    | 26/06/2024 | Referencia nas perguntas do Relato do resultado da avaliação do Protótipo de Papel        | [Gustavo Alves](https://github.com/)  |   [Alana Gabriele](https://github.com/)            |
+| 2.0    | 11/06/2024 | Ajustes e artefato planejamento da avaliação do protótipo de papel         | [Yasmim Rosa](https://github.com/)          | [Gustavo Alves](https://github.com/)         |
+| 2.1    | 26/06/2024 | Referencia nas perguntas do Planejamento da Avaliação do StoryBoard        | [Alana Gabriele](https://github.com/)       | [Gustavo Alves](https://github.com/)         |
+| 2.2    | 26/06/2024 | Referencia nas perguntas do Relato do resultado da avaliação do Protótipo de Papel        | [Gustavo Alves](https://github.com/)  |   [Alana Gabriele](https://github.com/)            |
