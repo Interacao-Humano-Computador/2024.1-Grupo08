@@ -26,36 +26,52 @@ As perguntas foram elaboradas seguindo as definições de Barbosa e Silva (2011)
     <tr>
       <th>Questão</th>
       <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade<th>
+      <th>Captura de Tela<th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>1. É citado sobre quais foram os instrumentos utilizados para a avaliação? (questionários, roteiros de entrevista, etc.)</td>
       <td></td>
+      <td>Item 8.1 Página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+       <td> <a href="../prints/perfil_de_usuario_1.png">Página 166</a> </td>
     </tr>
     <tr>
-      <td>2. As informações a serem descobertas sobre o usuário incluem: quem são? seus objetivos? características de interesse como nível de instrução, atividades principais, faixa étaria, entre outros? </td>
+      <td>2. As informações a serem descobertas sobre o usuário incluem: quem são? seus objetivos? características de interesse como nível de instrução, atividades principais, faixa étaria, entre outros?</td>
       <td></td>
+      <td>Item 8.1 Página 165, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+     <td> <a href="../prints/perfil_de_usuario_2.png">Página 165</a> </td>
     </tr>
     <tr>
-      <td>3. As respostas dos usuários foram analisadas para identificar padrões e tendências comuns?</td>
+     <td>3. As respostas dos usuários foram analisadas para identificar padrões e tendências comuns?</td>
       <td></td>
+      <td>Item 8.1 Página 166, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+     <td> <a href="../prints/perfil_de_usuario_3.png">Página 166</a> </td>
     </tr>
     <tr>
-      <td>4. O perfil dos participantes elaborado é coerente as informações obtidas? </td>
+       <td>4. O perfil dos participantes elaborado é coerente as informações obtidas?</td>
       <td></td>
+      <td>Item 8.1 Página 166/167, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+     <td> <a href="../prints/perfil_de_usuario_4.png">Página 166/167</a> </td>
     </tr>
     <tr>
       <td>5. As questões éticas relacionadas aos participantes foram abordadas?</td>
       <td></td>
+      <td>Item 11.8 Página 280, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+     <td> <a href="../prints/perfil_de_usuario_5.png">Página 280</a> </td>
     </tr>
     <tr>
-      <td>6. O propósito e uso posterior do perfil do usuário são definidos? </td>
+      <td>6. O propósito e uso posterior do perfil do usuário são definidos?</td>
       <td></td>
-    </tr>
-    <tr>
-      <td>7. A construção do artefato inclui introdução, bibliografia e histório de versões?</td>
+      <td>Item 8.1 Página 165, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
+     <td> <a href="../prints/perfil_de_usuario_6.png">Página 165</a> </td>
     </tr>
   </tbody>
 </table>
@@ -63,6 +79,7 @@ As perguntas foram elaboradas seguindo as definições de Barbosa e Silva (2011)
 <font size="2"><p style="text-align: center">Fonte: <a href=""> Renan Araújo </a></p></font>
 
 </details>
+
 
 <details>
 <summary>Artefato: Personas (Yasmim Rosa)</summary>
@@ -217,13 +234,14 @@ As perguntas foram elaboradas seguindo as definições de Barbosa e Silva (2011)
 </details>
 
 
+
 <details>
     <summary>Artefato: Aspectos Éticos de Pesquisas com Pessoas (Renan Araújo) </summary>
     <p> Para a realização de pesquisa com pessoas é necessário garantir seu bem-estar físico e psíquico antes, durante e após a pesquisa. </p>
 
-    As perguntas foram elaboradas seguindo as definições de Barbosa e Silva (2011) no capítulo 7 chamado de "Identificação de Necessidades dos Usuários e Definição dos Requisitos", especificamente do tópico Aspectos éticos de pesquisas envolvendo pessoas.
+  As perguntas foram elaboradas seguindo as definições de Barbosa e Silva (2011) no capítulo 7 chamado de "Identificação de Necessidades dos Usuários e Definição dos Requisitos", especificamente do tópico Aspectos éticos de pesquisas envolvendo pessoas.
 
-    <h2> Checklist </h2>
+  <h2> Checklist </h2>
 
 <p> Na tabela 3, está o checklist elaborado: </p>
 
@@ -234,27 +252,49 @@ As perguntas foram elaboradas seguindo as definições de Barbosa e Silva (2011)
     <tr>
       <th>Questão</th>
       <th>Resposta (Sim / Não / Incompleto)</th>
+       <th>Rastreabilidade<th>
+      <th>Captura de Tela<th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>1. Os aspectos éticos são apresentados levando em consideração os 4 princípios da Resolução No 466/2012 do Conselho Nacional de Saúde?</td>
+      <td>1. Os aspectos éticos são apresentados levando em consideração os 4 princípios da Resolução No 466/2012 do Conselho Nacional de Saúde? </td>
+      <td></td>
+      <td>Item 7.4 Página 140, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/aspectos_eticos_1.png">Página 140</a> </td>
       <td></td>
     </tr>
     <tr>
-      <td>2. É explicado a aplicabilidade dos aspectos éticos no projeto?</td>
+       <td>2. É explicado a aplicabilidade dos aspectos éticos no projeto? </td>
+      <td></td>
+      <td>Item 7.5 Página 143, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/aspectos_eticos_2.png">Página 143</a> </td>
       <td></td>
     </tr>
     <tr>
       <td>3. O Termo de Consentimento Livre e Esclarecido (TCLE) é apresentado?</td>
       <td></td>
+      <td>Item 11.7 Página 275, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/aspectos_eticos_3.png">Página 275</a> </td>
+      <td></td>
     </tr>
     <tr>
       <td>4. O TCLE apresentado informa ao participante seus direitos, a motivação da pesquisa e a finalidade da coleta de dados? </td>
       <td></td>
+      <td>Item 7.4 Página 142, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/aspectos_eticos_4.png">Página 142</a> </td>
+      <td></td>
     </tr>
     <tr>
-      <td>5. É informado em quais etapas ou atividades o TCLE será introduzido ao participante? </td>
+      <td>5. É informado em quais etapas ou atividades o TCLE será introduzido ao participante?</td>
+      <td></td>
+      <td>Item 7.4 Página 142, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/aspectos_eticos_5.png">Página 142</a> </td>
       <td></td>
     </tr>
   </tbody>
@@ -263,6 +303,7 @@ As perguntas foram elaboradas seguindo as definições de Barbosa e Silva (2011)
 <font size="2"><p style="text-align: center">Fonte: <a href=""> Renan Araújo </a></p></font>
 
 </details>
+
 
 <details>
     <summary> Artefato: Análise de tarefas (Yasmim Rosa) </summary>
