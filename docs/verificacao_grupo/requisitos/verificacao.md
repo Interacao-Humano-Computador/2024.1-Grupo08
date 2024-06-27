@@ -1,6 +1,6 @@
 ## Introdução
 
-De acordo com Reinehr (2020), a verificação é comumente definida como a análise do produto para definir se ele foi construído de maneira correta. Levando em consideração essa definição, o planejamento dessa verificação terá enfoque em verificar a estrutura e a elaboração dos artefatos desenvolvidos pelo Grupo 1 responsável pelo projeto do site CD-MOJ.
+De acordo com Reinehr (2020), a verificação é comumente definida como a análise do produto para definir se ele foi construído de maneira correta. Levando em consideração essa definição, o planejamento dessa verificação terá enfoque em verificar a estrutura e a elaboração dos artefatos desenvolvidos pelo grupo.
 
 ## Metodologia
 
@@ -12,7 +12,7 @@ Os checklists foram elaborados anteriormente e serão utilizadas por membros que
 
 <details>
 <summary>Artefato: Perfil do Usuário </summary>
-O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o checklist foi elaborado pelo <b>Renan Araújo</b>
+O responsável pela verificação deste artefato é o <b>Marco Tulio</b> o checklist foi elaborado pelo <b>Renan Araújo</b>
 
 <h2> Checklist </h2>
 <p> Na tabela 1, está o checklist com suas devidas respostas: </p>
@@ -732,7 +732,7 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
 
     Cada membro ficou com uma das seis funcionalidades:
 
-<h2> Funcionalidade: Rastreamento de Ônibus em Tempo Real - Yasmin Rosa </h2>
+<h2> Funcionalidade: Rastreamento de Ônibus em Tempo Real - Yasmim Rosa </h2>
 
 <h3> Checklist </h3>
 <p> Na tabela 10, está o checklist com suas devidas respostas: </p>
@@ -751,7 +751,7 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
   <tbody>
     <tr>
       <td>1. O objetivo do usuário é bem definido e alcançado ao fim da tarefa?</td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.4.1, página 178, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/analise_tarefas_1.png">Página 178</a> </td>
