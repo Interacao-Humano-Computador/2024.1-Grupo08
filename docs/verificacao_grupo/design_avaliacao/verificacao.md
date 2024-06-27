@@ -301,11 +301,14 @@ O responsável pela verificação deste artefato é a <b>Yasmim Rosa</b> o check
 <p> Não tem um tópico de reprojeto ou planejamento que cobrisse as melhorias levantadas. </p>
 <p> Seria também interessante, se informassem de maneira narrativa que o participante aceitou o TCLE e informações gerais da entrevista. </p>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MNmG_JjXh54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 </details>
 
 <details>
     <summary> Artefato: Relato dos resultados do Storyboard  </summary>
-    O responsável pela verificação deste artefato é a <b>Alana Gabriele</b> o checklist foi elaborado pelo <b>Gustavo Alves</b>
+    O responsável pela verificação deste artefato é a <b>Yasmim Rosa</b> o checklist foi elaborado pelo <b>Gustavo Alves</b>
 
     <h2> Checklist </h2>
 
@@ -318,42 +321,52 @@ O responsável pela verificação deste artefato é a <b>Yasmim Rosa</b> o check
     <tr>
       <th>Questão</th>
       <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade</th>
+      <th>Captura de Tela</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>1. Há uma explicação de como os resultados serão utilizados?
-      </td>
-      <td>Incompleto</td>
-    </tr>
-    <tr>
-      <td>2. É citado sobre quais foram os instrumentos utilizados para a avaliação? (questionários, roteiros de entrevista, etc.)</td>
+      <td>1. Há uma explicação de como os resultados serão utilizados?</td>
       <td>Sim</td>
+      <td>Item 8.4.3, página 279, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td><a href="../prints/resultado_analise_tarefas_1.png">Página 180</a></td>
     </tr>
     <tr>
-      <td>3. O perfil dos participantes é representativo do público-alvo?
-    </td>
+      <td>2. É citado sobre quais foram os instrumentos utilizados para a avaliação? (questionários, roteiros de entrevista)</td>
       <td>Sim</td>
+      <td>Item 11.6, página 272, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td><a href="../prints/resultado_analise_tarefas_2.png">Página 272</a></td>
     </tr>
     <tr>
-      <td>4. As respostas dos usuários foram analisadas para identificar padrões e tendências comuns?
- </td>
+      <td>3. O perfil dos participantes é representativo do público-alvo?</td>
+      <td>Sim</td>
+      <td>Item 7.5.2, página 151 - 152, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td><a href="../prints/resultado_analise_tarefas_3.png">Página 151 - 152</a></td>
+    </tr>
+    <tr>
+      <td>4. As respostas dos usuários foram analisadas para identificar padrões e tendências comuns?</td>
+      <td>Sim</td>
+      <td>Item 7.5.5.5, página 158, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td><a href="../prints/resultado_analise_tarefas_3.png">Página 158</a></td>
+    </tr>
+    <tr>
+      <td>5. As questões éticas relacionadas aos participantes foram abordadas?</td>
+      <td>Sim</td>
+      <td>Item 7.4, página 141, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td><a href="../prints/resultado_analise_tarefas_6.png">Página 141</a></td>
+    </tr>
+    <tr>
+      <td>6.  Os recursos necessários (tempo, orçamento, avaliador) para implementar as melhorias estão identificados?</td>
       <td>Não</td>
+      <td>Item 11.7.2, página 273, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td><a href="../prints/resultado_storyboard_6.png">Página 275</a></td>
     </tr>
     <tr>
-      <td>5. As questões éticas relacionadas aos participantes foram abordadas?
-     </td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>6. Os recursos necessários (tempo, orçamento, avaliador) para implementar as melhorias estão identificados?
-   </td>
-      <td>Sim</td>
-    </tr>
-    <tr>
-      <td>7. Foram implementadas alterações ou ajustes no storyboard em função de insights obtidos ou desafios encontrados durante a avaliação?
-   </td>
+      <td>7.  Foram implementadas alterações ou ajustes no storyboard em função de insights obtidos ou desafios encontrados durante a avaliação?</td>
       <td>Não</td>
+      <td>Item 6.3.4, página 121 - 122, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td><a href="../prints/resultado_storyboard_7.png">Página 121 - 122</a></td>
     </tr>
   </tbody>
 </table>
@@ -362,13 +375,11 @@ O responsável pela verificação deste artefato é a <b>Yasmim Rosa</b> o check
 
 <h2>Sugestões de Melhoria</h2>
 
-<p> - Deixar explicito como os resultados serão utilizados; </p>
-<p> - Adicionar a tabela com as perguntas e respostas em todas as avaliações;</p>
-<p> - Juntar o resultado de cada avaliação para analisar e identificar padrões e tendências comuns.</p>
+<p> Com as informações obtidas, o planejamento do reprojeto deveria ser mais palpável ao invés de uma simples lista, nos storyboards com necessidade de mudança não foram planejados períodos para realização delas. </p>
 
 <h2>Gravação</h2>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wrDEl0H0LgA?si=txPvXiLGGzLfaeV0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gaWqqQc8fCQ?si=bbA0gYApNoA37U7k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </details>
 
