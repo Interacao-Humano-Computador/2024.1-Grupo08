@@ -144,14 +144,14 @@ O responsável pela verificação deste artefato é são todos os membros da equ
   <tbody>
     <tr>
       <td>1. O cenário contém atores ? </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/cenarios_1.png">Página 172</a> </td>
     </tr>
     <tr>
     <td>2. O cenário contém objetivos?  </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/cenarios_2.png">Página 172</a> </td>
@@ -159,7 +159,7 @@ O responsável pela verificação deste artefato é são todos os membros da equ
     </tr>
     <tr>
       <td>3. O cenário contém um título auto-explicativo?   </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/cenarios_3.png">Página 172</a> </td>
@@ -167,7 +167,7 @@ O responsável pela verificação deste artefato é são todos os membros da equ
     </tr>
     <tr>
       <td>4. O cenário inclui características do ator?   </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/cenarios_4.png">Página 172</a> </td>
@@ -175,7 +175,7 @@ O responsável pela verificação deste artefato é são todos os membros da equ
     </tr>
     <tr>
      <td>5. O cenário contém planejamento?    </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/cenarios_5.png">Página 175</a> </td>
@@ -183,7 +183,7 @@ O responsável pela verificação deste artefato é são todos os membros da equ
     </tr>
     <tr>
        <td>6. O cenário contém ações?    </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/cenarios_6.png">Página 175</a> </td>
@@ -191,7 +191,7 @@ O responsável pela verificação deste artefato é são todos os membros da equ
     </tr>
     <tr>
      <td>7. O cenário contém avaliação ?    </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/cenarios_7.png">Página 175</a> </td>
@@ -199,7 +199,7 @@ O responsável pela verificação deste artefato é são todos os membros da equ
     </tr>
     <tr>
      <td>8. O cenário contém ambiente ?  </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/cenarios_8.png">Página 175</a> </td>
@@ -212,10 +212,10 @@ O responsável pela verificação deste artefato é são todos os membros da equ
 
 <h2>Sugestões de Melhoria</h2>
 
-<p></p>
+<p>Na avaliação do cenário, quando o ator finaliza o objetivo podia ter sido melhor elaborado com uma finalização mais explícita como "Mariana assim conseguiu ir até sua reunião com sucesso". </p>
 
 <h3> Vídeo da Verificação </h3>
-<!-- iframe aqui -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1ykJTa1Ero?si=dDFcIyFCVW1cUpND" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h2> Funcionalidade: Compartilhamento de Trajetos - Pedro Henrique </h2>
 <h2> Checklist </h2>
@@ -759,7 +759,7 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
     <tr>
       <td>2. As tarefas realizadas são justificáveis? (Possuem porquês e consequências relacionadas)
       </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.4.1, página 178, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/analise_tarefas_1.png">Página 178</a> </td>
@@ -767,14 +767,14 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
     <tr>
       <td>3. O plano, conjunto de subobjetivos do HTA, são elaborados de forma que sua necessidade é clara para alcançar o objetivo final?
       </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.4.1, página 179, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/analise_tarefas_2.png">Página 179</a> </td>
     </tr>
     <tr>
       <td>4. O plano (HTA) possui relações que suportam o objetivo final e é finalizado com uma operação?</td>
-      <td></td>
+      <td>Incompleto</td>
       <td>Item 8.4.1, página 179, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/analise_tarefas_3.png">Página 179</a> <br> <a href="../prints/analise_tarefas_4.png">Página 179 - trecho 2</a> </td>
@@ -782,14 +782,14 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
     <tr>
       <td>5. No método GOMS, possui os elementos característicos? Objetivos, operadores, métodos e regras de seleção.
       </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.4.2, página 181, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/analise_tarefas_5.png">Página 181</a>  </td>
     </tr>
     <tr>
       <td>6. O GOMS contém uma descrição detalhada do conhecimento necessário para realizar a tarefa?</td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.4.2, página 182, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/analise_tarefas_6.png">Página 182</a>  </td>
@@ -808,9 +808,11 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
 <font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa </a></p></font>
 
 <h3> Sugestões de Melhoria </h3>
-<p></p>
+<p>De maneira geral, a análise de tarefas está ótima, mas em relação a numeração e aos relacionamentos entre os sub-objetivos eles podem ser reformulados de maneira a abranger mais relacionamentos.</p>
 
 <h3>Vídeo da Verificação</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x-GfzCJiHRc?si=1mCjPfP5t8RziCUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h2> Funcionalidade: Compartilhamento de Trajetos - Pedro Henrique </h2>
 
