@@ -25,35 +25,46 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
     <tr>
       <th>Questão</th>
       <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade</th>
+      <th>Captura de Tela</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>1. O framework utilizado foi o DECIDE?</td>
       <td></td>
+      <td>Item 11.8, página 279 e 280, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      
     </tr>
     <tr>
       <td>2. O(s) objetivo(s) foi/foram declarado(s) respeitando àqueles definidos por Sharp et al.? </td>
       <td></td>
+      <td>Item 11, página 261, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
     </tr>
     <tr>
       <td>3. Define como serão tratadas as questões éticas?</td>
       <td></td>
+      <td>Item 11.7.2, página 275, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
     </tr>
     <tr>
       <td>4. Planeja a realização do teste piloto bem como uma data para realização? 
      </td>
       <td></td>
+      <td>Item 11.7.2, página 276, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      
     </tr>
     <tr>
       <td>5. Foi planejado como identificar e administrar as questões práticas da avaliação?
     </td>
       <td></td>
+      <td>Item 11.7.2, página 275, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
     </tr>
     <tr>
       <td>6. Está especificado como os dados serão
 tratados e como serão apresentados? </td>
       <td></td>
+      <td>Item 11.7.4, página 278, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      
     </tr>
   </tbody>
 </table>
