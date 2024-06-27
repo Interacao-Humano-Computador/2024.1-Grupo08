@@ -1,5 +1,5 @@
 ## Introdução
-De acordo com Reinehr (2020), a verificação é comumente definida como a análise do produto para definir se ele foi construído de maneira correta. Levando em consideração essa definição, o planejamento dessa verificação terá enfoque em verificar a estrutura e a elaboração dos artefatos desenvolvidos pelo Grupo 1 responsável pelo projeto do site CD-MOJ.
+De acordo com Reinehr (2020), a verificação é comumente definida como a análise do produto para definir se ele foi construído de maneira correta. Levando em consideração essa definição, o planejamento dessa verificação terá enfoque em verificar a estrutura e a elaboração dos artefatos desenvolvidos pelo grupo durante o projeto.
 
 ## Metodologia
 A verificação será realizada por meio do método de inspeção por meio de uma revisão formal com o uso de checklists.
