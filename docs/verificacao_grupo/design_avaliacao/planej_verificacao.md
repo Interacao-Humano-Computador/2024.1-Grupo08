@@ -586,6 +586,56 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
 
 </details>
 
+<details>
+    <summary> Arfetato: Relato do resultado da avaliação do Protótipo de Papel (Gustavo Alves) </summary>
+    As perguntas foram elaboradas seguindo as definições e passos sugeridos por Barbosa e Silva (2011) no capítulo 11 chamado de "Planejamento da Avaliação de IHC", em especial o tópico Consolidação e Relato dos Resultados.
+
+  <h2> Checklist </h2>
+  <p> Na tabela 10, está o checklist elaborado: </p>
+
+<font size="2"><p style="text-align: center"> Tabela 10 - Checklist de Verificação do Relato do resultado da avaliação do Protótipo de Papel </font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Questão</th>
+      <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade</th>
+      <th>Captura de Tela</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1. Os resultados de cada indivíduo são combinados e analisados coletivamente?</td>
+      <td></td>
+      <td>Item 11.7.5, página 279, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td><a href="../prints/relato_avaliacao_papel_1.png">Página 279</a></td>
+    </tr>
+    <tr>
+      <td>2. É apresentado sobre qual a motivação da entrevista?</td>
+      <td></td>
+      <td>Item 11.7.5, página 279, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td><a href="../prints/relato_avaliacao_papel_2.png">Página 279</a></td>
+    </tr>
+    <tr>
+      <td>3. O perfil dos participantes é representativo do público-alvo?</td>
+      <td></td>
+      <td>Item 7.5.2, página 151 - 152, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td><a href="../prints/resultado_analise_tarefas_3.png">Página 151 - 152</a></td>
+    </tr>
+    <tr>
+      <td>4. Existe um cronograma para possíveis melhorias?</td>
+      <td></td>
+      <td>Item 11.7, página 273, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td><a href="../prints/resultado_analise_tarefas_6.png">Página 273</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Gustavo Alves </a></p></font>
+
+</details>
+
 ## Verificação dos Artefatos
 
 Os responsáveis pela verificação com o uso dos checklists elaborados estão na tabela 10:
