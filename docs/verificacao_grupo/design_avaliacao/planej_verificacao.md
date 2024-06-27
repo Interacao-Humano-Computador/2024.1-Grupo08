@@ -98,21 +98,21 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
   <tbody>
     <tr>
       <td>1. Está seguindo o framework DECIDE?</td>
-      <td>Sim</td>
+      <td></td>
       <td>Item 11.8, página 279 e 280, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td><a href="../prints/PlanejamentoStoryboard1.png">Imagem</a></td>
     </tr>
     <tr>
       <td>2. Os objetivos da avaliação do storyboard foram claramente definidos?</td>
-      <td>Sim</td>
+      <td></td>
       <td>Item 11.8, página 280, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td>  <a href="../prints/PlanejamentoStoryboard2.png">Imagem</a> </td>
     </tr>
     <tr>
       <td>3. O número dos participantes selecionados para a avaliação são suficientes para obter resultados representativos e confiáveis?</td>
-      <td>sim</td>
+      <td></td>
       <td>Item 11.8, página 280, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td>  <a href="../prints/PlanejamentoStoryboard3.png">Imagem</a> </td>
@@ -120,7 +120,7 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
     <tr>
       <td>4. As questões éticas foram abordadas, garantindo o consentimento informado dos participantes?
      </td>
-      <td>Sim</td>
+      <td></td>
       <td>Item 11.8, página 280, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td>  <a href="../prints/PlanejamentoStoryboard4.png">Imagem</a> </td>
@@ -128,14 +128,14 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
     <tr>
       <td>5. As questões específicas que a avaliação pretender responder foram identificadas?
       </td>
-      <td>sim</td>
+      <td></td>
       <td>Item 11.8, página 280, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       ß<td></td>
       <td>  <a href="../prints/PlanejamentoStoryboard6.png">Imagem</a> </td>
     </tr>
     <tr>
       <td>6. Foi realizado o teste piloto para testar previamente o ambiente e os materiais? </td>
-      <td>Sim</td>
+      <td></td>
       <td>Item 11.7, página 275, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td>  <a href="../prints/PlanejamentoStoryboard5.png">Imagem</a> </td>
@@ -144,7 +144,7 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
 </table>
 
 <font size="2"><p style="text-align: center">Fonte: <a href=""> Alana Gabriele </a></p></font>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOuCs3w0D9Y?si=lf3ho3P1oc7At6dM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 </details>
 
 <details>
@@ -633,32 +633,31 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
   <tbody>
     <tr>
       <td>1. Os resultados de cada indivíduo são combinados e analisados coletivamente?</td>
-      <td>Sim</td>
+      <td></td>
       <td>Item 11.7.5, página 279, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td><a href="../prints/relato_avaliacao_papel_1.png">Página 279</a></td>
     </tr>
     <tr>
       <td>2. É apresentado sobre qual a motivação da entrevista?</td>
-      <td>Sim</td>
+      <td></td>
       <td>Item 11.7.5, página 279, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td><a href="../prints/relato_avaliacao_papel_2.png">Página 279</a></td>
     </tr>
     <tr>
       <td>3. O perfil dos participantes é representativo do público-alvo?</td>
-      <td>Não</td>
+      <td></td>
       <td>Item 7.5.2, página 151 - 152, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td><a href="../prints/resultado_analise_tarefas_3.png">Página 151 - 152</a></td>
     </tr>
     <tr>
       <td>4. Existe um cronograma para possíveis melhorias?</td>
-      <td>Sim</td>
+      <td></td>
       <td>Item 11.7, página 273, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td><a href="../prints/resultado_analise_tarefas_6.png">Página 273</a></td>
     </tr>
   </tbody>
 </table>
 <font size="2"><p style="text-align: center">Fonte: <a href=""> Gustavo Alves </a></p></font>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cETyYCCQ-hM?si=A8fgnR-HOOo9Kz_R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </details>
 
