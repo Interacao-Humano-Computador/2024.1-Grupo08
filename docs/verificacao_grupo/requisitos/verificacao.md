@@ -990,7 +990,7 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
   <tbody>
     <tr>
       <td>1. O objetivo do usuário é bem definido e alcançado ao fim da tarefa?</td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.4.1, página 178, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/analise_tarefas_1.png">Página 178</a> </td>
@@ -998,7 +998,7 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
     <tr>
       <td>2. As tarefas realizadas são justificáveis? (Possuem porquês e consequências relacionadas)
       </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.4.1, página 178, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/analise_tarefas_1.png">Página 178</a> </td>
@@ -1006,14 +1006,14 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
     <tr>
       <td>3. O plano, conjunto de subobjetivos do HTA, são elaborados de forma que sua necessidade é clara para alcançar o objetivo final?
       </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.4.1, página 179, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/analise_tarefas_2.png">Página 179</a> </td>
     </tr>
     <tr>
       <td>4. O plano (HTA) possui relações que suportam o objetivo final e é finalizado com uma operação?</td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.4.1, página 179, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/analise_tarefas_3.png">Página 179</a> <br> <a href="../prints/analise_tarefas_4.png">Página 179 - trecho 2</a> </td>
@@ -1021,14 +1021,14 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
     <tr>
       <td>5. No método GOMS, possui os elementos característicos? Objetivos, operadores, métodos e regras de seleção.
       </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.4.2, página 181, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/analise_tarefas_5.png">Página 181</a>  </td>
     </tr>
     <tr>
       <td>6. O GOMS contém uma descrição detalhada do conhecimento necessário para realizar a tarefa?</td>
-      <td></td>
+      <td>Não</td>
       <td>Item 8.4.2, página 182, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/analise_tarefas_6.png">Página 182</a>  </td>
@@ -1036,7 +1036,7 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
     <tr>
       <td>7. É possível, por meio do GOMS, visualizar os procedimentos necessários para realizar a tarefa em um computador?
 </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.4.2, página 182, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/analise_tarefas_7.png">Página 182</a>  </td>
@@ -1047,9 +1047,10 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
 <font size="2"><p style="text-align: center">Fonte: <a href=""> Alana Gabriele</a></p></font>
 
 <h3> Sugestões de Melhoria </h3>
-<p>Poderia especificar um pouco mais em "Calcular pontos", por exemplo citar as formas possíveis de calcular e também quais critérios são utilizados.</p>
+<p>Adicionar a descrição detalhada do conhecimento necessário para realizar a tarefa.</p>
 
 <h3> Vídeo da Verificação </h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iWT2sb0dI4g?si=rbY4kbrBEU9EJ2Jo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h2> Funcionalidade: Acompanhar compra de passagem - Marco Tulio
 </h2>
