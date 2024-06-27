@@ -144,7 +144,7 @@ O responsável pela verificação deste artefato é o <b>Marco Tulio</b> o check
 
 <details>
     <summary> Artefato: Planejamento do relato dos resultados da avaliação da Análise de tarefas </summary>
-    O responsável pela verificação deste artefato é a <b>Alana Gabriele</b> o checklist foi elaborado pelo <b>Pedro Henrique. </b>
+    O responsável pela verificação deste artefato é a <b>Marco Tulio</b> o checklist foi elaborado pelo <b>Pedro Henrique. </b>
 
 <h2> Checklist </h2>
   <p> Na tabela 3, está o checklist com suas devidas respostas: </p>
@@ -189,6 +189,7 @@ O responsável pela verificação deste artefato é o <b>Marco Tulio</b> o check
 <h2>Sugestões de Melhoria</h2>
 
 <p> Nenhuma sugestão de melhoria necessária. </p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvOrX7tJolk?si=N5JQexjaCr_Uln20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </details>
 
