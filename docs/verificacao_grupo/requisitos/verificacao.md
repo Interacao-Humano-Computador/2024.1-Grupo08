@@ -1384,4 +1384,5 @@ O responsável pela verificação deste artefato é o <b>Renan Araújo</b> o che
 | 1.0    | 11/06/2024 | Planejamento                                                                | [Yasmim Rosa](https://github.com/yaskisoba)        | [Renan Araújo](https://github.com/renantfm4) |
 | 1.1    | 11/06/2024 | Verificação da funcionalidade Ranking de Contest                            | [Pedro Henrique](https://github.com/)              | [Yasmim Rosa](https://github.com/)           |
 | 1.2    | 11/06/2024 | Verificação da funcionalidade Tutorial de Resolução de Questões Pós-Contest | [Alana Gabriele](https://github.com/alanagabriele) | [Yasmim Rosa](https://github.com/)           |
-| 1.2    | 11/06/2024 | Estrutura de cenarios                                                       | [Alana Gabriele](https://github.com/alanagabriele) | [Yasmim Rosa](https://github.com/)           |
+| 1.3    | 11/06/2024 | Estrutura de cenarios                                                       | [Alana Gabriele](https://github.com/alanagabriele) | [Yasmim Rosa](https://github.com/)           |
+| 1.24   | 11/06/2024 | Analise de Tarefas                                                          | [Alana Gabriele](https://github.com/alanagabriele) | [Pedro Henrique](https://github.com/)        |
