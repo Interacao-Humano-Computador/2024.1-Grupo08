@@ -974,6 +974,8 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
 <p> </p>
 
 <h3> Vídeo da Verificação </h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AZZYP0RNS70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 <h2> Funcionalidade: Acúmulo de Pontos por Trajeto - Alana Gabriele</h2>
 ˚˚
