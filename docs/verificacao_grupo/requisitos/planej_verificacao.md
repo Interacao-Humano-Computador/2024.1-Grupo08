@@ -454,32 +454,33 @@ As perguntas foram elaboradas seguindo as definições de Barbosa e Silva (2011)
       <td>1. Metas de usabilidade são coerentes com o perfil do usuário?</td>
       <td></td>
       <td>Item 6.3.2, página 116, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td> <a href="../prints/meta_usabilidade_1.jpeg">Página 116 </a> </td>
     </tr>
     <tr>
       <td>2. Verifica se a interface atinge as expectivas dos usuários?</td>
       <td></td>
       <td>Item 6.3.2, página 121, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
-
+      <td> <a href="../prints/meta_usabilidade_2.jpeg">Página 121 </a> </td>
     </tr>
     <tr>
       <td>3. Tem a verificação se as metas de
 usabilidade foram atingidas? </td>
       <td></td>
       <td>Item 6.3.2, página 119, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
-
+      <td> <a href="../prints/meta_usabilidade_3.jpeg">Página 119 </a> </td>
     </tr>
     <tr>
       <td>4.Fala sobre proteção dos dados dos
 usuários? </td>
       <td></td>
       <td>Item 7.4, página 140, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
-
+      <td> <a href="../prints/meta_usabilidade_4.jpeg">Página 140 </a> </td>
     </tr>
     <tr>
       <td>5.Facilita a realização rápida das tarefas? </td>
       <td></td>
       <td>Item 6.3.2, página 117, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
-
+      <td> <a href="../prints/meta_usabilidade_5.jpeg">Página 117 </a> </td>
     </tr>
     
   </tbody>

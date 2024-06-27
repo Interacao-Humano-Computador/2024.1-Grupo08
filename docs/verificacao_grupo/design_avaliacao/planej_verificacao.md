@@ -34,24 +34,26 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
       <td>1. O framework utilizado foi o DECIDE?</td>
       <td></td>
       <td>Item 11.8, página 279 e 280, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
-      
+      <td> <a href="../prints/PlanejamentoAvaliacaoTarefas_1.jpeg">Página 279</a> </td>
     </tr>
     <tr>
       <td>2. O(s) objetivo(s) foi/foram declarado(s) respeitando àqueles definidos por Sharp et al.? </td>
       <td></td>
       <td>Item 11, página 261, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td> <a href="../prints/PlanejamentoAvaliacaoTarefas_2.jpeg">Página 261</a> </td>
     </tr>
     <tr>
       <td>3. Define como serão tratadas as questões éticas?</td>
       <td></td>
       <td>Item 11.7.2, página 275, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td> <a href="../prints/PlanejamentoAvaliacaoTarefas_3.jpeg">Página 275</a> </td>
     </tr>
     <tr>
       <td>4. Planeja a realização do teste piloto bem como uma data para realização? 
      </td>
       <td></td>
       <td>Item 11.7.2, página 276, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
-      
+      <td> <a href="../prints/PlanejamentoAvaliacaoTarefas_4.jpeg">Página 276</a> </td>
     </tr>
     <tr>
       <td>5. Foi planejado como identificar e administrar as questões práticas da avaliação?
@@ -59,12 +61,13 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
       <td></td>
       <td>Item 11.7.2, página 275, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
     </tr>
+    <td> <a href="../prints/PlanejamentoAvaliacaoTarefas_5.jpeg">Página 275</a> </td>
     <tr>
       <td>6. Está especificado como os dados serão
 tratados e como serão apresentados? </td>
       <td></td>
       <td>Item 11.7.4, página 278, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
-      
+      <td> <a href="../prints/PlanejamentoAvaliacaoTarefas_6.jpeg">Página 278</a> </td>
     </tr>
   </tbody>
 </table>
@@ -409,7 +412,7 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
       <td></td>
       <td>Item 11.8, página 280, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
-      <td> <a href="../printsPlanejamentoAvaliacaoPrototipoPapel_1.png">Página 280</a> </td>
+      <td> <a href="../prints/PlanejamentoAvaliacaoPrototipoPapel_1.png">Página 280</a> </td>
     </tr>
     <tr>
       <td>2. O(s) objetivo(s) foi/foram declarado(s) respeitando àqueles definidos por Sharp et al.?
@@ -417,7 +420,7 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
       <td></td>
       <td>Item 11.2, página 264, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
-      <td> <a href="../printsPlanejamentoAvaliacaoPrototipoPapel_2.png">Página 264</a> </td>
+      <td> <a href="../prints/PlanejamentoAvaliacaoPrototipoPapel_2.png">Página 264</a> </td>
     </tr>
     <tr>
       <td>3. As perguntas exploratórias foram definidas com base no(s) objetivo(s) escolhido(s) de forma a serem respondidas ao fim da avaliação?
@@ -425,14 +428,14 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
       <td></td>
       <td>Item 11.2, página 266, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
-      <td> <a href="../printsPlanejamentoAvaliacaoPrototipoPapel_3.png">Página 266</a> </td>
+      <td> <a href="../prints/PlanejamentoAvaliacaoPrototipoPapel_3.png">Página 266</a> </td>
     </tr>
     <tr>
       <td>4. As questões práticas incluem etapas de preparação, recrutamento, organização temporal e espacial (cronograma e locais para realização) bem como o roteiro a ser utilizado? </td>
       <td></td>
       <td>Item 11.7, página 275, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
-      <td> <a href="../printsPlanejamentoAvaliacaoPrototipoPapel_4.png">Página 275</a> </td>
+      <td> <a href="../prints/PlanejamentoAvaliacaoPrototipoPapel_4.png">Página 275</a> </td>
     </tr>
     <tr>
       <td>5. São considerados os aspectos éticos para realização? É indicado em qual momento será introduzido ao participante durante a execução da avaliação?
@@ -440,7 +443,7 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
       <td></td>
       <td>Item 7.4, página 140, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
-      <td> <a href="../printsPlanejamentoAvaliacaoPrototipoPapel_5.png">Página 140</a> </td>
+      <td> <a href="../prints/PlanejamentoAvaliacaoPrototipoPapel_5.png">Página 140</a> </td>
     </tr>
     <tr>
       <td>6. É definida uma estrutura para apresentação dos dados bem como a estratégia a ser utilizada para análise dos dados?
@@ -448,7 +451,7 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
       <td></td>
       <td>Item 11.7, página 279, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
-      <td> <a href="../printsPlanejamentoAvaliacaoPrototipoPapel_6.png">Página 279</a> </td>
+      <td> <a href="../prints/PlanejamentoAvaliacaoPrototipoPapel_6.png">Página 279</a> </td>
     </tr>
     <tr>
       <td>7. O teste piloto foi realizado e ajustes realizados para um melhor andamento da avaliação?
@@ -456,7 +459,7 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
       <td></td>
       <td>Item 11.7.2, página 276, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
-      <td> <a href="../printsPlanejamentoAvaliacaoPrototipoPapel_6.png">Página 276</a> </td>
+      <td> <a href="../prints/PlanejamentoAvaliacaoPrototipoPapel_6.png">Página 276</a> </td>
     </tr>
   </tbody>
 </table>
@@ -491,30 +494,34 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
       </td>
       <td></td>
       <td>Item 11.8, página 280, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
-
+      <td> <a href="../prints/PlanejamentoRelatoPrototipoPapel_1.jpeg">Página 280</a> </td>
     </tr>
     <tr>
       <td>2. Dedida uma secção para análise de dados dos participantes bem como uma explicação de como deve ser realizado?
         </td>
       <td></td>
       <td>Item 12.2.3, página 319, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td> <a href="../prints/PlanejamentoRelatoPrototipoPapel_2.jpeg">Página 319</a> </td>
     </tr>
     <tr>
       <td>3. Dedica uma secção para relato da interpretação e análise dos dados bem como uma explicação de como deve ser realizado?
     </td>
       <td></td>
       <td>Item 12.2.3, página 319, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td> <a href="../prints/PlanejamentoRelatoPrototipoPapel_3.jpeg">Página 319</a> </td>
     </tr>
     <tr>
       <td>4. Introduz sobre a metodologia aplicada? </td>
       <td></td>
       <td>Item 12.2.3, página 319, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td> <a href="../prints/PlanejamentoRelatoPrototipoPapel_4.jpeg">Página 319</a> </td>
     </tr>
     <tr>
       <td>5. Possui uma secção dedicada a sugestões de correções?
      </td>
       <td></td>
       <td>Item 12.2.3, página 319, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td> <a href="../prints/PlanejamentoRelatoPrototipoPapel_5.jpeg">Página 319</a> </td>
     </tr>
   </tbody>
 </table>
