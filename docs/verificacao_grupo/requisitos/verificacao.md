@@ -600,14 +600,14 @@ O responsável pela verificação deste artefato é são todos os membros da equ
   <tbody>
     <tr>
       <td>1. O cenário contém atores ? </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/cenarios_1.png">Página 172</a> </td>
     </tr>
     <tr>
     <td>2. O cenário contém objetivos?  </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/cenarios_2.png">Página 172</a> </td>
@@ -615,7 +615,7 @@ O responsável pela verificação deste artefato é são todos os membros da equ
     </tr>
     <tr>
       <td>3. O cenário contém um título auto-explicativo?   </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/cenarios_3.png">Página 172</a> </td>
@@ -623,7 +623,7 @@ O responsável pela verificação deste artefato é são todos os membros da equ
     </tr>
     <tr>
       <td>4. O cenário inclui características do ator?   </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.3 Página 172, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/cenarios_4.png">Página 172</a> </td>
@@ -631,7 +631,7 @@ O responsável pela verificação deste artefato é são todos os membros da equ
     </tr>
     <tr>
      <td>5. O cenário contém planejamento?    </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/cenarios_5.png">Página 175</a> </td>
@@ -639,7 +639,7 @@ O responsável pela verificação deste artefato é são todos os membros da equ
     </tr>
     <tr>
        <td>6. O cenário contém ações?    </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/cenarios_6.png">Página 175</a> </td>
@@ -647,7 +647,7 @@ O responsável pela verificação deste artefato é são todos os membros da equ
     </tr>
     <tr>
      <td>7. O cenário contém avaliação ?    </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/cenarios_7.png">Página 175</a> </td>
@@ -655,7 +655,7 @@ O responsável pela verificação deste artefato é são todos os membros da equ
     </tr>
     <tr>
      <td>8. O cenário contém ambiente ?  </td>
-      <td></td>
+      <td>Não</td>
       <td>Item 8.3 Página 175, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/cenarios_8.png">Página 175</a> </td>
@@ -668,62 +668,85 @@ O responsável pela verificação deste artefato é são todos os membros da equ
 
 <h2>Sugestões de Melhoria</h2>
 
-<p></p>
+<p>Contextualizar o ambiente em que o ator está inserido.</p>
 
 <h3> Vídeo da Verificação </h3>
-<!-- iframe aqui -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RG90X3TNCqc?si=ZgtPGxlhXbC3ixlc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 <details>
     <summary>Artefato: Aspectos Éticos de Pesquisas com Pessoas </summary>
+    <p> Para a realização de pesquisa com pessoas é necessário garantir seu bem-estar físico e psíquico antes, durante e após a pesquisa. </p>
 
-O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o checklist foi elaborado pelo <b>Renan Araújo</b>
+  As perguntas foram elaboradas seguindo as definições de Barbosa e Silva (2011) no capítulo 7 chamado de "Identificação de Necessidades dos Usuários e Definição dos Requisitos", especificamente do tópico Aspectos éticos de pesquisas envolvendo pessoas.
 
-<h2> Checklist </h2>
-<p> Na tabela 9, está o checklist com suas devidas respostas: </p>
+  <h2> Checklist </h2>
 
-<font size="2"><p style="text-align: center"> Tabela 9 - Checklist de Verificação dos Aspectos Éticos de Pesquisas com Pessoas </font>
+<p> Na tabela 4, está o checklist elaborado: </p>
+
+<font size="2"><p style="text-align: center"> Tabela 3 - Checklist de Verificação dos Aspectos Éticos de Pesquisas com Pessoas </font>
 
   <table>
   <thead>
     <tr>
       <th>Questão</th>
       <th>Resposta (Sim / Não / Incompleto)</th>
+       <th>Rastreabilidade<th>
+      <th>Captura de Tela<th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>1. Os aspectos éticos são apresentados levando em consideração os 4 princípios da Resolução No 466/2012 do Conselho Nacional de Saúde?</td>
+      <td>1. Os aspectos éticos são apresentados levando em consideração os 4 princípios da Resolução No 466/2012 do Conselho Nacional de Saúde? </td>
       <td>Sim</td>
+      <td>Item 7.4 Página 140, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/aspectos_eticos_1.png">Página 140</a> </td>
+      <td></td>
     </tr>
     <tr>
-      <td>2. É explicado a aplicabilidade dos aspectos éticos no projeto?</td>
+       <td>2. É explicado a aplicabilidade dos aspectos éticos no projeto? </td>
       <td>Sim</td>
+      <td>Item 7.5 Página 143, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/aspectos_eticos_2.png">Página 143</a> </td>
+      <td></td>
     </tr>
     <tr>
       <td>3. O Termo de Consentimento Livre e Esclarecido (TCLE) é apresentado?</td>
       <td>Sim</td>
+      <td>Item 11.7 Página 275, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/aspectos_eticos_3.png">Página 275</a> </td>
+      <td></td>
     </tr>
     <tr>
       <td>4. O TCLE apresentado informa ao participante seus direitos, a motivação da pesquisa e a finalidade da coleta de dados? </td>
       <td>Sim</td>
+      <td>Item 7.4 Página 142, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/aspectos_eticos_4.png">Página 142</a> </td>
+      <td></td>
     </tr>
     <tr>
-      <td>5. É informado em quais etapas ou atividades o TCLE será introduzido ao participante? </td>
+      <td>5. É informado em quais etapas ou atividades o TCLE será introduzido ao participante?</td>
       <td>Sim</td>
-    </tr>
-    <tr>
-      <td>6. A construção do artefato inclui introdução, bibliografia e histório de versões?</td>
-      <td>Sim</td>
+      <td>Item 7.4 Página 142, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/aspectos_eticos_5.png">Página 142</a> </td>
+      <td></td>
     </tr>
   </tbody>
 </table>
 
 <font size="2"><p style="text-align: center">Fonte: <a href=""> Renan Araújo </a></p></font>
 
-<h2>Sugestões de Melhoria</h2>
+<h3> Sugestões de Melhoria </h3>
+<p>Não há sugestões.</p>
 
-<p> Citar sobre quais são as diretrizes para o termo de consentimento.</p>
+<h3>Vídeo da Verificação</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OOI4tn4eYOA?si=buPWA74ScEWw-d7W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </details>
 
@@ -1156,7 +1179,7 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
   <tbody>
     <tr>
       <td>1. O objetivo do usuário é bem definido e alcançado ao fim da tarefa?</td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.4.1, página 178, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/analise_tarefas_1.png">Página 178</a> </td>
@@ -1164,22 +1187,22 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
     <tr>
       <td>2. As tarefas realizadas são justificáveis? (Possuem porquês e consequências relacionadas)
       </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.4.1, página 178, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
-      <td></td>
+      <td>Sim</td>
       <td> <a href="../prints/analise_tarefas_1.png">Página 178</a> </td>
     </tr>
     <tr>
       <td>3. O plano, conjunto de subobjetivos do HTA, são elaborados de forma que sua necessidade é clara para alcançar o objetivo final?
       </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.4.1, página 179, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/analise_tarefas_2.png">Página 179</a> </td>
     </tr>
     <tr>
       <td>4. O plano (HTA) possui relações que suportam o objetivo final e é finalizado com uma operação?</td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.4.1, página 179, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/analise_tarefas_3.png">Página 179</a> <br> <a href="../prints/analise_tarefas_4.png">Página 179 - trecho 2</a> </td>
@@ -1187,14 +1210,14 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
     <tr>
       <td>5. No método GOMS, possui os elementos característicos? Objetivos, operadores, métodos e regras de seleção.
       </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.4.2, página 181, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/analise_tarefas_5.png">Página 181</a>  </td>
     </tr>
     <tr>
       <td>6. O GOMS contém uma descrição detalhada do conhecimento necessário para realizar a tarefa?</td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.4.2, página 182, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/analise_tarefas_6.png">Página 182</a>  </td>
@@ -1202,7 +1225,7 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
     <tr>
       <td>7. É possível, por meio do GOMS, visualizar os procedimentos necessários para realizar a tarefa em um computador?
 </td>
-      <td></td>
+      <td>Sim</td>
       <td>Item 8.4.2, página 182, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
       <td></td>
       <td> <a href="../prints/analise_tarefas_7.png">Página 182</a>  </td>
@@ -1213,9 +1236,11 @@ O responsável pela verificação deste artefato é o <b>Gustavo Alves</b> o che
 <font size="2"><p style="text-align: center">Fonte: <a href=""> Gustavo Alves </a></p></font>
 
 <h3> Sugestões de Melhoria </h3>
-<p></p>
+<p>Não há sugestões</p>
 
-<h3> Vídeo da Verificação </h3>
+<h3>Vídeo da Verificação</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qt0PeAfx4_w?si=lK7GvZsfLysMjFux" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </details>
 
@@ -1266,59 +1291,66 @@ O responsável pela verificação deste artefato é o <b>Pedro Henrique</b> o ch
 
 <details>
     <summary> Arfetato: Metas de usabilidade </summary>
-O responsável pela verificação deste artefato é o <b>Renan Araújo</b> o checklist foi elaborado pelo <b>Marco Tulio </b>
-
+    As perguntas foram elaboradas seguindo as definições de Barbosa e Silva (2011) no capítulo 6 chamado de "Processos de Design de IHC", especificamente dos tópicos "Engenharia de Usabilidade de Nielsen" e "Engenharia de Usabilidade de Mayhew".
   <h2> Checklist </h2>
-  <p> Na tabela 11, está o checklist com suas devidas respostas: </p>
+  <p> Na tabela 6, está o checklist elaborado: </p>
 
-<font size="2"><p style="text-align: center"> Tabela 17 - Checklist de Verificação de Metas de usabilidade </font>
+<font size="2"><p style="text-align: center"> Tabela 6 - Checklist de Verificação de Metas de usabilidade </font>
 
 <table>
   <thead>
     <tr>
       <th>Questão</th>
       <th>Resposta (Sim / Não / Incompleto)</th>
+      <th> Rastreabilidade</th>
+      <th>Captura de Tela</th>
+      
+      
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>1. Metas de usabilidade são coerente com o perfil do usuário?</td>
+      <td>1. Metas de usabilidade são coerentes com o perfil do usuário?</td>
       <td>Sim</td>
+      <td>Item 6.3.2, página 116, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td> <a href="../prints/meta_usabilidade_1.jpeg">Página 116 </a> </td>
     </tr>
     <tr>
       <td>2. Verifica se a interface atinge as expectivas dos usuários?</td>
       <td>Sim</td>
+      <td>Item 6.3.2, página 121, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td> <a href="../prints/meta_usabilidade_2.jpeg">Página 121 </a> </td>
     </tr>
     <tr>
-      <td>3. Tem a verificação se as metas de
-usabilidade foram atingidas? </td>
-      <td>Sim</td>
+      <td>3. Tem a verificação se as metas de   usabilidade foram atingidas? </td>
+      <td>Não</td>
+      <td>Item 6.3.2, página 119, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td> <a href="../prints/meta_usabilidade_3.jpeg">Página 119 </a> </td>
     </tr>
     <tr>
-      <td>4.Fala sobre proteção dos dados dos
-usuários? </td>
-      <td>Sim</td>
+      <td>4.Fala sobre proteção dos dados dos usuários? </td>
+      <td>Incompleto</td>
+      <td>Item 7.4, página 140, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td> <a href="../prints/meta_usabilidade_4.jpeg">Página 140 </a> </td>
     </tr>
     <tr>
       <td>5.Facilita a realização rápida das tarefas? </td>
       <td>Sim</td>
+      <td>Item 6.3.2, página 117, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td> <a href="../prints/meta_usabilidade_5.jpeg">Página 117 </a> </td>
     </tr>
-    <tr>
-      <td>6.A construção do artefato inclui introdução, bibliografia e histório de versões? </td>
-      <td>Sim</td>
-    </tr>
+    
   </tbody>
 </table>
 
 <font size="2"><p style="text-align: center">Fonte: <a href=""> Marco Tulio </a></p></font>
 
-<h2>Sugestões de Melhoria</h2>
-
-<p> Incluir exemplos práticos mais detalhados que ilustrem como cada meta de usabilidade pode ser aplicada na plataforma. </p>
+<h3> Sugestões de Melhoria </h3>
+<p>Desenvolver os tópicos para ser mais explicativo.</p>
 
 <h3>Vídeo da Verificação</h3>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4D9M3RIuC6s?si=xGdLy3q59BZryLm3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oFjR80QqQZU?si=k03xrOa7A_o4Q2gj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </details>
 
