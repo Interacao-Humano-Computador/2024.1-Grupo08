@@ -523,6 +523,113 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
 
 </details>
 
+<details>
+    <summary> Artefato: Planejamento do Relato do Protótipo de Alta Fidelidade (Yasmim Rosa)
+ </summary>
+  As perguntas foram elaboradas seguindo as definições e passos sugeridos por Barbosa e Silva (2011) no capítulo 11 chamado de "Planejamento da Avaliação de IHC", em especial o tópico Consolidação e Relato dos Resultados.
+
+  <h2> Checklist </h2>
+
+  <p> Na tabela 9, está o checklist elaborado: </p>
+
+<font size="2"><p style="text-align: center"> Tabela 9 - Checklist de Verificação do Planejamento do Relato do Protótipo de Alta Fidelidade </font>
+
+  <table>
+  <thead>
+    <tr>
+      <th>Questão</th>
+      <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade<th>
+      <th>Captura de Tela<th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1. É separada os resultados de cada avaliação com as observações e resultados individuais em diferentes tópicos? </td>
+      <td></td>
+      <td>Item 11.7.5, página 279, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/PlanejamentoRelatoPrototipoAltaFide_1.png">Página 279</a> </td>
+    </tr>
+    <tr>
+      <td>2. Há um espaço para responder se as questões que motivaram o estudo são respondidas ou jutificada sua ausência de resposta? </td>
+      <td></td>
+      <td>Item 11.7.5, página 279, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/PlanejamentoRelatoPrototipoAltaFide_2.png">Página 279</a> </td>
+    </tr>
+    <tr>
+      <td>3. Os dados possui um espaço para os dados serem generalizados para identificar recorrências?</td>
+      <td></td>
+      <td>Item 11.7.5, página 279, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/PlanejamentoRelatoPrototipoAltaFide_2.png">Página 279</a> </td>
+    </tr>
+    <tr>
+      <td>4. A estrutura do relato segue um modelo de modo a incluir os objetivos, escopo, informações da avaliação, sumário dos dados encontrados e planejamento de reprojeto por exemplo? </td>
+      <td></td>
+      <td>Item 11.7.5 página 279, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../prints/PlanejamentoRelatoPrototipoAltaFide_5.png">Página 279</a> </td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa </a></p></font>
+
+</details>
+
+<details>
+    <summary> Arfetato: Relato do resultado da avaliação do Protótipo de Papel (Gustavo Alves) </summary>
+    As perguntas foram elaboradas seguindo as definições e passos sugeridos por Barbosa e Silva (2011) no capítulo 11 chamado de "Planejamento da Avaliação de IHC", em especial o tópico Consolidação e Relato dos Resultados.
+
+  <h2> Checklist </h2>
+  <p> Na tabela 10, está o checklist elaborado: </p>
+
+<font size="2"><p style="text-align: center"> Tabela 10 - Checklist de Verificação do Relato do resultado da avaliação do Protótipo de Papel </font>
+
+<table>
+  <thead>
+    <tr>
+      <th>Questão</th>
+      <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade</th>
+      <th>Captura de Tela</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1. Os resultados de cada indivíduo são combinados e analisados coletivamente?</td>
+      <td></td>
+      <td>Item 11.7.5, página 279, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td><a href="../prints/relato_avaliacao_papel_1.png">Página 279</a></td>
+    </tr>
+    <tr>
+      <td>2. É apresentado sobre qual a motivação da entrevista?</td>
+      <td></td>
+      <td>Item 11.7.5, página 279, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td><a href="../prints/relato_avaliacao_papel_2.png">Página 279</a></td>
+    </tr>
+    <tr>
+      <td>3. O perfil dos participantes é representativo do público-alvo?</td>
+      <td></td>
+      <td>Item 7.5.2, página 151 - 152, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td><a href="../prints/resultado_analise_tarefas_3.png">Página 151 - 152</a></td>
+    </tr>
+    <tr>
+      <td>4. Existe um cronograma para possíveis melhorias?</td>
+      <td></td>
+      <td>Item 11.7, página 273, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td><a href="../prints/resultado_analise_tarefas_6.png">Página 273</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Gustavo Alves </a></p></font>
+
+</details>
+
+
 ## Verificação dos Artefatos
 
 Os responsáveis pela verificação com o uso dos checklists elaborados estão na tabela 9:
@@ -564,3 +671,4 @@ Cada membro responsável deve utilizar a checklist disponibilizada para o artefa
 | 1.4    | 11/06/2024 | Artefato Relato - Análise de Tarefas e Storyboard                          | [Gustavo Alves](https://github.com/)        | [Yasmim Rosa](https://github.com/)           |
 | 1.5    | 11/06/2024 | Ajustes e artefato planejamento da avaliação do protótipo de papel         | [Yasmim Rosa](https://github.com/)          | [Gustavo Alves](https://github.com/)         |
 | 1.6    | 26/06/2024 | Referencia nas perguntas do Planejamento da Avaliação do StoryBoard        | [Alana Gabriele](https://github.com/)       | [Gustavo Alves](https://github.com/)         |
+| 1.7    | 26/06/2024 | Referencia nas perguntas do Relato do resultado da avaliação do Protótipo de Papel        | [Gustavo Alves](https://github.com/)  |   [Alana Gabriele](https://github.com/)            |
