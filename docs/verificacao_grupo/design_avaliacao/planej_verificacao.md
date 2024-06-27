@@ -144,7 +144,7 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
 </table>
 
 <font size="2"><p style="text-align: center">Fonte: <a href=""> Alana Gabriele </a></p></font>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOuCs3w0D9Y?si=lf3ho3P1oc7At6dM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </details>
 
 <details>
@@ -293,30 +293,46 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
     <tr>
       <th>Questão</th>
       <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade</th>
+      <th>Captura de Tela</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>1. O método de avaliação a ser utilizado foi escolhido?</td>
+      <td>1. Há uma explicação de como os resultados serão utilizados?</td>
       <td></td>
+      <td>Item 8.4.3, página 279, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td><a href="../prints/resultado_analise_tarefas_1.png">Página 180</a></td>
     </tr>
     <tr>
-      <td>2. Os objetivos específicos da avaliação foram definidos?
-</td>
+      <td>2. É citado sobre quais foram os instrumentos utilizados para a avaliação? (questionários, roteiros de entrevista)</td>
       <td></td>
+      <td>Item 11.6, página 272, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td><a href="../prints/resultado_analise_tarefas_2.png">Página 272</a></td>
     </tr>
     <tr>
-      <td>3. Os problemas e dificuldades encontrados durante a avaliação foram documentados? </td>
+      <td>3. O perfil dos participantes é representativo do público-alvo?</td>
       <td></td>
+      <td>Item 7.5.2, página 151 - 152, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td><a href="../prints/resultado_analise_tarefas_3.png">Página 151 - 152</a></td>
     </tr>
     <tr>
-      <td>4. O planejamento de reprojeto foi iniciado com base nos resultados da avaliação
-</td>
+      <td>4.  As questões éticas relacionadas aos participantes foram abordadas?</td>
       <td></td>
+      <td>Item 7.4, página 141, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td><a href="../prints/resultado_analise_tarefas_4.png">Página 141</a></td>
     </tr>
     <tr>
-      <td>5.As sugestões de melhoria baseadas nos resultados da avaliação foram propostas?  </td>
+      <td>5.O feedback foi analisado para identificar tendências e padrões comuns?</td>
       <td></td>
+      <td>Item 7.5.5.5, página 158, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td><a href="../prints/resultado_analise_tarefas_5.png">Página 158</a></td>
+    </tr>
+    <tr>
+      <td>6. Existe um cronograma para possíveis melhorias?</td>
+      <td></td>
+      <td>Item 11.7, página 273, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td><a href="../prints/resultado_analise_tarefas_6.png">Página 273</a></td>
     </tr>
   </tbody>
 </table>
@@ -341,42 +357,52 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
     <tr>
       <th>Questão</th>
       <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade</th>
+      <th>Captura de Tela</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>1. Há uma explicação de como os resultados serão utilizados?
-      </td>
+      <td>1. Há uma explicação de como os resultados serão utilizados?</td>
       <td></td>
+      <td>Item 8.4.3, página 279, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td><a href="../prints/resultado_analise_tarefas_1.png">Página 180</a></td>
     </tr>
     <tr>
-      <td>2. É citado sobre quais foram os instrumentos utilizados para a avaliação? (questionários, roteiros de entrevista, etc.)</td>
+      <td>2. É citado sobre quais foram os instrumentos utilizados para a avaliação? (questionários, roteiros de entrevista)</td>
       <td></td>
+      <td>Item 11.6, página 272, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td><a href="../prints/resultado_analise_tarefas_2.png">Página 272</a></td>
     </tr>
     <tr>
-      <td>3. O perfil dos participantes é representativo do público-alvo?
-    </td>
+      <td>3. O perfil dos participantes é representativo do público-alvo?</td>
       <td></td>
+      <td>Item 7.5.2, página 151 - 152, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td><a href="../prints/resultado_analise_tarefas_3.png">Página 151 - 152</a></td>
     </tr>
     <tr>
-      <td>4. As respostas dos usuários foram analisadas para identificar padrões e tendências comuns?
- </td>
+      <td>4. As respostas dos usuários foram analisadas para identificar padrões e tendências comuns?</td>
       <td></td>
+      <td>Item 7.5.5.5, página 158, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td><a href="../prints/resultado_analise_tarefas_3.png">Página 158</a></td>
     </tr>
     <tr>
-      <td>5. As questões éticas relacionadas aos participantes foram abordadas?
-     </td>
+      <td>5. As questões éticas relacionadas aos participantes foram abordadas?</td>
       <td></td>
+      <td>Item 7.4, página 141, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td><a href="../prints/resultado_analise_tarefas_6.png">Página 141</a></td>
     </tr>
     <tr>
-      <td>6. Os recursos necessários (tempo, orçamento, avaliador) para implementar as melhorias estão identificados?
-   </td>
+      <td>6.  Os recursos necessários (tempo, orçamento, avaliador) para implementar as melhorias estão identificados?</td>
       <td></td>
+      <td>Item 11.7.2, página 273, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td><a href="../prints/resultado_storyboard_6.png">Página 275</a></td>
     </tr>
     <tr>
-      <td>7. Foram implementadas alterações ou ajustes no storyboard em função de insights obtidos ou desafios encontrados durante a avaliação?
-   </td>
+      <td>7.  Foram implementadas alterações ou ajustes no storyboard em função de insights obtidos ou desafios encontrados durante a avaliação?</td>
       <td></td>
+      <td>Item 6.3.4, página 121 - 122, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td><a href="../prints/resultado_storyboard_7.png">Página 121 - 122</a></td>
     </tr>
   </tbody>
 </table>
@@ -631,13 +657,112 @@ As perguntas foram elaboradas seguindo as definições e passos sugeridos por Ba
     </tr>
   </tbody>
 </table>
-
 <font size="2"><p style="text-align: center">Fonte: <a href=""> Gustavo Alves </a></p></font>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cETyYCCQ-hM?si=A8fgnR-HOOo9Kz_R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </details>
 
+<details>
+    <summary> Artefato: Planejamento da Avaliação do Protótipo de Alta Fidelidade (Yasmim Rosa)
+ </summary>
+As perguntas foram elaboradas seguindo as definições e passos sugeridos por Barbosa e Silva (2011) no capítulo 11 chamado de "Planejamento da Avaliação de IHC", em especial o tópico Consolidação e Relato dos Resultados.
+
+<font size="2"><p style="text-align: center"> Tabela 9 - Checklist de Verificação do Planejamento da Avaliação do Protótipo de Alta Fidelidade </font>
+
+  <table>
+  <thead>
+    <tr>
+      <th>Questão</th>
+      <th>Resposta (Sim / Não / Incompleto)</th>
+      <th>Rastreabilidade<th>
+      <th>Captura de Tela<th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1. Utiliza o framework DECIDE?
+      </td>
+      <td></td>
+      <td>Item 11.8, página 280, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../printsPlanejamentoAvaliacaoPrototipoPapel_1.png">Página 280</a> </td>
+    </tr>
+    <tr>
+      <td>2. O(s) objetivo(s) foi/foram declarado(s) respeitando àqueles definidos por Sharp et al.?
+        </td>
+      <td></td>
+      <td>Item 11.2, página 264, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../printsPlanejamentoAvaliacaoPrototipoPapel_2.png">Página 264</a> </td>
+    </tr>
+    <tr>
+      <td>3. As perguntas exploratórias foram definidas com base no(s) objetivo(s) escolhido(s) de forma a serem respondidas ao fim da avaliação?
+    </td>
+      <td></td>
+      <td>Item 11.2, página 266, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../printsPlanejamentoAvaliacaoPrototipoPapel_3.png">Página 266</a> </td>
+    </tr>
+    <tr>
+      <td>4. As questões práticas incluem etapas de preparação, recrutamento, organização temporal e espacial (cronograma e locais para realização) bem como o roteiro a ser utilizado? </td>
+      <td></td>
+      <td>Item 11.7, página 275, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../printsPlanejamentoAvaliacaoPrototipoPapel_4.png">Página 275</a> </td>
+    </tr>
+    <tr>
+      <td>5. São considerados os aspectos éticos para realização? É indicado em qual momento será introduzido ao participante durante a execução da avaliação?
+     </td>
+      <td></td>
+      <td>Item 7.4, página 140, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../printsPlanejamentoAvaliacaoPrototipoPapel_5.png">Página 140</a> </td>
+    </tr>
+    <tr>
+      <td>6. É definida uma estrutura para apresentação dos dados bem como a estratégia a ser utilizada para análise dos dados?
+      </td>
+      <td></td>
+      <td>Item 11.7, página 279, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../printsPlanejamentoAvaliacaoPrototipoPapel_6.png">Página 279</a> </td>
+    </tr>
+    <tr>
+      <td>7. O teste piloto foi realizado e ajustes realizados para um melhor andamento da avaliação?
+      </td>
+      <td></td>
+      <td>Item 11.7.2, página 276, SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição.</td>
+      <td></td>
+      <td> <a href="../printsPlanejamentoAvaliacaoPrototipoPapel_6.png">Página 276</a> </td>
+    </tr>
+  </tbody>
+</table>
+
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa </a></p></font>
+
+</details>
 
 ## Verificação dos Artefatos
+
+Os responsáveis pela verificação com o uso dos checklists elaborados estão na tabela 9:
+
+<font size="2"><p style="text-align: center"> Tabela 9 - Responsáveis pela Verificação dos Artefatos </font>
+
+<center>
+
+| Responsável    | Artefato                                                                 |
+| -------------- | ------------------------------------------------------------------------ |
+| Pedro Henrique | Planejamento da Avaliação da Análise de Tarefas                          |
+| Marco Tulio    | Planejamento da Avaliação do Storyboard                                  |
+| Marco Tulio    | Planejamento do relato dos resultados da avaliação do Storyboard         |
+| Alana Gabriele | Planejamento do relato dos resultados da avaliação da Análise de tarefas |
+| Yasmim Rosa    | Relato dos resultados da Análise de tarefas                              |
+| Alana Gabriele | Relato dos resultados do Storyboard                                      |
+| Alana Gabriele | Planejamento da Avaliação do Protótipo de Papel                          |
+| Renan Araújo   | Planejamento do relato dos resultados da avaliação do Protótipo de Papel |
+| Yasmim Rosa    | Planejamento da Avaliação do Protótipo de Alta Fidelidade                |
+
+</center>
+<font size="2"><p style="text-align: center">Fonte: <a href=""> Yasmim Rosa </a></p></font>
 
 Cada membro responsável deve utilizar a checklist disponibilizada para o artefato além de trazer sugestões de melhoriais se aplicável.
 
@@ -649,13 +774,13 @@ Cada membro responsável deve utilizar a checklist disponibilizada para o artefa
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                                                  | Autor                                       | Revisor                                      |
-| ------ | ---------- | -------------------------------------------------------------------------- | ------------------------------------------- | -------------------------------------------- |
-| 1.0    | 11/06/2024 | Planejamento                                                               | [Yasmim Rosa](https://github.com/yaskisoba) | [Renan Araújo](https://github.com/renantfm4) |
-| 1.1    | 11/06/2024 | Artefato Planejamento da Análise de Tarefas e relato do protótipo de papel | [Marco Tulio](https://github.com/)          | [Gustavo Alves](https://github.com/)         |
-| 1.2    | 11/06/2024 | Artefato Planejamento do Storyboard                                        | [Alana Gabriele](https://github.com/)       | [Renan Araújo](https://github.com/)          |
-| 1.3    | 11/06/2024 | Artefato Planejamento do Relato - Análise de Tarefas e Storyboard          | [Pedro Henrique](https://github.com/)       | [Yasmim Rosa](https://github.com/)           |
-| 1.4    | 11/06/2024 | Artefato Relato - Análise de Tarefas e Storyboard                          | [Gustavo Alves](https://github.com/)        | [Yasmim Rosa](https://github.com/)           |
-| 2.0    | 11/06/2024 | Ajustes e artefato planejamento da avaliação do protótipo de papel         | [Yasmim Rosa](https://github.com/)          | [Gustavo Alves](https://github.com/)         |
-| 2.1    | 26/06/2024 | Referencia nas perguntas do Planejamento da Avaliação do StoryBoard        | [Alana Gabriele](https://github.com/)       | [Gustavo Alves](https://github.com/)         |
-| 2.2    | 26/06/2024 | Referencia nas perguntas do Relato do resultado da avaliação do Protótipo de Papel        | [Gustavo Alves](https://github.com/)  |   [Alana Gabriele](https://github.com/)            |
+| Versão | Data       | Descrição                                                                          | Autor                                       | Revisor                                      |
+| ------ | ---------- | ---------------------------------------------------------------------------------- | ------------------------------------------- | -------------------------------------------- |
+| 1.0    | 11/06/2024 | Planejamento                                                                       | [Yasmim Rosa](https://github.com/yaskisoba) | [Renan Araújo](https://github.com/renantfm4) |
+| 1.1    | 11/06/2024 | Artefato Planejamento da Análise de Tarefas e relato do protótipo de papel         | [Marco Tulio](https://github.com/)          | [Gustavo Alves](https://github.com/)         |
+| 1.2    | 11/06/2024 | Artefato Planejamento do Storyboard                                                | [Alana Gabriele](https://github.com/)       | [Renan Araújo](https://github.com/)          |
+| 1.3    | 11/06/2024 | Artefato Planejamento do Relato - Análise de Tarefas e Storyboard                  | [Pedro Henrique](https://github.com/)       | [Yasmim Rosa](https://github.com/)           |
+| 1.4    | 11/06/2024 | Artefato Relato - Análise de Tarefas e Storyboard                                  | [Gustavo Alves](https://github.com/)        | [Yasmim Rosa](https://github.com/)           |
+| 1.5    | 11/06/2024 | Ajustes e artefato planejamento da avaliação do protótipo de papel                 | [Yasmim Rosa](https://github.com/)          | [Gustavo Alves](https://github.com/)         |
+| 1.6    | 26/06/2024 | Referencia nas perguntas do Planejamento da Avaliação do StoryBoard                | [Alana Gabriele](https://github.com/)       | [Gustavo Alves](https://github.com/)         |
+| 1.7    | 26/06/2024 | Referencia nas perguntas do Relato do resultado da avaliação do Protótipo de Papel | [Gustavo Alves](https://github.com/)        | [Alana Gabriele](https://github.com/)        |
